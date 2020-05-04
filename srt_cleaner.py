@@ -16,7 +16,7 @@ text7_pattern = re.compile('^-*\s*[^a-z]+:[^0-9]') # e.g. 'ZACH & CHAMP: ', 'DUC
 text8_pattern = re.compile('^-*\s*[A-Za-z]+:') # e.g. 'Remus:', '- Balto:'
 
 #controllo per rimuovere le line di spam come 'Downloaded From www.AllSubs.org'
-spam_words_ci = ['resync', 'synched', 'synced', 'downloader', 'wwww.', 'subtitle']
+spam_words_ci = ['resync', 'synched', 'synced', 'downloader', 'www.', 'subtitle']
 def spam_line(line):
     if ('Sync' in line):
         return True
