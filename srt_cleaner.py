@@ -46,8 +46,8 @@ for r, d, files in os.walk('subtitles'): # lo script si aspetta nella stessa dir
                     for line in r_fh:
                         # se non è una linea di testo o è vuota o è spam, passa alla linea successiva
                         if (
-                            re.search(text_pattern, line) == None) \
-                            or (len(line) == 0 \
+                            re.search(text_pattern, line) == None \
+                            or len(line) == 0 \
                             or spam_line(line) \
                         ):
                             continue
