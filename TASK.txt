@@ -1,0 +1,73 @@
+COSE DA FARE PER IL PROGETTONE
+
+1. Trovare il resto degli script e/o sottotitoli (N.B. lavorare lo stesso su quelli che trovi, per vedere se funziona).
+
+2. Testo: 
+	-ripulire i testi (stopwords e simboli)? o possono servirci?
+	-tag cloud(file IR) (tutti insieme o si fa una divisione per anno o per qualche altra cosa?)
+	-usare l'annotazione TAGME (file IR)
+	-calcolare lunghezza frasi e lunghezza parole su py (secondo me non dobbiamo ripulirle delle stopwords)  
+
+
+3. Capire come funzionano le librerie di classificazione musica (per i generi):
+	-librosa
+	-IPython.display.Audio
+(link all'articolo):
+https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
+
+4. Scaricare i video e dividerli in frame.
+	-OBS (streaming e registrazione video gratuito)
+	
+5. Capire come fare per l'estrazione e classificazione dei colori:
+	-OpenCV?
+(link agli articoli):
+https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
+
+###############################################################################################################
+###############################################################################################################
+
+TASK:
+>testo
+    -download dei sottotitoli raggruppati per decade, categoria e case di produzione. (X: Valeria e Attilio)
+        [FATTO]
+        
+    -individuare sottotitoli NON in inglese (report dei mancanti)
+        []
+        
+    -reperire trame
+        []
+        
+    -cleaning e storage (elasticsearch) dei sottotitoli. (X: Elena e Angelo)
+        [WIP]
+        (implementato cleaning automatizzato per .srt, resta da rimuovere le linee di spam manualmente,
+         estendere il cleaner per i file non .srt una volta che abbiamo tutti i subtitle,
+         elasticsearch non utile (per adesso))
+         
+    - estrarre informazioni viste in IR (X: Angelo)
+        [WIP]
+
+>intervista
+    -contattare gente per l'intervista. (X: Elena )
+        []
+
+>immagini
+    -individuare la sorgente (file o DisneyPlus) (X: Attilio)
+        [WIP]
+        (estendere collezione film Disney. Da decidere "come" in base alla frequenza di campionamento che scegliamo,
+         bassa frequenza possiamo anche considerare gli screenshot a mano su DisneyPlus altrimenti download dei film.
+         Obiettivo: avere una collezione quanto più rappresentativa nel tempo)
+        
+    -definire e implementare tecnica di campionamento frame.(X: Angelo)
+        [FATTO]
+        (eventualmente da integrare con screenshot a mano ???)
+        
+    -estrazione e analisi dati sui colori (frequenze e analisi) (X: ???)
+        [WIP]
+        
+ 
+    -#individuare sagome o linee se si riesce (?)
+
+>musica (X: Elena e Attilio) (POSTICIPATO)
+    -collezionare canzoni film Disney: controllare su torrent, prenderle dai film che ci passa Riccardo, you tube 
+    -documentarsi sulle applicazioni che fanno analisi musicali 
+
