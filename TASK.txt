@@ -6,7 +6,8 @@ COSE DA FARE PER IL PROGETTONE
 	-ripulire i testi (stopwords e simboli)? o possono servirci?
 	-tag cloud(file IR) (tutti insieme o si fa una divisione per anno o per qualche altra cosa?)
 	-usare l'annotazione TAGME (file IR)
-	-calcolare lunghezza frasi e lunghezza parole su py (secondo me non dobbiamo ripulirle delle stopwords)  
+	-calcolare lunghezza frasi e lunghezza parole su py (secondo me non dobbiamo ripulirle delle stopwords)
+	-calcolare il numero di parole per film + il numero di parole medie per decade
 
 
 3. Capire come funzionano le librerie di classificazione musica (per i generi):
@@ -45,6 +46,28 @@ TASK:
          
     - estrarre informazioni viste in IR (X: Angelo)
         [WIP]
+	
+	NEW TASKS
+    
+    - calcolare il numero di parole per film + il numero di parole medie per decade
+    
+    -risorse linguistiche (tipo dizionari) che abbiano associato il livello di formalità (F-score: https://www.aclweb.org/anthology/Q16-1005.pdf) e complessità
+    
+    -per ogni film, creare un dizionario con la frequenza delle parole (con un semplice counter) e confrontare le parole in comune nei film
+    
+    -Cercare altri filtri: cioè dizionari di parole più comuni della lingua inglese (per togliere le prime 100, ex.)
+    
+    -Usare il POS_TAGGING per fare l'analisi grammaticale dei testi (utile per trovare tutti i sostantivi o contare la frequenza nell'uso degli aggettivi)
+    
+    -Identificazione delle parole chiave nel film (che esprimano il core del film:
+    
+    -Creazione di dizionari specifici per categoria: tagme sulle trame e sui testi per intero, tool dandelion, a mano(?)
+    
+    -Focalizzarsi su TOPIC specifici: famiglia, la visione della donna ?
+    
+    -Word_to_vec: [in pausa]
+    
+    
 
 >intervista
     -contattare gente per l'intervista. (X: Elena )
