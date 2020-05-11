@@ -33,37 +33,55 @@ TASK:
         [FATTO]
         
     -individuare sottotitoli NON in inglese (report dei mancanti)
-        []
+        [X Elena]
         
     -reperire trame
-        []
+        [X Valeria e Elena]
         
     -cleaning e storage (elasticsearch) dei sottotitoli. (X: Elena e Angelo)
         [WIP]
         (implementato cleaning automatizzato per .srt, resta da rimuovere le linee di spam manualmente,
          estendere il cleaner per i file non .srt una volta che abbiamo tutti i subtitle,
-         elasticsearch non utile (per adesso))
+         elasticsearch non utile (per adesso)) 
          
     - estrarre informazioni viste in IR (X: Angelo)
         [WIP]
 	
 	NEW TASKS
+	
+	>>Basso livello
     
-    - calcolare il numero di parole per film + il numero di parole medie per decade
+    (complessità)
+    -calcolare il numero di parole per film + il numero di parole medie per decade + la lunghezza dei sottotitoli
     
+    (wordcloud)
+    -calcolo dell'TF-IDF
+    
+    (complessità)
     -risorse linguistiche (tipo dizionari) che abbiano associato il livello di formalità (F-score: https://www.aclweb.org/anthology/Q16-1005.pdf) e complessità
     
+    (wordcloud)
     -per ogni film, creare un dizionario con la frequenza delle parole (con un semplice counter) e confrontare le parole in comune nei film
     
+    (wordcloud)
     -Cercare altri filtri: cioè dizionari di parole più comuni della lingua inglese (per togliere le prime 100, ex.)
     
+    (wordcloud e complessità)
     -Usare il POS_TAGGING per fare l'analisi grammaticale dei testi (utile per trovare tutti i sostantivi o contare la frequenza nell'uso degli aggettivi)
     
+    	>>TOPIC
+    
+    (tagme)
     -Identificazione delle parole chiave nel film (che esprimano il core del film:
     
+    (tagme)
     -Creazione di dizionari specifici per categoria: tagme sulle trame e sui testi per intero, tool dandelion, a mano(?)
     
+    (tagme)
     -Focalizzarsi su TOPIC specifici: famiglia, la visione della donna ?
+    
+    (post-producing)
+    -Individuare linee narrative della Disney
     
     -Word_to_vec: [in pausa]
     
@@ -93,4 +111,12 @@ TASK:
 >musica (X: Elena e Attilio) (POSTICIPATO)
     -collezionare canzoni film Disney: controllare su torrent, prenderle dai film che ci passa Riccardo, you tube 
     -documentarsi sulle applicazioni che fanno analisi musicali 
+    
+    
+    
+    
+    Macro task
+    -wordcloud
+    -complessità del linguaggio
+    -tagme
 
