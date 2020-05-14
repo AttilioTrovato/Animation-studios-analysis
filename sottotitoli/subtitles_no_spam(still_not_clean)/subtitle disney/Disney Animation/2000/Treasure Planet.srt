@@ -1,0 +1,9439 @@
+﻿1
+00:00:01,376 --> 00:00:03,754
+CON LI : <i>Welcome to
+our audio commentary</i>
+
+2
+00:00:03,837 --> 00:00:06,173
+<i>on our film</i> Treasure Planet.
+
+3
+00:00:06,256 --> 00:00:08,509
+<i>My name's Roy Conli.</i>
+<i>I'm the producer of the film.</i>
+
+4
+00:00:09,301 --> 00:00:10,427
+<i>And I'm Ron Clements.</i>
+
+5
+00:00:10,511 --> 00:00:13,847
+<i>I'm the co-director and co-writer
+of the film.</i>
+
+6
+00:00:13,931 --> 00:00:17,684
+<i>And this is John Musker,
+the other co-director/co-writer.</i>
+
+7
+00:00:17,768 --> 00:00:21,063
+<i>Hi. I'm Glen Keane.
+I'm a supervising animator at Disney,</i>
+
+8
+00:00:21,146 --> 00:00:26,401
+<i>and my job on this film was to design
+and animate the character John Silver.</i>
+
+9
+00:00:26,944 --> 00:00:31,281
+<i>Hi. I'm John Ripa, and I was
+supervising animator on Jim Hawkins.</i>
+
+10
+00:00:31,365 --> 00:00:35,369
+<i>Hi. I'm Ian Gooding. I'm the associate
+art director on</i> Treasure Planet,
+
+11
+00:00:35,452 --> 00:00:40,207
+<i>and hopefully I can give you
+some insight into how color is done</i>
+
+12
+00:00:40,290 --> 00:00:44,378
+<i>on a Disney animated feature
+during the course of this commentary.</i>
+
+13
+00:00:45,587 --> 00:00:47,005
+MUSKER: <i>The entire prologue here,</i>
+
+14
+00:00:47,089 --> 00:00:50,217
+<i>we actually changed around
+during the course of production,</i>
+
+15
+00:00:50,300 --> 00:00:51,760
+<i>in that it used to take place...</i>
+
+16
+00:00:51,843 --> 00:00:56,056
+<i>The story used to be told first-person.</i>
+<i>Jim was the adult narrator of this story,</i>
+
+17
+00:00:56,139 --> 00:00:58,684
+<i>and he sort of pulled us into it,
+but we discovered through the course</i>
+
+18
+00:00:58,767 --> 00:01:01,645
+<i>of some previews and whatnot
+that it was playing kind of dark,</i>
+
+19
+00:01:01,728 --> 00:01:03,647
+<i>and we didn't have Jim
+as a character involved in it,</i>
+
+20
+00:01:03,730 --> 00:01:06,942
+<i>so fairly late into production,
+we reworked this opening</i>
+
+21
+00:01:07,025 --> 00:01:09,736
+<i>such that we see young Jim as a child.</i>
+
+22
+00:01:09,820 --> 00:01:12,322
+<i>We don't hear Jim
+as an adult narrator anymore,</i>
+
+23
+00:01:12,406 --> 00:01:14,032
+<i>we hear Tony Jay who is...</i>
+
+24
+00:01:14,116 --> 00:01:17,953
+<i>Those of you voice recognition experts
+from the FBI know</i>
+
+25
+00:01:18,036 --> 00:01:22,082
+<i>he was the voice of Frollo
+in</i> Hunchback,
+
+26
+00:01:22,165 --> 00:01:24,001
+<i>in which Roy worked closely with Tony</i>
+
+27
+00:01:24,084 --> 00:01:25,961
+<i>and knew him from theatrical days
+as I understand it.</i>
+
+28
+00:01:26,044 --> 00:01:27,879
+CLEMENTS: <i>Great voice.</i>
+MUSKER: <i>Exactly.</i>
+
+29
+00:01:31,174 --> 00:01:34,761
+CLEMENTS: <i>Now we see young Jim,
+little five-year-old Jim Hawkins.</i>
+
+30
+00:01:35,596 --> 00:01:38,348
+<i>Voices of Laurie Metcalf
+and Austin Majors,</i>
+
+31
+00:01:38,432 --> 00:01:43,186
+<i>who is the little kid on</i> NYPD Blue,
+<i>he plays Dennis Franz's son.</i>
+
+32
+00:01:43,270 --> 00:01:44,271
+CONLI: <i>You should talk
+about the recording.</i>
+
+33
+00:01:44,354 --> 00:01:45,355
+MUSKER: <i>Yes, he was recording</i>
+
+34
+00:01:45,439 --> 00:01:47,065
+<i>in the same room
+that we're in right now, actually,</i>
+
+35
+00:01:47,149 --> 00:01:49,860
+<i>and he was funny 'cause we had
+Glen Keane in here working with him</i>
+
+36
+00:01:49,943 --> 00:01:52,487
+<i>'cause Glen really works well
+with children</i>
+
+37
+00:01:52,571 --> 00:01:54,114
+<i>and was gonna animate some of this,</i>
+
+38
+00:01:54,197 --> 00:01:55,741
+<i>and we wanted to get him involved
+in the recording,</i>
+
+39
+00:01:55,824 --> 00:01:58,160
+<i>and so Austin was all over the place,</i>
+
+40
+00:01:58,243 --> 00:02:00,996
+<i>so they had to put tape on the floor,
+"Austin, stay by the tape, "</i>
+
+41
+00:02:01,079 --> 00:02:04,625
+<i>and it was an interesting
+recording session.</i>
+
+42
+00:02:05,000 --> 00:02:06,251
+KEANE: <i>This was fun for me</i>
+
+43
+00:02:06,335 --> 00:02:10,088
+<i>because after doing Long John Silver
+for the whole film,</i>
+
+44
+00:02:10,172 --> 00:02:14,009
+<i>to get a chance to do something cute,</i>
+
+45
+00:02:14,092 --> 00:02:16,595
+<i>it wasn't supposed to
+look mean and ugly.</i>
+
+46
+00:02:16,678 --> 00:02:18,138
+<i>It was a nice change.</i>
+
+47
+00:02:18,221 --> 00:02:20,849
+RIPA: <i>Yeah, well,
+we certainly appreciated</i>
+
+48
+00:02:20,932 --> 00:02:22,893
+<i>and needed your help at the time.</i>
+
+49
+00:02:22,976 --> 00:02:24,436
+MUSKER: <i>Jim's mother, Sarah,</i>
+
+50
+00:02:24,519 --> 00:02:26,229
+<i>it was an interesting
+acting challenge for us</i>
+
+51
+00:02:26,313 --> 00:02:28,982
+<i>because we wanted to find someone
+whose voice was old enough</i>
+
+52
+00:02:29,066 --> 00:02:30,567
+<i>that you bought as his mother,
+and yet young enough</i>
+
+53
+00:02:30,651 --> 00:02:33,195
+<i>because she had Jim at an early age.</i>
+
+54
+00:02:33,570 --> 00:02:37,824
+<i>And Laurie Metcalf was special to us in
+that she could play the maternal thing,</i>
+
+55
+00:02:37,908 --> 00:02:42,037
+<i>but she could get this sort of weariness
+of being the single mother</i>
+
+56
+00:02:42,120 --> 00:02:44,164
+<i>who really had to make ends meet
+on her own,</i>
+
+57
+00:02:44,247 --> 00:02:48,752
+<i>and yet a kind of vulnerability
+underneath the kind of toughness</i>
+
+58
+00:02:48,835 --> 00:02:51,338
+<i>that she had to acquire to be
+her own woman.</i>
+
+59
+00:02:51,421 --> 00:02:54,841
+<i>Sarah's clean-up,
+that is the refined drawings done</i>
+
+60
+00:02:54,925 --> 00:02:58,178
+<i>over the rough animator's drawings
+was done by Vera Pacheco,</i>
+
+61
+00:02:58,261 --> 00:03:01,640
+<i>a wonderful draftsperson
+and the woman who, in fact,</i>
+
+62
+00:03:01,723 --> 00:03:05,352
+<i>supervised all of the clean-up
+animation on the entire movie.</i>
+
+63
+00:03:05,435 --> 00:03:07,020
+<i>And Vera did a wonderful job</i>
+
+64
+00:03:07,104 --> 00:03:11,608
+<i>of really giving us
+such a rich-looking, well-drawn film.</i>
+
+65
+00:03:12,317 --> 00:03:14,695
+<i>It had to be crafted particularly well.</i>
+
+66
+00:03:14,778 --> 00:03:17,739
+<i>It's being blown up
+to large format systems,</i>
+
+67
+00:03:17,823 --> 00:03:21,243
+<i>and every little nuance
+shows up on those big screens,</i>
+
+68
+00:03:21,326 --> 00:03:24,329
+<i>and we've been delighted to see
+how solid the drawing is,</i>
+
+69
+00:03:24,413 --> 00:03:28,625
+<i>and our hats are off to Vera
+for the great job she did on this movie.</i>
+
+70
+00:03:32,921 --> 00:03:34,673
+CONLI: <i>This was actually...</i>
+<i>As we said we changed the story.</i>
+
+71
+00:03:34,756 --> 00:03:38,218
+<i>John had this idea of doing this
+whole thing with the storybook,</i>
+
+72
+00:03:38,301 --> 00:03:41,638
+<i>making this pop-up book,
+which wasn't part of the original thing,</i>
+
+73
+00:03:41,722 --> 00:03:44,391
+<i>and then we take this into
+the transition to Jim Hawkins.</i>
+
+74
+00:03:44,474 --> 00:03:46,226
+<i>He's now 15-years-old.</i>
+
+75
+00:03:46,309 --> 00:03:48,979
+<i>We added that title
+just in case you didn't know</i>
+
+76
+00:03:49,062 --> 00:03:51,398
+<i>that it was several years later.</i>
+
+77
+00:03:51,898 --> 00:03:53,984
+RIPA: <i>This section was a lot of fun.</i>
+
+78
+00:03:54,067 --> 00:03:57,112
+<i>Jin Kim, who was one
+of the animators on the character,</i>
+
+79
+00:03:57,195 --> 00:03:59,322
+<i>did such an outstanding job.</i>
+
+80
+00:03:59,740 --> 00:04:01,408
+<i>These scenes were very difficult.</i>
+
+81
+00:04:01,491 --> 00:04:04,411
+<i>They dealt
+with a three-dimensional board,</i>
+
+82
+00:04:04,494 --> 00:04:07,622
+<i>which, a lot of times,
+he had to indicate beforehand,</i>
+
+83
+00:04:07,706 --> 00:04:09,583
+<i>3-D moving backgrounds.</i>
+
+84
+00:04:10,375 --> 00:04:13,545
+<i>He just really took to it
+and did such a fun job.</i>
+
+85
+00:04:13,962 --> 00:04:17,382
+<i>The sequence, overall,
+was just a lot of fun to design</i>
+
+86
+00:04:17,466 --> 00:04:20,552
+<i>and come up with movements
+and poses, it really uses a lot of things.</i>
+
+87
+00:04:20,635 --> 00:04:25,932
+<i>It kind of went X Game crazy, I guess,
+where there's sky surfing,</i>
+
+88
+00:04:26,016 --> 00:04:29,811
+<i>there's windsurfing, there's
+skateboarding, snowboarding, surfing.</i>
+
+89
+00:04:29,895 --> 00:04:32,773
+<i>It kind of incorporates
+a little bit of everything.</i>
+
+90
+00:04:32,856 --> 00:04:36,651
+<i>Also, Anthony Wong, Mike Cedeno,
+John Pomeroy</i>
+
+91
+00:04:36,735 --> 00:04:38,195
+<i>did these few scenes here.</i>
+
+92
+00:04:38,528 --> 00:04:41,198
+<i>Um, Danny Galieote,
+some of the other animators</i>
+
+93
+00:04:41,281 --> 00:04:42,449
+<i>that worked on the character</i>
+
+94
+00:04:42,532 --> 00:04:44,659
+<i>and just did a nice job,
+everybody matching each other,</i>
+
+95
+00:04:44,743 --> 00:04:46,536
+<i>and clean-up did a nice job</i>
+
+96
+00:04:46,620 --> 00:04:48,413
+<i>because everybody does draw
+a little bit different.</i>
+
+97
+00:04:48,497 --> 00:04:51,708
+<i>No matter what you do, everybody
+has their set way of drawing.</i>
+
+98
+00:04:51,792 --> 00:04:55,837
+<i>And did a nice job pulling the character
+into a consistent range.</i>
+
+99
+00:04:55,921 --> 00:04:59,633
+GOODING: <i>Establishing shot of the
+Benbow Inn, painted by Carl Jones.</i>
+
+100
+00:05:00,342 --> 00:05:04,095
+<i>Really interesting 70/30 rule
+that we had,</i>
+
+101
+00:05:04,179 --> 00:05:10,143
+<i>which was 70% 18th century mostly,
+and 30% science fiction,</i>
+
+102
+00:05:10,227 --> 00:05:14,481
+<i>so we have half-timbered houses
+with all sorts of techie stuff on them.</i>
+
+103
+00:05:16,650 --> 00:05:20,737
+CONLI: <i>And here we introduce
+Doctor Doppler, David Hyde Pierce.</i>
+
+104
+00:05:20,821 --> 00:05:24,157
+<i>This part was written
+with David Hyde Pierce in mind.</i>
+
+105
+00:05:24,241 --> 00:05:26,493
+MUSKER: <i>Ironically, then we tested
+a bunch of other actors</i>
+
+106
+00:05:26,576 --> 00:05:28,036
+<i>before coming back
+to David Hyde Pierce.</i>
+
+107
+00:05:28,119 --> 00:05:29,871
+<i>Why we did that, I don't know exactly.</i>
+
+108
+00:05:29,955 --> 00:05:32,415
+CONLI: <i>Because it's your prerogative.</i>
+MUSKER: <i>I know.</i>
+
+109
+00:05:32,499 --> 00:05:36,336
+CONLI: <i>Well, we wanted to make sure,
+but he was definitely right for the part.</i>
+
+110
+00:05:36,419 --> 00:05:39,089
+<i>Although, we struggled a little bit
+trying to get the right feeling,</i>
+
+111
+00:05:39,172 --> 00:05:41,007
+<i>and this bit here with the little girl,</i>
+
+112
+00:05:41,091 --> 00:05:44,302
+<i>this was added, actually,
+fairly late in the game.</i>
+
+113
+00:05:44,386 --> 00:05:46,763
+<i>We felt we needed
+a better introduction to Doppler.</i>
+
+114
+00:05:46,847 --> 00:05:48,098
+(SCREAMS)
+
+115
+00:05:48,557 --> 00:05:50,141
+MUSKER: <i>Yeah, we had a meeting
+with some other writers</i>
+
+116
+00:05:50,225 --> 00:05:53,687
+<i>and story people to kick around
+ideas for punching up his introduction.</i>
+
+117
+00:05:54,437 --> 00:05:56,189
+<i>Baird and Gerson,
+if I've got their names straight,</i>
+
+118
+00:05:56,273 --> 00:05:58,400
+<i>they did some writing in this area,
+some of which is here.</i>
+
+119
+00:05:58,483 --> 00:06:00,986
+<i>And David certainly was
+a great improv guy,</i>
+
+120
+00:06:01,069 --> 00:06:03,238
+<i>so some of his funniest dialogue
+throughout the film,</i>
+
+121
+00:06:03,321 --> 00:06:05,824
+<i>and even in this section,
+were things that he winged in,</i>
+
+122
+00:06:05,907 --> 00:06:08,785
+<i>and he was just great,
+great to work with, funny.</i>
+
+123
+00:06:09,119 --> 00:06:10,453
+Ooh. . . Wrong turn.
+
+124
+00:06:10,537 --> 00:06:13,290
+- Okay. Thanks for the lift, guys.
+- Not so fast.
+
+125
+00:06:13,373 --> 00:06:19,713
+RIPA: <i>Joey Gordon-Levitt did the voice
+of Jim, and that was just really a treat.</i>
+
+126
+00:06:19,796 --> 00:06:21,715
+<i>He did such a good job.</i>
+
+127
+00:06:22,340 --> 00:06:24,467
+<i>One of the things, as supervising
+animator that you get to do,</i>
+
+128
+00:06:24,551 --> 00:06:26,845
+<i>which is really cool, is you get to go
+to the recording sessions,</i>
+
+129
+00:06:26,928 --> 00:06:31,933
+<i>and watching Joey record the lines
+was really inspiring.</i>
+
+130
+00:06:32,017 --> 00:06:34,644
+<i>He has a good, strong range,</i>
+
+131
+00:06:34,728 --> 00:06:37,606
+<i>and I always felt like
+he put a lot of emotion into it.</i>
+
+132
+00:06:37,689 --> 00:06:41,693
+<i>There were some scenes that he did
+that were so explosive,</i>
+
+133
+00:06:41,776 --> 00:06:45,322
+<i>and you're just chomping at the bit.</i>
+<i>You really can't wait to get to them.</i>
+
+134
+00:06:45,405 --> 00:06:51,036
+<i>And another thing that he did
+that I really was inspired by</i>
+
+135
+00:06:51,828 --> 00:06:53,330
+<i>was you felt he believed
+in the character,</i>
+
+136
+00:06:53,413 --> 00:06:57,751
+<i>and he had a certain take
+on the character,</i>
+
+137
+00:06:57,834 --> 00:07:03,173
+<i>and if lines came up that he wasn't
+comfortable or sure about,</i>
+
+138
+00:07:03,256 --> 00:07:06,718
+<i>where it didn't feel like the character,
+he'd try and improve them,</i>
+
+139
+00:07:06,801 --> 00:07:09,679
+<i>and come up with lines
+that he could believe</i>
+
+140
+00:07:09,763 --> 00:07:11,264
+<i>were coming from this character.</i>
+
+141
+00:07:11,348 --> 00:07:15,018
+<i>And that's kind of what we do as a
+supervisor when we approach a scene,</i>
+
+142
+00:07:15,101 --> 00:07:17,395
+<i>is to try and find something
+that's true to the character,</i>
+
+143
+00:07:17,479 --> 00:07:20,190
+<i>and something that you believe in
+and feels right.</i>
+
+144
+00:07:20,273 --> 00:07:23,902
+<i>And to watch him doing
+the same things at the voice level,</i>
+
+145
+00:07:23,985 --> 00:07:29,074
+<i>really helped to set up and inspire me
+and our team, I think,</i>
+
+146
+00:07:29,157 --> 00:07:31,868
+<i>for the scenes that we
+were going to do.</i>
+
+147
+00:07:32,869 --> 00:07:34,204
+Jim?
+
+148
+00:07:34,621 --> 00:07:36,206
+Jim, look at me.
+
+149
+00:07:37,791 --> 00:07:40,585
+CONLI: <i>We added this bit
+with Jim helping clear the tables</i>
+
+150
+00:07:40,669 --> 00:07:42,796
+<i>just to make him
+a little more sympathetic.</i>
+
+151
+00:07:42,879 --> 00:07:46,049
+MUSKER: <i>Yeah, this was John Ripa's
+idea to make Jim a little more active.</i>
+
+152
+00:07:46,174 --> 00:07:47,884
+<i>He's actually helping his mother out
+in the end, here,</i>
+
+153
+00:07:47,968 --> 00:07:49,302
+<i>rather than just standing there
+kind of moping.</i>
+
+154
+00:07:49,386 --> 00:07:53,306
+<i>We wanted to make him more active
+to build a little sympathy for him.</i>
+
+155
+00:07:53,390 --> 00:07:55,767
+<i>In the earlier versions of the story,
+he used to just sort of walk out</i>
+
+156
+00:07:55,850 --> 00:07:58,311
+<i>in the middle of their conversation.</i>
+<i>She'd turn around and he was gone.</i>
+
+157
+00:07:58,395 --> 00:08:00,855
+<i>That seemed maybe a little</i> too <i>rude,</i>
+
+158
+00:08:00,939 --> 00:08:04,317
+<i>so we reworked it where he stayed
+there in the scene.</i>
+
+159
+00:08:09,114 --> 00:08:13,368
+CONLI: <i>Lot of discussion about this
+and the off-screen conversation</i>
+
+160
+00:08:13,451 --> 00:08:15,161
+<i>and what Sarah would say.</i>
+
+161
+00:08:15,245 --> 00:08:19,082
+MUSKER: <i>I thought it was more
+emotional to have Jim be listening,</i>
+
+162
+00:08:19,165 --> 00:08:20,291
+<i>and hear himself discussed.</i>
+
+163
+00:08:20,375 --> 00:08:23,169
+<i>It just seemed like that if you're a kid
+and you're hearing your parents</i>
+
+164
+00:08:23,253 --> 00:08:25,922
+<i>talk about you or adults talk about you,
+they're not aware of it,</i>
+
+165
+00:08:26,006 --> 00:08:28,800
+<i>and you're overhearing this,
+and they can speak frankly</i>
+
+166
+00:08:28,883 --> 00:08:30,802
+<i>about what they feel about you,
+but you're on...</i>
+
+167
+00:08:30,885 --> 00:08:33,013
+<i>We sort of see his face
+as he's hearing this,</i>
+
+168
+00:08:33,096 --> 00:08:35,056
+<i>we just thought this was a way
+of getting inside his head</i>
+
+169
+00:08:35,140 --> 00:08:37,183
+<i>and feeling a little more
+sympathy for him.</i>
+
+170
+00:08:37,267 --> 00:08:40,061
+<i>This dialogue used to be played
+in a scene where he wasn't there,</i>
+
+171
+00:08:40,145 --> 00:08:43,690
+<i>and we just felt it was good
+to play the dialogue off his face.</i>
+
+172
+00:08:43,773 --> 00:08:46,484
+CONLI: <i>There was also a question,
+like the father thing,</i>
+
+173
+00:08:46,568 --> 00:08:51,114
+<i>this was the first real reference
+to the father and that he's not there.</i>
+
+174
+00:08:51,197 --> 00:08:54,200
+<i>It was a big question about how much
+to say at this point,</i>
+
+175
+00:08:54,284 --> 00:08:57,287
+<i>how much to reveal, and how much
+to reveal in the course of the story</i>
+
+176
+00:08:57,370 --> 00:09:02,959
+<i>because Jim's loss of his father
+is a big part of his problem,</i>
+
+177
+00:09:04,544 --> 00:09:07,464
+<i>but we didn't want to say it all</i> too <i>early.</i>
+
+178
+00:09:08,048 --> 00:09:09,632
+MUSKER: <i>We've got
+Billy Bones' entrance here,</i>
+
+179
+00:09:09,716 --> 00:09:11,134
+<i>who is voiced by Patrick McGoohan,</i>
+
+180
+00:09:11,217 --> 00:09:13,762
+<i>who those of you fellow boomers know</i>
+
+181
+00:09:13,845 --> 00:09:16,723
+<i>from</i> The Prisoner
+<i>and</i> Secret Agent Man.
+
+182
+00:09:16,806 --> 00:09:18,558
+Braveheart, <i>more recently.</i>
+
+183
+00:09:18,641 --> 00:09:19,768
+<i>And</i> The Scarecrow of Romney Marsh.
+
+184
+00:09:19,851 --> 00:09:22,062
+<i>So, it was a big geek fest for all of us
+baby boomers</i>
+
+185
+00:09:22,145 --> 00:09:26,191
+<i>to be recording Patrick McGoohan,
+who came in and was actually having</i>
+
+186
+00:09:26,274 --> 00:09:30,695
+<i>a very bad cold, was very phlegmy
+and coughy, and it worked well</i>
+
+187
+00:09:30,779 --> 00:09:32,947
+<i>with things like this,
+with his coughs of...</i>
+
+188
+00:09:33,031 --> 00:09:34,157
+CONLI: <i>He loved doing that coughing.</i>
+
+189
+00:09:34,240 --> 00:09:35,325
+MUSKER: <i>Yeah, 50 different coughs.</i>
+
+190
+00:09:35,408 --> 00:09:37,994
+CONLI: <i>I think he did... We could have
+10 minutes of. that cough.</i>
+
+191
+00:09:38,078 --> 00:09:42,707
+KEANE: <i>Nancy Beiman, who did
+this Billy Bones character,</i>
+
+192
+00:09:42,791 --> 00:09:45,001
+<i>she researches everything.</i>
+
+193
+00:09:45,085 --> 00:09:51,508
+<i>This character was truly a believable,
+organic character.</i>
+
+194
+00:09:51,591 --> 00:09:54,928
+<i>She developed his whole planet
+where he had come from.</i>
+
+195
+00:09:55,011 --> 00:09:56,304
+<i>He's kind of from a turtle planet.</i>
+
+196
+00:09:56,387 --> 00:10:00,100
+<i>The way the neck comes out,
+she had worked on all the anatomy.</i>
+
+197
+00:10:00,183 --> 00:10:04,312
+<i>Everything that she put into him,
+there's nothing by chance on this guy.</i>
+
+198
+00:10:04,395 --> 00:10:07,440
+<i>And she's a pretty good example
+of all the animators,</i>
+
+199
+00:10:07,524 --> 00:10:12,403
+<i>how everybody takes these characters
+so seriously. These are real to them.</i>
+
+200
+00:10:12,487 --> 00:10:14,823
+And there he'll be, just the way he was.
+
+201
+00:10:14,906 --> 00:10:18,284
+A smiling, happy little boy,
+holding a new pet
+
+202
+00:10:18,368 --> 00:10:20,745
+and begging me to let him keep it.
+
+203
+00:10:21,162 --> 00:10:23,414
+CONLI: <i>We used to have a line here
+when Doppler opened the door</i>
+
+204
+00:10:23,498 --> 00:10:25,875
+<i>where he said,
+"In the dream, is the pet dead?"</i>
+
+205
+00:10:25,959 --> 00:10:28,545
+<i>Which was John's line,
+but as it played,</i>
+
+206
+00:10:28,628 --> 00:10:32,715
+<i>it almost seemed like the audience was
+ahead of it, and we didn't need the line.</i>
+
+207
+00:10:32,799 --> 00:10:34,634
+MUSKER: <i>And this is funny
+'cause some people thought</i>
+
+208
+00:10:34,717 --> 00:10:35,802
+<i>when Billy said, "My chest!"</i>
+
+209
+00:10:35,885 --> 00:10:38,054
+<i>Like you got shot in the chest,
+and if you look at the chest,</i>
+
+210
+00:10:38,138 --> 00:10:40,682
+<i>that spelling almost spells "Ron"
+backwards and upside-down.</i>
+
+211
+00:10:40,765 --> 00:10:42,475
+CONLI: <i>Not deliberately,
+it just sort of came out that way.</i>
+
+212
+00:10:42,559 --> 00:10:44,435
+MUSKER: <i>I think there will be
+several lawsuits involving that</i>
+
+213
+00:10:44,519 --> 00:10:46,146
+<i>by the time you hear this commentary.</i>
+
+214
+00:10:46,229 --> 00:10:47,313
+CONLI: <i>By Ron?</i>
+
+215
+00:10:47,397 --> 00:10:48,940
+MUSKER: <i>Yeah. By someone.</i>
+<i>I don't know.</i>
+
+216
+00:10:49,315 --> 00:10:52,819
+CON LI : <i>This was where we had our
+first</i> Star Trek <i>joke in the movie.</i>
+
+217
+00:10:52,902 --> 00:10:56,156
+<i>There used to be Doppler examine
+Bones and then he said the line,</i>
+
+218
+00:10:56,239 --> 00:10:57,323
+<i>"He's dead, Jim."</i>
+
+219
+00:10:57,407 --> 00:10:59,826
+<i>And it was a funny line
+and some people really liked it,</i>
+
+220
+00:10:59,909 --> 00:11:02,787
+<i>but it felt like it wasn't right
+for what was going on there,</i>
+
+221
+00:11:02,871 --> 00:11:06,124
+<i>the emotion was</i> too <i>serious,
+so we took the line out.</i>
+
+222
+00:11:06,207 --> 00:11:09,627
+MUSKER: <i>These holo-blinds here
+that sort of work like venetian blinds,</i>
+
+223
+00:11:09,711 --> 00:11:12,380
+<i>but they show off a different scene.</i>
+
+224
+00:11:12,463 --> 00:11:14,924
+<i>Tina Price,
+our assistant artistic coordinator,</i>
+
+225
+00:11:15,008 --> 00:11:19,053
+<i>was involved in developing this idea,
+as was Ian Gooding and Andy Gaskill,</i>
+
+226
+00:11:19,137 --> 00:11:21,764
+<i>and Dave Tidgwell on effects,</i>
+
+227
+00:11:21,848 --> 00:11:27,103
+<i>and it really was a fun visual way
+to mask the bleak planet outside.</i>
+
+228
+00:11:27,187 --> 00:11:28,980
+<i>And I'll tell you, at one point
+we had more different scenes</i>
+
+229
+00:11:29,063 --> 00:11:30,064
+<i>that they went through, I think,</i>
+
+230
+00:11:30,148 --> 00:11:32,483
+<i>where again, in the interest of time,
+we don't have as many,</i>
+
+231
+00:11:32,567 --> 00:11:35,320
+<i>but we just liked the idea
+that it was sort of</i>
+
+232
+00:11:35,403 --> 00:11:37,697
+<i>an analogous thing to a phenomenon
+people know,</i>
+
+233
+00:11:37,780 --> 00:11:40,283
+<i>venetian blinds
+with sort of a sci-fi twist to it.</i>
+
+234
+00:11:40,366 --> 00:11:41,993
+CONLI: <i>I like to call them
+Venutian blinds.</i>
+
+235
+00:11:42,076 --> 00:11:43,620
+MUSKER: <i>Venutian blinds, right.</i>
+<i>Venutian blinds.</i>
+
+236
+00:11:43,703 --> 00:11:45,872
+CLEMENTS: <i>We also used to have
+a scene, a kind of dramatic scene</i>
+
+237
+00:11:45,955 --> 00:11:49,375
+<i>where the window
+was blown to pieces,</i>
+
+238
+00:11:49,459 --> 00:11:52,754
+<i>shattered by the pirates
+as they're bursting in the Benbow.</i>
+
+239
+00:11:52,837 --> 00:11:55,215
+<i>We took that out for various reasons,
+but you will notice</i>
+
+240
+00:11:55,298 --> 00:12:01,387
+<i>that the window is there in the one
+Doppler shot, and now it's shattered,</i>
+
+241
+00:12:01,471 --> 00:12:04,390
+<i>but we never actually
+saw it shatter on screen.</i>
+
+242
+00:12:04,474 --> 00:12:06,893
+CONLI: <i>He's been bellyaching
+about this for three months now.</i>
+
+243
+00:12:06,976 --> 00:12:10,146
+CLEMENTS: <i>I always liked that shot.</i>
+<i>I always liked that shot.</i>
+
+244
+00:12:11,814 --> 00:12:14,192
+MUSKER: <i>Doppler's observatory.</i>
+
+245
+00:12:15,318 --> 00:12:17,946
+<i>A lot of the interior is based
+on drawings that Michael Spooner did,</i>
+
+246
+00:12:18,029 --> 00:12:21,407
+<i>and they were really just trying to
+set up this sort of eccentric bachelor,</i>
+
+247
+00:12:21,491 --> 00:12:24,994
+<i>but it had to serve different masters
+in that we wanted Doppler</i>
+
+248
+00:12:25,078 --> 00:12:27,080
+<i>to be wealthy enough that he could
+finance the expedition,</i>
+
+249
+00:12:27,163 --> 00:12:29,791
+<i>so we wanted a certain opulence
+and scale to the place,</i>
+
+250
+00:12:29,874 --> 00:12:34,045
+<i>but also this sort of eccentricity and
+this sort of scientific overlay to it all,</i>
+
+251
+00:12:34,128 --> 00:12:36,589
+<i>and we went through
+a number of stages,</i>
+
+252
+00:12:36,673 --> 00:12:37,799
+<i>and yet we didn't want it to seem...</i>
+
+253
+00:12:37,882 --> 00:12:40,426
+<i>Some of the earlier drawings were
+</i>too <i>cartoony, and we wanted it to fit</i>
+
+254
+00:12:40,510 --> 00:12:43,096
+<i>the rest of the style of the film
+and not make it stand out.</i>
+
+255
+00:12:43,179 --> 00:12:45,598
+<i>So that was a bit of a struggle
+for us to come up with something</i>
+
+256
+00:12:45,682 --> 00:12:51,562
+<i>that served all those ends, and
+ultimately, I think it accomplished that</i>
+
+257
+00:12:51,646 --> 00:12:54,023
+<i>but it took a while to get there.</i>
+
+258
+00:12:54,274 --> 00:12:56,693
+<i>This is sort of a tour de force
+of the effects animation</i>
+
+259
+00:12:56,776 --> 00:12:58,528
+<i>Dave Tidgwell
+and his team supervised.</i>
+
+260
+00:12:58,611 --> 00:13:00,029
+<i>And Bill Konersman,
+one of the effects guys,</i>
+
+261
+00:13:00,113 --> 00:13:03,950
+<i>worked on this for quite a while,
+and just tried...</i>
+
+262
+00:13:04,033 --> 00:13:05,952
+<i>It was a fun sequence,
+although it was one of those things,</i>
+
+263
+00:13:06,035 --> 00:13:07,954
+<i>in storyboards and in the script,</i>
+
+264
+00:13:08,037 --> 00:13:09,289
+<i>you're like,
+"You have to take our word for it,</i>
+
+265
+00:13:09,372 --> 00:13:10,832
+<i>"it's gonna look really cool
+when it's done.</i> <i>"</i>
+
+266
+00:13:10,915 --> 00:13:15,586
+<i>And people sometimes didn't realize
+that, but it turned out really well, I think.</i>
+
+267
+00:13:15,670 --> 00:13:19,215
+GOODING: <i>Now, one of the interesting
+things in the movie, color-wise,</i>
+
+268
+00:13:19,299 --> 00:13:22,468
+<i>is that we don't
+use the color green a lot</i>
+
+269
+00:13:22,552 --> 00:13:25,638
+<i>because it associates
+only with Treasure Planet,</i>
+
+270
+00:13:25,722 --> 00:13:29,726
+<i>so whenever you see green,
+it represents good and moral,</i>
+
+271
+00:13:29,809 --> 00:13:34,063
+<i>and comfortable and, obviously,
+exotic because Jim's home world</i>
+
+272
+00:13:34,147 --> 00:13:36,149
+<i>doesn't have any green,
+so when you see the map,</i>
+
+273
+00:13:36,232 --> 00:13:39,736
+<i>it's all green
+associating with Treasure Planet.</i>
+
+274
+00:13:40,111 --> 00:13:41,988
+This is the answer
+to all our problems.
+
+275
+00:13:42,238 --> 00:13:44,282
+MUSKER: <i>There was a whole issue
+of the flicker in the room,</i>
+
+276
+00:13:44,365 --> 00:13:46,451
+<i>we wanted this to feel
+like it was a fire-lit room,</i>
+
+277
+00:13:46,534 --> 00:13:47,618
+<i>but the first pass on this,</i>
+
+278
+00:13:47,702 --> 00:13:50,121
+<i>it was so violent,
+it seemed like the room was in flames,</i>
+
+279
+00:13:50,204 --> 00:13:53,499
+<i>and we had to go back several times
+like, "</i>Too <i>much.</i> <i>" "Not enough.</i> <i>"</i>
+
+280
+00:13:53,583 --> 00:13:56,461
+<i>And Tom Baker
+and his scene planning crew</i>
+
+281
+00:13:56,544 --> 00:13:59,922
+<i>had to really back up
+and go through this.</i>
+
+282
+00:14:00,006 --> 00:14:04,052
+CLEMENTS: <i>People take things like the
+flicker for granted, but it was not easy.</i>
+
+283
+00:14:04,135 --> 00:14:07,305
+<i>It had to be redone several times
+for continuity.</i>
+
+284
+00:14:07,930 --> 00:14:10,183
+MUSKER: <i>We did have to rewrite
+this scene sometimes, too,</i>
+
+285
+00:14:10,266 --> 00:14:11,893
+<i>because we... There was a question,</i>
+
+286
+00:14:11,976 --> 00:14:14,979
+<i>"Why does Sarah let him go
+on this big expedition?"</i>
+
+287
+00:14:15,063 --> 00:14:17,774
+<i>And we were rewriting
+a number of times.</i>
+
+288
+00:14:18,316 --> 00:14:19,650
+CONLI: <i>This particular joke...</i>
+
+289
+00:14:19,734 --> 00:14:21,194
+"Go, Delbert! Go, Delbert!"
+
+290
+00:14:21,819 --> 00:14:23,196
+(CONLI STAMMERS)
+
+291
+00:14:23,279 --> 00:14:26,282
+<i>Early on, we had this.
+This was an adlib by David, right?</i>
+
+292
+00:14:26,366 --> 00:14:30,203
+<i>And it made the film, got great laughs,</i>
+
+293
+00:14:30,286 --> 00:14:34,040
+<i>but it really was split
+in terms of "love it, " and "hate it.</i> <i>"</i>
+
+294
+00:14:34,123 --> 00:14:36,876
+<i>A lot of the staff didn't like it,
+and said that it was</i>
+
+295
+00:14:36,959 --> 00:14:38,211
+-too <i>contemporary.</i>
+- MUSKER: <i>Right, and so we wrote</i>
+
+296
+00:14:38,294 --> 00:14:40,213
+<i>ten different alternates
+which we had David record,</i>
+
+297
+00:14:40,296 --> 00:14:43,049
+<i>and we tried out at various screenings,
+and nothing ever got as big a laugh</i>
+
+298
+00:14:43,132 --> 00:14:45,802
+<i>as David's adlib, even though it was
+anachronistic.</i> So <i>we said,</i>
+
+299
+00:14:45,885 --> 00:14:47,720
+-'<i>'We got to go back to that.</i> '<i>'
+</i>-CONLI: <i>Went with the original.</i>
+
+300
+00:14:47,804 --> 00:14:51,307
+MUSKER: <i>We went with the funniest
+one, David's spontaneous adlib.</i>
+
+301
+00:14:51,391 --> 00:14:54,936
+CONLI: <i>I was one of the people who
+thought that it was a little intrusive,</i>
+
+302
+00:14:55,019 --> 00:14:58,022
+<i>-but I've grown to love it.</i>
+- CLEMENTS: <i>Go with the audience.</i>
+
+303
+00:14:58,106 --> 00:14:59,440
+<i>- It's so great.</i>
+- CONLI: <i>Go with the audience.</i>
+
+304
+00:14:59,524 --> 00:15:02,693
+CLEMENTS: <i>Great animation.</i>
+<i>Sergio Pablos, who did Doppler,</i>
+
+305
+00:15:02,777 --> 00:15:05,238
+<i>some great subtle animation.</i>
+
+306
+00:15:05,321 --> 00:15:06,447
+MUSKER: <i>Yes.</i>
+<i>All of the other animators</i>
+
+307
+00:15:06,531 --> 00:15:07,573
+<i>I think were in awe of Sergio.</i>
+
+308
+00:15:07,657 --> 00:15:11,577
+<i>He's a brilliant draftsman, animator,
+and impeccable in his timing,</i>
+
+309
+00:15:11,661 --> 00:15:14,872
+<i>his overlap, his technical skills
+as well as his acting skills,</i>
+
+310
+00:15:14,956 --> 00:15:17,208
+<i>and people would just
+study his scenes.</i>
+
+311
+00:15:17,291 --> 00:15:18,918
+<i>He was tough on his crew,</i>
+
+312
+00:15:19,001 --> 00:15:21,587
+<i>people working with him
+had a high standard to live up to,</i>
+
+313
+00:15:21,671 --> 00:15:24,757
+<i>but it was always a thrill for us
+to see his scenes</i>
+
+314
+00:15:24,841 --> 00:15:30,179
+<i>'cause they just were dazzling in their
+technical mastery and acting chops.</i>
+
+315
+00:15:30,263 --> 00:15:32,557
+CONLI: <i>Here comes
+the momma kahuna of all.</i>
+
+316
+00:15:32,640 --> 00:15:33,766
+CLEMENTS: <i>One of the
+biggest shots in the movie.</i>
+
+317
+00:15:33,850 --> 00:15:34,892
+CONLI: <i>CGI shots.</i>
+
+318
+00:15:34,976 --> 00:15:37,687
+CLEMENTS: <i>Probably took,
+how long to do this shot? Two years?</i>
+
+319
+00:15:37,770 --> 00:15:38,771
+CONLI: <i>Yeah, two years easy.</i>
+
+320
+00:15:38,855 --> 00:15:40,189
+CLEMENTS: <i>More than several days,
+I think, yeah.</i>
+
+321
+00:15:40,273 --> 00:15:42,692
+MUSKER: <i>Peter Clarke really did
+some great visual development on this,</i>
+
+322
+00:15:42,775 --> 00:15:44,569
+<i>one of our designers.</i>
+
+323
+00:15:47,071 --> 00:15:50,825
+GOODING: <i>Amazing model
+built by Thomas Debitus.</i>
+
+324
+00:15:50,908 --> 00:15:52,910
+<i>Incredibly fun concept, I thought.</i>
+
+325
+00:15:52,994 --> 00:15:56,164
+<i>This was one of the earliest concepts
+that the directors came up with,</i>
+
+326
+00:15:56,247 --> 00:16:00,918
+<i>and l just think it's a really fun,
+magical storybook conceit</i>
+
+327
+00:16:01,002 --> 00:16:03,796
+<i>that the moon is really just a crescent,</i>
+
+328
+00:16:03,880 --> 00:16:07,842
+<i>and one of the things that really
+attracted me to the movie, initially.</i>
+
+329
+00:16:07,925 --> 00:16:10,636
+KEANE: <i>Rick Maki
+is a character designer</i>
+
+330
+00:16:10,720 --> 00:16:13,431
+<i>who worked on this movie
+almost as long as we did.</i>
+
+331
+00:16:13,514 --> 00:16:15,183
+<i>Rick did, literally,
+thousands of drawings.</i>
+
+332
+00:16:15,266 --> 00:16:18,227
+<i>He did aliens
+of every possible persuasion.</i>
+
+333
+00:16:18,311 --> 00:16:21,606
+<i>And this spaceport sequence
+was sort of a tour de force</i>
+
+334
+00:16:21,689 --> 00:16:26,527
+<i>where we tried to dig out as many
+of these great Rick Maki concoctions.</i>
+
+335
+00:16:26,611 --> 00:16:29,071
+<i>Some have got tentacles, some fly,
+some walk, whatever,</i>
+
+336
+00:16:29,155 --> 00:16:32,158
+<i>but Rick,
+just a brilliantly inventive mind.</i>
+
+337
+00:16:32,283 --> 00:16:34,869
+Familiarity breeds,
+well, contempt, but in our case...
+
+338
+00:16:34,952 --> 00:16:38,748
+Look, let's just find the ship. Okay?
+
+339
+00:16:39,999 --> 00:16:42,251
+MUSKER: <i>This is our special
+Hitchcockian cameo.</i>
+
+340
+00:16:42,335 --> 00:16:45,046
+<i>That skinny, frail robot up there
+is me, John.</i>
+
+341
+00:16:45,129 --> 00:16:48,466
+CLEMENTS: <i>And the little, hairy,
+red-haired guy is me, Ron.</i>
+
+342
+00:16:48,549 --> 00:16:51,677
+<i>It started with</i> Aladdin <i>accidentally.</i>
+<i>We did a little cameo in</i> Aladdin,
+
+343
+00:16:51,761 --> 00:16:53,012
+<i>and then we did one in</i> Hercules,
+<i>so we felt</i>
+
+344
+00:16:53,095 --> 00:16:54,847
+<i>-we had to do one in this,</i> too.
+- MUSKER: <i>We did the dialogue</i>
+
+345
+00:16:54,931 --> 00:16:55,973
+<i>here, as well, as we did in those.</i>
+
+346
+00:16:56,057 --> 00:16:58,601
+-'<i>'Second berth on your right.</i> <i>"
+</i>-'<i>'You can't miss it.</i> <i>"</i>
+
+347
+00:16:58,684 --> 00:17:00,353
+MUSKER: <i>Boy. ls that acting?</i>
+
+348
+00:17:00,436 --> 00:17:02,688
+<i>- Don't answer that question.</i>
+- CLEMENTS: <i>Okay.</i>
+
+349
+00:17:04,398 --> 00:17:05,733
+MUSKER: <i>So, this is our ship,
+the</i> Legacy,
+
+350
+00:17:05,816 --> 00:17:07,109
+<i>that went through many name changes</i>
+
+351
+00:17:07,193 --> 00:17:09,612
+<i>on the course of arriving
+where it was here.</i>
+
+352
+00:17:09,862 --> 00:17:12,782
+CLEMENTS: <i>I think we had a contest
+at some point to name the ship.</i>
+
+353
+00:17:12,865 --> 00:17:15,701
+<i>Originally, we toyed with the idea
+of using the</i> Hispaniola,
+
+354
+00:17:15,785 --> 00:17:16,744
+<i>which is the name
+of the ship in the book.</i>
+
+355
+00:17:16,827 --> 00:17:19,038
+MUSKER: <i>I wanted to use that name.</i>
+CLEMENTS: <i>John wanted to do that.</i>
+
+356
+00:17:19,121 --> 00:17:20,289
+<i>I didn't want to use that.</i>
+
+357
+00:17:20,373 --> 00:17:21,457
+MUSKER: <i>I wanted to.</i>
+
+358
+00:17:21,541 --> 00:17:24,585
+CLEMENTS: <i>Finally, we ended up
+with</i> Legacy, <i>which I think</i>
+
+359
+00:17:24,669 --> 00:17:29,715
+<i>it was Glen Gagnon who came
+up with the</i> Legacy.
+
+360
+00:17:29,799 --> 00:17:31,801
+MUSKER: <i>That was his legacy.</i>
+CLEMENTS: <i>Exactly.</i>
+
+361
+00:17:31,884 --> 00:17:34,720
+<i>And we should talk a little bit
+about Mr. Snuff,</i>
+
+362
+00:17:34,804 --> 00:17:38,599
+<i>the voice of that and the animation
+is done by Adam Dykstra.</i>
+
+363
+00:17:38,683 --> 00:17:41,686
+<i>One of the rare cases
+where an animator actually</i>
+
+364
+00:17:41,769 --> 00:17:44,647
+<i>animates the character
+and supplied the voice.</i>
+
+365
+00:17:44,730 --> 00:17:46,232
+<i>How he did it, we're not quite sure.</i>
+
+366
+00:17:46,315 --> 00:17:49,068
+<i>I think that he used this stuff called Gak</i>
+
+367
+00:17:49,151 --> 00:17:52,488
+<i>but he was always by himself
+in the recording session,</i>
+
+368
+00:17:52,572 --> 00:17:54,615
+<i>so we don't know for sure.</i>
+
+369
+00:17:55,283 --> 00:17:57,159
+MUSKER: <i>Captain Amelia,
+voiced by Emma Thompson.</i>
+
+370
+00:17:57,243 --> 00:18:00,246
+<i>Emma was great to work with,
+and animated by Ken Duncan,</i>
+
+371
+00:18:00,329 --> 00:18:02,582
+<i>one of the best draftsmen at the studio.</i>
+
+372
+00:18:02,665 --> 00:18:05,543
+<i>We recorded all of her, I guess,
+in London,</i>
+
+373
+00:18:05,626 --> 00:18:09,088
+<i>and she really came into the sessions,
+having looked at the lines,</i>
+
+374
+00:18:09,171 --> 00:18:11,757
+<i>and with ideas for rewrites,
+and it was always fun working with her,</i>
+
+375
+00:18:11,841 --> 00:18:15,136
+<i>because we sat down
+and actually hashed out the lines.</i>
+
+376
+00:18:15,219 --> 00:18:17,555
+CLEMENTS: <i>She's a great writer
+as well as an actress.</i>
+
+377
+00:18:17,638 --> 00:18:21,100
+CONLI: <i>Literally, we would sit down
+each sequence at a time, go through it,</i>
+
+378
+00:18:21,183 --> 00:18:23,644
+<i>-and then go into the recording booth.</i>
+- MUSKER: <i>Right.</i>
+
+379
+00:18:23,728 --> 00:18:24,854
+CONLI: <i>Always beplussed us.</i>
+
+380
+00:18:24,937 --> 00:18:27,648
+MUSKER: <i>Right. She came up
+with a particular word or something</i>
+
+381
+00:18:27,732 --> 00:18:31,110
+<i>that would just make it
+very British, very precise,</i>
+
+382
+00:18:31,193 --> 00:18:33,696
+<i>and very much in character for her.</i>
+
+383
+00:18:35,197 --> 00:18:37,533
+<i>Captain Amelia, the captain of the ship,
+is based on Captain Smollett</i>
+
+384
+00:18:37,617 --> 00:18:39,285
+<i>from Robert Louis Stevenson's novel.</i>
+
+385
+00:18:39,368 --> 00:18:40,620
+<i>Of course, in the novel, he's a man,</i>
+
+386
+00:18:40,703 --> 00:18:43,664
+<i>as, I think, just about all ship captains
+were in that era.</i>
+
+387
+00:18:43,748 --> 00:18:45,499
+<i>Ted and Terry,
+Ted Elliott and Terry Rossio,</i>
+
+388
+00:18:45,583 --> 00:18:48,461
+<i>when they did their treatment
+based on Ron's original treatment,</i>
+
+389
+00:18:48,544 --> 00:18:51,172
+<i>thought the captain could be a woman,
+sort of a woman alien,</i>
+
+390
+00:18:51,255 --> 00:18:54,091
+<i>and I think they described her as a
+bird-like alien in their original treatment</i>
+
+391
+00:18:54,175 --> 00:18:56,636
+<i>but we liked the idea
+of a female captain.</i>
+
+392
+00:18:56,719 --> 00:18:58,846
+<i>It just gave a whole twist to the story,</i>
+
+393
+00:18:58,929 --> 00:19:02,308
+<i>and we then wrote the part
+with Emma Thompson in mind,</i>
+
+394
+00:19:02,391 --> 00:19:03,851
+<i>never knowing whether or not
+she would do it,</i>
+
+395
+00:19:03,934 --> 00:19:05,353
+<i>but her kind of wittiness,</i>
+
+396
+00:19:05,436 --> 00:19:08,105
+<i>and take-chargeness,
+and authoritativeness</i>
+
+397
+00:19:08,189 --> 00:19:12,318
+<i>and intelligence, we thought would be
+great coupled with this sort of..</i>
+
+398
+00:19:12,401 --> 00:19:14,695
+<i>And there's an element of Emma Peel
+in there, slightly...</i>
+
+399
+00:19:14,779 --> 00:19:17,114
+CLEMENTS: <i>I remember in the
+first draft of the script,</i>
+
+400
+00:19:17,198 --> 00:19:19,033
+<i>we described Amelia as a combination</i>
+
+401
+00:19:19,116 --> 00:19:21,577
+<i>between Emma Peel
+and Mary Poppins.</i>
+
+402
+00:19:22,036 --> 00:19:25,915
+<i>And there's still a little of that, I think,
+that comes through.</i>
+
+403
+00:19:25,998 --> 00:19:28,334
+GOODING: <i>This set
+is Amelia's state room.</i>
+
+404
+00:19:28,918 --> 00:19:32,672
+<i>We tried to come up
+with a very soft lighting situation,</i>
+
+405
+00:19:32,755 --> 00:19:35,716
+<i>so that the characters
+would not require tones.</i>
+
+406
+00:19:35,800 --> 00:19:40,179
+<i>Tones are the shadows
+on the actual characters</i>
+
+407
+00:19:40,262 --> 00:19:44,850
+<i>that render them more dimensional,
+and they take a lot of time,</i>
+
+408
+00:19:44,934 --> 00:19:49,522
+<i>and since this movie had a lot
+of very cool effects sequences,</i>
+
+409
+00:19:49,605 --> 00:19:53,943
+<i>we didn't want to tie up the effects
+people with doing</i> too <i>many tones,</i>
+
+410
+00:19:54,026 --> 00:19:56,112
+<i>so we tried to come up
+with lighting situations</i>
+
+411
+00:19:56,195 --> 00:19:58,531
+<i>that would be better without the tones,</i>
+
+412
+00:19:58,614 --> 00:20:01,784
+<i>rather than having a movie
+that just looked cheap.</i>
+
+413
+00:20:02,618 --> 00:20:03,828
+<i>Um...</i>
+
+414
+00:20:04,120 --> 00:20:06,914
+<i>We have a nice sort of
+photographic light effect</i>
+
+415
+00:20:06,997 --> 00:20:09,959
+<i>happening here on the characters,
+which we called "overspill, "</i>
+
+416
+00:20:10,042 --> 00:20:14,046
+<i>which happens when you
+take a picture into a light source.</i>
+
+417
+00:20:14,130 --> 00:20:16,716
+<i>The edges of the characters
+and backgrounds</i>
+
+418
+00:20:16,799 --> 00:20:20,010
+<i>get chewed away a bit
+by the light behind them,</i>
+
+419
+00:20:20,636 --> 00:20:24,640
+<i>which is that sort of nice haze you see
+working around the edges.</i>
+
+420
+00:20:25,266 --> 00:20:27,560
+Mr. Arrow, please escort
+these two neophytes
+
+421
+00:20:27,643 --> 00:20:28,894
+down to the galley straightaway.
+
+422
+00:20:28,978 --> 00:20:31,647
+Young Hawkins will be working
+for our cook, Mr. Silver.
+
+423
+00:20:31,731 --> 00:20:33,649
+What? The cook?
+
+424
+00:20:35,276 --> 00:20:37,611
+CLEMENTS: <i>So this sequence,
+which is actually</i>
+
+425
+00:20:37,695 --> 00:20:39,488
+<i>the introduction of John Silver,</i>
+
+426
+00:20:39,572 --> 00:20:42,158
+<i>was actually one of the first scenes
+animated in the movie,</i>
+
+427
+00:20:42,241 --> 00:20:43,492
+<i>one of the first to come out of story,</i>
+
+428
+00:20:43,576 --> 00:20:46,370
+<i>Barry Johnson did the storyboards
+on this sequence,</i>
+
+429
+00:20:46,454 --> 00:20:50,833
+<i>and so a lot of this is some
+of the first animation that was done.</i>
+
+430
+00:20:50,916 --> 00:20:53,669
+<i>This is like the first scene
+that was animated on Silver</i>
+
+431
+00:20:53,753 --> 00:20:56,547
+<i>'cause Glen Keane, who did Silver,
+kind of went in order,</i>
+
+432
+00:20:56,630 --> 00:20:59,717
+<i>and I think that was the second scene
+that was animated.</i>
+
+433
+00:20:59,800 --> 00:21:02,720
+KEANE: <i>Silver is a
+very unique character</i>
+
+434
+00:21:02,803 --> 00:21:04,430
+<i>in that he's the first time
+we've animated</i>
+
+435
+00:21:04,513 --> 00:21:10,102
+<i>a character that's traditional
+hand drawn and computer generated</i>
+
+436
+00:21:10,186 --> 00:21:11,812
+<i>in the same character.</i>
+
+437
+00:21:11,896 --> 00:21:14,106
+<i>And we really wondered,</i>
+
+438
+00:21:14,190 --> 00:21:17,109
+<i>"ls the audience going to believe this
+character is real?</i>
+
+439
+00:21:17,193 --> 00:21:20,654
+<i>"ls it going to look like he's got
+metal pieces stuck onto him,</i>
+
+440
+00:21:20,738 --> 00:21:25,075
+<i>"and they don't belong, they're not part
+of his being? Are they going to buy it?"</i>
+
+441
+00:21:25,159 --> 00:21:29,747
+<i>And I was very happy to find that
+the biggest challenges with Silver</i>
+
+442
+00:21:29,830 --> 00:21:33,584
+<i>were not the technical,
+sticking a CG part onto him,</i>
+
+443
+00:21:33,667 --> 00:21:34,752
+<i>but as it should be,</i>
+
+444
+00:21:34,835 --> 00:21:38,547
+<i>it was the acting, the performance.</i>
+<i>How do you make him real?</i>
+
+445
+00:21:39,340 --> 00:21:44,720
+<i>Right from the start, I knew that I could
+do the hand-drawn part,</i>
+
+446
+00:21:44,804 --> 00:21:49,099
+<i>but I wasn't going to step into territory
+that I wasn't comfortable with,</i>
+
+447
+00:21:49,183 --> 00:21:52,436
+<i>and Eric Daniels, who I had worked
+closely with on</i> Tarzan,
+
+448
+00:21:52,520 --> 00:21:54,647
+<i>and he created the deep canvas look</i>
+
+449
+00:21:54,730 --> 00:21:57,525
+<i>with the jungle being able
+to move in dimension.</i>
+
+450
+00:21:57,608 --> 00:22:00,277
+<i>And I just felt like
+this guy is an inventor,</i>
+
+451
+00:22:00,361 --> 00:22:03,322
+<i>and we need somebody
+doing the mechanical arm</i>
+
+452
+00:22:03,405 --> 00:22:07,451
+<i>who's not just a technician
+and an animator, but an inventor.</i>
+
+453
+00:22:08,327 --> 00:22:11,956
+CONLI: <i>Probably good to note right
+now the performance by Brian Murray,</i>
+
+454
+00:22:12,039 --> 00:22:13,749
+<i>which is just phenomenal.</i>
+
+455
+00:22:13,833 --> 00:22:17,503
+<i>It's probably one of the best voice
+performances we've had at Disney.</i>
+
+456
+00:22:18,838 --> 00:22:20,256
+(LAUGHING)
+
+457
+00:22:21,590 --> 00:22:27,346
+KEANE: <i>Brian's voice, it comes from
+somewhere way down inside of him,</i>
+
+458
+00:22:27,429 --> 00:22:33,644
+<i>and he can go from very light
+and jovial, feels very sincere,</i>
+
+459
+00:22:33,727 --> 00:22:37,606
+<i>and just as easily switch
+into a dark, ominous side</i>
+
+460
+00:22:37,690 --> 00:22:40,651
+<i>that you find just as believable,
+which had to work for Silver,</i>
+
+461
+00:22:40,734 --> 00:22:45,155
+<i>that you had to genuinely believe that
+this was a man who was torn</i>
+
+462
+00:22:45,239 --> 00:22:50,119
+<i>between the greed and lust
+for this treasure</i>
+
+463
+00:22:50,202 --> 00:22:54,456
+<i>and a genuine compassion that he's
+beginning to feel for Jim Hawkins.</i>
+
+464
+00:22:55,291 --> 00:22:58,210
+CLEMENTS: <i>Mike Show
+did the animation on Morph,</i>
+
+465
+00:22:58,294 --> 00:22:59,879
+<i>and he studied lava lamps.</i>
+
+466
+00:22:59,962 --> 00:23:03,841
+MUSKER: <i>It was the cross between
+a puppy dog and a lava lamp.</i>
+
+467
+00:23:04,758 --> 00:23:08,012
+<i>Mike didn't have a puppy dog,
+but he actually has a little, at the time,</i>
+
+468
+00:23:08,095 --> 00:23:09,513
+<i>a little son, maybe a year old,</i>
+
+469
+00:23:09,597 --> 00:23:11,974
+<i>so he tried to get
+some of his son's expressions in this.</i>
+
+470
+00:23:12,057 --> 00:23:14,143
+CONLI: <i>It's like a puppy dog.</i>
+CLEMENTS: <i>Yeah, it is.</i>
+
+471
+00:23:14,226 --> 00:23:18,272
+<i>And Dane Davis, our sound designer,
+who's a great sound designer,</i>
+
+472
+00:23:18,355 --> 00:23:20,941
+<i>he actually provided
+the voice for Morph.</i>
+
+473
+00:23:21,108 --> 00:23:22,735
+MUSKER: <i>We're about to move
+into this area now</i>
+
+474
+00:23:22,818 --> 00:23:25,154
+<i>where we tried to feature what's called
+the virtual set,</i>
+
+475
+00:23:25,237 --> 00:23:27,823
+<i>where we built this whole
+galley in the computer</i>
+
+476
+00:23:27,907 --> 00:23:30,993
+<i>and then rendered it and painted it
+with deep canvas techniques,</i>
+
+477
+00:23:31,076 --> 00:23:32,828
+<i>such that we could move the camera
+around and in it,</i>
+
+478
+00:23:32,912 --> 00:23:35,039
+<i>and this was sort of a unique use</i>
+
+479
+00:23:35,122 --> 00:23:38,250
+<i>because it wasn't
+a bravura action scene,</i>
+
+480
+00:23:38,334 --> 00:23:40,878
+<i>it was more of a personality scene,
+and we were trying to build tension</i>
+
+481
+00:23:40,961 --> 00:23:42,463
+<i>by the way the camera moves
+in the scene.</i>
+
+482
+00:23:42,546 --> 00:23:45,257
+CLEMENTS: <i>There it starts to move,
+and that is a three-dimensional set</i>
+
+483
+00:23:45,341 --> 00:23:47,509
+<i>painted to look
+like a painted background.</i>
+
+484
+00:23:47,676 --> 00:23:50,721
+Who be a humble cyborg
+to argue with a captain?
+
+485
+00:23:50,804 --> 00:23:53,390
+KEANE: <i>This moment,
+I thought was, for me,</i>
+
+486
+00:23:53,474 --> 00:23:56,977
+<i>one of the most enjoyable acting
+moments I've ever had</i>
+
+487
+00:23:57,061 --> 00:23:59,146
+<i>working at Disney,
+working with you on this one.</i>
+
+488
+00:23:59,229 --> 00:24:02,942
+RIPA: <i>Yeah, this whole sequence
+is interesting, but this scene actually...</i>
+
+489
+00:24:03,025 --> 00:24:07,613
+<i>Normally, the process is
+you work on your characters yourself</i>
+
+490
+00:24:07,696 --> 00:24:10,115
+<i>in your room
+at a separate time, usually,</i>
+
+491
+00:24:10,199 --> 00:24:14,954
+<i>and for that scene,
+Glen and I actually worked</i>
+
+492
+00:24:15,037 --> 00:24:17,539
+<i>on the scene at the same time
+at the same desk.</i>
+
+493
+00:24:17,623 --> 00:24:20,918
+<i>He would go up and do a drawing,
+and he'd step back and we'd act it out,</i>
+
+494
+00:24:21,001 --> 00:24:23,128
+<i>and then I'd step up
+and I'd do a drawing.</i>
+
+495
+00:24:23,212 --> 00:24:26,382
+KEANE: <i>Fortunately, John draws
+at his desk standing up.</i>
+
+496
+00:24:26,465 --> 00:24:28,425
+<i>Everybody else sits in a chair,
+but John stands up,</i>
+
+497
+00:24:28,509 --> 00:24:32,721
+<i>so we can actually do this
+tag-team animating pretty easily.</i>
+
+498
+00:24:32,805 --> 00:24:35,849
+RIPA: <i>Yeah, it was pretty cool,
+and this was some of the first</i>
+
+499
+00:24:35,933 --> 00:24:37,685
+<i>stuff that we did on the character,</i>
+
+500
+00:24:37,768 --> 00:24:41,146
+<i>and it's so huge
+in terms of their relationship,</i>
+
+501
+00:24:41,230 --> 00:24:43,440
+<i>and the play back and forth.</i>
+
+502
+00:24:43,524 --> 00:24:46,568
+<i>Just the contact between them
+and the interaction,</i>
+
+503
+00:24:46,652 --> 00:24:50,531
+<i>and keeping it going from this point
+'cause it seemed like such a nice setup</i>
+
+504
+00:24:50,614 --> 00:24:53,659
+<i>between them
+that trying to keep that in mind</i>
+
+505
+00:24:53,742 --> 00:24:58,372
+<i>whenever they're on screen and how
+they relate and really working together</i>
+
+506
+00:24:58,455 --> 00:25:02,251
+<i>closely and knowing each other's
+characters, I think, really helped.</i>
+
+507
+00:25:04,378 --> 00:25:06,714
+We're all clear, Captain !
+
+508
+00:25:07,756 --> 00:25:11,677
+CLEMENTS: <i>Early on, I think we've
+always considered that these ships,</i>
+
+509
+00:25:11,760 --> 00:25:14,221
+<i>we would be using solar power a lot.</i>
+
+510
+00:25:14,304 --> 00:25:18,017
+<i>The technology of this universe
+relies a lot on solar power</i>
+
+511
+00:25:18,100 --> 00:25:21,603
+<i>and artificial gravity.</i>
+<i>Those are two of their big things.</i>
+
+512
+00:25:21,687 --> 00:25:23,647
+MUSKER: <i>Well, we always said
+we wanted this to feel almost like</i>
+
+513
+00:25:23,731 --> 00:25:28,569
+<i>if they had discovered solar power
+like in the 17th century</i>
+
+514
+00:25:28,652 --> 00:25:31,196
+<i>on a major scale
+and really developed it,</i>
+
+515
+00:25:31,280 --> 00:25:33,282
+<i>this was where
+they would have gotten then.</i>
+
+516
+00:25:33,365 --> 00:25:35,367
+<i>I think Andy Gaskill did some
+of the early drawings on this</i>
+
+517
+00:25:35,451 --> 00:25:37,703
+<i>where he did these sort of hexagonal
+patterns in the sails</i>
+
+518
+00:25:37,786 --> 00:25:40,372
+<i>which we really liked
+in terms of just feeling like there was</i>
+
+519
+00:25:40,456 --> 00:25:44,334
+<i>this sort of fiber filament that
+was a conduit in these things.</i>
+
+520
+00:25:45,294 --> 00:25:48,881
+GOODING: <i>We did a lot of research
+on the color of ships,</i>
+
+521
+00:25:48,964 --> 00:25:51,884
+<i>how they were painted
+back in the 18th century,</i>
+
+522
+00:25:51,967 --> 00:25:54,428
+<i>and settled, eventually,
+on a white hull for the ship</i>
+
+523
+00:25:54,511 --> 00:25:58,057
+<i>because, several reasons,
+it shows up very nicely</i>
+
+524
+00:25:58,140 --> 00:26:02,269
+<i>against the dark-colored backgrounds,
+and also it picks up color.</i>
+
+525
+00:26:02,352 --> 00:26:07,399
+<i>White is a very good reflector
+of what's happening around it,</i>
+
+526
+00:26:07,483 --> 00:26:12,529
+<i>so when it's in a colorful Etherium
+that actually reflects onto the hull,</i>
+
+527
+00:26:12,613 --> 00:26:14,698
+<i>and it's really attractive.</i>
+
+528
+00:26:17,826 --> 00:26:21,997
+MUSKER: <i>This shot of the ship
+with the manta birds swooping by</i>
+
+529
+00:26:22,081 --> 00:26:24,750
+<i>was based on a painting
+that Ian Gooding did of the ship,</i>
+
+530
+00:26:24,833 --> 00:26:27,294
+<i>and these birds going by,
+and it was just a majestic image.</i>
+
+531
+00:26:27,377 --> 00:26:28,754
+CONLI: <i>It was one of the
+really early paintings,</i>
+
+532
+00:26:28,837 --> 00:26:31,924
+<i>and it really set a tone
+for the whole movie.</i>
+
+533
+00:26:32,007 --> 00:26:33,717
+MUSKER: <i>It was sort of an icon,
+and it was just</i>
+
+534
+00:26:33,801 --> 00:26:35,094
+<i>based on a visual development thing,</i>
+
+535
+00:26:35,177 --> 00:26:36,929
+<i>and we said, "We've got to get that
+image into the movie.</i> <i>"</i>
+
+536
+00:26:37,012 --> 00:26:38,764
+<i>So we really tried to duplicate
+the feeling of that,</i>
+
+537
+00:26:38,847 --> 00:26:41,100
+<i>and I'm really happy
+with the way it turned out.</i>
+
+538
+00:26:41,183 --> 00:26:44,144
+<i>The manta birds,
+animated by Mark Austin.</i>
+
+539
+00:26:44,228 --> 00:26:45,395
+CLEMENTS: <i>I think there is one frame</i>
+
+540
+00:26:45,479 --> 00:26:48,232
+<i>that pretty much
+matches the painting very closely.</i>
+
+541
+00:26:48,315 --> 00:26:50,484
+MUSKER: <i>It was really
+Ian Gooding's vision of that image</i>
+
+542
+00:26:50,567 --> 00:26:52,945
+<i>that we really tried to duplicate on film.</i>
+
+543
+00:26:53,028 --> 00:26:54,655
+CLEMENTS:
+<i>Deep canvas space whales.</i>
+
+544
+00:26:54,738 --> 00:26:57,699
+<i>These are the first characters that
+Disney has ever done in deep canvas.</i>
+
+545
+00:26:57,783 --> 00:27:01,578
+CONLI: <i>Except for the manta birds,
+but you don't notice them as much.</i>
+
+546
+00:27:01,662 --> 00:27:04,998
+<i>These take full advantage of that,
+so they're painted like backgrounds</i>
+
+547
+00:27:06,041 --> 00:27:09,128
+<i>but animated as computer animation.</i>
+
+548
+00:27:09,211 --> 00:27:11,463
+MUSKER: <i>This scene was
+a little bit of a struggle</i>
+
+549
+00:27:11,547 --> 00:27:14,800
+<i>because Doppler
+was gonna be kind of slimed</i>
+
+550
+00:27:14,883 --> 00:27:16,260
+<i>by these whales and we discussed</i>
+
+551
+00:27:16,343 --> 00:27:19,304
+<i>what was the funny color
+of this sort of slime</i>
+
+552
+00:27:19,388 --> 00:27:22,224
+<i>and went through various ones
+and we wound up with...</i>
+
+553
+00:27:22,307 --> 00:27:24,143
+<i>This was our funny color.</i>
+
+554
+00:27:24,560 --> 00:27:28,313
+KEANE: <i>These scenes,
+Marc Smith animated, who just became</i>
+
+555
+00:27:28,397 --> 00:27:31,942
+<i>my right hand man
+on animating Long John Silver.</i>
+
+556
+00:27:33,402 --> 00:27:36,446
+<i>He has a natural appeal.</i>
+
+557
+00:27:36,530 --> 00:27:39,575
+<i>Appeal is something that I used to hear
+all the time</i>
+
+558
+00:27:39,658 --> 00:27:42,369
+<i>from Frank Thomas, Ollie Johnson,
+Eric Larson,</i>
+
+559
+00:27:42,452 --> 00:27:44,872
+<i>the old guys who did
+</i>Pinocchio, Snow White.
+
+560
+00:27:44,955 --> 00:27:47,583
+<i>They were always talking about
+appeal and sincerity.</i>
+
+561
+00:27:47,666 --> 00:27:50,919
+<i>And the word "appeal"
+I haven't heard as much lately,</i>
+
+562
+00:27:53,255 --> 00:27:55,674
+<i>and looking at Marc's work,
+it reminded me</i>
+
+563
+00:27:55,757 --> 00:27:57,968
+<i>of how important that is.</i>
+<i>It's a natural thing.</i>
+
+564
+00:27:58,093 --> 00:28:03,432
+<i>You're born with this ability to just draw
+and all the parts are in the right place,</i>
+
+565
+00:28:03,515 --> 00:28:07,269
+<i>and you are attracted to that character.</i>
+
+566
+00:28:07,853 --> 00:28:11,857
+CONLI: <i>It's interesting to note that
+in the development process,</i>
+
+567
+00:28:11,940 --> 00:28:14,693
+<i>both in terms of characters
+and backgrounds,</i>
+
+568
+00:28:14,776 --> 00:28:19,531
+<i>that we have about 15, 000 pieces
+of artwork that were developed</i>
+
+569
+00:28:19,615 --> 00:28:22,951
+<i>during the period
+before we got into production.</i>
+
+570
+00:28:23,035 --> 00:28:25,579
+<i>So there's a lot of artwork
+that gets generated</i>
+
+571
+00:28:25,662 --> 00:28:28,415
+<i>just in terms of spawning ideas</i>
+
+572
+00:28:28,498 --> 00:28:33,712
+<i>and massive amounts of character stuff
+and background stuff</i>
+
+573
+00:28:33,795 --> 00:28:35,214
+MUSKER: <i>A lot of this
+cast of characters,</i>
+
+574
+00:28:35,297 --> 00:28:37,758
+<i>we really wanted to get
+a range of shapes and sizes</i>
+
+575
+00:28:37,841 --> 00:28:40,636
+<i>in this supporting cast
+of pirates and species.</i>
+
+576
+00:28:40,719 --> 00:28:42,721
+<i>And Peter De Sève was
+fairly instrumental in doing that,</i>
+
+577
+00:28:42,804 --> 00:28:45,474
+<i>the character designer who did these
+really fun designs,</i>
+
+578
+00:28:45,557 --> 00:28:49,019
+<i>little tentacled people
+and huge hulking people</i>
+
+579
+00:28:49,102 --> 00:28:51,438
+<i>and the spidery guy and all that.</i>
+
+580
+00:28:51,521 --> 00:28:54,524
+<i>He kicked off a lot of that stuff,
+and much of what he did,</i>
+
+581
+00:28:54,608 --> 00:28:58,570
+<i>Andy adapted and we adapted
+and the animators jumped off from.</i>
+
+582
+00:28:59,446 --> 00:29:02,950
+CLEMENTS: <i>And Mr. Scroop here,
+voiced my Michael Wincott,</i>
+
+583
+00:29:03,033 --> 00:29:04,743
+<i>who has a terrific voice.</i>
+
+584
+00:29:04,826 --> 00:29:07,579
+<i>Actually, originally, we had
+a different voice for Scroop,</i>
+
+585
+00:29:07,663 --> 00:29:14,002
+<i>a different actor who was doing more
+of a raspy, insectoid kind of voice,</i>
+
+586
+00:29:14,419 --> 00:29:17,089
+<i>and it didn't quite work, I think.</i>
+
+587
+00:29:17,172 --> 00:29:19,466
+<i>It didn't quite feel right
+and so we went with Michael Wincott</i>
+
+588
+00:29:19,549 --> 00:29:22,928
+<i>and we're not doing anything
+to his voice. It's a great voice.</i>
+
+589
+00:29:23,011 --> 00:29:25,973
+<i>And another one of
+the character designers</i>
+
+590
+00:29:26,056 --> 00:29:29,434
+<i>was Eric Pigors who did
+a lot of these characters.</i>
+
+591
+00:29:29,518 --> 00:29:34,481
+<i>His style was a little bit reminiscent
+of Big Daddy Roth.</i>
+
+592
+00:29:34,564 --> 00:29:36,608
+<i>People from the '60s
+may remember that.</i>
+
+593
+00:29:36,692 --> 00:29:41,363
+<i>And he's particularly represented with
+the one alien with the one eye</i>
+
+594
+00:29:41,446 --> 00:29:43,282
+<i>that sticks out.</i>
+
+595
+00:29:43,365 --> 00:29:45,367
+MUSKER: <i>That was Eric's design
+and we called him Pigors</i>
+
+596
+00:29:45,450 --> 00:29:47,953
+<i>in honor of Eric himself</i>
+
+597
+00:29:48,870 --> 00:29:50,330
+CLEMENTS: <i>And we should
+mention Mr. Arrow.</i>
+
+598
+00:29:50,414 --> 00:29:51,790
+<i>We haven't talked about Mr. Arrow,</i>
+
+599
+00:29:51,873 --> 00:29:53,625
+<i>voiced by Roscoe Lee Browne</i>
+
+600
+00:29:53,709 --> 00:29:55,127
+<i>who did a great, great job,</i>
+
+601
+00:29:55,210 --> 00:29:57,296
+<i>and T. Dan Hofstedt did the animation.</i>
+
+602
+00:29:57,379 --> 00:29:58,547
+MUSKER: <i>Right.</i>
+
+603
+00:29:59,339 --> 00:30:02,509
+<i>Yeah, we really liked, sort of,
+the reserve that he animated with</i>
+
+604
+00:30:02,592 --> 00:30:06,096
+<i>and gave him that kind of solidity
+and stolidity</i>
+
+605
+00:30:06,179 --> 00:30:08,348
+<i>and really made him...</i>
+
+606
+00:30:08,432 --> 00:30:11,101
+CONLI: <i>T. Dan's a real genius
+at understatement.</i>
+
+607
+00:30:11,184 --> 00:30:13,979
+MUSKER: <i>Yeah. Yeah, he did
+the emperor in</i> Mulan
+
+608
+00:30:14,062 --> 00:30:16,523
+<i>and found a lot to work with
+a little on that as well.</i>
+
+609
+00:30:17,190 --> 00:30:19,526
+Hey, I was doing it until that bug thing...
+
+610
+00:30:19,609 --> 00:30:20,610
+Belay that!
+
+611
+00:30:21,695 --> 00:30:24,656
+CLEMENTS: <i>You mentioned Jim's
+eye mask, which you just sort of notice.</i>
+
+612
+00:30:24,740 --> 00:30:27,701
+<i>I mean, he's had this little shadow
+around his eyes</i>
+
+613
+00:30:27,784 --> 00:30:29,786
+<i>throughout the movie.</i>
+<i>It's kind of a trademark,</i>
+
+614
+00:30:29,870 --> 00:30:33,332
+<i>along with his jacket that
+makes him feel kind of internalized</i>
+
+615
+00:30:33,415 --> 00:30:35,625
+<i>and gives that dark,
+brooding sort of edge,</i>
+
+616
+00:30:35,709 --> 00:30:39,338
+<i>presumably, the eye mask
+actually becomes a thematic element</i>
+
+617
+00:30:39,421 --> 00:30:40,922
+<i>in the movie.</i>
+
+618
+00:30:44,593 --> 00:30:47,554
+<i>This section actually
+started out much longer,</i>
+
+619
+00:30:47,637 --> 00:30:49,348
+<i>had a lot more exposition in it.</i>
+
+620
+00:30:50,057 --> 00:30:51,308
+<i>Then it got taken out.</i>
+
+621
+00:30:51,391 --> 00:30:54,978
+<i>We cut it out of the movie
+completely at one point</i>
+
+622
+00:30:55,062 --> 00:30:57,147
+<i>to sort of keep
+more mystery about Silver.</i>
+
+623
+00:30:57,230 --> 00:31:00,484
+<i>And then we ended up putting it
+back in, in a much shortened version.</i>
+
+624
+00:31:01,568 --> 00:31:03,862
+MUSKER: <i>Also our movies are always
+running... They have</i> too <i>much story</i>
+
+625
+00:31:03,945 --> 00:31:06,740
+<i>or they run</i> too <i>long,
+and we wind up having to look for cuts,</i>
+
+626
+00:31:06,823 --> 00:31:09,743
+<i>and it's always difficult for us
+to figure out</i>
+
+627
+00:31:09,826 --> 00:31:12,037
+<i>what we can cut,
+what exposition can you cut</i>
+
+628
+00:31:12,120 --> 00:31:14,039
+<i>and still make the audience
+understand the story.</i>
+
+629
+00:31:14,122 --> 00:31:16,208
+CLEMENTS: <i>We cut a lot
+of exposition from this.</i>
+
+630
+00:31:16,291 --> 00:31:18,710
+<i>Here he used to talk about Billy Bones,</i>
+
+631
+00:31:18,794 --> 00:31:20,879
+<i>he talked about
+why they needed the Captain</i>
+
+632
+00:31:20,962 --> 00:31:22,798
+-to <i>run the ship.</i>
+- CONLI: <i>You really spelled it out.</i>
+
+633
+00:31:22,881 --> 00:31:26,301
+CLEMENTS: <i>And now it's pretty much
+down to bare basics.</i>
+
+634
+00:31:29,388 --> 00:31:30,931
+(LAUGHING)
+
+635
+00:31:31,932 --> 00:31:36,395
+<i>This little bit with Morph here where
+he turns into a little version of Scroop</i>
+
+636
+00:31:36,478 --> 00:31:38,397
+<i>was added just as a gag</i>
+
+637
+00:31:38,480 --> 00:31:42,234
+<i>and it just seemed a way of kind of
+de-demonizing Scroop</i>
+
+638
+00:31:42,317 --> 00:31:44,611
+<i>to sort of make fun of
+the bogeyman a little bit here.</i>
+
+639
+00:31:44,694 --> 00:31:48,907
+<i>So we added this and Mike Show
+animated a very funny...</i>
+
+640
+00:31:48,990 --> 00:31:50,575
+<i>With his little Nijinsky move there.</i>
+
+641
+00:31:50,659 --> 00:31:53,703
+CONLI: <i>You can see Jim's
+eye mask pretty clearly there.</i>
+
+642
+00:31:53,787 --> 00:31:55,372
+<i>Dark brooding eye mask.</i>
+
+643
+00:31:55,455 --> 00:31:59,709
+<i>And Silver's striped pants turned into
+a little bit of a nightmare, too,</i>
+
+644
+00:31:59,793 --> 00:32:03,130
+<i>because they were
+very difficult to draw.</i>
+
+645
+00:32:03,797 --> 00:32:04,881
+MUSKER: <i>So the clean-up people,</i>
+
+646
+00:32:04,965 --> 00:32:07,092
+<i>Vera Pacheco,
+was pleading with us, "Please don't,</i>
+
+647
+00:32:07,175 --> 00:32:08,927
+<i>"let's not do the striped pants
+through the whole movie.</i> <i>"</i>
+
+648
+00:32:09,010 --> 00:32:11,930
+<i>So we found a convenient spot
+for him to go into a changing room,</i>
+
+649
+00:32:12,013 --> 00:32:14,933
+<i>and during the latter half of the movie,
+he has remarkably unstriped pants,</i>
+
+650
+00:32:15,016 --> 00:32:17,519
+<i>which I don't think anyone ever notices.</i>
+
+651
+00:32:17,602 --> 00:32:19,521
+<i>But he has more than one
+pair of pants, right?</i>
+
+652
+00:32:20,355 --> 00:32:21,398
+CONLI: <i>Sure.</i>
+
+653
+00:32:21,523 --> 00:32:23,775
+Your father not the teachin' sort?
+
+654
+00:32:24,693 --> 00:32:25,735
+No.
+
+655
+00:32:25,819 --> 00:32:28,405
+CLEMENTS: <i>Once again, there was
+some rewriting on this scene,</i>
+
+656
+00:32:28,488 --> 00:32:33,118
+<i>just the question of how much to reveal
+about Jim's father and what happened,</i>
+
+657
+00:32:33,201 --> 00:32:35,912
+<i>and how much to leave
+for the song to reveal.</i>
+
+658
+00:32:35,996 --> 00:32:40,125
+<i>It's still leading into this father-son arc,
+this surrogate father-surrogate son,</i>
+
+659
+00:32:40,208 --> 00:32:44,754
+<i>which is kind of what we're building
+toward with Jim and Silver.</i>
+
+660
+00:32:44,880 --> 00:32:47,966
+The captain has put you in my charge,
+like it or not.
+
+661
+00:32:48,133 --> 00:32:51,845
+MUSKER: <i>The montage
+that we're entering into</i>
+
+662
+00:32:52,762 --> 00:32:55,557
+<i>was in the film for a long time,
+but originally it had</i>
+
+663
+00:32:55,640 --> 00:32:58,685
+<i>a different temp song behind it.</i>
+<i>It had a U2 song behind it,</i>
+
+664
+00:32:58,768 --> 00:33:02,397
+<i>and it featured other sort of visuals,
+and we went through a lot on that.</i>
+
+665
+00:33:02,481 --> 00:33:05,150
+<i>Ultimately, Glen Keane
+went and re-boarded it</i>
+
+666
+00:33:05,233 --> 00:33:07,944
+<i>and really changed it around
+into what you see now.</i>
+
+667
+00:33:08,028 --> 00:33:09,988
+<i>We delved more into Jim's back-story.</i>
+
+668
+00:33:10,071 --> 00:33:13,158
+CLEMENTS: <i>And even before he
+re-boarded it, I think it was Glen's idea</i>
+
+669
+00:33:13,241 --> 00:33:16,161
+<i>to actually put the song
+</i>Iris <i>by the</i> Goo Goo <i>Dolls</i>
+
+670
+00:33:16,244 --> 00:33:20,207
+<i>in as a temp track instead of
+the U2 song, which we did.</i>
+
+671
+00:33:20,290 --> 00:33:22,000
+CONLI: <i>Glen really brought
+Johnny Rzeznik to our attention.</i>
+
+672
+00:33:22,083 --> 00:33:23,168
+MUSKER: <i>Yeah, Johnny Rzeznik</i>
+
+673
+00:33:23,251 --> 00:33:24,252
+<i>who's the lead singer
+of the</i> Goo Goo <i>Dolls</i>
+
+674
+00:33:24,336 --> 00:33:27,506
+<i>and kind of its central core member,
+came in, we met with him.</i>
+
+675
+00:33:27,589 --> 00:33:30,217
+<i>We discovered that he actually
+had a lot in common with Jim,</i>
+
+676
+00:33:30,300 --> 00:33:32,677
+<i>just in terms of his background,
+growing up in Buffalo,</i>
+
+677
+00:33:32,761 --> 00:33:37,265
+<i>and his relationship with his father,
+and just a guarded and troubled youth</i>
+
+678
+00:33:37,349 --> 00:33:39,309
+<i>who sort of came out of it
+on the other side.</i>
+
+679
+00:33:39,392 --> 00:33:42,145
+CLEMENTS: <i>With a mentor's help.</i>
+<i>I mean, a lot of parallels.</i>
+
+680
+00:33:42,229 --> 00:33:43,355
+MUSKER: <i>Right.</i>
+
+681
+00:33:43,438 --> 00:33:46,775
+<i>And so he performed the song
+that he wrote here for us in a room</i>
+
+682
+00:33:46,858 --> 00:33:49,486
+<i>before he had lyrics,
+so he would just lean over Roy, and,</i>
+
+683
+00:33:49,569 --> 00:33:52,405
+<i>"Hey, " you know, just sort of..
+</i>(MUMBLING)
+
+684
+00:33:52,489 --> 00:33:54,783
+CLEMENTS: <i>He did this sort of
+Bob Dylan thing.</i>
+
+685
+00:33:54,866 --> 00:33:56,243
+MUSKER: <i>A little Bob Dylan-y,</i>
+
+686
+00:33:56,326 --> 00:33:58,453
+<i>and Angela Lepito
+was filming the whole thing.</i>
+
+687
+00:33:58,537 --> 00:34:00,789
+<i>You can talk to her
+about the tape, yeah.</i>
+
+688
+00:34:00,872 --> 00:34:03,166
+CONLI: <i>The whole idea here
+of the flashbacks</i>
+
+689
+00:34:03,250 --> 00:34:04,793
+<i>was actually Glen Keane's idea.</i>
+
+690
+00:34:04,876 --> 00:34:06,545
+<i>That wasn't part of the original story.</i>
+
+691
+00:34:06,628 --> 00:34:10,382
+<i>This was originally just sort of
+a Disney mentoring sequence,</i>
+
+692
+00:34:10,465 --> 00:34:13,927
+<i>but Glen had the idea of,
+"Let's take this into Jim's past</i>
+
+693
+00:34:14,010 --> 00:34:16,137
+<i>"and kind of show
+what really happened.</i> <i>"</i>
+
+694
+00:34:16,221 --> 00:34:17,514
+CONLI: <i>I think it's a testament to Glen</i>
+
+695
+00:34:17,597 --> 00:34:20,433
+<i>because here's the guy
+who's the lead animator for Silver,</i>
+
+696
+00:34:20,517 --> 00:34:23,311
+<i>and then he's able to kind of
+get into Jim's mind as well.</i>
+
+697
+00:34:23,395 --> 00:34:24,771
+MUSKER: <i>Well, the core
+of this whole movie</i>
+
+698
+00:34:24,854 --> 00:34:26,898
+<i>is Jim and Silver, their relationship,</i>
+
+699
+00:34:26,982 --> 00:34:31,319
+<i>and I think Glen and John were both
+intimately involved in developing that.</i>
+
+700
+00:34:31,403 --> 00:34:34,990
+KEANE: <i>I remember,
+I had to storyboard this</i>
+
+701
+00:34:35,073 --> 00:34:36,783
+<i>and it just wasn't working,</i>
+
+702
+00:34:36,866 --> 00:34:40,620
+<i>but I felt in my gut
+that we had to do these flashbacks.</i>
+
+703
+00:34:41,329 --> 00:34:44,583
+<i>So I left the studio
+and went up to Lake Arrowhead,</i>
+
+704
+00:34:44,666 --> 00:34:48,128
+<i>about two hours from here,
+and just sat up there and thought,</i>
+
+705
+00:34:48,211 --> 00:34:53,008
+<i>"Okay, if I was just going to do this
+just the way Rzeznik wrote it,</i>
+
+706
+00:34:53,091 --> 00:34:54,759
+<i>"this is what it would be."</i>
+
+707
+00:34:54,843 --> 00:34:56,428
+<i>But I wasn't sure if this
+was gonna work,</i>
+
+708
+00:34:56,511 --> 00:35:00,265
+<i>so I called my wife
+and I started to describe this,</i>
+
+709
+00:35:00,348 --> 00:35:02,058
+<i>and there was this silence
+on the phone.</i>
+
+710
+00:35:02,142 --> 00:35:04,144
+<i>I said, "What, you don't like it?"</i>
+
+711
+00:35:04,227 --> 00:35:06,229
+<i>She said, "No, I'm crying."</i>
+
+712
+00:35:07,314 --> 00:35:10,358
+<i>"Well, then I'm gonna do it.</i>
+<i>That's how it has to be.</i> <i>"</i>
+
+713
+00:35:12,068 --> 00:35:15,113
+CLEMENTS: <i>I think it's interesting,
+Johnny is just amazing</i>
+
+714
+00:35:15,196 --> 00:35:19,576
+<i>in terms of being able to interpret
+the dramatic structure of a film</i>
+
+715
+00:35:19,659 --> 00:35:20,785
+<i>into the music.</i>
+
+716
+00:35:20,869 --> 00:35:24,623
+<i>I mean, he really gets the concept
+of what the story is about</i>
+
+717
+00:35:24,706 --> 00:35:28,126
+<i>and he's able to kind of
+transfer that pretty easily into...</i>
+
+718
+00:35:28,209 --> 00:35:32,505
+<i>And his lyrics are very strong, I think,</i>
+
+719
+00:35:32,589 --> 00:35:35,967
+<i>and really express a lot
+of the underlying things</i>
+
+720
+00:35:36,051 --> 00:35:39,095
+<i>that we wanted to get through
+in the character of Jim.</i>
+
+721
+00:35:41,389 --> 00:35:44,434
+MUSKER: <i>We're about to get into
+this whole sequence where they...</i>
+
+722
+00:35:44,517 --> 00:35:48,563
+<i>After Jim sees his father
+leaving for the last time,</i>
+
+723
+00:35:49,606 --> 00:35:50,982
+<i>now Silver invites him on board,</i>
+
+724
+00:35:51,066 --> 00:35:52,984
+<i>where he's going to
+show him the ropes of driving,</i>
+
+725
+00:35:53,068 --> 00:35:55,403
+<i>and then Jim takes over.
+And I think it was Glen's idea</i>
+
+726
+00:35:55,487 --> 00:35:57,072
+<i>to really work in
+something with a comet</i>
+
+727
+00:35:57,155 --> 00:35:59,449
+<i>or something that just had
+a spectacular visual to it.</i>
+
+728
+00:35:59,532 --> 00:36:03,161
+<i>So that became the basis for this
+last little movement within the song</i>
+
+729
+00:36:03,244 --> 00:36:05,747
+<i>where Jim really takes Silver
+kind of on this joy ride</i>
+
+730
+00:36:05,830 --> 00:36:08,249
+<i>and shows him that
+he really knows what he's doing.</i>
+
+731
+00:36:09,709 --> 00:36:11,544
+CLEMENTS: <i>Sky continuity
+was a nightmare.</i>
+
+732
+00:36:11,628 --> 00:36:13,546
+MUSKER: <i>Maybe we should also
+talk about the size of stars,</i> too.
+
+733
+00:36:13,630 --> 00:36:16,925
+CLEMENTS: <i>Stars and sky.</i>
+<i>We've said many times on this,</i>
+
+734
+00:36:17,008 --> 00:36:20,804
+<i>"If we ever do another movie again,
+we don't want to have any sky,</i>
+
+735
+00:36:20,887 --> 00:36:22,764
+<i>"or any clouds, or any stars.</i> <i>"</i>
+
+736
+00:36:22,847 --> 00:36:25,392
+<i>It's just</i> too <i>complicated.</i>
+
+737
+00:36:26,267 --> 00:36:28,019
+<i>And there again,
+people take it for granted,</i>
+
+738
+00:36:28,103 --> 00:36:30,230
+<i>like, if they look the same in every shot,</i>
+
+739
+00:36:30,313 --> 00:36:32,982
+<i>and they're moving
+at the same speed in every shot...</i>
+
+740
+00:36:33,066 --> 00:36:35,235
+<i>And it doesn't always happen,</i>
+
+741
+00:36:35,318 --> 00:36:40,532
+<i>because somehow continuity
+is very, very difficult to keep going.</i>
+
+742
+00:36:40,615 --> 00:36:43,284
+<i>And this movie, I think, is probably
+one of the most complicated</i>
+
+743
+00:36:43,368 --> 00:36:46,705
+<i>in terms of continuity
+and trying to match from shot to shot.</i>
+
+744
+00:36:46,788 --> 00:36:48,665
+<i>And we had to redo a lot of these skies.</i>
+
+745
+00:36:48,748 --> 00:36:51,459
+CONLI: <i>Well, basically, you're
+just sticklers on continuity.</i> (LAUGHS)
+
+746
+00:36:52,293 --> 00:36:54,087
+MUSKER: <i>No one will ever notice.</i>
+
+747
+00:36:55,296 --> 00:36:56,506
+GOODING: <i>Now, this scene
+ends up having</i>
+
+748
+00:36:56,589 --> 00:37:00,844
+<i>a very Brandywine School
+of Illustration look to it</i>
+
+749
+00:37:00,927 --> 00:37:05,140
+<i>because of the pool of light that we use
+to stage the two characters in.</i>
+
+750
+00:37:05,223 --> 00:37:08,101
+<i>It's a very nice balance
+of warm and cool here.</i>
+
+751
+00:37:08,184 --> 00:37:11,354
+<i>It sort of spotlights the two characters</i>
+
+752
+00:37:11,438 --> 00:37:14,357
+<i>and focuses your attention
+on them nicely.</i>
+
+753
+00:37:14,441 --> 00:37:16,317
+CONLI: <i>Well, this is, I think,
+some of the best acting</i>
+
+754
+00:37:16,401 --> 00:37:18,111
+<i>-in the film.</i>
+- MUSKER: <i>Yeah.</i>
+
+755
+00:37:18,194 --> 00:37:19,904
+<i>Rick Hoppe did a number
+of these scenes</i>
+
+756
+00:37:19,988 --> 00:37:21,072
+<i>of Silver and Jim at the beginning</i>
+
+757
+00:37:21,156 --> 00:37:23,283
+<i>and then Dean Wellins
+did the latter half</i>
+
+758
+00:37:23,366 --> 00:37:28,747
+<i>And really just some great
+acting moments, I think, from Dean.</i>
+
+759
+00:37:28,830 --> 00:37:32,083
+<i>This was a subtlety in thought process.</i>
+
+760
+00:37:32,167 --> 00:37:35,211
+<i>Yeah, Dean Wellins was an animator
+who worked at Warner Brothers,</i>
+
+761
+00:37:35,295 --> 00:37:39,632
+<i>and was a schoolmate of
+John Ripa's and Sergio Pablo's,</i>
+
+762
+00:37:39,716 --> 00:37:42,719
+<i>and this is the first Disney film
+he's worked on,</i>
+
+763
+00:37:42,802 --> 00:37:46,014
+<i>and he just was an outstanding talent.</i>
+
+764
+00:37:46,097 --> 00:37:50,810
+CONLI: <i>The whole Silver team
+and the Jim unit was just amazing.</i>
+
+765
+00:37:50,894 --> 00:37:52,812
+CLEMENTS: <i>That scene of Jim
+was just beautifully acted.</i>
+
+766
+00:37:52,896 --> 00:37:56,357
+<i>And this scene of Silver, I think,
+is one of the best scenes in the movie</i>
+
+767
+00:37:56,441 --> 00:37:58,902
+<i>in terms of how well the acting...</i>
+
+768
+00:37:58,985 --> 00:38:01,029
+MUSKER: <i>Yeah. It's amazing.</i>
+
+769
+00:38:01,529 --> 00:38:03,239
+KEANE: <i>And something that we tried
+on this picture</i>
+
+770
+00:38:03,323 --> 00:38:07,410
+<i>was to have a crew, a shared crew,
+between John and I</i>
+
+771
+00:38:07,494 --> 00:38:10,830
+<i>where some of the animators
+would do both characters,</i>
+
+772
+00:38:10,914 --> 00:38:14,959
+<i>just so that they would understand
+the relationship that much better.</i>
+
+773
+00:38:15,043 --> 00:38:16,920
+RIPA: <i>And that, hopefully, yeah,
+that that would make</i>
+
+774
+00:38:17,003 --> 00:38:19,672
+<i>the relationship on screen
+come across better.</i>
+
+775
+00:38:21,424 --> 00:38:23,301
+CONLI: <i>The storm sequence
+is a real showcase</i>
+
+776
+00:38:23,384 --> 00:38:28,264
+<i>for our head of layout, Rasoul Azadani,
+and head of effects, Dave Tidgwell.</i>
+
+777
+00:38:29,224 --> 00:38:31,893
+<i>It was great, in terms of doing
+an action-adventure movie,</i>
+
+778
+00:38:31,976 --> 00:38:34,979
+<i>I think it was exciting for Rasoul
+to work with virtual sets.</i>
+
+779
+00:38:35,063 --> 00:38:37,273
+<i>This is the first movie
+where we were really able</i>
+
+780
+00:38:37,357 --> 00:38:39,943
+<i>to move the camera
+through environments.</i>
+
+781
+00:38:40,026 --> 00:38:43,905
+<i>And Rasoul is sort of the equivalent
+of a live-action cinematographer,</i>
+
+782
+00:38:43,988 --> 00:38:46,658
+<i>so it was really a freeing thing for him</i>
+
+783
+00:38:46,741 --> 00:38:49,744
+<i>to be able to move the camera
+wherever we wanted it,</i>
+
+784
+00:38:49,828 --> 00:38:52,789
+<i>and I think we really take advantage
+of it in some of these shots.</i>
+
+785
+00:38:52,872 --> 00:38:55,917
+<i>And certainly this is
+a big, big effects movie,</i>
+
+786
+00:38:56,000 --> 00:38:58,753
+<i>probably one of the biggest
+that Disney's ever done.</i>
+
+787
+00:38:58,837 --> 00:39:04,008
+<i>And Dave and his staff really
+responded to that challenge,</i>
+
+788
+00:39:04,092 --> 00:39:06,928
+<i>and did just sort of magnificent work.</i>
+
+789
+00:39:07,011 --> 00:39:10,765
+<i>I think we were really blown away
+by the work of the effects department</i>
+
+790
+00:39:10,849 --> 00:39:12,100
+<i>on this film.</i>
+
+791
+00:39:17,981 --> 00:39:19,983
+CLEMENTS: <i>A lot of the reason
+for the Etherium</i>
+
+792
+00:39:20,066 --> 00:39:21,526
+<i>and being able to breathe
+in outer space</i>
+
+793
+00:39:21,609 --> 00:39:24,153
+<i>is so you could do something
+like this on an open-deck ship</i>
+
+794
+00:39:24,237 --> 00:39:26,656
+<i>and it just made it
+a lot more fun and visceral</i>
+
+795
+00:39:26,739 --> 00:39:28,408
+<i>than if they were in
+some kind of a spaceship.</i>
+
+796
+00:39:28,491 --> 00:39:30,869
+CLEMENTS: <i>What would a space
+sea adventure be without a storm?</i>
+
+797
+00:39:30,952 --> 00:39:32,120
+MUSKER: <i>Yeah.</i>
+
+798
+00:39:36,875 --> 00:39:39,502
+<i>Peter De Mund did
+some of the effects here</i>
+
+799
+00:39:39,586 --> 00:39:43,464
+<i>with the explosions and all the smoke
+trailing off this giant meteor.</i>
+
+800
+00:39:43,548 --> 00:39:45,300
+<i>I guess the idea for this,
+Francis Glebas...</i>
+
+801
+00:39:45,383 --> 00:39:47,760
+CLEMENTS: <i>Francis Glebas came up
+with the giant star shard</i>
+
+802
+00:39:47,844 --> 00:39:50,013
+<i>that reverses direction</i>
+
+803
+00:39:50,096 --> 00:39:53,182
+<i>and kind of breaks the sequence
+into part one and part two.</i>
+
+804
+00:39:53,266 --> 00:39:57,020
+<i>Part one being the star shards,
+part two being the black hole.</i>
+
+805
+00:39:58,396 --> 00:40:00,481
+CONLI: <i>This sequence really was
+a tent pole for us.</i>
+
+806
+00:40:00,565 --> 00:40:02,442
+<i>We were able to get this
+into production really early</i>
+
+807
+00:40:02,525 --> 00:40:03,818
+<i>because we knew
+we wanted this storm.</i>
+
+808
+00:40:03,902 --> 00:40:05,403
+MUSKER: <i>Yeah, it was one of
+the first sequences begun,</i>
+
+809
+00:40:05,486 --> 00:40:08,990
+<i>although it took a long time
+because it had all these special effects.</i>
+
+810
+00:40:09,073 --> 00:40:12,076
+CLEMENTS: <i>Very.</i>
+<i>And it's an effects tour de force</i>
+
+811
+00:40:12,160 --> 00:40:16,456
+<i>with a combination of
+2-D effects and 3-D effects.</i>
+
+812
+00:40:16,706 --> 00:40:18,833
+No, Captain. They're not erratic at all.
+
+813
+00:40:19,667 --> 00:40:21,169
+CLEMENTS: <i>Those screens are cool.</i>
+MUSKER: <i>Yeah.</i>
+
+814
+00:40:22,378 --> 00:40:24,756
+...followed by the biggest
+magilla of them all !
+
+815
+00:40:24,839 --> 00:40:26,090
+MUSKER: <i>We were told
+by Nancy Beiman</i>
+
+816
+00:40:26,174 --> 00:40:27,759
+<i>that we misused
+the word "magilla" here,</i>
+
+817
+00:40:27,842 --> 00:40:30,678
+<i>but we took our lives
+in our hands and said,</i>
+
+818
+00:40:30,762 --> 00:40:32,597
+<i>"Nancy, we're keeping 'magilla. "'</i>
+
+819
+00:40:32,680 --> 00:40:35,224
+<i>And she moved to
+Savannah, Georgia after.</i>
+
+820
+00:40:37,352 --> 00:40:40,021
+Aye, Captain. You heard her, men.
+
+821
+00:40:40,188 --> 00:40:42,148
+Unfurl those sails.
+
+822
+00:40:42,398 --> 00:40:44,817
+CON LI : <i>Nice little piece of acting
+for Arrow back there.</i>
+
+823
+00:40:44,901 --> 00:40:46,110
+MUSKER: <i>Yeah.</i>
+
+824
+00:40:46,819 --> 00:40:48,947
+<i>Birdbrain Mary, the little bird on legs,</i>
+
+825
+00:40:49,030 --> 00:40:50,573
+<i>that was John Mahoney's, I think,
+character design.</i>
+
+826
+00:40:50,657 --> 00:40:52,408
+<i>One of our designers.</i>
+
+827
+00:40:52,492 --> 00:40:53,993
+CLEMENTS: <i>Although
+not originally a female,</i>
+
+828
+00:40:54,077 --> 00:40:55,620
+<i>I think Ellen Woodbury, the animator...</i>
+
+829
+00:40:55,703 --> 00:40:57,121
+MUSKER: <i>She saw
+something female there.</i>
+
+830
+00:40:57,205 --> 00:40:58,706
+CLEMENTS: <i>... wanted to have
+one female pirate.</i>
+
+831
+00:40:58,790 --> 00:41:01,459
+<i>And we agreed it would be nice
+to at least have one female pirate.</i>
+
+832
+00:41:01,542 --> 00:41:03,753
+MUSKER: <i>To have the allure
+of that woman there, yes.</i>
+
+833
+00:41:03,836 --> 00:41:06,422
+CLEMENTS: <i>Some people find her
+attractive, which is really scary.</i>
+
+834
+00:41:06,506 --> 00:41:08,049
+MUSKER: <i>Ron, you do.</i>
+
+835
+00:41:08,132 --> 00:41:09,801
+CLEMENTS: <i>That's pretty scary.</i>
+
+836
+00:41:10,385 --> 00:41:11,803
+(SCREAMING)
+
+837
+00:41:14,722 --> 00:41:16,224
+<i>Now we've started to kill off</i>
+
+838
+00:41:16,349 --> 00:41:18,476
+<i>some of the more complicated
+characters in the movie.</i>
+
+839
+00:41:18,559 --> 00:41:20,853
+<i>Arrow was very difficult to draw
+and clean up.</i>
+
+840
+00:41:20,937 --> 00:41:22,939
+MUSKER: <i>Yeah, there are some
+pirates that die during this movie,</i>
+
+841
+00:41:23,022 --> 00:41:25,149
+<i>and they die in order of
+how complicated they are, I think.</i>
+
+842
+00:41:25,233 --> 00:41:26,985
+<i>The hardest ones to draw
+went first,</i>
+
+843
+00:41:27,068 --> 00:41:30,363
+<i>so once the characters actually
+realized they were hard to draw,</i>
+
+844
+00:41:30,446 --> 00:41:32,824
+<i>they started trying to erase
+their own lines, but it didn't...</i>
+
+845
+00:41:33,574 --> 00:41:35,743
+Captain, the last wave!
+
+846
+00:41:36,035 --> 00:41:37,745
+Here it comes!
+
+847
+00:41:37,912 --> 00:41:39,998
+Hold on to your lifelines, gents!
+
+848
+00:41:40,081 --> 00:41:42,417
+It's gonna be a bumpy ride!
+
+849
+00:41:44,168 --> 00:41:46,421
+MUSKER: <i>As the ship descends down
+into the black hole,</i>
+
+850
+00:41:46,504 --> 00:41:48,798
+<i>this scene actually was quicker
+at one time,</i>
+
+851
+00:41:48,881 --> 00:41:50,758
+<i>and Michael Kelly felt strongly
+we needed a beat</i>
+
+852
+00:41:50,842 --> 00:41:53,302
+<i>that really said,
+"They're gone. This is over.</i> <i>"</i>
+
+853
+00:41:53,386 --> 00:41:56,806
+<i>And so he expanded that time,
+and I think that really to its benefit,</i>
+
+854
+00:41:56,889 --> 00:41:58,850
+<i>that you really have this moment
+of suspension</i>
+
+855
+00:41:58,933 --> 00:42:00,601
+<i>where you're not sure
+what's going to happen.</i>
+
+856
+00:42:00,685 --> 00:42:02,645
+<i>And he really let that hang there
+and play out.</i>
+
+857
+00:42:02,729 --> 00:42:08,192
+<i>So all this movement decrescendoed
+down into this rest,</i>
+
+858
+00:42:08,276 --> 00:42:11,320
+<i>and then suddenly exploded out
+and made the next part more powerful.</i>
+
+859
+00:42:11,404 --> 00:42:14,532
+<i>And I think Michael really sort of
+went to the wall on that,</i>
+
+860
+00:42:14,615 --> 00:42:18,453
+<i>retiming that and really trying
+to give that its maximum impact.</i>
+
+861
+00:42:19,787 --> 00:42:21,456
+CLEMENTS: <i>And Michael's
+a brilliant editor,</i>
+
+862
+00:42:21,539 --> 00:42:23,249
+<i>and I think did a great job on this film.</i>
+
+863
+00:42:23,332 --> 00:42:27,128
+<i>And the most easy-going guy
+you could possibly work with.</i>
+
+864
+00:42:27,211 --> 00:42:30,631
+<i>I mean, just unflappable, really.</i>
+
+865
+00:42:30,715 --> 00:42:32,550
+<i>MUSKER: It's that lighthearted
+Irish thing.</i>
+
+866
+00:42:32,717 --> 00:42:35,261
+Thank you. Thank you very much.
+
+867
+00:42:35,511 --> 00:42:37,722
+Well, I have a lot of help
+to offer anatomically...
+
+868
+00:42:37,805 --> 00:42:40,141
+Amanamonically. . . Astronomically.
+
+869
+00:42:40,767 --> 00:42:42,977
+CLEMENTS: <i>That's a great line,
+a very funny line,</i>
+
+870
+00:42:43,061 --> 00:42:46,230
+<i>written by Rob Edwards,
+who joined us fairly early</i>
+
+871
+00:42:46,314 --> 00:42:48,316
+<i>in the writing process on this film.</i>
+
+872
+00:42:48,399 --> 00:42:52,487
+<i>He's actually one of the writers
+from the sitcom</i> Fresh Prince of Bel-Air.
+
+873
+00:42:52,570 --> 00:42:58,493
+<i>And he worked on this movie with us,
+writing the script for quite a bit of time,</i>
+
+874
+00:42:58,576 --> 00:43:01,204
+<i>and did a great job
+and was a really big help</i>
+
+875
+00:43:01,287 --> 00:43:02,622
+<i>in the writing of the movie.</i>
+
+876
+00:43:04,165 --> 00:43:05,249
+MUSKER: <i>We had to cheat, sort of,</i>
+
+877
+00:43:05,333 --> 00:43:08,002
+<i>that Arrow's hat hung around
+even though he went away</i>
+
+878
+00:43:08,086 --> 00:43:10,421
+<i>so we'd have a little prop
+for them to react to here.</i>
+
+879
+00:43:10,505 --> 00:43:12,715
+CONLI: <i>Nice editing
+by Michael Kelly with the...</i>
+
+880
+00:43:12,799 --> 00:43:15,259
+MUSKER: <i>Yeah, Michael Kelly devised
+some of this, the pacing of this,</i>
+
+881
+00:43:15,343 --> 00:43:19,347
+<i>and the round robin of looks
+that come up in terms of Jim's guilt.</i>
+
+882
+00:43:19,430 --> 00:43:24,268
+<i>Michael really had a fine eye for just
+the pace and the length of these shots,</i>
+
+883
+00:43:24,352 --> 00:43:26,521
+<i>and who you go to when.</i>
+
+884
+00:43:26,604 --> 00:43:30,900
+<i>Right, coming up,
+he cooked this relationship up here.</i>
+
+885
+00:43:32,193 --> 00:43:35,780
+CLEMENTS: <i>And Emma did a great job
+on this little...</i>
+
+886
+00:43:35,863 --> 00:43:37,657
+<i>Eulogy for Mr. Arrow.</i>
+
+887
+00:43:37,782 --> 00:43:38,783
+A fine spacer,
+
+888
+00:43:39,867 --> 00:43:42,954
+finer than most of us
+could ever hope to be.
+
+889
+00:43:43,037 --> 00:43:44,455
+CLEMENTS: <i>It used to be
+a little longer,</i>
+
+890
+00:43:44,539 --> 00:43:48,417
+<i>and we actually followed her
+all the way back into her...</i>
+
+891
+00:43:48,501 --> 00:43:50,503
+MUSKER: <i>Yeah, there was a scene
+where she went into her quarters</i>
+
+892
+00:43:50,586 --> 00:43:52,630
+<i>and was sort of leaning against
+the wall like she was overcome.</i>
+
+893
+00:43:52,713 --> 00:43:54,173
+CLEMENTS: <i>There was a bit
+with Doppler offering to help</i>
+
+894
+00:43:54,257 --> 00:43:57,426
+<i>and she just can't talk to him,
+and goes and closes the door.</i>
+
+895
+00:43:57,510 --> 00:44:01,556
+<i>It was very emotional, but it seemed
+like it took away from Jim's emotion.</i>
+
+896
+00:44:03,391 --> 00:44:06,727
+MUSKER: <i>Ian Gooding design
+of that big nebula.</i>
+
+897
+00:44:06,811 --> 00:44:08,437
+CLEMENTS: <i>This is a very key
+sequence of the movie,</i>
+
+898
+00:44:08,521 --> 00:44:10,189
+<i>storyboarded by Ken Harsha</i>
+
+899
+00:44:10,273 --> 00:44:13,025
+<i>who did a beautiful job
+on the storyboards of this.</i>
+
+900
+00:44:13,109 --> 00:44:16,237
+<i>And the animation by
+Glen Keane and John Ripa</i>
+
+901
+00:44:16,320 --> 00:44:19,073
+<i>pretty much reflects a lot
+of what was in those boards.</i>
+
+902
+00:44:19,157 --> 00:44:20,741
+MUSKER: <i>Yeah, it's almost
+shot for shot.</i>
+
+903
+00:44:21,909 --> 00:44:25,913
+Why, half the crew would be
+spinning in that black abyss...
+
+904
+00:44:25,997 --> 00:44:29,083
+Look, don't you get it? I screwed up!
+
+905
+00:44:29,167 --> 00:44:30,668
+CLEMENTS: <i>This was
+a pivotal sequence,</i>
+
+906
+00:44:30,751 --> 00:44:32,336
+<i>I think, that we always
+pictured this moment</i>
+
+907
+00:44:32,420 --> 00:44:34,338
+<i>as the bonding moment
+between the two,</i>
+
+908
+00:44:34,422 --> 00:44:37,633
+<i>and that from this point in the movie,
+actually that Silver and Jim</i>
+
+909
+00:44:37,717 --> 00:44:40,720
+<i>have become father and son.</i>
+<i>At least, surrogate father and son.</i>
+
+910
+00:44:40,803 --> 00:44:44,348
+<i>And that that will remain.</i>
+<i>That sort of can't be taken away.</i>
+
+911
+00:44:44,432 --> 00:44:47,602
+<i>So, this is the moment
+where that happens</i>
+
+912
+00:44:47,685 --> 00:44:51,689
+<i>and that's going to play off a lot
+in terms of what happens later.</i>
+
+913
+00:44:51,981 --> 00:44:56,652
+James Hawkins.
+You got the makings of greatness in ya.
+
+914
+00:44:56,736 --> 00:45:00,865
+KEANE: <i>If there was ever
+a sequence that I would love to go</i>
+
+915
+00:45:00,948 --> 00:45:06,245
+<i>and keep trying to make it reach
+its potential, it's this sequence.</i>
+
+916
+00:45:06,746 --> 00:45:11,959
+<i>Because it's so deep,
+and the emotions that I felt with this</i>
+
+917
+00:45:12,043 --> 00:45:17,006
+<i>were so much tied into my own history
+and what happened to me as a...</i>
+
+918
+00:45:17,423 --> 00:45:21,928
+<i>When I was 18 years old
+and my football coach comforted me</i>
+
+919
+00:45:22,011 --> 00:45:25,348
+<i>in the parking lot one night
+after a football game</i>
+
+920
+00:45:25,431 --> 00:45:29,894
+<i>where I had completely lost
+the starting position,</i>
+
+921
+00:45:29,977 --> 00:45:32,980
+<i>and I felt unjustly treated.</i>
+
+922
+00:45:33,064 --> 00:45:36,234
+<i>And he came out, and put his hand
+on my shoulder and said,</i>
+
+923
+00:45:36,317 --> 00:45:37,902
+<i>"Glen, you're gonna do great things,</i>
+
+924
+00:45:37,985 --> 00:45:41,030
+<i>"I'm gonna be there
+when you're making that touchdown.</i> <i>"</i>
+
+925
+00:45:41,113 --> 00:45:44,700
+<i>And, I mean, he had tears in his eyes,
+and I had tears in my eyes.</i>
+
+926
+00:45:44,784 --> 00:45:47,245
+<i>And looked a lot like Long John Silver.</i>
+
+927
+00:45:47,328 --> 00:45:51,666
+<i>It was one of those soul inspirations
+for me in this character.</i>
+
+928
+00:45:51,749 --> 00:45:56,587
+<i>And when you're drawing on
+an emotion like that, that's so real,</i>
+
+929
+00:45:56,671 --> 00:45:58,339
+<i>you're setting yourself up for a fall.</i>
+
+930
+00:45:58,422 --> 00:46:03,261
+<i>You're never going to be able
+to capture how you felt.</i>
+
+931
+00:46:03,344 --> 00:46:05,930
+<i>I think we both probably animated
+every scene in this</i>
+
+932
+00:46:06,013 --> 00:46:08,432
+<i>at least two or three times.</i>
+
+933
+00:46:10,476 --> 00:46:14,772
+Next thing ya know,
+they'll be saying I've gone soft.
+
+934
+00:46:14,855 --> 00:46:16,607
+CLEMENTS: <i>The softer side of Silver.</i>
+
+935
+00:46:17,692 --> 00:46:20,987
+<i>It was tricky, Silver was a very complex
+character to deal with</i>
+
+936
+00:46:21,070 --> 00:46:23,447
+<i>'cause he's part bad guy,
+part good guy,</i>
+
+937
+00:46:23,531 --> 00:46:27,368
+<i>and we were always walking
+that tightrope as far as...</i>
+
+938
+00:46:27,451 --> 00:46:29,120
+MUSKER: <i>Yeah. If he was</i> too <i>nice,
+that hurt the story.</i>
+
+939
+00:46:29,203 --> 00:46:30,913
+<i>If he was</i> too <i>dark,
+that seemed to hurt the story.</i>
+
+940
+00:46:30,997 --> 00:46:33,499
+<i>We really struggled to find
+a balance between the two.</i>
+
+941
+00:46:34,959 --> 00:46:37,586
+<i>This is a very complicated shot,
+although it doesn't look like it.</i>
+
+942
+00:46:37,670 --> 00:46:41,132
+<i>It's a 3-D set combined with
+some 2-D elements.</i>
+
+943
+00:46:41,215 --> 00:46:43,050
+CLEMENTS: <i>This is a lot of
+Adam animation, right?</i>
+
+944
+00:46:43,134 --> 00:46:44,802
+MUSKER: <i>Yeah,
+Adam Dykstra doing stuff</i>
+
+945
+00:46:44,885 --> 00:46:47,930
+<i>And Dean Wellins did Jim here,
+did some really fine attitudes.</i>
+
+946
+00:46:48,014 --> 00:46:50,975
+CLEMENTS: <i>Some of the first
+animation that Dean did on the movie.</i>
+
+947
+00:46:51,058 --> 00:46:52,977
+MUSKER: <i>And Mike Show did Morph
+through all this.</i>
+
+948
+00:46:53,060 --> 00:46:55,521
+<i>Mike Show and Jay Jackson
+did all of Morph pretty much,</i>
+
+949
+00:46:55,604 --> 00:46:56,981
+<i>I guess there's a scene here
+that other people did,</i>
+
+950
+00:46:57,064 --> 00:47:00,234
+<i>but Mike really did most of him,
+which was great.</i>
+
+951
+00:47:00,318 --> 00:47:02,820
+<i>Joey Gordon-Levitt
+who did a great job on Jim's voice,</i>
+
+952
+00:47:02,903 --> 00:47:04,488
+<i>he had to say,
+"You little squidge, " here,</i>
+
+953
+00:47:04,572 --> 00:47:06,198
+<i>and somehow he didn't like
+the word "squidge"</i>
+
+954
+00:47:06,282 --> 00:47:07,992
+<i>and we had to talk him into it,
+but Joey...</i>
+
+955
+00:47:08,075 --> 00:47:10,119
+<i>He loosened up in the course
+of the acting process.</i>
+
+956
+00:47:10,202 --> 00:47:11,996
+<i>In the initial going,
+he was kind of reserved.</i>
+
+957
+00:47:12,079 --> 00:47:15,082
+<i>"What is this all about? I've never acted
+without other actors.</i> '<i>' And all this.</i>
+
+958
+00:47:15,166 --> 00:47:16,459
+<i>But he eventually came
+to embrace this,</i>
+
+959
+00:47:16,542 --> 00:47:19,670
+<i>and just did a wonderful job,
+and did improv stuff as well.</i>
+
+960
+00:47:19,754 --> 00:47:21,172
+CLEMENTS: <i>With Joey,
+it was very much like Jim,</i>
+
+961
+00:47:21,255 --> 00:47:22,548
+<i>that he started out very cautious</i>
+
+962
+00:47:22,631 --> 00:47:25,343
+<i>and reserved, and then he sort of
+opened up more and more</i>
+
+963
+00:47:25,426 --> 00:47:27,720
+<i>in the course of, like,
+several years of recording.</i>
+
+964
+00:47:27,803 --> 00:47:30,556
+<i>- These things take so long to do.</i>
+- MUSKER: <i>Yeah.</i>
+
+965
+00:47:33,142 --> 00:47:34,310
+(GRUNTS)
+
+966
+00:47:34,518 --> 00:47:37,730
+GOODING: <i>Now here we see
+the 3-D virtual set</i>
+
+967
+00:47:37,813 --> 00:47:39,982
+<i>relit with a completely different look.</i>
+
+968
+00:47:40,358 --> 00:47:42,610
+<i>With a sort of nice green light.</i>
+
+969
+00:47:42,693 --> 00:47:45,571
+<i>Now, everything has turned green
+at this point,</i>
+
+970
+00:47:45,654 --> 00:47:48,532
+<i>so you know you're approaching
+Treasure Planet.</i>
+
+971
+00:47:48,616 --> 00:47:51,118
+CLEMENTS: <i>This whole scene is one
+of the tent-pole scenes</i>
+
+972
+00:47:51,202 --> 00:47:52,203
+<i>from the novel</i> Treasure Island.
+
+973
+00:47:52,286 --> 00:47:54,330
+<i>Of course, we haven't mentioned
+Robert Louis Stevenson</i> too <i>much,</i>
+
+974
+00:47:54,413 --> 00:47:56,207
+<i>but he was the whole reason
+for this going.</i>
+
+975
+00:47:56,290 --> 00:47:58,542
+<i>And there's the famous
+apple barrel scene in there</i>
+
+976
+00:47:58,626 --> 00:48:01,545
+<i>where Jim Hawkins learns the truth
+about Long John Silver,</i>
+
+977
+00:48:01,629 --> 00:48:03,047
+<i>and this is sort of our homage to that.</i>
+
+978
+00:48:03,130 --> 00:48:06,592
+<i>And we just felt it was important for Jim
+to realize how he's been betrayed,</i>
+
+979
+00:48:06,675 --> 00:48:08,552
+<i>and we wanted to hang on
+to that scene,</i>
+
+980
+00:48:08,636 --> 00:48:12,223
+<i>so this is sort of our adaptation
+of Stevenson's scene.</i>
+
+981
+00:48:13,599 --> 00:48:16,560
+CONLI: <i>I mean, with the adaptation,
+we were fairly faithful</i>
+
+982
+00:48:16,644 --> 00:48:20,606
+<i>to several tent poles in the book,
+to kind of maintain that through-line.</i>
+
+983
+00:48:22,483 --> 00:48:23,901
+CLEMENTS: <i>And you
+children at home,</i>
+
+984
+00:48:23,984 --> 00:48:25,236
+<i>we'd recommend
+turning off the tape now</i>
+
+985
+00:48:25,319 --> 00:48:28,197
+<i>and going and reading the book
+because it is actually a great book,</i>
+
+986
+00:48:28,280 --> 00:48:31,283
+<i>and well-worth reading,
+and holds up to this day.</i>
+
+987
+00:48:31,367 --> 00:48:33,077
+CONLI: <i>It's worth noting
+that the three of us</i>
+
+988
+00:48:33,160 --> 00:48:34,245
+<i>read the book when we were kids</i>
+
+989
+00:48:34,328 --> 00:48:37,373
+<i>and we fell in love with it,
+and that's why the film is what it is.</i>
+
+990
+00:48:38,207 --> 00:48:39,417
+GOODING: <i>Towards the end
+of this sequence,</i>
+
+991
+00:48:39,500 --> 00:48:41,710
+<i>you'll see that
+everything's transitioning</i>
+
+992
+00:48:41,794 --> 00:48:45,047
+<i>towards a more golden-orange light.</i>
+
+993
+00:48:46,048 --> 00:48:48,551
+<i>Another difficult sequence to do,</i>
+
+994
+00:48:49,260 --> 00:48:51,053
+<i>as transitions always are.</i>
+
+995
+00:48:52,805 --> 00:48:55,641
+<i>Because we have our mutiny
+coming up,</i>
+
+996
+00:48:55,724 --> 00:49:00,438
+<i>and that, we had originally keyed
+the mutiny with orange light,</i>
+
+997
+00:49:00,521 --> 00:49:02,773
+<i>so we needed to somehow
+transition to that,</i>
+
+998
+00:49:02,857 --> 00:49:05,151
+<i>so you see it gradually happening.</i>
+
+999
+00:49:05,234 --> 00:49:09,530
+<i>And it helps to highlight the characters
+getting more and more angry, also.</i>
+
+1000
+00:49:11,824 --> 00:49:14,743
+MUSKER: <i>We're coming up on
+the reveal of Treasure Planet,</i>
+
+1001
+00:49:14,827 --> 00:49:16,745
+<i>which, again, was one of those
+slight nightmare shots,</i>
+
+1002
+00:49:16,829 --> 00:49:18,789
+<i>but David Krentz did some drawings.</i>
+
+1003
+00:49:18,873 --> 00:49:21,792
+<i>David Krentz was in layout, and
+did these beautiful charcoal drawings</i>
+
+1004
+00:49:21,876 --> 00:49:23,461
+<i>that showed how the planet
+might be displayed.</i>
+
+1005
+00:49:23,544 --> 00:49:24,795
+<i>And then Uma Thumrugoti,</i>
+
+1006
+00:49:24,879 --> 00:49:27,131
+<i>that was one of the more difficult
+names to pronounce on the movie,</i>
+
+1007
+00:49:27,214 --> 00:49:30,176
+<i>really worked for months in terms of
+just getting all that cloud animation</i>
+
+1008
+00:49:30,259 --> 00:49:32,553
+<i>and the reel of the planet
+working just right.</i>
+
+1009
+00:49:33,721 --> 00:49:36,015
+CLEMENTS: <i>Originally,
+we had Silver set down</i>
+
+1010
+00:49:36,098 --> 00:49:38,184
+<i>his spyglass in the earlier sequence,</i>
+
+1011
+00:49:38,893 --> 00:49:41,479
+<i>but the way it was staged,
+there really wasn't any way to show it.</i>
+
+1012
+00:49:41,562 --> 00:49:43,606
+<i>But, of course, the bigger question is
+why does Silver</i>
+
+1013
+00:49:43,689 --> 00:49:46,650
+<i>need a spyglass anyway
+since he's got this cyborg eye?</i>
+
+1014
+00:49:46,734 --> 00:49:48,152
+MUSKER: <i>We did record this scene</i>
+
+1015
+00:49:48,235 --> 00:49:49,487
+<i>with Joey Gordon-Levitt
+and Brian Murray</i>
+
+1016
+00:49:49,570 --> 00:49:50,988
+<i>in the same room at the same time,</i>
+
+1017
+00:49:51,071 --> 00:49:52,656
+<i>which we also did
+in that earlier sequence.</i>
+
+1018
+00:49:52,740 --> 00:49:55,326
+CLEMENTS: <i>A lot of the stuff we did
+with the two of them together...</i>
+
+1019
+00:49:55,409 --> 00:49:58,329
+MUSKER: <i>I think Joey felt strongly
+he could play off another actor better,</i>
+
+1020
+00:49:58,412 --> 00:50:00,122
+<i>and felt less like he was in a void.</i>
+
+1021
+00:50:00,206 --> 00:50:02,333
+<i>And he was right, it really
+brought a lot to the scenes</i>
+
+1022
+00:50:02,416 --> 00:50:05,085
+<i>to have them both in the same room
+and playing off each other.</i>
+
+1023
+00:50:05,169 --> 00:50:06,754
+CLEMENTS: <i>And they bonded.</i>
+
+1024
+00:50:06,837 --> 00:50:10,674
+<i>You had the sort of older actor
+and the younger actor,</i>
+
+1025
+00:50:10,758 --> 00:50:12,259
+<i>and they became good friends.</i>
+
+1026
+00:50:12,343 --> 00:50:14,428
+MUSKER: <i>This scene through
+Silver's eye we had to retake</i>
+
+1027
+00:50:14,512 --> 00:50:17,681
+<i>because the first version of this,
+it was all green and obscure.</i>
+
+1028
+00:50:17,765 --> 00:50:18,849
+<i>You couldn't tell what was going on.</i>
+
+1029
+00:50:18,933 --> 00:50:21,185
+<i>And we had to sort of rework it.</i>
+<i>Dave Tidgwell sort of reworked it</i>
+
+1030
+00:50:21,268 --> 00:50:23,103
+<i>to make it clear.</i>
+
+1031
+00:50:25,147 --> 00:50:26,899
+<i>Now we're getting into
+pirates as pirates here,</i>
+
+1032
+00:50:26,982 --> 00:50:29,860
+<i>so we really wanted our homage to...</i>
+<i>You know, classic things.</i>
+
+1033
+00:50:29,944 --> 00:50:33,239
+<i>So pirates start swinging into camera
+and storming down,</i>
+
+1034
+00:50:33,322 --> 00:50:34,949
+<i>and we have a shot coming up of Silver</i>
+
+1035
+00:50:35,032 --> 00:50:37,201
+<i>with the Jolly Roger
+rising up behind him.</i>
+
+1036
+00:50:37,284 --> 00:50:39,828
+<i>Very iconic images
+we were going for here.</i>
+
+1037
+00:50:39,912 --> 00:50:42,206
+<i>Brandishing the weapons,
+I mean, all these...</i>
+
+1038
+00:50:42,289 --> 00:50:43,290
+<i>Racing around the deck.</i>
+
+1039
+00:50:43,374 --> 00:50:44,708
+CLEMENTS: <i>You might notice here</i>
+
+1040
+00:50:44,792 --> 00:50:47,336
+<i>that Mr. Hands is also
+very difficult to draw.</i>
+
+1041
+00:50:47,419 --> 00:50:49,380
+MUSKER: <i>Here's one of the icons.</i>
+<i>That pirate flag was designed</i>
+
+1042
+00:50:49,463 --> 00:50:51,799
+<i>by Andy Gaskill, our art director.</i>
+
+1043
+00:50:52,216 --> 00:50:53,467
+I'll see they all hang.
+
+1044
+00:50:53,842 --> 00:50:54,969
+Doctor, familiar with these?
+
+1045
+00:50:55,052 --> 00:50:57,513
+Oh, I've seen. . . Well, I've read...
+
+1046
+00:50:59,056 --> 00:51:00,599
+Uh, no. No. No, I'm not.
+
+1047
+00:51:01,308 --> 00:51:03,143
+MUSKER: <i>The shot of Morph looking
+at his reflection, I think,</i>
+
+1048
+00:51:03,227 --> 00:51:05,396
+<i>was based on a Roy Disney comment,
+where he needed to,</i>
+
+1049
+00:51:05,479 --> 00:51:08,399
+<i>or wanted to get that set up
+more clearly, why Morph was...</i>
+
+1050
+00:51:08,482 --> 00:51:10,651
+<i>That it was a playful thing
+and not a malicious thing.</i>
+
+1051
+00:51:11,860 --> 00:51:13,404
+CLEMENTS: <i>Yeah, the idea of Morph</i>
+
+1052
+00:51:13,487 --> 00:51:16,740
+<i>is that he is just
+all feelings and emotions</i>
+
+1053
+00:51:16,824 --> 00:51:21,036
+<i>and no intellect, and really has no idea
+of anything that's going on.</i>
+
+1054
+00:51:23,914 --> 00:51:25,165
+Stop them !
+
+1055
+00:51:26,083 --> 00:51:29,086
+RIPA: <i>These are our big
+submarine-type shots</i>
+
+1056
+00:51:29,169 --> 00:51:31,714
+<i>where the camera is running through
+and the characters are running through</i>
+
+1057
+00:51:31,797 --> 00:51:33,549
+<i>these tight cornerways
+and things like that.</i>
+
+1058
+00:51:33,632 --> 00:51:37,219
+<i>Shawn Keller had handled Jim
+and most of those running ones,</i>
+
+1059
+00:51:37,303 --> 00:51:40,889
+<i>did a nice job matching
+the atmosphere and everything.</i>
+
+1060
+00:51:41,724 --> 00:51:43,017
+(GRUNTS)
+
+1061
+00:51:45,519 --> 00:51:47,771
+MUSKER: <i>This is an example
+of interactive lighting,</i>
+
+1062
+00:51:47,855 --> 00:51:51,442
+<i>where there's a light source outside
+that changes the lighting of the set.</i>
+
+1063
+00:51:51,525 --> 00:51:53,611
+CLEMENTS: <i>I think Emma
+really enjoyed the fact</i>
+
+1064
+00:51:53,694 --> 00:51:55,821
+<i>that she could play action-adventure.</i>
+
+1065
+00:51:55,904 --> 00:51:59,366
+<i>She's never really done
+an action-adventure movie before,</i>
+
+1066
+00:51:59,450 --> 00:52:05,289
+<i>and she was actually pregnant through
+most of the Amelia recording.</i>
+
+1067
+00:52:05,914 --> 00:52:08,042
+CONLI: <i>She was very happy
+she didn't have to get buff</i>
+
+1068
+00:52:08,125 --> 00:52:11,003
+CLEMENTS: <i>So, we lost several
+complicated characters there</i>
+
+1069
+00:52:11,086 --> 00:52:12,546
+<i>that were very difficult to draw.</i>
+
+1070
+00:52:12,630 --> 00:52:16,800
+CONLI: <i>So it's a lesson to you, kids,
+don't ever be a complicated character.</i>
+
+1071
+00:52:16,884 --> 00:52:18,552
+MUSKER: <i>You notice Silver's eye</i>
+
+1072
+00:52:18,636 --> 00:52:19,803
+<i>changing color
+through these sequences.</i>
+
+1073
+00:52:19,887 --> 00:52:22,890
+<i>He sort of had a mood eye.</i>
+<i>When he was in his normal mode,</i>
+
+1074
+00:52:22,973 --> 00:52:24,391
+<i>and kind of full of blarney, it's yellow.</i>
+
+1075
+00:52:24,475 --> 00:52:28,604
+<i>But as he gets angrier, or more
+incensed or whatever, it gets redder.</i>
+
+1076
+00:52:28,687 --> 00:52:31,523
+<i>So you'll see through
+some of this section, it's a red eye,</i>
+
+1077
+00:52:31,607 --> 00:52:34,485
+<i>and as he softens,
+it goes back into the yellow mode.</i>
+
+1078
+00:52:35,319 --> 00:52:40,324
+KEANE: <i>The recording session
+between Brian Murray and Joey here</i>
+
+1079
+00:52:40,407 --> 00:52:43,327
+<i>was just the greatest.</i>
+
+1080
+00:52:43,410 --> 00:52:46,038
+RIPA: <i>Yeah, we could have stretched
+this area out for about 10 minutes.</i>
+
+1081
+00:52:46,121 --> 00:52:48,374
+<i>They did so much fun stuff</i>
+
+1082
+00:52:48,457 --> 00:52:50,459
+KEANE: <i>You really felt
+like there was this</i>
+
+1083
+00:52:50,542 --> 00:52:51,960
+<i>competition between the two of them,</i>
+
+1084
+00:52:52,044 --> 00:52:54,588
+<i>and actually, in the recording session,
+when they were talking,</i>
+
+1085
+00:52:54,672 --> 00:52:56,965
+<i>you felt like they genuinely
+wanted to win...</i>
+
+1086
+00:52:57,049 --> 00:52:59,093
+RIPA: <i>Yeah.</i>
+KEANE: <i>...between each other.</i>
+
+1087
+00:53:00,803 --> 00:53:03,347
+<i>I felt like this was an animator's film</i>
+
+1088
+00:53:03,430 --> 00:53:06,892
+<i>in that even though there's all kinds
+of amazing effects and everything,</i>
+
+1089
+00:53:06,975 --> 00:53:09,186
+<i>it's still character-centered.</i>
+
+1090
+00:53:09,937 --> 00:53:13,232
+<i>That it gives you time to really explore
+the expressions,</i>
+
+1091
+00:53:13,315 --> 00:53:14,733
+<i>the attitudes of the characters.</i>
+
+1092
+00:53:14,817 --> 00:53:19,571
+<i>It's only going to work if the audience
+really believes and likes</i>
+
+1093
+00:53:19,655 --> 00:53:24,743
+<i>your main character,
+and relationships are growing,</i>
+
+1094
+00:53:24,827 --> 00:53:27,162
+<i>and causing the audience
+to want to see</i>
+
+1095
+00:53:27,246 --> 00:53:29,832
+<i>what's going to happen
+between Doppler and Amelia,</i>
+
+1096
+00:53:29,915 --> 00:53:31,041
+<i>and Silver and Jim.</i>
+
+1097
+00:53:31,125 --> 00:53:33,210
+RIPA: <i>Where it's all gonna go.</i>
+KEANE: <i>Yeah.</i>
+
+1098
+00:53:33,293 --> 00:53:35,087
+MUSKER: <i>These trees are 2-D
+for the most part.</i>
+
+1099
+00:53:35,170 --> 00:53:38,340
+<i>They're hand-drawn, but a million
+levels of them so they get dimensional.</i>
+
+1100
+00:53:38,424 --> 00:53:39,591
+<i>Except that was 3-D right there.</i>
+
+1101
+00:53:39,675 --> 00:53:42,636
+<i>So we keep bouncing back and forth
+between 2-D and 3-D.</i>
+
+1102
+00:53:42,720 --> 00:53:44,388
+<i>And this shot was all 2-D.</i>
+
+1103
+00:53:44,471 --> 00:53:47,725
+<i>It was a challenge because 3-D
+is more expensive, takes longer to do,</i>
+
+1104
+00:53:47,808 --> 00:53:50,394
+<i>and we really had to pick our spots
+for our 3-D shots.</i>
+
+1105
+00:53:50,519 --> 00:53:51,770
+(GRUNTS)
+
+1106
+00:53:52,146 --> 00:53:53,188
+Ow!
+
+1107
+00:53:54,064 --> 00:53:55,941
+Oh, my goodness.
+
+1108
+00:53:56,024 --> 00:53:58,402
+That was more fun than
+I ever want to have again.
+
+1109
+00:53:58,485 --> 00:53:59,570
+(CHUCKLES)
+
+1110
+00:53:59,653 --> 00:54:03,907
+CLEMENTS: <i>The basic idea
+of the planet was, as we will learn later,</i>
+
+1111
+00:54:03,991 --> 00:54:06,744
+<i>that the planet is really
+a machine that is covered</i>
+
+1112
+00:54:06,827 --> 00:54:09,788
+<i>-with a bunch of, like, moldy stuff
+</i>-MUSKER: <i>Fungi.</i>
+
+1113
+00:54:09,872 --> 00:54:12,416
+CLEMENTS: <i>Kind of the stuff that
+would grow in your refrigerator</i>
+
+1114
+00:54:12,499 --> 00:54:15,627
+<i>if you left stuff in your refrigerator
+over a million years.</i>
+
+1115
+00:54:16,336 --> 00:54:18,714
+<i>And I actually think
+there was research done</i>
+
+1116
+00:54:18,797 --> 00:54:20,299
+<i>in terms of various bacteria.</i>
+
+1117
+00:54:20,382 --> 00:54:23,385
+MUSKER: <i>When I went to CalArts,
+it was our refrigerator that was like that.</i>
+
+1118
+00:54:23,469 --> 00:54:24,762
+<i>Or was it the bathroom?</i>
+
+1119
+00:54:24,845 --> 00:54:26,096
+<i>No, it was the refrigerator.</i>
+
+1120
+00:54:26,847 --> 00:54:28,974
+CLEMENTS: <i>So,
+there were subliminal things</i>
+
+1121
+00:54:29,057 --> 00:54:32,686
+<i>That kind of may hint
+that this is not a normal planet.</i>
+
+1122
+00:54:33,353 --> 00:54:35,606
+<i>Although, until we see the structure,</i>
+
+1123
+00:54:35,689 --> 00:54:40,152
+<i>I think we wanted people to sort of
+take it more as just a planet.</i>
+
+1124
+00:54:41,028 --> 00:54:43,155
+MUSKER: <i>But our layout department,
+Rasoul and everybody,</i>
+
+1125
+00:54:43,238 --> 00:54:46,158
+<i>did a lot of research into
+just sort of different vegetation,</i>
+
+1126
+00:54:46,241 --> 00:54:50,287
+<i>and they explored all sorts of fungi
+and mold spores,</i>
+
+1127
+00:54:50,370 --> 00:54:51,622
+<i>-and macro-things.</i>
+- CLEMENTS: <i>Coral.</i>
+
+1128
+00:54:51,705 --> 00:54:53,624
+MUSKER: <i>Little micro-things that
+they blew up to huge scale.</i>
+
+1129
+00:54:53,707 --> 00:54:55,000
+<i>Yeah, and coral structures.</i>
+
+1130
+00:54:55,083 --> 00:54:57,544
+<i>And tried to make it sort of
+an other-worldly landscape,</i>
+
+1131
+00:54:57,628 --> 00:54:59,379
+<i>and yet, vegetation.
+That was a big thing.</i>
+
+1132
+00:54:59,463 --> 00:55:00,964
+<i>We wanted to get some green
+into the movie.</i>
+
+1133
+00:55:01,048 --> 00:55:04,384
+<i>We kept green off the color palette
+until we got there</i>
+
+1134
+00:55:04,468 --> 00:55:05,803
+<i>to play up that there was still</i>
+
+1135
+00:55:05,886 --> 00:55:08,055
+<i>a tropical island analogy
+we wanted to get,</i>
+
+1136
+00:55:08,138 --> 00:55:11,475
+<i>that there was something
+almost tropic about this place.</i>
+
+1137
+00:55:11,558 --> 00:55:14,561
+<i>And to disguise its machine origins,
+that it really...</i>
+
+1138
+00:55:14,645 --> 00:55:16,104
+<i>You wouldn't suspect it, first thing,</i>
+
+1139
+00:55:16,188 --> 00:55:18,982
+<i>it seemed so organic
+that it could be this inorganic place.</i>
+
+1140
+00:55:19,066 --> 00:55:22,152
+<i>Plus, then we had to design
+the alien technology.</i>
+
+1141
+00:55:22,236 --> 00:55:23,987
+<i>What was this race
+that built this planet?</i>
+
+1142
+00:55:24,071 --> 00:55:25,197
+<i>What was their technology like?</i>
+
+1143
+00:55:25,280 --> 00:55:26,573
+<i>And we didn't want it to be human stuff,</i>
+
+1144
+00:55:26,657 --> 00:55:29,117
+<i>so some of the early development
+on that seemed a little bit</i>
+
+1145
+00:55:29,201 --> 00:55:31,245
+too <i>much gears and sprockets,
+and we said, "Well, no.</i>
+
+1146
+00:55:31,328 --> 00:55:33,330
+<i>"It's got to feel more other-worldly.</i> <i>"</i>
+
+1147
+00:55:33,413 --> 00:55:35,707
+<i>It's a culture that isn't the culture
+of the rest of the movie,</i>
+
+1148
+00:55:35,791 --> 00:55:38,836
+<i>so that was a challenge to find
+something that felt different enough</i>
+
+1149
+00:55:38,919 --> 00:55:40,212
+<i>so that it stood out from that.</i>
+
+1150
+00:55:40,295 --> 00:55:41,421
+(BOTH SCREAMING)
+
+1151
+00:55:41,922 --> 00:55:43,507
+Oh, this is fantastic!
+
+1152
+00:55:43,590 --> 00:55:46,844
+A carbon-based life form
+come to rescue me at last!
+
+1153
+00:55:46,927 --> 00:55:49,263
+I just want to hug you and squeeze you
+
+1154
+00:55:49,346 --> 00:55:50,597
+and hold you close to me.
+
+1155
+00:55:50,681 --> 00:55:52,224
+All right. Okay.
+
+1156
+00:55:52,558 --> 00:55:55,269
+MUSKER: <i>Martin Short,
+the voice of B.E.N.,</i>
+
+1157
+00:55:55,352 --> 00:55:57,479
+<i>noted from all his movies
+and everything,</i>
+
+1158
+00:55:57,563 --> 00:56:00,023
+<i>great improv actor.</i> So <i>we wrote it...</i>
+
+1159
+00:56:00,107 --> 00:56:02,192
+<i>We tried to take advantage of Martin,</i>
+
+1160
+00:56:02,276 --> 00:56:03,986
+<i>but certainly he added a lot
+in his improv.</i>
+
+1161
+00:56:04,069 --> 00:56:05,779
+CLEMENTS: <i>Yeah, we probably
+have five times,</i>
+
+1162
+00:56:05,863 --> 00:56:08,323
+<i>six times as much material for Martin
+as anyone in this film.</i>
+
+1163
+00:56:08,407 --> 00:56:09,575
+MUSKER: <i>Yeah, we have
+a whole raft of material.</i>
+
+1164
+00:56:09,658 --> 00:56:10,951
+I am, um...
+
+1165
+00:56:11,451 --> 00:56:13,370
+My name is, uh...
+
+1166
+00:56:14,955 --> 00:56:16,331
+<i>This gag here, where...</i>
+
+1167
+00:56:16,415 --> 00:56:19,084
+<i>The cuckoo thing was Barry Johnson,
+our head of story, his idea,</i>
+
+1168
+00:56:19,167 --> 00:56:21,461
+<i>his gag, and it gets one of
+the biggest laughs in the movie.</i>
+
+1169
+00:56:21,545 --> 00:56:22,880
+<i>It was Barry's idea.</i>
+
+1170
+00:56:24,548 --> 00:56:25,549
+<i>B.E.N., in the script,</i>
+
+1171
+00:56:25,632 --> 00:56:27,718
+<i>we had a whole thing
+where he leaked oil inadvertently,</i>
+
+1172
+00:56:27,801 --> 00:56:30,554
+<i>and that somehow went away
+eventually. It was vaguely scatological.</i>
+
+1173
+00:56:30,637 --> 00:56:32,848
+<i>But somehow, I don't know why
+it went away, but it went away.</i>
+
+1174
+00:56:32,931 --> 00:56:33,932
+CLEMENTS: <i>And you still miss it.</i>
+
+1175
+00:56:34,016 --> 00:56:36,184
+MUSKER: <i>I miss it,
+I think we made a mistake.</i>
+
+1176
+00:56:36,268 --> 00:56:39,396
+<i>But, hey, let's just talk about
+the mistakes for a while.</i>
+
+1177
+00:56:39,479 --> 00:56:41,315
+CLEMENTS: <i>This was ad-libbed,
+this whole little rant here.</i>
+
+1178
+00:56:41,398 --> 00:56:43,942
+MUSKER: <i>Yeah,
+this rant about his therapist.</i>
+
+1179
+00:56:45,527 --> 00:56:49,990
+<i>Rambling, and very funny Martin
+off-the-wall shtick.</i>
+
+1180
+00:56:51,283 --> 00:56:52,534
+But that means. . . But wait.
+
+1181
+00:56:52,618 --> 00:56:55,037
+MUSKER: <i>Oskar Urretabizkaia was
+the animator for B.E.N.,</i>
+
+1182
+00:56:55,120 --> 00:57:00,083
+<i>and of Basque Spanish descent
+and very difficult-to-pronounce name,</i>
+
+1183
+00:57:00,167 --> 00:57:01,710
+<i>but he did a great job.</i>
+
+1184
+00:57:01,793 --> 00:57:04,880
+<i>We were concerned
+'cause B.E.N. is a 3-D character,</i>
+
+1185
+00:57:04,963 --> 00:57:06,757
+<i>but we wanted him to integrate
+with the 2-D characters,</i>
+
+1186
+00:57:06,840 --> 00:57:10,260
+<i>so his animation was meant to be
+as cartoony as the other characters.</i>
+
+1187
+00:57:10,344 --> 00:57:13,138
+<i>And we tried to design him
+so he had a line around him</i>
+
+1188
+00:57:13,221 --> 00:57:14,264
+<i>so he'd fit with the other characters,</i>
+
+1189
+00:57:14,348 --> 00:57:18,602
+<i>but Oskar animated him in a way
+that really kept him loose,</i>
+
+1190
+00:57:18,685 --> 00:57:20,312
+<i>and the guys who built the rig
+and all that</i>
+
+1191
+00:57:20,395 --> 00:57:23,482
+<i>made it very squashy and stretchy
+so that it would integrate</i>
+
+1192
+00:57:23,565 --> 00:57:25,525
+<i>with the other characters.</i>
+
+1193
+00:57:25,609 --> 00:57:27,027
+<i>That was the goal here, really,</i>
+
+1194
+00:57:27,110 --> 00:57:29,529
+<i>not to make him feel like he was
+from another planet, so to speak.</i>
+
+1195
+00:57:29,613 --> 00:57:31,823
+CONLI: <i>Yeah, the whole idea
+of doing him in 3-D</i>
+
+1196
+00:57:31,907 --> 00:57:35,285
+<i>was to be able to get the amount
+of detail on the character</i>
+
+1197
+00:57:35,369 --> 00:57:37,412
+<i>but still try and maintain
+the squash-and-stretch</i>
+
+1198
+00:57:37,496 --> 00:57:38,538
+-of <i>the actual...</i>
+- MUSKER: <i>Right.</i>
+
+1199
+00:57:38,622 --> 00:57:41,833
+<i>Given that he was a robot,
+it seemed like a natural fit for 3-D.</i>
+
+1200
+00:57:42,376 --> 00:57:44,294
+I've lost my mind.
+
+1201
+00:57:44,378 --> 00:57:47,089
+I've lost my mind.
+You haven't found it, have you?
+
+1202
+00:57:47,172 --> 00:57:50,634
+My missing piece?
+My primary memory circuit?
+
+1203
+00:57:50,926 --> 00:57:51,927
+Look, B. E. N...
+
+1204
+00:57:52,719 --> 00:57:55,806
+CLEMENTS: <i>We get into
+the missing piece idea here,</i>
+
+1205
+00:57:55,889 --> 00:57:58,141
+<i>which was a little controversial
+for a while,</i>
+
+1206
+00:57:58,225 --> 00:58:00,519
+<i>but is actually thematic.</i>
+
+1207
+00:58:00,602 --> 00:58:04,856
+<i>Wanted to sort of keep it because
+it really ties into the whole movie</i>
+
+1208
+00:58:04,940 --> 00:58:08,610
+<i>in that sort of every character has
+a missing piece in some sense.</i>
+
+1209
+00:58:08,694 --> 00:58:10,404
+<i>B.E.N.'s is fairly literal,</i>
+
+1210
+00:58:10,487 --> 00:58:14,783
+<i>but Silver has one in terms of
+that he lost his arm.</i>
+
+1211
+00:58:14,866 --> 00:58:17,077
+<i>- Jim lost his father.</i>
+- MUSKER: <i>Yeah.</i>
+
+1212
+00:58:17,160 --> 00:58:19,579
+I do. Bye-bye.
+
+1213
+00:58:21,581 --> 00:58:22,916
+(WHINES)
+
+1214
+00:58:24,251 --> 00:58:28,797
+CONLI: <i>The fact that whenever you're
+doing a 2-D and 3-D combination</i>
+
+1215
+00:58:28,880 --> 00:58:32,175
+<i>it's, from a technical standpoint, for a...</i>
+
+1216
+00:58:32,259 --> 00:58:33,802
+MUSKER: <i>The worst thing is where
+they touch each other.</i>
+
+1217
+00:58:33,885 --> 00:58:35,637
+<i>Touching and talking,
+those are the two big no-no's.</i>
+
+1218
+00:58:35,721 --> 00:58:39,182
+CLEMENTS: <i>Ironically, that B.E.N.</i>
+<i>is such a touchy-feely guy,</i>
+
+1219
+00:58:39,266 --> 00:58:40,642
+<i>and that's the hardest thing to do.</i>
+
+1220
+00:58:40,726 --> 00:58:42,185
+MUSKER: <i>Yeah,
+every time a 2-D drawing,</i>
+
+1221
+00:58:42,269 --> 00:58:44,396
+<i>something that someone drew
+on a piece of paper,</i>
+
+1222
+00:58:44,479 --> 00:58:46,481
+<i>interacts with something
+created in a computer,</i>
+
+1223
+00:58:46,565 --> 00:58:48,525
+<i>it becomes a very difficult task.</i>
+
+1224
+00:58:48,608 --> 00:58:51,987
+<i>And yet, B.E.N. is a compulsive
+sort of grabber and toucher</i>
+
+1225
+00:58:52,070 --> 00:58:55,490
+<i>and wants to be...</i>
+<i>ls desperate at being left alone again.</i>
+
+1226
+00:58:55,574 --> 00:58:57,451
+<i>So we really wanted him
+to be hanging on Jim,</i>
+
+1227
+00:58:57,534 --> 00:58:59,619
+<i>so that made their jobs
+much, much harder</i>
+
+1228
+00:58:59,703 --> 00:59:03,165
+<i>to make that work together.</i>
+
+1229
+00:59:03,248 --> 00:59:05,876
+CLEMENTS: <i>But they did a really
+good job, I think, there again,</i>
+
+1230
+00:59:05,959 --> 00:59:07,210
+<i>you don't really think about it.</i>
+
+1231
+00:59:07,294 --> 00:59:09,004
+<i>They integrate really nicely.</i>
+
+1232
+00:59:09,087 --> 00:59:12,716
+GOODING: <i>Here's another instance
+of comedy being extremely difficult.</i>
+
+1233
+00:59:13,467 --> 00:59:16,470
+<i>We went through such pains
+with those underwear,</i>
+
+1234
+00:59:16,553 --> 00:59:19,347
+<i>trying to get
+the funniest possible pattern,</i>
+
+1235
+00:59:19,431 --> 00:59:21,808
+<i>and something that read as underwear,</i>
+
+1236
+00:59:21,892 --> 00:59:26,396
+<i>and hopefully everyone's going to be
+in hysterics over that one.</i>
+
+1237
+00:59:27,105 --> 00:59:28,690
+CLEMENTS: <i>Now Doppler
+loses his jacket.</i>
+
+1238
+00:59:28,774 --> 00:59:31,568
+<i>Every character kind of
+simplifies himself a little bit</i>
+
+1239
+00:59:31,651 --> 00:59:33,612
+<i>through the course of the movie.</i>
+
+1240
+00:59:35,989 --> 00:59:38,075
+MUSKER: <i>Craig Elliott,
+one of the layout artists,</i>
+
+1241
+00:59:38,158 --> 00:59:40,327
+<i>helped design this alien language</i>
+
+1242
+00:59:40,410 --> 00:59:43,163
+<i>that you see written on the walls,</i>
+
+1243
+00:59:43,246 --> 00:59:45,332
+<i>and on the technology here
+that built this whole planet.</i>
+
+1244
+00:59:45,415 --> 00:59:48,210
+<i>This whole planet was built, of course,
+as you can surmise,</i>
+
+1245
+00:59:48,293 --> 00:59:50,587
+<i>by an ancient race of aliens
+that abandoned it.</i>
+
+1246
+00:59:50,670 --> 00:59:53,006
+<i>Who built it for scientific purposes
+to explore the universe.</i>
+
+1247
+00:59:53,090 --> 00:59:55,050
+CLEMENTS: <i>Once again,
+we took out a lot of exposition,</i>
+
+1248
+00:59:55,133 --> 00:59:57,427
+<i>so we leave that to
+the audience's imagination.</i>
+
+1249
+00:59:57,511 --> 00:59:58,595
+<i>But there was a whole back-story...</i>
+
+1250
+00:59:58,678 --> 00:59:59,721
+MUSKER: <i>I'm sure you're all imagining.</i>
+
+1251
+00:59:59,805 --> 01:00:01,014
+CLEMENTS: <i>... with this
+ancient alien culture</i>
+
+1252
+01:00:01,098 --> 01:00:04,101
+<i>who built this planet,
+and why they built it.</i>
+
+1253
+01:00:04,893 --> 01:00:10,107
+KEANE: <i>Coordinating these kinds
+of scenes was a huge challenge,</i>
+
+1254
+01:00:10,190 --> 01:00:14,486
+<i>where you've got all the pirates firing,
+and just how many...</i>
+
+1255
+01:00:14,569 --> 01:00:17,697
+<i>Sometimes we'd have
+up to 12 animators</i>
+
+1256
+01:00:17,781 --> 01:00:20,909
+<i>in the director's office
+on a scene handout,</i>
+
+1257
+01:00:20,992 --> 01:00:24,538
+<i>and everybody's got to learn their part
+and do their character.</i>
+
+1258
+01:00:24,621 --> 01:00:27,666
+No tricks, just a little palaver.
+
+1259
+01:00:27,916 --> 01:00:30,168
+CLEMENTS: <i>This is
+very much from the book.</i>
+
+1260
+01:00:30,252 --> 01:00:32,129
+MUSKER: <i>Yeah,
+another tent-pole scene.</i>
+
+1261
+01:00:32,212 --> 01:00:35,382
+<i>The negotiation scene between Silver
+and in the book, the captain, actually.</i>
+
+1262
+01:00:35,465 --> 01:00:37,467
+<i>And in our earlier versions,
+we had him negotiating with Amelia</i>
+
+1263
+01:00:37,551 --> 01:00:38,969
+<i>and Jim standing by.</i>
+
+1264
+01:00:39,052 --> 01:00:40,887
+<i>But Jim is our central character,
+it seemed that</i>
+
+1265
+01:00:40,971 --> 01:00:43,223
+<i>the key relationship was between
+Silver and Jim,</i>
+
+1266
+01:00:43,306 --> 01:00:49,146
+<i>so we reworked the scene to feature,
+again, their sort of challenge</i>
+
+1267
+01:00:49,229 --> 01:00:50,897
+<i>between the two of them.</i>
+
+1268
+01:00:50,981 --> 01:00:55,819
+CLEMENTS: <i>This was a difficult scene
+to write, rewritten many times just to...</i>
+
+1269
+01:00:55,902 --> 01:00:59,823
+<i>A lot is going on between the dynamics
+of the two characters,</i>
+
+1270
+01:00:59,906 --> 01:01:03,285
+<i>and Jim is kind of taking control,
+starting to take charge,</i>
+
+1271
+01:01:03,368 --> 01:01:07,747
+<i>and Silver, there's some vulnerability
+here on Silver, I think,</i>
+
+1272
+01:01:07,831 --> 01:01:12,335
+<i>which is what makes him
+completely lose his temper</i>
+
+1273
+01:01:12,419 --> 01:01:13,503
+<i>as the scene progresses.</i>
+
+1274
+01:01:13,587 --> 01:01:17,424
+CONLI: <i>It's important that the audience
+not be sure</i>
+
+1275
+01:01:17,507 --> 01:01:20,135
+<i>whether what he's saying
+is true or false.</i>
+
+1276
+01:01:20,802 --> 01:01:22,846
+MUSKER: <i>Yeah, they're trying
+to scope him out just as Jim is.</i>
+
+1277
+01:01:22,929 --> 01:01:26,016
+<i>ls he telling the truth at all?
+Can you trust him?</i>
+
+1278
+01:01:26,099 --> 01:01:30,478
+CLEMENTS: <i>We adjusted this scene
+a little bit in terms of the acting.</i>
+
+1279
+01:01:30,562 --> 01:01:34,566
+<i>Originally, Jim didn't seem so much
+like he was kind of considering</i>
+
+1280
+01:01:34,649 --> 01:01:37,110
+<i>and going along with Silver's proposal.</i>
+
+1281
+01:01:37,194 --> 01:01:39,487
+MUSKER: <i>And it seemed to give
+more dramatics to let him seem like</i>
+
+1282
+01:01:39,571 --> 01:01:42,282
+<i>he was being taken in and then
+sort of throw it back in Silver's face</i>
+
+1283
+01:01:42,365 --> 01:01:46,036
+<i>to kind of misdirect Silver
+as well as the audience.</i>
+
+1284
+01:01:46,119 --> 01:01:50,498
+CLEMENTS: <i>Once again, it has Jim sort
+of gaining a little bit of the upper hand.</i>
+
+1285
+01:01:51,458 --> 01:01:54,753
+CONLI: (CHUCKLING) <i>Although
+he does have the eye mask on.</i>
+
+1286
+01:01:55,045 --> 01:01:56,379
+CLEMENTS: <i>He does
+have the eye mask.</i>
+
+1287
+01:01:56,463 --> 01:01:57,589
+MUSKER: <i>He's a more
+guarded guy again.</i>
+
+1288
+01:01:57,672 --> 01:02:00,008
+CLEMENTS: <i>He hasn't resolved
+his problems yet.</i>
+
+1289
+01:02:00,091 --> 01:02:01,468
+MUSKER: <i>We do have some slight
+moving camera,</i>
+
+1290
+01:02:01,551 --> 01:02:03,178
+<i>although this was done
+with a 2-D technique</i>
+
+1291
+01:02:03,261 --> 01:02:04,888
+<i>where we're just panning
+the camera behind him</i>
+
+1292
+01:02:04,971 --> 01:02:09,935
+<i>just to get a feeling of point of view
+of Silver as Jim circles around him.</i>
+
+1293
+01:02:11,478 --> 01:02:13,438
+CLEMENTS: <i>Jim is high, Silver's low,</i>
+
+1294
+01:02:13,521 --> 01:02:18,777
+<i>which, once again, is emphasizing that
+Jim is gaining the upper hand here.</i>
+
+1295
+01:02:18,860 --> 01:02:22,405
+Try to find it without my map,
+by thunder!
+
+1296
+01:02:24,407 --> 01:02:27,827
+You still don't know how to
+pick your fights, do you, boy?
+
+1297
+01:02:28,662 --> 01:02:30,163
+Now, mark me.
+
+1298
+01:02:30,247 --> 01:02:32,666
+MUSKER: <i>There was the famous scene
+in the movie and the book</i>
+
+1299
+01:02:32,749 --> 01:02:36,044
+<i>where, "Somebody help me up, "</i>
+<i>where Silver is sort of lame.</i>
+
+1300
+01:02:36,127 --> 01:02:37,587
+<i>We wanted to get the feeling
+of that moment,</i>
+
+1301
+01:02:37,671 --> 01:02:40,465
+<i>even if we didn't do that literally,
+but just that</i>
+
+1302
+01:02:40,548 --> 01:02:44,970
+<i>there's this anger and volatility
+on the part of Silver</i>
+
+1303
+01:02:45,053 --> 01:02:47,806
+<i>and this sort of estrangement
+of their relationship here.</i>
+
+1304
+01:02:48,056 --> 01:02:49,140
+Now!
+
+1305
+01:02:51,518 --> 01:02:53,311
+Oh, blast it!
+
+1306
+01:02:53,478 --> 01:02:55,522
+MUSKER: <i>We went back
+and sort of adjusted this end</i>
+
+1307
+01:02:55,605 --> 01:02:57,899
+<i>to put back a look of regret
+on Silver's part,</i>
+
+1308
+01:02:57,983 --> 01:03:01,069
+<i>which we took out at one point, but it
+seemed to give you a little feeling of</i>
+
+1309
+01:03:01,152 --> 01:03:04,572
+<i>he didn't want things to go this way,
+but that's the way it played out.</i>
+
+1310
+01:03:04,656 --> 01:03:07,784
+CONLI: <i>Yeah. Finding that balance
+between their relationship</i>
+
+1311
+01:03:07,867 --> 01:03:11,413
+<i>and Silver's wants
+was always an issue.</i>
+
+1312
+01:03:12,163 --> 01:03:14,207
+- Ohh.
+- And what? What?
+
+1313
+01:03:14,457 --> 01:03:16,793
+We must stay together and what?
+
+1314
+01:03:17,127 --> 01:03:18,128
+Doctor...
+
+1315
+01:03:18,378 --> 01:03:20,046
+MUSKER: <i>David's line of dialogue here</i>
+
+1316
+01:03:20,130 --> 01:03:23,550
+<i>involving "I'm not a doctor, " we had
+written that in kind of a</i> Star Trek joke.
+
+1317
+01:03:23,633 --> 01:03:24,884
+CLEMENTS: <i>Second</i> Star Trek joke
+<i>in the movie.</i>
+
+1318
+01:03:24,968 --> 01:03:28,013
+MUSKER: <i>Yeah, although then
+David really elaborated on it,</i>
+
+1319
+01:03:28,096 --> 01:03:29,764
+<i>so it was his improv
+that went into the whole,</i>
+
+1320
+01:03:29,848 --> 01:03:31,099
+<i>"You can't do anything
+with a doctorate.</i>
+
+1321
+01:03:31,182 --> 01:03:32,475
+<i>"You just sit there and you're useless!"</i>
+
+1322
+01:03:32,559 --> 01:03:34,602
+<i>That was all David's improv.
+It was very funny.</i>
+
+1323
+01:03:34,686 --> 01:03:35,937
+CLEMENTS: <i>His greatest ad lib,</i>
+
+1324
+01:03:36,021 --> 01:03:38,940
+<i>it was written as Doppler kind of
+breaking down and losing it</i>
+
+1325
+01:03:39,024 --> 01:03:40,984
+<i>but he took it to something</i>
+
+1326
+01:03:41,067 --> 01:03:42,736
+<i>-that was...</i>
+- MUSKER: <i>A new level. Yeah.</i>
+
+1327
+01:03:43,778 --> 01:03:46,406
+It's just Jimmy
+has this knowledge of things.
+
+1328
+01:03:46,489 --> 01:03:48,199
+MUSKER: <i>And this was
+a Martin improv, with that,</i>
+
+1329
+01:03:48,283 --> 01:03:50,118
+<i>"Jim, any thoughts at all?"
+after the big build-up.</i>
+
+1330
+01:03:50,201 --> 01:03:53,872
+<i>That was Martin's funny sort of
+understated improv on that.</i>
+
+1331
+01:03:54,456 --> 01:03:56,333
+If we try to leave, we're dead.
+
+1332
+01:03:56,416 --> 01:04:02,047
+CLEMENTS: <i>And this little bit with
+Morph, that was a Ken Harsha idea.</i>
+
+1333
+01:04:02,130 --> 01:04:04,632
+MUSKER: <i>The "We're dead,
+we're dead, we're dead, " is a funny...</i>
+
+1334
+01:04:04,716 --> 01:04:06,676
+<i>That Ken came up with.</i>
+
+1335
+01:04:06,760 --> 01:04:09,346
+RIPA: <i>You know what's interesting, too,
+is kind of</i>
+
+1336
+01:04:09,429 --> 01:04:11,222
+<i>looking at Morph there a bit</i>
+
+1337
+01:04:11,306 --> 01:04:15,268
+<i>and how much he actually
+means to the story,</i>
+
+1338
+01:04:15,352 --> 01:04:19,731
+<i>and scenes, and for the characters
+to work with and play off of,</i>
+
+1339
+01:04:19,814 --> 01:04:23,193
+<i>and how he works
+between Silver and Jim.</i>
+
+1340
+01:04:23,276 --> 01:04:25,111
+KEANE: <i>Well, to me, a villain</i>
+
+1341
+01:04:25,695 --> 01:04:28,323
+<i>who's really nice to his dog,
+is no real villain.</i>
+
+1342
+01:04:28,406 --> 01:04:31,618
+<i>I mean, in the end,
+there's a redeemable quality to him.</i>
+
+1343
+01:04:32,827 --> 01:04:36,623
+<i>The fact that Silver loves Morph
+is a very redeeming thing.</i>
+
+1344
+01:04:37,624 --> 01:04:41,961
+<i>There's no character with a more pure,</i>
+
+1345
+01:04:42,045 --> 01:04:45,090
+<i>genuine heart in this than Morph.</i>
+
+1346
+01:04:45,173 --> 01:04:47,592
+RIPA: <i>Yeah, they'd always talked
+about Morph almost like a puppy,</i>
+
+1347
+01:04:47,675 --> 01:04:48,760
+<i>very innocent.</i>
+
+1348
+01:04:48,843 --> 01:04:52,597
+<i>And they're always very watchful
+as far as how much he understood</i>
+
+1349
+01:04:52,680 --> 01:04:55,642
+<i>and how much he didn't,
+as to what the situations were.</i>
+
+1350
+01:04:57,143 --> 01:04:59,562
+CONLI: <i>There used to be a scene here
+where, actually, they went out</i>
+
+1351
+01:04:59,646 --> 01:05:03,233
+<i>and B.E.N. had a skiff
+called</i> The Mambo Queen
+
+1352
+01:05:03,316 --> 01:05:05,360
+<i>which was like the book, I mean,</i>
+
+1353
+01:05:05,443 --> 01:05:07,445
+<i>'cause Ben, in the book,
+did have a boat that he built.</i>
+
+1354
+01:05:07,529 --> 01:05:09,864
+MUSKER: <i>Yeah,
+he had a little raft that they used</i>
+
+1355
+01:05:09,948 --> 01:05:12,534
+<i>and so they went to his little flivver
+and flew it to the ship.</i>
+
+1356
+01:05:12,617 --> 01:05:15,537
+<i>But then, as we shortened the movie,
+we got rid of his</i> Mambo Queen
+
+1357
+01:05:15,620 --> 01:05:17,080
+<i>and we just had them
+steal this longboat</i>
+
+1358
+01:05:17,163 --> 01:05:20,875
+<i>and make their way to
+the</i> Legacy <i>to steal back the map.</i>
+
+1359
+01:05:22,710 --> 01:05:25,755
+<i>Andy Gaskill storyboarded this section.</i>
+
+1360
+01:05:25,839 --> 01:05:29,426
+<i>And originally,
+guarding the ship was Mr. Hands</i>
+
+1361
+01:05:29,509 --> 01:05:31,344
+<i>so Jim had a big fight with Mr. Hands</i>
+
+1362
+01:05:31,428 --> 01:05:35,223
+<i>based, again, sort of on the archetypal
+scene of the movie and the book</i>
+
+1363
+01:05:35,306 --> 01:05:39,894
+<i>where he had to go back to the ship
+and deal with this guy, but...</i>
+
+1364
+01:05:39,978 --> 01:05:42,897
+<i>Tom Schumacher actually said,
+"Hey, Scroop is a much scarier guy</i>
+
+1365
+01:05:42,981 --> 01:05:45,775
+<i>"and he's better to have as your villain.</i>
+<i>You got</i> too <i>many characters,</i>
+
+1366
+01:05:45,859 --> 01:05:48,278
+<i>"so why don't you
+redo this with Scroop?"</i>
+
+1367
+01:05:48,361 --> 01:05:50,530
+<i>- And I think that was a good idea.</i>
+- CLEMENTS: <i>Yeah.</i>
+
+1368
+01:05:50,613 --> 01:05:52,157
+MUSKER: <i>And we went back
+and redid it.</i>
+
+1369
+01:05:55,201 --> 01:05:58,538
+<i>We used to have a thing,
+like</i> Mission: Impossible <i>where</i>
+
+1370
+01:05:58,621 --> 01:06:01,875
+<i>Jim tried to disguise himself
+by wearing a mask over his face</i>
+
+1371
+01:06:01,958 --> 01:06:03,126
+<i>so that he looked like...</i>
+
+1372
+01:06:03,209 --> 01:06:04,419
+<i>No, no, Morph was the mask.</i>
+
+1373
+01:06:04,502 --> 01:06:05,962
+<i>Morph was the mask.</i>
+
+1374
+01:06:06,045 --> 01:06:09,382
+CONLI: <i>So he disguised himself
+as Mr. Onus, using Morph as a mask.</i>
+
+1375
+01:06:09,466 --> 01:06:11,968
+MUSKER: <i>Yeah, it was like
+Tom Cruise in the movie.</i>
+
+1376
+01:06:12,051 --> 01:06:13,052
+CONLI: <i>Kind of a fun idea.</i>
+
+1377
+01:06:13,136 --> 01:06:14,679
+MUSKER: <i>Again,
+we've got the virtual set here</i>
+
+1378
+01:06:14,762 --> 01:06:17,140
+<i>where we can actually track
+and travel down through this.</i>
+
+1379
+01:06:17,223 --> 01:06:21,060
+<i>We have our homage
+to Larry, Moe and Curly here.</i>
+
+1380
+01:06:21,144 --> 01:06:24,230
+CLEMENTS: <i>There's a</i> Three Stooges
+<i>aspect to Morph</i>
+
+1381
+01:06:24,314 --> 01:06:26,733
+<i>played out quite a bit in this sequence.</i>
+
+1382
+01:06:29,903 --> 01:06:31,237
+(POWERS UP)
+
+1383
+01:06:34,908 --> 01:06:37,744
+B. E. N. : Whoops. Okay, don't panic.
+
+1384
+01:06:38,953 --> 01:06:41,247
+CLEMENTS: <i>The big fear
+with this sequence is</i>
+
+1385
+01:06:41,331 --> 01:06:43,791
+<i>it would become</i> too <i>intense
+with a Disney film.</i>
+
+1386
+01:06:43,875 --> 01:06:47,754
+CONLI: <i>There used to be a leaking pipe
+where you had the hiss coming</i>
+
+1387
+01:06:47,837 --> 01:06:50,048
+<i>and another half dozen shots probably.</i>
+
+1388
+01:06:50,131 --> 01:06:53,384
+CLEMENTS: <i>We actually
+took out a little tension.</i>
+
+1389
+01:06:54,427 --> 01:06:56,346
+<i>John added this bit with...</i>
+
+1390
+01:06:56,429 --> 01:06:59,349
+MUSKER: <i>Yeah, we had variations
+on that. We had a boxing glove.</i>
+
+1391
+01:06:59,432 --> 01:07:00,808
+<i>We had a hammer
+hitting him in the head</i>
+
+1392
+01:07:00,892 --> 01:07:02,727
+<i>but we went with the poke in the eyes.</i>
+
+1393
+01:07:02,810 --> 01:07:03,853
+CLEMENTS: <i>To break the tension.</i>
+
+1394
+01:07:03,937 --> 01:07:04,979
+CONLI: <i>Continuing with
+</i>The Three Stooges.
+
+1395
+01:07:05,104 --> 01:07:06,564
+CLEMENTS: <i>Counter the tension.</i>
+
+1396
+01:07:06,648 --> 01:07:08,525
+MUSKER: <i>And the idea of this whole
+anti-gravity fight</i>
+
+1397
+01:07:08,608 --> 01:07:10,026
+<i>actually went back to
+Ted and Terry's script.</i>
+
+1398
+01:07:10,109 --> 01:07:12,195
+<i>They concocted the idea
+of Jim having to deal</i>
+
+1399
+01:07:12,278 --> 01:07:15,281
+<i>with the gravity going off
+in the middle of this thing</i>
+
+1400
+01:07:15,365 --> 01:07:19,369
+<i>and B.E.N. futzing with the wires
+and that was Ted and Terry's thing.</i>
+
+1401
+01:07:19,786 --> 01:07:21,162
+(GRUNTING)
+
+1402
+01:07:21,621 --> 01:07:22,956
+Heh, heh.
+
+1403
+01:07:28,336 --> 01:07:31,005
+MUSKER: <i>There was a question at
+the end, too, how we'd dispatch Scroop</i>
+
+1404
+01:07:31,089 --> 01:07:32,590
+<i>and in the earlier versions,
+these pistols,</i>
+
+1405
+01:07:32,674 --> 01:07:33,758
+<i>some of them were freeze guns</i>
+
+1406
+01:07:33,841 --> 01:07:35,552
+<i>and there was a whole sequence
+where we showed</i>
+
+1407
+01:07:35,635 --> 01:07:38,721
+<i>how they worked and everything
+and then as Scroop attacked Jim,</i>
+
+1408
+01:07:38,805 --> 01:07:40,765
+<i>he wound up shooting him
+and freezing him</i>
+
+1409
+01:07:40,848 --> 01:07:43,560
+<i>and he broke into a million
+little ice shards as he fell to the deck.</i>
+
+1410
+01:07:43,643 --> 01:07:46,896
+<i>But then we saw</i> Atlantis
+<i>which had the villain</i>
+
+1411
+01:07:46,980 --> 01:07:49,023
+<i>crystallize and freeze
+and break into a million pieces,</i>
+
+1412
+01:07:49,107 --> 01:07:50,900
+<i>and we're like,
+"We can't do that. They just did that."</i>
+
+1413
+01:07:50,984 --> 01:07:52,694
+<i>So we had to rework it.</i>
+
+1414
+01:07:52,777 --> 01:07:54,237
+CLEMENTS: <i>Yeah.</i>
+<i>There was also a question of</i>
+
+1415
+01:07:54,320 --> 01:07:56,573
+<i>whether Jim should shoot Scroop...</i>
+
+1416
+01:07:56,656 --> 01:07:57,907
+MUSKER: <i>And not have
+the violence questioned.</i>
+
+1417
+01:07:57,991 --> 01:07:59,409
+CLEMENTS: <i>Which he did at one point.</i>
+<i>He did shoot him.</i>
+
+1418
+01:07:59,492 --> 01:08:01,035
+MUSKER: <i>There did seem
+to be something poetic</i>
+
+1419
+01:08:01,119 --> 01:08:03,705
+<i>about seeing Scroop
+sail off into the distance</i>
+
+1420
+01:08:03,788 --> 01:08:07,959
+<i>à la what he did to Mr. Arrow.</i>
+<i>Poetic justice sort of thing.</i>
+
+1421
+01:08:08,042 --> 01:08:09,377
+B. E. N. : Laser cannons disconnected,
+
+1422
+01:08:09,460 --> 01:08:11,170
+Captain Jimmy, sir!
+
+1423
+01:08:11,337 --> 01:08:13,381
+Gee, that wasn't so tough.
+
+1424
+01:08:16,175 --> 01:08:19,429
+GOODING: <i>The lighting in this
+sequence was really interesting.</i>
+
+1425
+01:08:19,512 --> 01:08:25,310
+<i>The very strong under-light
+coming up from that air vent.</i>
+
+1426
+01:08:26,102 --> 01:08:28,438
+Fine work, Jimbo.
+
+1427
+01:08:28,521 --> 01:08:31,107
+GOODING: <i>That was a very, very
+difficult scene to do</i>
+
+1428
+01:08:31,190 --> 01:08:33,109
+<i>where Silver comes
+out of the darkness.</i>
+
+1429
+01:08:33,192 --> 01:08:36,613
+<i>Just the balance of what you see
+and what you don't see</i>
+
+1430
+01:08:36,696 --> 01:08:38,531
+<i>was hard to achieve.</i>
+
+1431
+01:08:38,615 --> 01:08:42,118
+<i>And this whole sequence
+had to be really dark</i>
+
+1432
+01:08:42,201 --> 01:08:43,578
+<i>so it would be believable</i>
+
+1433
+01:08:43,661 --> 01:08:47,957
+<i>that Jim didn't see all these pirates
+when he first came in,</i>
+
+1434
+01:08:48,041 --> 01:08:51,127
+<i>but not so dark that the audience
+couldn't see what was going on.</i>
+
+1435
+01:08:51,210 --> 01:08:53,212
+You're just like me, Jimbo.
+
+1436
+01:08:53,880 --> 01:08:55,506
+Ya hates to lose.
+
+1437
+01:08:56,257 --> 01:08:58,676
+MUSKER: <i>I think Glen really wanted
+to do more of a tour de force scene.</i>
+
+1438
+01:08:58,760 --> 01:09:02,472
+<i>This is actually animated by Jin Kim
+but sort of devised by Glen, I think,</i>
+
+1439
+01:09:02,555 --> 01:09:06,017
+<i>where Silver really struggles
+to make this thing open</i>
+
+1440
+01:09:06,100 --> 01:09:09,479
+<i>to build up his frustration with Jim
+and to give Jim the upper hand here.</i>
+
+1441
+01:09:09,562 --> 01:09:11,272
+<i>The fact that he can do it effortlessly</i>
+
+1442
+01:09:11,356 --> 01:09:14,817
+<i>where Silver can't possibly
+do it without Jim's help.</i>
+
+1443
+01:09:15,568 --> 01:09:18,446
+CLEMENTS: <i>Once again,
+we played this at one point</i>
+
+1444
+01:09:18,529 --> 01:09:21,240
+<i>that Jim was completely demoralized</i>
+
+1445
+01:09:21,324 --> 01:09:25,536
+<i>by giving the map directly to Silver
+after he thought he'd won.</i>
+
+1446
+01:09:25,620 --> 01:09:27,580
+<i>But that scene,
+Jim seemed</i> too <i>passive</i>
+
+1447
+01:09:27,664 --> 01:09:31,042
+<i>so we kind of tried to give him
+a little more defiance here</i>
+
+1448
+01:09:31,125 --> 01:09:33,169
+<i>that he's not giving up,
+even though he has to.</i>
+
+1449
+01:09:33,252 --> 01:09:35,213
+CONLI: <i>We had to keep him alive
+through the rest of the film.</i>
+
+1450
+01:09:35,296 --> 01:09:36,547
+MUSKER: <i>Yeah, he receded</i> too <i>much.</i>
+
+1451
+01:09:36,631 --> 01:09:37,882
+CONLI: <i>Receded
+into his eye mask thing.</i>
+
+1452
+01:09:37,965 --> 01:09:39,050
+MUSKER: <i>Yeah.</i>
+
+1453
+01:09:39,967 --> 01:09:42,220
+KEANE: <i>These are some of
+the most difficult scenes to animate.</i>
+
+1454
+01:09:42,303 --> 01:09:47,100
+<i>Chris Hubbard did a lot of
+these scenes where Silver is in awe.</i>
+
+1455
+01:09:47,725 --> 01:09:50,645
+<i>And when you animate
+a character that's in awe of something,</i>
+
+1456
+01:09:50,728 --> 01:09:53,856
+<i>it's the other thing
+that's really amazing,</i>
+
+1457
+01:09:53,940 --> 01:09:57,652
+<i>and they're just responding to it
+and all you have to do is</i>
+
+1458
+01:09:57,735 --> 01:10:04,409
+<i>a slow, gradual opening of the eyes
+and the mouth and a fascination.</i>
+
+1459
+01:10:04,617 --> 01:10:06,452
+<i>And you don't have much to work with.</i>
+
+1460
+01:10:06,536 --> 01:10:08,037
+<i>It's very subtle.</i>
+
+1461
+01:10:08,121 --> 01:10:11,165
+<i>And I think he did
+an incredible job with it.</i>
+
+1462
+01:10:12,709 --> 01:10:15,920
+MUSKER: <i>And Ian Gooding concocted
+those centipede trees.</i>
+
+1463
+01:10:16,003 --> 01:10:17,547
+<i>They only appear really
+in that one shot,</i>
+
+1464
+01:10:17,630 --> 01:10:20,383
+<i>but it was so great, we had to use it.</i>
+
+1465
+01:10:20,967 --> 01:10:23,136
+<i>And this sequence was
+originally much longer</i>
+
+1466
+01:10:23,219 --> 01:10:25,513
+<i>and it was based, again, sort of on
+the book and on the movie where</i>
+
+1467
+01:10:25,596 --> 01:10:27,640
+<i>they were going through
+this dark, spooky place</i>
+
+1468
+01:10:27,724 --> 01:10:29,225
+<i>in anticipation of finding the treasure.</i>
+
+1469
+01:10:29,308 --> 01:10:31,686
+CLEMENTS: <i>And some complicated
+characters got killed.</i>
+
+1470
+01:10:31,769 --> 01:10:33,730
+MUSKER: <i>We had killed off
+a few people</i>
+
+1471
+01:10:33,813 --> 01:10:37,108
+<i>in traps that Flint had set for people
+as they were coming and it just...</i>
+
+1472
+01:10:37,191 --> 01:10:39,110
+<i>We needed to get to
+the treasure sooner</i>
+
+1473
+01:10:39,193 --> 01:10:40,653
+<i>so we wound up
+tightening this sequence.</i>
+
+1474
+01:10:41,946 --> 01:10:44,240
+GOODING: <i>Of course,
+we had this pulsing</i>
+
+1475
+01:10:44,323 --> 01:10:47,076
+<i>lime green light in the background</i>
+
+1476
+01:10:47,160 --> 01:10:49,287
+<i>that just keeps going
+through the whole sequence,</i>
+
+1477
+01:10:49,370 --> 01:10:51,748
+<i>and that was a continuity nightmare.</i>
+
+1478
+01:10:51,831 --> 01:10:53,666
+<i>To try and get it just right.</i>
+
+1479
+01:10:53,750 --> 01:10:56,836
+<i>It also changes speed
+which was difficult to track.</i>
+
+1480
+01:10:56,919 --> 01:10:59,464
+<i>So that the further along you go,
+the faster it gets</i>
+
+1481
+01:10:59,547 --> 01:11:01,591
+<i>right up to the end.</i>
+
+1482
+01:11:01,674 --> 01:11:04,427
+KEANE: <i>It's at this point that you start</i>
+
+1483
+01:11:04,510 --> 01:11:07,430
+<i>relying on all the pipe work
+that you've laid on</i>
+
+1484
+01:11:07,513 --> 01:11:09,766
+<i>how the characters relate
+to each other.</i>
+
+1485
+01:11:09,849 --> 01:11:12,643
+<i>That you can just,
+in a very quick moment,</i>
+
+1486
+01:11:12,727 --> 01:11:17,190
+<i>have a look between Jim and B.E.N.</i>
+<i>that says enough.</i>
+
+1487
+01:11:17,273 --> 01:11:19,942
+<i>You don't have to go
+really far and develop it</i>
+
+1488
+01:11:20,026 --> 01:11:22,320
+<i>'cause now we've got
+a lot of story to tell.</i>
+
+1489
+01:11:22,403 --> 01:11:23,488
+RIPA: <i>Yeah.</i>
+
+1490
+01:11:23,571 --> 01:11:25,114
+KEANE: <i>But we've already
+set the characters up</i>
+
+1491
+01:11:25,198 --> 01:11:27,325
+<i>so we can move through it quicker.</i>
+
+1492
+01:11:27,408 --> 01:11:30,828
+CONLI: <i>This whole area that
+we're going into is really kind of</i>
+
+1493
+01:11:30,912 --> 01:11:33,748
+<i>a testament to Ron
+in terms of his persistence</i>
+
+1494
+01:11:33,831 --> 01:11:36,042
+<i>on wanting to get this portal functioning</i>
+
+1495
+01:11:36,125 --> 01:11:38,878
+<i>and it really came out
+to be pretty brilliant.</i>
+
+1496
+01:11:38,961 --> 01:11:41,964
+MUSKER: <i>Frank Nissen sort of helped
+design this controller,</i>
+
+1497
+01:11:42,048 --> 01:11:43,716
+<i>that little green sphere that comes up</i>
+
+1498
+01:11:43,841 --> 01:11:47,303
+<i>and then gets the whole portal
+opening here.</i>
+
+1499
+01:11:47,386 --> 01:11:51,432
+CLEMENTS: <i>We were able to get the
+dimension and the size of this thing.</i>
+
+1500
+01:11:51,516 --> 01:11:54,101
+CONLI: <i>This is where we get
+more into science fiction</i>
+
+1501
+01:11:54,185 --> 01:11:55,311
+<i>than we had before.</i>
+
+1502
+01:11:55,394 --> 01:12:00,066
+MUSKER: <i>Yeah, Andrey Brandl, one of
+our Hungarian conceptual designers,</i>
+
+1503
+01:12:00,149 --> 01:12:01,484
+<i>concocted a whole bunch of worlds,</i>
+
+1504
+01:12:01,567 --> 01:12:03,694
+<i>which we see very much
+quickly in passing here</i>
+
+1505
+01:12:03,778 --> 01:12:05,112
+<i>and not in Hungarian.</i>
+
+1506
+01:12:05,196 --> 01:12:11,285
+<i>And Dave Tidgwell actually,
+using Bryce and other programs,</i>
+
+1507
+01:12:11,369 --> 01:12:13,329
+<i>concocted some of these
+3-D environments</i>
+
+1508
+01:12:13,412 --> 01:12:14,747
+<i>that we see through the portal.</i>
+
+1509
+01:12:14,831 --> 01:12:16,666
+CONLI: <i>We used to have
+more exposition here</i>
+
+1510
+01:12:16,749 --> 01:12:17,959
+<i>and actually we used to have</i>
+
+1511
+01:12:18,042 --> 01:12:21,587
+<i>these zaftwing, these birds that
+actually flew out of one of the worlds.</i>
+
+1512
+01:12:21,671 --> 01:12:24,006
+MUSKER: <i>And interacted with
+Jim and Morph and everything,</i>
+
+1513
+01:12:24,090 --> 01:12:26,175
+<i>but, again, we were trying to
+pace it a little more briskly</i>
+
+1514
+01:12:26,259 --> 01:12:28,553
+<i>so it got shortened.</i>
+
+1515
+01:12:28,636 --> 01:12:32,932
+CONLI: <i>The key idea,
+which we hope is clear, is that</i>
+
+1516
+01:12:34,892 --> 01:12:38,604
+<i>the planet is actually a machine
+that works these portals.</i>
+
+1517
+01:12:40,690 --> 01:12:44,235
+CLEMENTS: <i>We took a lot of time
+working this and trying to craft it so that</i>
+
+1518
+01:12:44,318 --> 01:12:46,654
+<i>-you could get a lot of exposition in...</i>
+- MUSKER: <i>Trying to rewrite...</i>
+
+1519
+01:12:46,737 --> 01:12:50,324
+<i>To get the least exposition you could
+and yet get it clear.</i>
+
+1520
+01:12:50,408 --> 01:12:52,535
+<i>That was a real struggle.</i>
+
+1521
+01:12:54,996 --> 01:12:57,206
+KEANE: <i>I like it when Silver
+starts to get frustrated.</i>
+
+1522
+01:12:57,290 --> 01:12:59,458
+<i>- There's this volcano inside.</i>
+- RIPA: <i>He looks good yelling.</i>
+
+1523
+01:12:59,542 --> 01:13:04,380
+<i>Yeah, he's like one of those
+few people that looks good mad.</i>
+
+1524
+01:13:04,463 --> 01:13:06,048
+RIPA: <i>Yeah, he does.</i>
+
+1525
+01:13:09,677 --> 01:13:13,347
+GOODING: <i>So, here we get the idea
+that the planet,</i>
+
+1526
+01:13:13,431 --> 01:13:17,393
+<i>which was really good on the surface
+and covered with natural green stuff,</i>
+
+1527
+01:13:17,476 --> 01:13:19,478
+<i>is actually quite rotten at the core.</i>
+
+1528
+01:13:19,562 --> 01:13:23,149
+<i>It's filled with gold,
+which you'll see in a second.</i>
+
+1529
+01:13:23,900 --> 01:13:27,320
+<i>And that sort of helps to
+carry through our idea</i>
+
+1530
+01:13:27,945 --> 01:13:30,323
+<i>with the green
+and the gold storytelling.</i>
+
+1531
+01:13:30,448 --> 01:13:34,160
+The loot of a thousand worlds.
+
+1532
+01:13:34,368 --> 01:13:38,539
+<i>This big idea here actually
+was one of mine,</i>
+
+1533
+01:13:38,623 --> 01:13:43,461
+<i>where the core of the planet is like
+a huge spherical computer floating</i>
+
+1534
+01:13:43,544 --> 01:13:46,422
+<i>at the gravitational center of the planet.</i>
+
+1535
+01:13:46,505 --> 01:13:48,758
+<i>And the way it communicates</i>
+
+1536
+01:13:48,841 --> 01:13:51,802
+<i>with the rest of the planet
+that works the portal</i>
+
+1537
+01:13:51,886 --> 01:13:53,888
+<i>is through these information beams</i>
+
+1538
+01:13:53,971 --> 01:13:57,099
+<i>fired by the prongs
+and fired back by the core.</i>
+
+1539
+01:13:58,392 --> 01:14:01,604
+I can't remember why.
+
+1540
+01:14:02,688 --> 01:14:03,689
+B. E. N. , come on.
+
+1541
+01:14:04,023 --> 01:14:05,524
+We're getting out of here...
+
+1542
+01:14:05,858 --> 01:14:09,528
+CLEMENTS: <i>And this area was
+reworked some I think.</i>
+
+1543
+01:14:09,612 --> 01:14:11,113
+- MUSKER: <i>Some?
+</i>-(ALL LAUGHING)
+
+1544
+01:14:11,197 --> 01:14:12,698
+CONLI: <i>We spent a lifetime
+on this one.</i>
+
+1545
+01:14:12,782 --> 01:14:14,992
+CLEMENTS: <i>The whole idea,
+Flint's ship and Jim...</i>
+
+1546
+01:14:15,076 --> 01:14:19,789
+<i>I think Roy had
+wanted to bring in that element</i>
+
+1547
+01:14:19,872 --> 01:14:21,415
+<i>to keep Jim more active through this.</i>
+
+1548
+01:14:21,499 --> 01:14:22,667
+<i>So he had a plan.</i>
+
+1549
+01:14:22,750 --> 01:14:24,043
+MUSKER: <i>Yeah, and in earlier versions,</i>
+
+1550
+01:14:24,126 --> 01:14:27,171
+<i>he didn't really try and get away
+on the ship and all this.</i>
+
+1551
+01:14:27,254 --> 01:14:28,297
+<i>This really came about...</i>
+
+1552
+01:14:28,381 --> 01:14:31,467
+CONLI: <i>We really were starting to find
+something for him to do at this point,</i>
+
+1553
+01:14:31,550 --> 01:14:34,679
+-to <i>keep active and this became...</i>
+- MUSKER: <i>Right. Right.</i>
+
+1554
+01:14:34,762 --> 01:14:36,806
+<i>There used to be
+a sequence here where...</i>
+
+1555
+01:14:36,889 --> 01:14:38,891
+<i>I mean, B.E.N. used to have
+more flashbacks</i>
+
+1556
+01:14:38,975 --> 01:14:41,310
+<i>and in flashbacks we saw
+what happened to Captain Flint</i>
+
+1557
+01:14:41,394 --> 01:14:45,314
+<i>and the pirates, and a gunfight,
+and that all went away.</i>
+
+1558
+01:14:45,398 --> 01:14:48,442
+CLEMENTS: <i>The original idea was that
+B.E.N. would get his missing piece back</i>
+
+1559
+01:14:48,526 --> 01:14:50,569
+<i>as he's about to right now.</i>
+
+1560
+01:14:50,653 --> 01:14:51,737
+<i>And when he got it back,</i>
+
+1561
+01:14:51,821 --> 01:14:54,323
+<i>he would remember everything,
+and basically deliver</i>
+
+1562
+01:14:54,407 --> 01:14:56,367
+<i>tons of exposition that would explain</i>
+
+1563
+01:14:56,450 --> 01:14:58,786
+<i>every aspect of the movie
+that anyone had ever questioned.</i>
+
+1564
+01:14:58,869 --> 01:15:00,830
+CONLI: <i>We had just, literally,
+tons of exposition.</i>
+
+1565
+01:15:00,913 --> 01:15:02,498
+MUSKER: <i>And we had a version
+like that. He went through,</i>
+
+1566
+01:15:02,581 --> 01:15:05,876
+<i>"Annual rainfall 7. 5 inches.</i>
+<i>Planet built over a series of years.</i> <i>"</i>
+
+1567
+01:15:05,960 --> 01:15:08,462
+<i>And he belted this story out,
+as we encouraged him to do.</i>
+
+1568
+01:15:08,546 --> 01:15:09,797
+<i>Five minutes of exposition.</i>
+
+1569
+01:15:09,880 --> 01:15:11,507
+<i>"Billy Bones stole the map.</i>
+
+1570
+01:15:11,590 --> 01:15:13,050
+<i>"What else do you need to know?
+Let me tell you.</i> <i>"</i>
+
+1571
+01:15:13,134 --> 01:15:16,137
+<i>And it just got a little</i> too <i>much.</i>
+
+1572
+01:15:16,220 --> 01:15:17,346
+CLEMENTS: <i>But it went through how</i>
+
+1573
+01:15:17,430 --> 01:15:18,431
+<i>they discovered the planet.</i>
+
+1574
+01:15:18,514 --> 01:15:19,557
+MUSKER: <i>There were
+explosions going on.</i>
+
+1575
+01:15:19,640 --> 01:15:21,475
+CLEMENTS: <i>They had stumbled
+onto the planet</i>
+
+1576
+01:15:21,559 --> 01:15:22,852
+<i>and had discovered the portals</i>
+
+1577
+01:15:22,935 --> 01:15:25,813
+<i>and B.E.N. figured out
+how to operate them.</i>
+
+1578
+01:15:25,896 --> 01:15:28,149
+<i>And then the pirates stole the map.</i>
+
+1579
+01:15:28,232 --> 01:15:29,859
+CONLI: <i>And all the picnics!</i>
+CLEMENTS: <i>And Billy Bones</i>
+
+1580
+01:15:29,942 --> 01:15:31,777
+<i>was the cabin boy and they deserted.</i>
+
+1581
+01:15:31,861 --> 01:15:33,863
+<i>And then Flint booby-trapped
+the whole system</i>
+
+1582
+01:15:33,946 --> 01:15:37,616
+<i>so that if anyone ever returned,
+they would find trouble.</i>
+
+1583
+01:15:42,079 --> 01:15:45,374
+KEANE: <i>The way these
+little pirates move,</i>
+
+1584
+01:15:45,458 --> 01:15:50,421
+<i>they add such a spark
+of action and movement and life.</i>
+
+1585
+01:15:51,130 --> 01:15:55,885
+<i>Without their crazy way
+of bouncing around...</i>
+
+1586
+01:15:55,968 --> 01:15:59,972
+<i>They always add lightness to a scene,
+no matter what it is.</i>
+
+1587
+01:16:00,056 --> 01:16:02,975
+RIPA: <i>And just even
+the layout work and the scale</i>
+
+1588
+01:16:03,100 --> 01:16:05,394
+<i>of this whole area is just amazing.</i>
+
+1589
+01:16:07,146 --> 01:16:09,190
+<i>This is a tragic scene.</i>
+
+1590
+01:16:09,273 --> 01:16:12,068
+No! No! Oh, no! Oh, no!
+
+1591
+01:16:12,151 --> 01:16:15,362
+MUSKER: <i>Silver was
+grabbing for all the treasure.</i>
+
+1592
+01:16:15,446 --> 01:16:19,158
+<i>Everything he's lived for
+is going past him.</i>
+
+1593
+01:16:23,537 --> 01:16:26,582
+CONLI: <i>Now this is just
+phenomenal effects work.</i>
+
+1594
+01:16:27,374 --> 01:16:30,336
+CLEMENTS: <i>Yeah, a combination
+of 2-D/3-D. But mostly 3-D.</i>
+
+1595
+01:16:35,007 --> 01:16:36,967
+MUSKER: <i>That scene of Silver
+at the end was gone for a while.</i>
+
+1596
+01:16:37,051 --> 01:16:38,260
+<i>We thought we didn't need it
+and then we realized,</i>
+
+1597
+01:16:38,344 --> 01:16:40,805
+<i>"We better have that in there."</i>
+
+1598
+01:16:42,014 --> 01:16:45,726
+<i>This little sequence where Doppler
+turns the tables on the pirates</i>
+
+1599
+01:16:45,810 --> 01:16:49,688
+<i>used to be longer, and we had him
+actually doing a little gun...</i>
+
+1600
+01:16:49,772 --> 01:16:51,982
+<i>Demonstrating his nimbleness
+with a gun and doing a little gunfight.</i>
+
+1601
+01:16:52,066 --> 01:16:53,150
+CLEMENTS: <i>This was
+going to be Doppler's moment</i>
+
+1602
+01:16:53,234 --> 01:16:54,276
+<i>where he was really going to</i>
+
+1603
+01:16:54,360 --> 01:16:56,445
+<i>-turn into Errol Flynn.</i>
+- MUSKER: <i>Right.</i>
+
+1604
+01:16:56,529 --> 01:16:59,949
+<i>And we had him at the end also getting
+more dog-like where he was barking...</i>
+
+1605
+01:17:00,032 --> 01:17:02,118
+<i>And sort of doing in the pirates
+and howling.</i>
+
+1606
+01:17:02,201 --> 01:17:05,121
+CLEMENTS: <i>He actually did
+the sharp-shooting thing.</i>
+
+1607
+01:17:05,204 --> 01:17:06,997
+<i>"You've released my inner mongrel!"</i>
+
+1608
+01:17:07,081 --> 01:17:09,458
+MUSKER: <i>We had a line,
+"You have released my inner mongrel.</i> <i>"</i>
+
+1609
+01:17:09,542 --> 01:17:11,293
+<i>And Amelia, herself..
+</i>(IMITATING CAT YOWLING)
+
+1610
+01:17:11,377 --> 01:17:12,795
+<i>- Did a little cat thing.</i>
+- CLEMENTS: <i>Oh, yeah.</i>
+
+1611
+01:17:12,878 --> 01:17:14,797
+MUSKER: <i>That all went away.</i>
+<i>It was just</i> too <i>much.</i>
+
+1612
+01:17:14,880 --> 01:17:16,799
+CLEMENTS: <i>We shortened it
+and you still get the idea.</i>
+
+1613
+01:17:16,882 --> 01:17:18,134
+<i>He basically turned the tables.</i>
+
+1614
+01:17:18,217 --> 01:17:20,469
+MUSKER: <i>It seemed like we were away
+from the other action</i> too <i>long</i>
+
+1615
+01:17:20,553 --> 01:17:25,141
+<i>sort of to make it feel right, so
+we said, "It's gotta be more concise.</i> <i>"</i>
+
+1616
+01:17:25,224 --> 01:17:27,518
+<i>Yeah, Adam Dykstra did that.</i>
+
+1617
+01:17:31,021 --> 01:17:35,526
+<i>Emil Mitev is the layout artist who
+designed a lot of these interiors here.</i>
+
+1618
+01:17:35,609 --> 01:17:38,821
+<i>Emil did a great job with just
+the whole devolving planet here</i>
+
+1619
+01:17:38,904 --> 01:17:41,323
+<i>and the scale of these shots
+owes a lot to his drawings.</i>
+
+1620
+01:17:41,407 --> 01:17:44,493
+CLEMENTS: <i>This was also a scene
+we struggled and struggled over, this</i>
+
+1621
+01:17:44,577 --> 01:17:47,204
+<i>sort of final confrontation
+with Silver and Jim.</i>
+
+1622
+01:17:47,288 --> 01:17:48,956
+MUSKER: <i>Yeah, we had it longer,
+we had it shorter.</i>
+
+1623
+01:17:49,039 --> 01:17:51,876
+<i>We had it more friendly on Silver's part.</i>
+<i>We had it darker and blacker.</i>
+
+1624
+01:17:51,959 --> 01:17:53,502
+CLEMENTS: <i>We had Jim
+lowering the sword</i>
+
+1625
+01:17:53,586 --> 01:17:55,462
+<i>or Silver knocking the sword away.</i>
+
+1626
+01:17:55,546 --> 01:17:58,215
+MUSKER: <i>We had a million variations
+on this and just, it was...</i>
+
+1627
+01:17:58,299 --> 01:18:00,509
+CLEMENTS: <i>We had
+more father-son bits</i>
+
+1628
+01:18:00,593 --> 01:18:03,220
+<i>where Silver said,
+"You're just like me, Jim."</i>
+
+1629
+01:18:03,304 --> 01:18:06,265
+MUSKER: <i>And Jim just said,
+"I am nothing like you!"</i>
+
+1630
+01:18:07,266 --> 01:18:10,186
+<i>And, in fact, this whole sequence
+used to take place out in the snow.</i>
+
+1631
+01:18:10,269 --> 01:18:13,439
+<i>In an earlier version, there was a race
+back through the portals.</i>
+
+1632
+01:18:13,522 --> 01:18:17,109
+<i>And Silver and Jim actually were
+stranded on this sort of snowy planet</i>
+
+1633
+01:18:17,193 --> 01:18:18,360
+<i>in the earliest versions.</i>
+
+1634
+01:18:18,444 --> 01:18:20,863
+CONLI: <i>'Cause the portal used to
+take you from world to world.</i>
+
+1635
+01:18:20,946 --> 01:18:22,406
+MUSKER: <i>They worked
+in a little different way</i>
+
+1636
+01:18:22,489 --> 01:18:23,532
+<i>and they went to a winter world.</i>
+
+1637
+01:18:23,616 --> 01:18:25,451
+CLEMENTS: <i>And you had to go through
+a sort of tunnel of worlds</i>
+
+1638
+01:18:25,534 --> 01:18:26,744
+<i>to get to the center of the planet.</i>
+
+1639
+01:18:26,827 --> 01:18:31,040
+MUSKER: <i>So the earlier lines all had
+Silver shivering, "Hang on, Jim!"</i>
+
+1640
+01:18:31,123 --> 01:18:32,416
+<i>And so we couldn't use
+any of that dialogue,</i>
+
+1641
+01:18:32,499 --> 01:18:33,709
+<i>so we reworked it
+into this environment,</i>
+
+1642
+01:18:33,792 --> 01:18:35,002
+<i>so that all got rerecorded.</i>
+
+1643
+01:18:35,085 --> 01:18:38,005
+CLEMENTS: <i>So now we reach
+Silver's moment of truth.</i>
+
+1644
+01:18:38,631 --> 01:18:40,507
+MUSKER: <i>I mean, this was really one of
+the archetypal moments</i>
+
+1645
+01:18:40,591 --> 01:18:43,010
+<i>where we were trying to find
+a way to stage it where, basically,</i>
+
+1646
+01:18:43,093 --> 01:18:44,303
+<i>Silver has a choice here.</i>
+
+1647
+01:18:44,386 --> 01:18:48,140
+<i>He can either save this treasure
+he's been obsessed with his entire life,</i>
+
+1648
+01:18:48,224 --> 01:18:51,101
+<i>or he can save Jim. He can't do both.</i>
+
+1649
+01:18:51,644 --> 01:18:52,853
+(SIGHS)
+
+1650
+01:18:53,020 --> 01:18:54,897
+<i>When we first talked to Glen Keane
+about working on the movie,</i>
+
+1651
+01:18:54,980 --> 01:18:57,524
+<i>we described a scene that
+demonstrated this idea,</i>
+
+1652
+01:18:57,608 --> 01:18:59,610
+<i>and that was something,
+through the course of the film,</i>
+
+1653
+01:18:59,693 --> 01:19:01,153
+<i>no matter what we did,
+we tried to hang on to,</i>
+
+1654
+01:19:01,237 --> 01:19:03,197
+<i>just that this was a pivotal moment.</i>
+
+1655
+01:19:03,280 --> 01:19:04,865
+CLEMENTS: <i>There was one point
+we had here</i>
+
+1656
+01:19:04,949 --> 01:19:07,493
+<i>when Silver finally made the decision
+to let go, he couldn't let go.</i>
+
+1657
+01:19:07,576 --> 01:19:09,662
+<i>The arm was sort of clasped
+on to the treasure</i>
+
+1658
+01:19:09,745 --> 01:19:11,413
+<i>-and wouldn't let go.</i>
+- MUSKER: <i>That was Glen's idea. Yeah.</i>
+
+1659
+01:19:11,497 --> 01:19:13,249
+CLEMENTS: <i>So he had to
+actually release his arm.</i>
+
+1660
+01:19:13,332 --> 01:19:14,333
+<i>His whole arm.</i>
+
+1661
+01:19:14,416 --> 01:19:15,668
+CONLI: <i>Pulled the pin
+and his arm came off</i>
+
+1662
+01:19:15,751 --> 01:19:18,837
+MUSKER: <i>So we had Silver, through
+the climax of the film being one-armed</i>
+
+1663
+01:19:18,921 --> 01:19:20,256
+<i>and he had lost that mechanical side.</i>
+
+1664
+01:19:20,339 --> 01:19:21,382
+CLEMENTS: <i>Which would
+have been simpler.</i>
+
+1665
+01:19:21,465 --> 01:19:23,592
+<i>It just reminded us
+</i>too <i>much of Richard Kimble.</i>
+
+1666
+01:19:23,676 --> 01:19:25,594
+MUSKER: <i>Yeah.</i>
+<i>There was a</i> Fugitive <i>aspect of it</i>
+
+1667
+01:19:25,678 --> 01:19:28,430
+<i>that we weren't sure
+that was a good thing.</i>
+
+1668
+01:19:28,681 --> 01:19:30,182
+Silver, you gave up?
+
+1669
+01:19:30,266 --> 01:19:33,519
+Just a lifelong obsession, Jim.
+I'll get over it.
+
+1670
+01:19:33,602 --> 01:19:35,646
+MUSKER: <i>Now we're moving
+into sort of this</i>
+
+1671
+01:19:36,272 --> 01:19:39,108
+<i>action-adventure chock-full
+of 3-D effects</i>
+
+1672
+01:19:39,191 --> 01:19:43,779
+<i>and just very dense
+and, again, got heavily reworked.</i>
+
+1673
+01:19:43,862 --> 01:19:45,864
+<i>We had things in
+at one point where Jim</i>
+
+1674
+01:19:45,948 --> 01:19:48,534
+<i>remained on the ship
+and piloted them to safety.</i>
+
+1675
+01:19:48,617 --> 01:19:50,202
+<i>He became the captain of the ship.</i>
+
+1676
+01:19:50,286 --> 01:19:52,079
+CLEMENTS: <i>It was always Jim's
+sort of sequence.</i>
+
+1677
+01:19:52,246 --> 01:19:54,456
+MUSKER: <i>It was.</i>
+CLEMENTS: <i>And his chance to really</i>
+
+1678
+01:19:54,540 --> 01:19:55,958
+<i>show what he could do.</i>
+
+1679
+01:19:56,041 --> 01:19:57,835
+MUSKER: <i>Right,
+but what he was demonstrating</i>
+
+1680
+01:19:57,918 --> 01:19:59,628
+<i>went through
+at least 10 different variations</i>
+
+1681
+01:19:59,712 --> 01:20:01,422
+<i>before we arrived at this one.</i>
+
+1682
+01:20:01,505 --> 01:20:03,799
+CLEMENTS: <i>Which ended up bringing
+the solar surfer back</i>
+
+1683
+01:20:03,882 --> 01:20:06,552
+<i>which seems fitting.</i>
+
+1684
+01:20:06,635 --> 01:20:08,345
+MUSKER: <i>Yeah,
+we sort of concocted this thing</i>
+
+1685
+01:20:08,429 --> 01:20:10,180
+<i>so Jim would actually be surfing</i>
+
+1686
+01:20:10,264 --> 01:20:11,890
+<i>and we had to sort of make it plausible.</i>
+
+1687
+01:20:11,974 --> 01:20:14,727
+<i>And I think John Ripa felt, "It should
+have some form of propulsion.</i> <i>"</i>
+
+1688
+01:20:14,810 --> 01:20:17,688
+<i>And at one point he was just
+riding a piece of sheet metal</i>
+
+1689
+01:20:17,771 --> 01:20:18,814
+<i>down to what was going on.</i>
+
+1690
+01:20:18,897 --> 01:20:20,733
+<i>- Just kind of riding the waves.</i>
+- CLEMENTS: <i>With a solar sail.</i>
+
+1691
+01:20:20,816 --> 01:20:22,943
+MUSKER: <i>With a sail,
+but that seemed</i> too <i>contrived</i>
+
+1692
+01:20:23,027 --> 01:20:26,822
+<i>and the idea came up, use the cannon
+as a form of propulsion for this thing.</i>
+
+1693
+01:20:26,905 --> 01:20:28,657
+<i>And I think we reworked it to...</i>
+
+1694
+01:20:28,741 --> 01:20:30,159
+<i>And then I think Glen had the idea,</i>
+
+1695
+01:20:30,242 --> 01:20:32,494
+<i>it can have a certain amount of
+canisters of energy</i>
+
+1696
+01:20:32,578 --> 01:20:35,080
+<i>so there's sort of
+a ticking clock that way.</i>
+
+1697
+01:20:38,083 --> 01:20:40,336
+CLEMENTS: <i>I don't know
+if everyone gets it</i>
+
+1698
+01:20:40,419 --> 01:20:44,173
+<i>but basically this cannon
+has these three canisters</i>
+
+1699
+01:20:44,256 --> 01:20:48,719
+<i>and Jim uses them all up
+in his course to try to save the day.</i>
+
+1700
+01:20:48,802 --> 01:20:52,264
+CONLI: <i>Yeah, the propulsion device is
+basically like a chamber for a pistol.</i>
+
+1701
+01:20:54,266 --> 01:20:57,186
+<i>The little canisters go in
+and shoot off the power.</i>
+
+1702
+01:20:57,269 --> 01:21:00,105
+CLEMENTS: <i>It's where you get into
+what has been referred to at Disney</i>
+
+1703
+01:21:00,189 --> 01:21:02,733
+<i>as the "plausible impossible."</i>
+
+1704
+01:21:05,694 --> 01:21:06,904
+There you go.
+
+1705
+01:21:07,613 --> 01:21:08,739
+There you go.
+
+1706
+01:21:10,282 --> 01:21:12,034
+Okay. Now, no matter what happens...
+
+1707
+01:21:12,117 --> 01:21:13,202
+MUSKER: <i>They used
+to have a little more</i>
+
+1708
+01:21:13,285 --> 01:21:14,578
+<i>dialogue between them as they left</i>
+
+1709
+01:21:14,661 --> 01:21:16,955
+<i>where they sort of said goodbye
+or, "If I never come back</i>
+
+1710
+01:21:17,039 --> 01:21:19,124
+<i>"tell my mother I love her.</i> '<i>'
+I mean, practically like that.</i>
+
+1711
+01:21:19,208 --> 01:21:20,876
+<i>And it seemed</i> too <i>much at this moment</i>
+
+1712
+01:21:20,959 --> 01:21:23,295
+<i>so we went with
+the more understated...</i>
+
+1713
+01:21:23,379 --> 01:21:24,880
+CLEMENTS:
+<i>There was the first canister.</i>
+
+1714
+01:21:24,963 --> 01:21:26,006
+<i>So there's only two left.</i>
+
+1715
+01:21:26,799 --> 01:21:30,010
+Get this blasted heap turned 'round !
+
+1716
+01:21:31,428 --> 01:21:33,847
+GOODING: <i>This shot you actually
+see the ship tacking</i>
+
+1717
+01:21:33,931 --> 01:21:35,557
+<i>as a real sailing ship might,</i>
+
+1718
+01:21:35,641 --> 01:21:39,436
+<i>where the sails transfer
+from one side of the ship to the other.</i>
+
+1719
+01:21:39,520 --> 01:21:43,440
+<i>That was animated by Ian Coony.</i>
+<i>A nice little touch that he added.</i>
+
+1720
+01:21:43,524 --> 01:21:46,735
+RIPA: <i>These scenes coming up
+with Jim on the surfer,</i>
+
+1721
+01:21:46,819 --> 01:21:50,239
+<i>again, went to Jin Kim,
+just because of how well</i>
+
+1722
+01:21:50,322 --> 01:21:51,907
+<i>he was able to do these scenes,</i>
+
+1723
+01:21:51,990 --> 01:21:53,909
+<i>and how much he was
+able to put into them.</i>
+
+1724
+01:21:53,992 --> 01:21:56,036
+<i>I mean, they're so difficult as it is</i>
+
+1725
+01:21:56,120 --> 01:21:59,331
+<i>that you can get lost in
+trying to figure out how to do them.</i>
+
+1726
+01:21:59,415 --> 01:22:02,334
+<i>That he was able to do them
+and focus on the performance,</i>
+
+1727
+01:22:02,418 --> 01:22:04,002
+<i>which is one of the hardest things to do</i>
+
+1728
+01:22:04,086 --> 01:22:05,796
+<i>when you have something
+that's very technical.</i>
+
+1729
+01:22:05,879 --> 01:22:08,799
+<i>And he just was
+the right person for that.</i>
+
+1730
+01:22:08,882 --> 01:22:12,052
+<i>There were also scenes... Bobby Rubio
+had done a couple of scenes in there.</i>
+
+1731
+01:22:12,136 --> 01:22:13,303
+<i>Really nice match.</i>
+
+1732
+01:22:13,387 --> 01:22:15,514
+<i>And John Pomeroy has some
+scenes coming up</i>
+
+1733
+01:22:15,597 --> 01:22:20,269
+<i>that really, I think, match the intensity
+that Jin was able to get into his work.</i>
+
+1734
+01:22:20,352 --> 01:22:22,521
+MUSKER: <i>And this was our attempt
+to get the slight James Bond thing.</i>
+
+1735
+01:22:22,604 --> 01:22:23,772
+<i>This came up fairly late
+in the thing,</i> too.
+
+1736
+01:22:23,856 --> 01:22:27,109
+<i>We wanted to give Jim a way
+of sort of cleverly coming up with</i>
+
+1737
+01:22:27,192 --> 01:22:30,404
+<i>some way of saving the day
+and restarting his engine,</i>
+
+1738
+01:22:30,487 --> 01:22:33,282
+<i>so we came up with this thing
+of him grinding the dead engine</i>
+
+1739
+01:22:33,365 --> 01:22:36,452
+<i>against this metal wall
+and the sparks reigniting it</i>
+
+1740
+01:22:36,535 --> 01:22:38,036
+<i>and that was our attempt
+to do a little reversal</i>
+
+1741
+01:22:38,120 --> 01:22:41,707
+<i>at the end of this thing
+as we head toward the finish line.</i>
+
+1742
+01:22:41,915 --> 01:22:44,126
+DOPPLER: Three, two...
+
+1743
+01:22:45,544 --> 01:22:46,962
+CLEMENTS: <i>And if anyone
+was keeping track</i>
+
+1744
+01:22:47,045 --> 01:22:48,130
+<i>as far as B.E.N.'s countdown,</i>
+
+1745
+01:22:48,213 --> 01:22:50,716
+<i>if that was all accurate, it's not.</i>
+
+1746
+01:22:53,051 --> 01:22:55,554
+MUSKER: <i>This was one of the most
+complicated shots we did in this ending.</i>
+
+1747
+01:22:55,637 --> 01:22:57,973
+<i>This turnaround of the ship.</i>
+<i>Trying to make the sky work behind it</i>
+
+1748
+01:22:58,056 --> 01:23:00,309
+<i>because it was 2-D, it was 3-D.</i>
+
+1749
+01:23:00,392 --> 01:23:02,811
+<i>I don't even know what it is now,
+but it was complicated.</i>
+
+1750
+01:23:04,730 --> 01:23:06,064
+(CHEERING)
+
+1751
+01:23:09,067 --> 01:23:11,653
+<i>Amelia and Doppler used to
+have a longer thing between them</i>
+
+1752
+01:23:11,737 --> 01:23:14,406
+<i>where she sort of talked to him
+about becoming first mate on the ship</i>
+
+1753
+01:23:14,490 --> 01:23:15,616
+<i>and it was a great scene
+between them.</i>
+
+1754
+01:23:15,699 --> 01:23:18,744
+<i>But it seemed like it may have pulled
+away from Jim a little bit</i> too <i>much</i>
+
+1755
+01:23:18,827 --> 01:23:20,704
+<i>so we simplified that.</i>
+
+1756
+01:23:20,996 --> 01:23:23,749
+AMELIA: I'd be proud to recommend you
+to the interstellar academy.
+
+1757
+01:23:23,832 --> 01:23:25,626
+CLEMENTS: <i>The proud father.</i>
+
+1758
+01:23:26,418 --> 01:23:28,795
+Just wait until your mother
+hears about this!
+
+1759
+01:23:29,421 --> 01:23:31,131
+Of course, we may downplay
+the life-threatening parts.
+
+1760
+01:23:31,215 --> 01:23:33,175
+MUSKER: <i>Again with Martin's
+goodbye here,</i>
+
+1761
+01:23:33,258 --> 01:23:35,177
+<i>or his congratulatory thing here,</i>
+
+1762
+01:23:35,260 --> 01:23:36,720
+<i>we had longer versions,
+we had shorter versions,</i>
+
+1763
+01:23:36,803 --> 01:23:39,223
+<i>I think we were much shorter,
+but we wound up reinstating stuff</i>
+
+1764
+01:23:39,306 --> 01:23:42,684
+<i>'cause Martin just did some funny stuff
+with this crying bit at the end.</i>
+
+1765
+01:23:42,768 --> 01:23:45,646
+<i>It just seemed kind of
+comic that we liked.</i>
+
+1766
+01:23:45,729 --> 01:23:48,690
+CLEMENTS: <i>And if people notice,
+his eyes are now blue.</i>
+
+1767
+01:23:48,774 --> 01:23:53,695
+<i>When he got his memory chip,
+it turned his eyes from green to blue.</i>
+
+1768
+01:23:53,779 --> 01:23:55,531
+CONLI: <i>I thought you were going to
+talk about the eye mask.</i>
+
+1769
+01:23:55,614 --> 01:23:57,032
+CLEMENTS: <i>Yeah,
+I was going to get to it.</i>
+
+1770
+01:23:57,115 --> 01:24:00,202
+<i>And Jim's eye mask is gone for good.</i>
+
+1771
+01:24:00,285 --> 01:24:02,120
+<i>It's gone for good.</i>
+
+1772
+01:24:02,621 --> 01:24:04,498
+JIM: You never quit, do you?
+
+1773
+01:24:05,207 --> 01:24:08,210
+MUSKER: <i>And for us, this scene,
+in this interior,</i>
+
+1774
+01:24:08,293 --> 01:24:10,712
+<i>despite all the changes in the story,</i>
+
+1775
+01:24:10,796 --> 01:24:13,840
+<i>most of this stayed relatively
+as it was just in that</i>
+
+1776
+01:24:13,924 --> 01:24:18,512
+<i>we wanted to get this sort of
+moment where Jim lets Silver go,</i>
+
+1777
+01:24:18,595 --> 01:24:22,266
+<i>and also, though, that Silver
+beckons Jim to come with him</i>
+
+1778
+01:24:22,349 --> 01:24:24,226
+<i>and Jim having found his newfound
+maturity,</i>
+
+1779
+01:24:24,309 --> 01:24:28,188
+<i>he really says, "No, I think
+I got a future back home.</i> <i>"</i>
+
+1780
+01:24:28,814 --> 01:24:32,901
+<i>And it's, again, sort of a tent-pole
+for us in the movie anyway.</i>
+
+1781
+01:24:36,071 --> 01:24:40,284
+KEANE: <i>There's an emotional chord
+that you know you have to hit</i>
+
+1782
+01:24:40,367 --> 01:24:41,702
+<i>in these scenes.</i>
+
+1783
+01:24:41,785 --> 01:24:45,163
+<i>And Morph plays such
+an important moment in this,</i>
+
+1784
+01:24:45,831 --> 01:24:49,418
+<i>because Morph has always
+represented that inseparable</i>
+
+1785
+01:24:49,501 --> 01:24:51,461
+<i>element to Silver.</i>
+
+1786
+01:24:53,547 --> 01:24:55,841
+<i>And when he's given this choice</i>
+
+1787
+01:24:58,218 --> 01:25:03,098
+<i>of hanging on to Morph
+or giving Morph to Jim,</i>
+
+1788
+01:25:03,181 --> 01:25:06,810
+<i>it's such a real gift.</i>
+
+1789
+01:25:06,893 --> 01:25:10,188
+RIPA: <i>Yeah, it's really heartfelt
+because by this time,</i>
+
+1790
+01:25:10,272 --> 01:25:13,400
+<i>you know how much
+Morph means to Silver.</i>
+
+1791
+01:25:13,525 --> 01:25:16,028
+I would've taken you up
+on that offer in a second,
+
+1792
+01:25:17,279 --> 01:25:20,574
+but I met this old cyborg...
+
+1793
+01:25:21,992 --> 01:25:24,453
+MUSKER: <i>And this shot was added
+late in the game of Silver</i>
+
+1794
+01:25:24,536 --> 01:25:26,913
+<i>because we felt that
+we were on Jim so long</i>
+
+1795
+01:25:26,997 --> 01:25:28,707
+<i>and it's really the relationship
+between the two of them,</i>
+
+1796
+01:25:28,790 --> 01:25:30,250
+<i>so we cut away from Jim
+during part of it</i>
+
+1797
+01:25:30,334 --> 01:25:31,460
+<i>to feature Silver just as he said,</i>
+
+1798
+01:25:31,543 --> 01:25:32,836
+<i>"I met this guy
+who kind of changed my life.</i> <i>"</i>
+
+1799
+01:25:32,919 --> 01:25:36,340
+<i>It just seemed more emotional
+to be on Silver for that line.</i>
+
+1800
+01:25:36,423 --> 01:25:38,467
+<i>And this line, where he says,</i>
+
+1801
+01:25:38,550 --> 01:25:41,678
+<i>"I have a future, "
+he used to say, "Greatness, "</i>
+
+1802
+01:25:41,762 --> 01:25:44,222
+<i>alluding back to where he said,
+"You have the makings of greatness, "</i>
+
+1803
+01:25:44,306 --> 01:25:46,308
+<i>but it seemed a little bit comic</i>
+
+1804
+01:25:46,391 --> 01:25:48,143
+<i>and it was a question,
+"Does it seem</i> too <i>swell-headed?"</i>
+
+1805
+01:25:48,226 --> 01:25:49,645
+<i>- And the future...</i>
+- CONLI: <i>Perhaps glib.</i>
+
+1806
+01:25:49,728 --> 01:25:52,564
+MUSKER: <i>Glib, and "future" tied into
+his earlier line where he says,</i>
+
+1807
+01:25:52,648 --> 01:25:55,150
+<i>"Yeah, what future?" and it just
+seemed to round out the thing.</i>
+
+1808
+01:25:55,233 --> 01:25:58,362
+CLEMENTS: <i>Beautiful music here by
+James Newton Howard.</i>
+
+1809
+01:25:58,445 --> 01:26:01,239
+MUSKER: <i>Yeah, the theme between
+Jim and Silver that he stated earlier</i>
+
+1810
+01:26:01,323 --> 01:26:02,491
+<i>really sort of comes back around here</i>
+
+1811
+01:26:02,574 --> 01:26:06,870
+<i>and he added these violin overdubs,
+the just really sweet, tender thing.</i>
+
+1812
+01:26:06,953 --> 01:26:09,039
+<i>Again, this was Barry Johnson's idea
+to sort of have</i>
+
+1813
+01:26:09,122 --> 01:26:11,333
+<i>Morph dissolve into
+a puddle of tears here.</i>
+
+1814
+01:26:11,416 --> 01:26:13,418
+<i>But it was Tom Schumacher
+who encouraged us,</i>
+
+1815
+01:26:13,502 --> 01:26:17,130
+<i>toward the end of the film, to say,
+"I think Jim should...</i>
+
+1816
+01:26:17,214 --> 01:26:20,759
+<i>"Or Silver should actually
+give Morph to Jim as a gift.</i> <i>"</i>
+
+1817
+01:26:20,842 --> 01:26:21,843
+<i>And that was controversial</i>
+
+1818
+01:26:21,927 --> 01:26:23,762
+<i>'cause it was a question,
+can you give a pet away?</i>
+
+1819
+01:26:23,887 --> 01:26:24,971
+CLEMENTS: <i>The pet owners in the...</i>
+
+1820
+01:26:25,055 --> 01:26:26,598
+CONLI: <i>Me, being a dog person,
+I seriously questioned it</i>
+
+1821
+01:26:26,682 --> 01:26:28,642
+<i>because I couldn't imagine
+giving my dog to somebody.</i>
+
+1822
+01:26:28,725 --> 01:26:29,810
+MUSKER: <i>Right,
+but me not being a dog person,</i>
+
+1823
+01:26:29,893 --> 01:26:31,144
+<i>I just thought it would
+really be emotional</i>
+
+1824
+01:26:31,228 --> 01:26:32,396
+<i>that the thing Silver cared about most,</i>
+
+1825
+01:26:32,479 --> 01:26:34,648
+<i>he actually found it
+in the grace of his heart</i>
+
+1826
+01:26:34,731 --> 01:26:37,609
+<i>to bestow it and it became
+more powerful on Silver's part.</i>
+
+1827
+01:26:37,693 --> 01:26:39,194
+<i>And I think Glen,
+even though he is a dog owner,</i>
+
+1828
+01:26:39,277 --> 01:26:42,239
+<i>said, "Hey, I can see that.</i> '<i>'
+So we reworked this ending.</i>
+
+1829
+01:26:42,322 --> 01:26:44,241
+CLEMENTS: <i>What made it work
+was Silver realizing</i>
+
+1830
+01:26:44,324 --> 01:26:47,202
+<i>that Morph would actually
+be happier with Jim.</i>
+
+1831
+01:26:47,285 --> 01:26:48,787
+<i>So then he gives him the order.</i>
+
+1832
+01:26:49,788 --> 01:26:51,790
+This is for your dear mother,
+
+1833
+01:26:51,873 --> 01:26:54,000
+to rebuild that inn of hers.
+
+1834
+01:26:57,796 --> 01:27:00,298
+Stay out of trouble, ya old scalawag.
+
+1835
+01:27:01,800 --> 01:27:05,053
+MUSKER: <i>Neil Eskuri was our
+artistic coordinator and he really helped</i>
+
+1836
+01:27:05,137 --> 01:27:09,850
+<i>the massive job of trying to relate
+all the different parts of the puzzle</i>
+
+1837
+01:27:09,933 --> 01:27:14,521
+<i>between effects and color models
+and layout,</i>
+
+1838
+01:27:14,604 --> 01:27:17,691
+<i>and really trying to make the process
+as efficient and as rich as possible</i>
+
+1839
+01:27:17,774 --> 01:27:19,693
+<i>on the screen
+and here at the end of the film</i>
+
+1840
+01:27:19,776 --> 01:27:22,404
+<i>as we go back to the space port,
+he peopled that.</i>
+
+1841
+01:27:22,487 --> 01:27:24,573
+<i>I think it's the most complicated
+exposure sheet.</i>
+
+1842
+01:27:24,656 --> 01:27:26,616
+<i>The exposure sheets
+are the roadmap of these scenes,</i>
+
+1843
+01:27:26,700 --> 01:27:28,118
+<i>and I think this one</i>
+
+1844
+01:27:28,201 --> 01:27:30,412
+<i>took two weeks
+just to assemble the sheet</i>
+
+1845
+01:27:30,495 --> 01:27:33,165
+<i>and there's just a kajillion
+characters in there.</i>
+
+1846
+01:27:33,248 --> 01:27:36,251
+<i>It really has a rich feeling of
+a dense, thriving metropolis.</i>
+
+1847
+01:27:36,334 --> 01:27:40,922
+<i>Thanks, Neil,
+for expanding that universe out there.</i>
+
+1848
+01:27:41,006 --> 01:27:44,092
+CLEMENTS: <i>Yeah. Really
+had a very complex job</i>
+
+1849
+01:27:44,176 --> 01:27:46,136
+<i>on this movie, and did a great job.</i>
+
+1850
+01:27:46,219 --> 01:27:48,597
+CONLI: <i>He came to us from</i> Dinosaur.
+
+1851
+01:27:48,680 --> 01:27:52,267
+<i>So he had this rich background in 3-D
+and we were using so much 3-D</i>
+
+1852
+01:27:52,350 --> 01:27:55,103
+<i>in terms of the virtual sets
+and deep canvas stuff,</i>
+
+1853
+01:27:55,187 --> 01:27:57,606
+<i>that he became a real
+instrumental part in terms of</i>
+
+1854
+01:27:57,689 --> 01:27:59,691
+<i>making sure that
+everything was unified</i>
+
+1855
+01:27:59,775 --> 01:28:01,359
+<i>between the 2 and 3-D world.</i>
+
+1856
+01:28:05,947 --> 01:28:08,825
+RIPA: <i>These scenes with Jim, with
+the first time he came through the door,</i>
+
+1857
+01:28:08,909 --> 01:28:11,787
+<i>and with the cops and stuff,
+just showing how much he's changed</i>
+
+1858
+01:28:11,870 --> 01:28:15,749
+<i>and that's really what they're there for,
+even in terms of color.</i>
+
+1859
+01:28:15,874 --> 01:28:18,668
+<i>His uniform color in contrast to
+how he was dressed in the beginning</i>
+
+1860
+01:28:18,752 --> 01:28:21,713
+<i>with the black T-shirt
+and the charcoal jacket</i>
+
+1861
+01:28:21,797 --> 01:28:25,592
+<i>and trying to hide,
+he's got this light, white kind of..</i>
+
+1862
+01:28:26,468 --> 01:28:28,637
+<i>Opposite of what he was
+in the beginning.</i>
+
+1863
+01:28:28,720 --> 01:28:32,682
+KEANE: <i>He had to go through the
+experience to get to where he's at now.</i>
+
+1864
+01:28:32,766 --> 01:28:35,101
+<i>He had to have met Silver.</i>
+
+1865
+01:28:35,185 --> 01:28:39,689
+<i>He had to have a father
+to help him mature.</i>
+
+1866
+01:28:39,773 --> 01:28:42,609
+RIPA: <i>Yeah.</i>
+<i>He had to get over that loss.</i>
+
+1867
+01:28:44,736 --> 01:28:48,824
+MUSKER: <i>And note how amazingly
+in sync all this clapping is.</i>
+
+1868
+01:28:48,907 --> 01:28:50,867
+CLEMENTS: <i>People think stuff
+like that's easy.</i>
+
+1869
+01:28:50,951 --> 01:28:52,285
+<i>And it really was.</i>
+
+1870
+01:28:53,411 --> 01:28:54,704
+<i>Not!</i>
+
+1871
+01:29:01,837 --> 01:29:04,840
+KEANE: <i>So,
+seeing Silver in the clouds here,</i>
+
+1872
+01:29:04,923 --> 01:29:08,426
+<i>it's an image that you know
+that is always gonna be with Jim.</i>
+
+1873
+01:29:08,510 --> 01:29:11,429
+<i>That Silver's always
+going to be watching over his shoulder.</i>
+
+1874
+01:29:11,513 --> 01:29:17,269
+<i>And it says something really strong
+to families,</i>
+
+1875
+01:29:17,352 --> 01:29:22,107
+<i>to all of us who are growing up,
+who want to reach your dreams,</i>
+
+1876
+01:29:22,232 --> 01:29:27,696
+<i>and to see a young man who kind of
+had the cards stacked against him,</i>
+
+1877
+01:29:27,779 --> 01:29:31,533
+<i>and the most unlikely person possible</i>
+
+1878
+01:29:31,616 --> 01:29:35,370
+<i>was the key to unlocking his potential.</i>
+
+1879
+01:29:35,453 --> 01:29:37,122
+<i>And it's just a great message.</i>
+
+1880
+01:29:37,205 --> 01:29:41,710
+<i>I feel like our films here
+should have something to say.</i>
+
+1881
+01:29:41,793 --> 01:29:45,797
+<i>And this is a story
+that was borrowed from</i>
+
+1882
+01:29:45,881 --> 01:29:49,050
+<i>Robert Louis Stevenson
+hundreds of years ago,</i>
+
+1883
+01:29:49,134 --> 01:29:54,472
+<i>and adapted to our time
+through Ron and John's vision.</i>
+
+1884
+01:29:54,556 --> 01:29:59,895
+<i>And it's just really satisfying
+to see it actually up on the screen,</i>
+
+1885
+01:29:59,978 --> 01:30:03,607
+<i>and for this generation
+with a new message to it,</i>
+
+1886
+01:30:03,690 --> 01:30:07,193
+<i>but a message that
+was started a long time ago.</i>
+
+1887
+01:30:07,819 --> 01:30:11,281
+RIPA: <i>Even having gone through it
+and seen it like this and talked about it,</i>
+
+1888
+01:30:11,364 --> 01:30:15,410
+<i>it just reminds you
+of what a great opportunity</i>
+
+1889
+01:30:15,493 --> 01:30:18,330
+<i>and incredible experience it was
+doing a film like this.</i>
+
+1890
+01:30:18,413 --> 01:30:23,752
+<i>And really feeling like
+everybody worked very hard</i>
+
+1891
+01:30:23,835 --> 01:30:26,838
+<i>and tried to do something
+that they believed in</i>
+
+1892
+01:30:26,963 --> 01:30:30,383
+<i>and hopefully, as an audience,
+everybody enjoys it.</i>
+
+1893
+01:30:31,301 --> 01:30:32,427
+CON LI : <i>Four years.</i>
+
+1894
+01:30:32,510 --> 01:30:35,597
+CLEMENTS: <i>Four years?
+Seventeen years!</i>
+
+1895
+01:30:36,640 --> 01:30:39,434
+CONLI: <i>I was very lucky because
+I got pulled in</i>
+
+1896
+01:30:39,517 --> 01:30:41,102
+<i>in the last four and a half years.</i>
+
+1897
+01:30:41,186 --> 01:30:43,563
+<i>Whereas you guys have been really
+looking at this thing...</i>
+
+1898
+01:30:43,647 --> 01:30:45,732
+<i>I mean, Ron,
+you should talk about this.</i>
+
+1899
+01:30:45,815 --> 01:30:50,904
+<i>The fact that you pitched this in 1985
+is a phenomenal...</i>
+
+1900
+01:30:50,987 --> 01:30:52,405
+MUSKER: <i>Same meeting
+with</i> Little Mermaid.
+
+1901
+01:30:52,489 --> 01:30:55,158
+CLEMENTS: <i>Yes,
+I originally pitched this at</i>
+
+1902
+01:30:55,241 --> 01:30:56,785
+<i>what they called a gong show,</i>
+
+1903
+01:30:56,868 --> 01:31:00,789
+<i>which was sort of a meeting, actually,
+with Michael Eisner</i>
+
+1904
+01:31:00,872 --> 01:31:03,124
+<i>when we gathered a group of people</i>
+
+1905
+01:31:03,208 --> 01:31:06,795
+<i>and pitched</i> The Little Mermaid
+<i>and I pitched this.</i>
+
+1906
+01:31:06,878 --> 01:31:09,923
+<i>Originally, they were both gonged,
+although</i> The Little Mermaid
+
+1907
+01:31:10,006 --> 01:31:12,008
+<i>actually got going pretty quickly</i>
+
+1908
+01:31:12,092 --> 01:31:15,261
+<i>and this has been
+on the back burner for a long time</i>
+
+1909
+01:31:15,387 --> 01:31:16,680
+<i>so it's nice to finally see it.</i>
+
+1910
+01:31:16,763 --> 01:31:20,225
+CONLI: <i>A great lesson in
+persistence on this one.</i>
+
+1911
+01:31:20,350 --> 01:31:22,102
+<i>But it's truly, for me,</i>
+
+1912
+01:31:22,185 --> 01:31:25,480
+<i>it is a piece of literature that I loved
+ever since I was a kid.</i>
+
+1913
+01:31:25,563 --> 01:31:27,524
+<i>It was kind of the book
+that got me into reading</i>
+
+1914
+01:31:27,607 --> 01:31:29,985
+<i>and so the opportunity to work on it</i>
+
+1915
+01:31:30,068 --> 01:31:33,571
+<i>and the vision that I was able
+to share with these guys,</i>
+
+1916
+01:31:33,655 --> 01:31:37,450
+<i>it was... These guys are brilliant.
+It's been an amazing team.</i>
+
+1917
+01:31:37,534 --> 01:31:42,163
+CLEMENTS: <i>It's been just
+an incredible group of people.</i>
+
+1918
+01:31:42,247 --> 01:31:43,498
+MUSKER: <i>In terms of the technology,</i>
+
+1919
+01:31:43,581 --> 01:31:45,333
+<i>had this movie gotten going
+17 years ago</i>
+
+1920
+01:31:45,417 --> 01:31:46,584
+<i>when it was proposed,</i>
+
+1921
+01:31:46,668 --> 01:31:49,337
+<i>both the people that worked on it,
+and the technology that we used</i>
+
+1922
+01:31:49,421 --> 01:31:51,089
+<i>were not necessarily available then,</i>
+
+1923
+01:31:51,172 --> 01:31:53,341
+<i>so it's been to the movie's
+good fortune, I would say,</i>
+
+1924
+01:31:53,425 --> 01:31:55,427
+<i>that it's taken this long
+to get off the ground.</i>
+
+1925
+01:31:55,510 --> 01:31:58,179
+CONLI: <i>Had we started five years
+earlier, we couldn't have got there.</i>
+
+1926
+01:31:58,263 --> 01:32:00,181
+<i>Had we started 17 years ago,</i>
+
+1927
+01:32:00,265 --> 01:32:02,517
+<i>we couldn't have dreamt of
+where we would end up.</i>
+
+1928
+01:32:02,600 --> 01:32:05,687
+CLEMENTS: <i>And the intention was
+even like, when we were...</i>
+
+1929
+01:32:05,770 --> 01:32:09,274
+<i>I mean, John and I have been working
+on this for a long period of time.</i>
+
+1930
+01:32:09,357 --> 01:32:11,735
+<i>Even between
+</i>Little Mermaid <i>and</i> Aladdin,
+
+1931
+01:32:11,818 --> 01:32:12,861
+<i>we worked on it a little bit.</i>
+
+1932
+01:32:12,944 --> 01:32:16,072
+<i>Between</i> Aladdin <i>and</i> Hercules
+<i>we worked on it a little bit.</i>
+
+1933
+01:32:16,156 --> 01:32:19,743
+<i>And even then, we conceived it
+as a big action-adventure movie</i>
+
+1934
+01:32:19,826 --> 01:32:23,830
+<i>and really wanted to get that
+kind of action-adventure</i>
+
+1935
+01:32:23,913 --> 01:32:25,415
+<i>cinematics into it,</i>
+
+1936
+01:32:25,498 --> 01:32:29,461
+<i>and had no idea
+how that would be possible,</i>
+
+1937
+01:32:29,544 --> 01:32:34,049
+<i>and it turned out that by the time
+we were actually able to do the film,</i>
+
+1938
+01:32:34,132 --> 01:32:37,385
+<i>technology had developed
+that actually made it possible,</i>
+
+1939
+01:32:37,469 --> 01:32:40,638
+<i>but even then, a lot of stuff was
+developed in the course of the movie</i>
+
+1940
+01:32:40,722 --> 01:32:43,224
+<i>that didn't exist when we began.</i>
+
+1941
+01:32:43,308 --> 01:32:46,895
+CONLI: <i>And that's a testament to
+the team, 'cause the team was really...</i>
+
+1942
+01:32:46,978 --> 01:32:50,565
+<i>Everyone embraced this film,
+everyone embraced the story,</i>
+
+1943
+01:32:50,648 --> 01:32:52,817
+<i>and everyone embraced
+the technology that was there.</i>
+
+1944
+01:32:52,901 --> 01:32:54,652
+MUSKER: <i>And took it into these
+uncharted territories,</i>
+
+1945
+01:32:54,736 --> 01:32:57,405
+<i>technologically speaking
+and artistically speaking,</i>
+
+1946
+01:32:57,489 --> 01:33:03,244
+<i>in terms of character design,
+acting choices, virtual sets, 3-D, 2-D,</i>
+
+1947
+01:33:04,120 --> 01:33:05,497
+<i>you name it, all the way down the line,</i>
+
+1948
+01:33:05,580 --> 01:33:08,333
+<i>we were doing things
+we hadn't really done before.</i>
+
+1949
+01:33:08,416 --> 01:33:12,337
+<i>And, yeah, it was a testament
+to the team that they really...</i>
+
+1950
+01:33:12,420 --> 01:33:16,883
+CLEMENTS: <i>We decided to go for this
+kind of classical look to the movie</i>
+
+1951
+01:33:16,966 --> 01:33:21,346
+<i>and a very sort of dimensional,
+classical look to the characters,</i>
+
+1952
+01:33:22,180 --> 01:33:25,225
+<i>which really put a big emphasis,
+not only on</i>
+
+1953
+01:33:25,308 --> 01:33:30,105
+<i>that you needed superb acting,
+but draftsmanship was so important.</i>
+
+1954
+01:33:30,188 --> 01:33:33,566
+<i>And we had just such amazing
+animators on this film</i>
+
+1955
+01:33:33,650 --> 01:33:37,987
+<i>who were not only terrific actors,
+wonderful actors,</i>
+
+1956
+01:33:38,071 --> 01:33:40,490
+<i>but could draw so beautifully</i>
+
+1957
+01:33:40,573 --> 01:33:45,787
+<i>and the quality of draftsmanship,
+I think, is a little bit unprecedented.</i>
+
+1958
+01:33:45,870 --> 01:33:48,456
+CONLI: <i>I think a nod also goes
+to the performers themselves.</i>
+
+1959
+01:33:48,540 --> 01:33:50,625
+<i>Because I think,
+from an acting standpoint,</i>
+
+1960
+01:33:50,708 --> 01:33:53,586
+<i>there are incredible performances
+in this thing.</i>
+
+1961
+01:33:53,670 --> 01:33:57,173
+<i>I think it's one of the best
+vocal performances</i>
+
+1962
+01:33:57,257 --> 01:33:58,800
+<i>I've seen in an animated film.</i>
+
+1963
+01:33:58,883 --> 01:34:01,010
+CLEMENTS: <i>By the way,
+</i>Treasure Planet <i>was a</i>
+
+1964
+01:34:01,094 --> 01:34:03,763
+<i>controversial title for this movie.</i>
+
+1965
+01:34:03,847 --> 01:34:06,558
+<i>There were many other
+titles considered,</i>
+
+1966
+01:34:06,641 --> 01:34:08,643
+<i>I think, for various reasons,</i>
+
+1967
+01:34:08,726 --> 01:34:11,855
+<i>but</i> Treasure Planet
+<i>seemed to be the title that stuck.</i>
+
+1968
+01:34:11,938 --> 01:34:14,983
+<i>It was the title we always wanted to
+go with because this really is</i>
+
+1969
+01:34:15,066 --> 01:34:17,193
+<i>Robert Louis Stevenson's
+</i>Treasure Island
+
+1970
+01:34:17,277 --> 01:34:21,281
+<i>told in an outer space setting
+and that title seemed to</i>
+
+1971
+01:34:21,364 --> 01:34:24,826
+<i>express that probably
+better than any other title.</i>
+
+1972
+01:34:24,909 --> 01:34:27,996
+<i>If you don't know that
+it's Robert Louis Stevenson's</i>
+
+1973
+01:34:28,079 --> 01:34:30,456
+<i>story translated into science fiction,</i>
+
+1974
+01:34:30,540 --> 01:34:33,418
+<i>maybe the title doesn't have
+the same meaning, I don't know.</i>
+
+1975
+01:34:34,377 --> 01:34:37,088
+<i>I guess that sums it up.</i>
+
+1976
+01:34:37,755 --> 01:34:39,132
+CONLI: <i>Hope you loved the film.</i>
+
+1977
+01:34:39,215 --> 01:34:41,092
+CLEMENTS: <i>Hope this provided
+a little bit of insight</i>
+
+1978
+01:34:41,176 --> 01:34:45,346
+<i>into what it's like to put
+one of these things together.</i>
+
+1979
+01:34:45,430 --> 01:34:46,681
+MUSKER: <i>And you children out there,</i>
+
+1980
+01:34:46,764 --> 01:34:50,393
+<i>don't do this at home
+because it's very dangerous.</i>
+
+1981
+01:34:50,476 --> 01:34:53,062
+RIPA: <i>So, I guess, thanks for joining us.</i>
+
+1982
+01:34:53,897 --> 01:34:55,857
+KEANE: <i>Stop in,
+visit John some day at the studio.</i>
+
+1983
+01:34:55,940 --> 01:34:57,650
+RIPA: <i>Sure, stop on by.</i>
+
+1984
+01:35:00,069 --> 01:35:02,197
+<i>Thanks for listening.</i>
+
+1985
+01:35:02,280 --> 01:35:04,824
+GOODING: <i>Thanks for listening.</i>
+<i>I hope you enjoyed the film</i>
+
+1986
+01:35:04,908 --> 01:35:08,453
+<i>and I hope I didn't
+put anyone to sleep out there.</i>
+
+1987
+01:35:08,536 --> 01:35:09,829
+CONLI: <i>And read the book.</i>
+
+1988
+01:35:09,913 --> 01:35:11,623
+MUSKER: <i>Read the book, yes.</i>
+CONLI: <i>Go read the book, kids.</i>
+
+1989
+01:35:11,706 --> 01:35:13,499
+MUSKER: <i>If you come away
+with anything, just read the book.</i>
+
+1990
+01:35:13,583 --> 01:35:16,252
+CONLI: <i>Just remember, if it wasn't
+for the book, this wouldn't be here.</i>
+
+1991
+01:35:16,336 --> 01:35:19,005
+CLEMENTS: <i>Remember,
+it all started with a book.</i>

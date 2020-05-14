@@ -1,0 +1,940 @@
+{2322}{2381}We're under attack!|Light the signal!
+{2918}{3025}Light the fire now!|- Light the signal!
+{3027}{3096}Now all of China|knows you're here.
+{3260}{3313}Perfect.
+{3472}{3552}Your Majesty, the Huns have|crossed our Northern border.
+{3554}{3642}Impossible.|No one can get through the Great Wall.
+{3644}{3694}Shan-Yu is leading them.
+{3737}{3805}We'll set up defenses|around your palace immediately.
+{3807}{3924}No. Send your troops|to protect my people. Chi Fu.
+{3926}{4038}Yes, Your Highness? - Deliver conscription|notices throughout all the provinces.
+{4040}{4121}Call up reserves and|as many new recruits as possible.
+{4123}{4221}Forgive me, Your Majesty,|but I believe my troops can stop him.
+{4223}{4282}I won't take|any chances, General.
+{4283}{4350}A single grain of rice|can tip the scale.
+{4351}{4450}One man may be the difference|between victory and defeat.
+{4501}{4568}{Y:bi}Quiet and demure.
+{4570}{4640}{Y:bi}Graceful. Polite.
+{4641}{4688}{Y:bi}Delicate.
+{4689}{4760}{Y:bi}Refined. Poised.
+{4810}{4846}{Y:bi}Punctual.
+{4846}{4893}{Y:bi}Punctual.
+{4894}{4988}Ai-yah!|Little Brother!
+{4989}{5064}Little Brother. Lit-
+{5066}{5144}Ah! There you are.
+{5146}{5229}Who's the smartest doggy in|the world? Come on, smart boy.
+{5231}{5308}Can you help me with my chores today?
+{6069}{6122}Honorable ancestors,
+{6123}{6249}please help Mulan|impress the Matchmaker today.
+{6383}{6433}Please.
+{6435}{6508}Please help her.
+{6631}{6685}Father, I brought your-
+{6687}{6739}Mulan.|- I brought a spare.
+{6740}{6811}Mulan. - Remember, the doctor said|three cups of tea in the morning...
+{6813}{6859}Mulan.|- and three at night.
+{6861}{6961}Mulan, you should already be in town.|We are counting on you-
+{6962}{7029}To uphold the family honor.
+{7029}{7111}Don't worry, Father.|I won't let you down.
+{7112}{7178}Wish me luck.|- Hurry!
+{7236}{7327}I'm going to...|pray some more.
+{7427}{7487}Fa Li, is your daughter|here yet?
+{7488}{7567}The Matchmaker|is not a patient woman.
+{7569}{7685}Of all days to be late- I should have|prayed to the ancestors for luck.
+{7687}{7764}How lucky can they be?|They're dead.
+{7766}{7858}Besides, I've got|all the luck we'll need.
+{7859}{7926}This is your chance|to prove yourself.
+{8021}{8073}Grandma, no!
+{8345}{8427}Yep, this cricket's|a lucky one!
+{8612}{8664}I'm here.
+{8666}{8727}What? But Mama,|I had to-
+{8729}{8820}None of your excuses.|Now, let's get you cleaned up.
+{8890}{8953}{Y:bi}This is what you give me|to work with
+{8954}{9040}{Y:bi}Well, honey|I've seen worse
+{9042}{9121}{Y:bi}We're gonna turn this sow's ear
+{9123}{9192}{y:bi}Into a silk purse|- It's freezing.
+{9194}{9277}It would have been warm|if you were here on time.
+{9278}{9346}{Y:bi}We'll have you|washed and dried
+{9347}{9413}{Y:bi}Primped and polished|till you glow with pride
+{9415}{9482}{Y:bi}Trust my recipe|for instant bride
+{9484}{9547}{Y:bi}You'll bring honor|to us all
+{9548}{9622}Mulan, what's this?|- Uh, notes,
+{9624}{9671}in case|I forget something.
+{9673}{9745}Hold this.|We'll need more luck than I thought.
+{9746}{9823}{Y:bi}Wait and see|when we're through
+{9825}{9888}{Y:bi}Boys will gladly|go to war for you
+{9890}{9962}{Y:bi}With good fortune|- And a great hairdo
+{9964}{10041}{Y:bi}You'll bring honor to us all
+{10043}{10116}{Y:bi}A girl can bring|her family
+{10118}{10189}{Y:bi}Great honor in one way
+{10190}{10261}{Y:bi}By striking a good match|- Huh?
+{10262}{10321}{Y:bi}And this could be the day
+{10323}{10401}{Y:bi}Men want girls|with good taste
+{10402}{10469}Calm. - Obedient.|{y:bi}- Who work fast-paced
+{10471}{10541}{Y:bi}With good breeding|- And a tiny waist
+{10543}{10624}{Y:bi}You'll bring honor to us all
+{10626}{10720}{Y:bi}We all must serve|our Emperor
+{10721}{10782}{Y:bi}Who guards us|from the Huns
+{10784}{10845}{Y:bi}The men by bearing arms
+{10846}{10906}{Y:bi}A girl by bearing sons
+{10908}{10985}{Y:bi}When we're through you can't fail
+{10986}{11055}{Y:bi}Like a lotus blossom|soft and pale
+{11056}{11125}{Y:bi}How could any fellow|say no sale
+{11126}{11173}{Y:bi}You'll bring honor|to us all
+{11173}{11220}{Y:bi}You'll bring honor|to us all
+{11221}{11297}{Y:bi}You'll bring honor|to us all
+{11299}{11348}There.|You're ready.
+{11350}{11440}Not yet.|An apple for serenity.
+{11442}{11505}A pendant for balance.
+{11507}{11562}{Y:bi}Beads of jade
+{11564}{11634}{Y:bi}For beauty
+{11636}{11705}{Y:bi}You must proudly
+{11707}{11762}{Y:bi}Show it
+{11764}{11829}{Y:bi}Now add a cricket
+{11831}{11888}{Y:bi}Just for luck
+{11890}{11965}{Y:bi}And even you|can't blow it
+{11967}{12048}{Y:bi}Ancestors|Hear my plea
+{12050}{12116}{Y:bi}Help me not to make|a fool of me
+{12118}{12184}{Y:bi}And to not uproot|my family tree
+{12186}{12292}{Y:bi}Keep my father|standing tall
+{12293}{12360}{Y:bi}Scarier than|the undertaker
+{12361}{12433}{Y:bi}We are meeting|our Matchmaker
+{12435}{12493}{Y:bi}Destiny Guard our girls
+{12495}{12565}{Y:bi}And our future|as it fast unfurls
+{12567}{12637}{Y:bi}Please look kindly|on these cultured pearls
+{12639}{12731}{Y:bi}Each a perfect|porcelain doll
+{12733}{12801}{Y:bi}Please bring honor to us|- Please bring honor to us
+{12803}{12874}{Y:bi}Please bring honor to us|- Please bring honor to us
+{12876}{13084}{Y:bi}Please bring honor|to us all
+{13124}{13182}"Fa Mulan."
+{13184}{13262}Present.|- Speaking without permission.
+{13264}{13366}Oops.|- Who spit in her bean curd?
+{13506}{13579}Mmm. Too skinny.
+{13581}{13699}Hmph! Not good|for bearing sons.
+{13868}{13930}Recite the|final admonition.
+{13980}{14058}Well?
+{14060}{14181}Fulfill your duties|calmly and... respectfully.
+{14182}{14272}Um, reflect before you snack-
+{14274}{14380}Act! This shall bring you|honor and glory.
+{14439}{14501}Hmm. This way.
+{14625}{14704}Now, pour the tea.
+{14706}{14788}To please|your future in-laws,
+{14790}{14883}you must demonstrate|a sense of dignity...
+{14885}{14955}and refinement.
+{14957}{15015}You must also be poised.
+{15081}{15163}Um, pardon me.|- And silent!
+{15235}{15326}Could I just take that back?
+{15328}{15388}One moment.
+{15388}{15456}Why, you clumsy-
+{15777}{15871}I think it's going well, don't you?
+{15872}{15970}Put it out! Put it out!|Put it out!
+{16182}{16259}You are a disgrace!
+{16261}{16314}You may look like a bride,
+{16315}{16428}but you will never|bring your family honor!
+{17212}{17263}{Y:bi}Look at me
+{17265}{17320}{Y:bi}I will never pass
+{17322}{17381}{Y:bi}For a perfect bride
+{17383}{17455}{Y:bi}Or a perfect daughter
+{17457}{17513}{Y:bi}Can it be
+{17515}{17639}{Y:bi}I'm not meant|to play this part
+{17641}{17706}{Y:bi}Now I see
+{17708}{17819}{Y:bi}That if I were truly|to be myself
+{17821}{17940}{Y:bi}I would break|my family's heart
+{18022}{18156}{Y:bi}Who is that girl I see
+{18157}{18215}{Y:bi}Staring straight
+{18216}{18269}{Y:bi}Back at me
+{18271}{18362}{Y:bi}Why is my reflection
+{18364}{18514}{Y:bi}Someone I don't know
+{18516}{18664}{Y:bi}Somehow I cannot hide
+{18666}{18713}{Y:bi}Who I am
+{18715}{18781}{Y:bi}Though I've tried
+{18783}{18903}{Y:bi}When will|my reflection show
+{18905}{19068}{Y:bi}Who I am inside
+{19108}{19246}{Y:bi}When will|my reflection show
+{19248}{19323}{Y:bi}Who I am
+{19324}{19407}{Y:bi}Inside
+{19842}{19889}My, my.
+{19891}{20010}What beautiful blossoms|we have this year.
+{20011}{20109}But, look,|this one's late.
+{20111}{20171}But I'll bet that|when it blooms,
+{20197}{20302}it will be|the most beautiful of all.
+{20434}{20489}What is it?
+{20759}{20805}Mulan.
+{20807}{20859}Stay inside.
+{20980}{21047}Citizens, I bring|a proclamation...
+{21048}{21099}from the Imperial City.
+{21101}{21178}The Huns have invaded China.
+{21180}{21232}By order of the Emperor,
+{21234}{21343}one man from every family|must serve in the Imperial Army.
+{21345}{21412}The Hsiao family.
+{21413}{21496}The Yi family.
+{21497}{21559}I will serve the Emperor|in my father's place.
+{21561}{21649}The Fa family.|- No!
+{22010}{22065}I am ready to serve|the Emperor.
+{22067}{22141}Father, you can't go.|- Mulan!
+{22143}{22223}Please, sir, my father has already|fought bravely... - Silence!
+{22225}{22365}You would do well to teach your daughter|to hold her tongue in a man's presence.
+{22367}{22437}Mulan, you dishonor me.
+{22512}{22572}Report tomorrow|to the Wu Zhong camp.
+{22573}{22625}Yes, sir.
+{22655}{22714}The Chu family!
+{22743}{22802}The Wen family!
+{22846}{22902}The Chang family!
+{24441}{24493}You shouldn't have to go!|- Mulan-
+{24495}{24548}There are plenty of young men|to fight for China.
+{24550}{24648}It is an honor to protect|my country and my family.
+{24650}{24697}So, you'll die for honor.
+{24698}{24756}I will die|doing what's right.
+{24758}{24863}But if you... - I know my place!|It is time you learned yours.
+{28210}{28286}Mulan is gone!
+{28288}{28371}What?
+{28397}{28444}It can't be.
+{28619}{28672}Mulan!
+{28748}{28817}No.
+{28819}{28921}You must go after her.|She could be killed.
+{28923}{28990}If I reveal her,
+{28991}{29046}she will be.
+{29264}{29351}Ancestors, hear our prayer.
+{29352}{29386}Watch over Mulan.
+{29894}{29958}Mushu, awaken.
+{30102}{30190}I live!
+{30192}{30268}So tell me what mortal needs|my protection, Great Ancestor.
+{30269}{30328}You just say the word and I'm there.|- Mushu-
+{30330}{30420}And let me say somethin'. Anybody's who's|foolish enough to threaten our family,
+{30422}{30491}vengeance will be mine!
+{30493}{30558}Mushu!
+{30559}{30625}These are|the family guardians.
+{30626}{30711}They-|- Protect the family.
+{30713}{30800}And you, O Demoted One?
+{30802}{30870}I... ring the gong.
+{30872}{30977}That's right.|Now, wake up the ancestors.
+{30978}{31069}One family reunion comin' right up.
+{31070}{31141}Okay, people, people, look alive.|Let's go. Come on. Get up.
+{31142}{31237}Let's move it. Rise and shine. Y'all way|past the beauty sleep thing, trust me.
+{31339}{31455}I knew it. I knew it. That Mulan|was a troublemaker from the start!
+{31457}{31519}Don't look at me. She gets it|from your side of the family.
+{31520}{31580}She's just trying|to help her father.
+{31581}{31646}But if she's discovered,|Fa Zhou will be forever shamed.
+{31648}{31725}Dishonor will come to the family.|Traditional values will disintegrate.
+{31726}{31769}Not to mention,|they'll lose the farm.
+{31770}{31863}My children never caused such trouble.|They all became acupuncturists.
+{31865}{31936}Well, we can't all be acupuncturists.|- No!
+{31938}{32014}Your great-granddaughter|had to be a cross-dresser!
+{32077}{32172}Let a guardian bring her back.|- Yes, awaken the most cunning.
+{32174}{32220}No. The swiftest.
+{32222}{32285}No. Send the wisest.|- Silence!
+{32287}{32358}We must send|the most powerful of all.
+{32360}{32487}Okay, okay,|I get the drift. I'll go.
+{32548}{32641}Oh, y'all don't think I can do it.|Watch this here.
+{32643}{32694}Aha! Jump back.|I'm pretty hot, huh?
+{32696}{32750}Don't make me have to singe|nobody to prove no point.
+{32752}{32816}You had your chance|to protect the Fa family.
+{32818}{32882}Your misguidance led|Fa Deng to disaster.
+{32884}{32962}Yeah, thanks a lot.|- And your point is?
+{32964}{33091}The point is we will be sending|a real dragon to retrieve Mulan.
+{33093}{33148}What- What-|I'm a real dragon!
+{33149}{33286}You are not worthy of this spot.|Now, awaken the Great Stone Dragon.
+{33319}{33393}So you'll get back to me|on the job thing?
+{33446}{33513}Just one chance,|is that too much to ask?
+{33515}{33591}I mean, it's not like|it'd kill ya.
+{33593}{33674}Yo, Rocky, wake up!|Ya gotta go fetch Mulan!
+{33765}{33825}Come on, boy!|Go get her! Go on!
+{33827}{33880}Come on.
+{34073}{34119}Hello?
+{34121}{34174}Hel-lo!
+{34176}{34227}Hello!
+{34229}{34277}Uh-oh.
+{34448}{34498}Uh, Stony?
+{34500}{34576}Stony? Oh, man,|they're gonna kill me.
+{34578}{34636}Great Stone Dragon,
+{34637}{34704}have you awakened?
+{34705}{34790}Uh, uh, uh, uh-|Yes, I just woke up.
+{34792}{34882}I'm- I'm the Great|Stone Dragon. Good morning.
+{34884}{34945}I will go forth|and fetch Mulan.
+{34946}{35026}Did- Did I mention that|I was the Great Stone Dragon?
+{35028}{35100}Go! The fate|of the Fa family...
+{35102}{35163}rests in your claws.
+{35165}{35249}Don't even worry about it.|I will not lose face.
+{35300}{35373}My elbow!
+{35375}{35442}I know I twisted somethin'.
+{35492}{35546}That's just great.|Now what?
+{35547}{35665}I'm doomed, and all 'cause Miss Man decides|to take her little drag show on the road.
+{35758}{35849}Go get her? What's the matter|with you? After this Great Stone,
+{35851}{35944}Humpty Dumpty mess, I'd have to bring her|home with a medal to get back in the temple.
+{35945}{35999}Wait a minute. That's it!
+{36001}{36078}I make Mulan a war hero, and they'll be|begging me to come back to work.
+{36080}{36148}That's the master plan.|Ah, you done it now, man.
+{36201}{36277}Hey, what makes you|think you're comin'?
+{36278}{36344}You're lucky?
+{36345}{36429}Do I look like a sucker to you?
+{36431}{36531}What you mean, a loser? How|'bout I pop one of your antennas|off, throw it across the yard?
+{36532}{36605}Then who's the loser, me or you?
+{37369}{37435}Imperial scouts.
+{37674}{37736}Shan-Yu.
+{37823}{37919}Nice work, gentlemen.|You found the Hun Army.
+{37980}{38028}The Emperor|will stop you.
+{38029}{38114}Stop me?|He invited me.
+{38157}{38246}By building his wall,|he challenged my strength.
+{38248}{38303}Well, I'm here|to play his game.
+{38351}{38471}Go! Tell your Emperor|to send his strongest armies.
+{38473}{38527}I'm ready.
+{38596}{38660}How many men does it take|to deliver a message?
+{38661}{38724}One.
+{38817}{38872}Okay, okay,|how about this?
+{38874}{38933}Excuse me.
+{38935}{38984}Where do I sign in?
+{38986}{39085}Ha, I see you have a sword.|I have one too.
+{39087}{39146}They're very manly|and... tough.
+{39232}{39286}I'm working on it!
+{39288}{39361}Oh, who am I fooling?
+{39363}{39437}It's going to take a miracle|to get me into the army.
+{39439}{39510}Did I hear someone ask|for a miracle?
+{39511}{39572}Let me hear you say "aaah"!
+{39573}{39624}That's close enough.|- A ghost.
+{39626}{39710}Get ready, Mulan.|Your serpentine salvation is at hand!
+{39712}{39784}For I have been sent|by your ancestors...
+{39785}{39850}to guide you through|your masquerade.
+{39852}{39902}Come on. If you're gonna stay,|you're gonna work.
+{39903}{40010}So heed my word! 'Cause if|the army finds out you're a girl,
+{40012}{40089}the penalty is death!
+{40091}{40189}Who are you?|- Who am I? Who am I?
+{40190}{40273}I am the guardian|of lost souls.
+{40275}{40338}I am the powerful,|the pleasurable,
+{40340}{40398}the indestructible Mushu.
+{40433}{40481}Pretty hot, huh?
+{40615}{40725}Uh, my ancestors sent|a little lizard to help me?
+{40727}{40793}Hey, dragon, dragon,|not lizard.
+{40795}{40859}I don't do that tongue thing.
+{40861}{40907}You're, um-
+{40909}{40962}Intimidating?|Awe inspiring?
+{40964}{41044}Tiny. - Of course. I'm travel|size for your convenience.
+{41045}{41137}If I was my real size,|your cow here would die of fright.
+{41139}{41243}Down, Bessie. My powers are|beyond your mortal imagination.
+{41245}{41349}For instance, my eyes can see|straight through your armor.
+{41387}{41472}All right, that's it! Dishonor!|Dishonor on your whole family.
+{41473}{41565}Make a note of this. Dishonor on you,|dishonor on your cow, dis-
+{41565}{41639}Stop. I'm sorry.|I'm sorry.
+{41641}{41701}I'm just nervous.|I've never done this before.
+{41702}{41791}Then you're gonna have to trust me.|And don't you slap me no more.
+{41793}{41845}We clear on that?|All right.
+{41846}{41925}Okeydokey. Let's get this show|on the road! Cri-Kee, get the bags.
+{41927}{41988}Let's move it, heifer.
+{42069}{42134}Okay, this is it.|Time to show 'em your man walk.
+{42136}{42241}Shoulders back, chest high,|feet apart, head up and strut.
+{42242}{42349}Two, three- Break it down.|Hup, two, three. And work it!
+{42411}{42478}Beautiful, isn't he?|- They're disgusting.
+{42478}{42565}No, they're men. Now, you gonna have to|act just like them, so pay attention.
+{42567}{42671}Look. This tattoo|will protect me from harm.
+{42721}{42821}I hope you can|get your money back.
+{42823}{42872}I don't think|I can do this.
+{42874}{42939}It's all attitude.|Be tough, like this guy here.
+{42941}{43016}What are you lookin' at?
+{43018}{43081}Punch him.|It's how men say hello.
+{43121}{43180}Oh, Yao,|you've made a friend.
+{43181}{43240}Good. Now slap him on the behind.|They like that.
+{43296}{43388}I'm gonna hit you so hard,|it'll make your ancestors dizzy.
+{43390}{43503}Yao, relax and chant with me.
+{43681}{43738}Feel better?
+{43740}{43830}Yeah. Ahh, you ain't|worth my time.
+{43832}{43882}Chicken boy.|- Chicken boy?
+{43883}{43939}Say that to my face,|ya limp noodle!
+{44025}{44095}Oh. Sorry, Ling.
+{44158}{44215}Whoa! You're dead!
+{44296}{44348}Oh, there he goes!
+{44789}{44846}Hey, guys.
+{44847}{44926}The Huns have struck here,|here and here.
+{44928}{44998}I will take the main troops|up to the Tung Shao Pass...
+{45000}{45088}and stop Shan-Yu|before he destroys this village.
+{45090}{45147}Excellent strategy, sir.
+{45147}{45247}I do love surprises.
+{45249}{45304}You will stay and train|the new recruits.
+{45306}{45372}When Chi Fu believes|you're ready,
+{45373}{45421}you will join us, Captain.
+{45423}{45470}Captain?
+{45471}{45569}This is an enormous|responsibility, General.
+{45571}{45617}Perhaps a soldier|with more experience.
+{45619}{45725}Number one in his class, extensive|knowledge of training techniques,
+{45726}{45787}and impressive|military lineage.
+{45789}{45855}I believe Li Shang will do|an excellent job.
+{45857}{45962}Oh, I will. I won't let you down.|This is- I mean-
+{45964}{46035}Yes, sir.|- Very good then.
+{46037}{46120}We'll toast China's victory|at the Imperial City.
+{46122}{46200}I'll expect a full report|in three weeks.
+{46201}{46282}And I won't leave|anything out.
+{46339}{46394}Captain Li Shang.
+{46444}{46513}Leader of China's|finest troops.
+{46515}{46596}No. The greatest troops of all time.
+{46812}{46868}Most impressive.
+{46941}{47032}Good luck, Captain. Hyah!
+{47178}{47255}Good luck, Father.
+{47431}{47494}Day one.
+{47530}{47580}Soldiers!
+{47604}{47651}He started it!
+{47815}{47879}I don't need anyone|causing trouble in my camp.
+{47881}{47927}Sorry. Uh-
+{47929}{48021}I mean, uh, sorry you had to see that.
+{48022}{48143}But you know how it is when you get those|manly urges and you just gotta kill somethin',
+{48144}{48230}fix things, cook outdoors-
+{48232}{48320}What's your name?
+{48322}{48411}Your commanding officer|just asked you a question.
+{48412}{48516}Uh, I've got a name.|Ha! And it's a boy's name too.
+{48518}{48585}Ling. How 'bout Ling?|- His name is Ling.
+{48587}{48658}I didn't ask for his name.|I asked for yours!
+{48659}{48726}Try, uh, uh, ah, Chu.|- Ah Chu.
+{48728}{48812}Ah Chu?|- Gesundheit. Ha, ha. I kill myself.
+{48814}{48850}Mushu.|- Mushu?
+{48852}{48891}No.|- Then what is it?
+{48893}{48962}Ping was my best friend growin' up.|- It's Ping.
+{48963}{49044}Ping?|- Of course, Ping did steal my-
+{49045}{49101}Yes, my name is Ping.
+{49103}{49165}Let me see your|conscription notice.
+{49167}{49294}Fa Zhou? The Fa Zhou?|- I didn't know Fa Zhou had a son.
+{49295}{49370}Um, he doesn't talk about me much.
+{49490}{49596}I can see why.|That boy's an absolute lunatic.
+{49656}{49732}Okay, gentlemen,|thanks to your new friend, Ping,
+{49734}{49825}you'll spend tonight picking up|every single grain of rice.
+{49826}{49918}And tomorrow, the real work begins.
+{49988}{50070}You know, we have to work|on your people skills.
+{50542}{50628}All right! Rise and shine,|Sleeping Beauty.
+{50630}{50684}Come on. Hup, hup, hup.
+{50734}{50829}Get your clothes on. Get ready.|Got breakfast for ya.
+{50830}{50944}Look, you get porridge,|and it's happy to see you.
+{50945}{51008}Hey, get outta there!|You gonna make people sick.
+{51010}{51091}Am I late? - No time to talk. Now remember,|it's your first day of training,
+{51093}{51163}so listen to your teacher and no|fightin', play nice with the other kids,
+{51164}{51235}unless one of the other kids wanna fight,|then you have to kick the other kid's butt.
+{51237}{51314}But I don't wanna kick the other kid's butt.|- Don't talk with your mouth full.
+{51316}{51382}Now let's see your war face.
+{51384}{51477}Oh, I think my bunny slippers just ran|for cover. Come on! Scare me, girl.
+{51479}{51554}Yeah, that's my tough lookin' warrior.
+{51556}{51624}That's what I'm talkin' about.|Now, get out there and make me proud.
+{51688}{51743}What do you mean, the troops just left?|- They what?
+{51832}{51888}Wait!|You forgot your sword.
+{51935}{52005}My little baby,|off to destroy people.
+{52126}{52175}Order. People, order.
+{52177}{52247}I'd like a pan-fried noodle.|- Oh, oh! Sweet and pungent shrimp.
+{52249}{52312}Moo goo gai pan.|- That's not funny.
+{52368}{52445}Looks like our new friend|slept in this morning.
+{52448}{52530}Hello, Ping.|Are ya hungry?
+{52532}{52618}Yeah, 'cause I owe you|a knuckle sandwich.
+{52620}{52674}Soldiers!
+{52775}{52859}You will assemble swiftly|and silently every morning.
+{52891}{52951}Anyone who acts otherwise...
+{52953}{53005}will answer to me.
+{53006}{53073}Eeew. Tough guy.
+{53075}{53126}Yao.
+{53237}{53322}Thank you for volunteering.|Retrieve the arrow.
+{53351}{53423}I'll get that arrow,|pretty boy,
+{53425}{53505}and I'll do it|with my shirt on.
+{53540}{53618}One moment. You seem|to be missing something.
+{53704}{53762}This represents discipline,
+{53802}{53880}and this|represents strength.
+{53918}{53990}You need both|to reach the arrow.
+{54524}{54585}We've got a long way to go.
+{54784}{54877}{Y:bi}Let's get down to business
+{54879}{54967}{Y:bi}To defeat the Huns
+{54969}{55079}{Y:bi}Hoo-ah!|- Did they send me daughters
+{55081}{55182}{Y:bi}When I asked for sons
+{55184}{55270}{Y:bi}You're the saddest bunch|I ever met
+{55272}{55379}{Y:bi}But you can bet|before we're through
+{55380}{55475}{Y:bi}Mister, I'll make a man
+{55477}{55543}{Y:bi}Out of you
+{55618}{55682}{Y:bi}Tranquil as a forest
+{55683}{55793}{Y:bi}But on fire within
+{55795}{55901}{Y:bi}Once you find your center
+{55903}{55996}{Y:bi}You are sure to win
+{55997}{56092}{Y:bi}You're a spineless, pale|pathetic lot
+{56094}{56182}{Y:bi}And you haven't got a clue
+{56184}{56304}{Y:bi}Somehow I'll|make a man
+{56306}{56365}{Y:bi}Out of you
+{56395}{56464}{Y:bi}I'm never gonna|catch my breath
+{56465}{56512}{Y:bi}Say good-bye|to those who knew me
+{56513}{56613}{Y:bi}Boy, was I a fool|in school for cutting gym
+{56614}{56667}{Y:bi}This guy's got 'em scared to death
+{56667}{56714}{Y:bi}Hope he doesn't see right through me
+{56715}{56790}{Y:bi}Now I really wish|that I knew how to swim
+{56792}{56918}{Y:bi}Be a man|- We must be swift as a coursing river
+{56919}{57003}{Y:bi}Be a man|- With all the force of a great typhoon
+{57005}{57124}{Y:bi}Be a man|- With all the strength of a raging fire
+{57126}{57299}{Y:bi}Mysterious as the dark side|of the moon
+{57337}{57405}{Y:bi}Time is racing toward us
+{57407}{57521}{Y:bi}Till the Huns arrive
+{57523}{57620}{Y:bi}Heed my every order
+{57622}{57714}{Y:bi}And you might survive
+{57716}{57819}{Y:bi}You're unsuited for|the rage of war
+{57821}{57915}{Y:bi}So pack up, go home|You're through
+{57917}{58008}{Y:bi}How could I|make a man
+{58009}{58118}{Y:bi}Out of you
+{58120}{58211}{Y:bi}Be a man|- We must be swift as a coursing river
+{58212}{58320}{Y:bi}Be a man|- With all the force of a great typhoon
+{58322}{58428}{Y:bi}Be a man|- With all the strength of a raging fire
+{58429}{58505}{Y:bi}Mysterious as the dark side
+{58507}{58602}{Y:bi}Of the moon
+{58603}{58723}{Y:bi}Be a man|- We must be swift as a coursing river
+{58725}{58832}{Y:bi}Be a man|- With all the force of a great typhoon
+{58833}{58938}{Y:bi}Be a man|With all the strength of a raging fire
+{58939}{59013}{Y:bi}Mysterious as the dark side
+{59015}{59085}{Y:bi}Of the moon
+{59717}{59779}What do you see?
+{59781}{59868}Black pine,|from the high mountains.
+{59898}{59963}White horse hair.|Imperial stallions.
+{59964}{60039}Sulphur, from cannons.
+{60040}{60132}This doll came from a village|in the Tung Shao Pass...
+{60134}{60190}where the Imperial Army|is waiting for us.
+{60191}{60246}We can avoid them easily.
+{60248}{60305}No.
+{60306}{60409}The quickest way to the Emperor|is through that pass.
+{60411}{60528}And besides, the little girl|will be missing her doll.
+{60530}{60582}We should return it to her.
+{60736}{60831}No, this is not a good|idea. What if somebody sees you?
+{60833}{60906}Just because I look like a man|doesn't mean I have to smell like one.
+{60908}{61013}So a couple of guys don't rinse|out their socks. Picky, picky, picky.
+{61015}{61081}Well, myself, I kind of|like that corn chip smell.
+{61155}{61237}Okay, all right. That's enough. Get|out before you get all pruny and stuff.
+{61238}{61317}Mushu, if you're so worried,|go stand watch.
+{61319}{61379}Yeah, yeah.|"Stand watch, Mushu,
+{61381}{61449}while I blow our secret|with my stupid girlie habits."
+{61451}{61514}Pfft! Hygiene!
+{61516}{61592}Me first! Me first!
+{61594}{61681}We're doomed! There are a couple of|things I know they're bound to notice!
+{62078}{62146}Hey, Ping!
+{62176}{62247}Oh, hi, guys.|I didn't know you were here.
+{62249}{62333}I was just washing. So now I'm clean,|and I'm gonna go. Bye-bye.
+{62334}{62432}Come back here.|I know we were jerks to you before,
+{62433}{62492}so let's start over.
+{62494}{62568}Hi. I'm Ling.
+{62570}{62654}And I'm Chien-Po.|- Hello, Chien-Po.
+{62656}{62725}And I am Yao!
+{62727}{62781}King of the rock!
+{62783}{62865}And there's nothin'|you girls can do about it.
+{62867}{62953}Oh, yeah?|Well, I think Ping and I can take you.
+{62955}{63036}I really don't wanna take him anywhere.|- Ping, we have to fight!
+{63037}{63169}No, we don't. Uh, we, uh, could just|close our eyes and swim around.
+{63171}{63217}Come on. Don't be|such a gir-
+{63219}{63265}Ouch! Something bit me!
+{63267}{63329}What a nasty flavor.
+{63331}{63408}Snake!
+{63468}{63516}Oooh, snake! Snake!
+{63518}{63621}Snake! Snake!
+{63622}{63705}Some king of the rock.
+{63707}{63757}Boy, that was close.
+{63759}{63820}No. That was vile.
+{63822}{63880}You owe me big.
+{63882}{63979}I never want to see|a naked man again.
+{64088}{64165}Hey, don't look at me.|I ain't bitin' no more butts.
+{64204}{64267}You think your troops|are ready to fight?
+{64269}{64350}Ha! They would not last a minute|against the Huns!
+{64352}{64429}They completed their training.|- Those boys...
+{64431}{64522}are no more fit to be soldiers|than you are to be captain.
+{64524}{64587}Once the General|reads my report,
+{64589}{64653}your troops|will never see battle.
+{64655}{64741}Oh, no, you don't! I've worked|too hard to get Mulan into this war.
+{64743}{64788}This guy's messin'|with my plan.
+{64789}{64839}We're not finished!
+{64841}{64911}Be careful, Captain.|The General may be your father,
+{64913}{64990}but I am|the Emperor's counsel.
+{64992}{65110}And, oh, by the way,|I got that job on my own.
+{65111}{65176}You're dismissed.
+{65208}{65288}Hey. I'll hold him|and you punch.
+{65289}{65378}Or not.
+{65380}{65487}For what it's worth,|I think you're a great captain.
+{65613}{65669}I saw that.|- What?
+{65671}{65728}You like him, don't you?
+{65729}{65833}No!|- Yeah, all right. Yeah, sure.|Go to your tent!
+{65949}{66048}I think it's time we took|this war into our own hands.
+{66505}{66618}Let me see what you got. "From General Li.|Dear Son, we're waiting for Huns at the Pass.
+{66620}{66675}It would mean a lot|if you'd come and back us up."
+{66677}{66740}That's great, except you forgot,|"And since we're out of potpourri,
+{66741}{66796}perhaps you wouldn't mind|bringing up some. "
+{66798}{66893}Hello! This is the army! Make it sound|more urgent! Know what I'm talkin' about?
+{67026}{67082}That's better.|Much better. Let's go.
+{67084}{67178}Khanny, baby.|Hey, we need a ride.
+{67335}{67396}Insubordinate ruffians!
+{67398}{67489}You men owe me a new pair of slippers!
+{67491}{67583}And I do not squeal like a girl.
+{67585}{67655}Urgent news|from the General.
+{67698}{67770}What's the matter? You've never seen|a black and white before?
+{67831}{67880}Who are you?
+{67882}{67973}Excuse me? I think|the question is, who are you?
+{67975}{68046}We're in a war, man!|There's no time for stupid questions!
+{68048}{68132}I should have your hat for that.|Snatch it right off your head.
+{68134}{68227}But I'm feeling gracious today,|so carry on before I report you.
+{68332}{68434}Captain, urgent news from the General!|We're needed at the front.
+{68438}{68522}Pack your bags, Cri-Kee.|We're movin' out.
+{68524}{68618}{Y:bi}For a long time we've been marching|off to battle
+{68662}{68792}{Y:bi}In our thundering herd|we feel a lot like cattle
+{68794}{68860}{Y:bi}Like a pounding beat|our aching feet
+{68862}{68923}{Y:bi}Aren't easy to ignore
+{68924}{68973}{Y:bi}Hey!|Think of instead
+{68975}{69065}{Y:bi}A girl|worth fighting for
+{69067}{69126}Huh?|- That's what I said.
+{69127}{69200}{Y:bi}A girl|worth fighting for
+{69202}{69281}{Y:bi}I want her paler|than the moon
+{69282}{69334}{Y:bi}With eyes that shine|like stars
+{69335}{69409}{Y:bi}My girl will marvel at my strength
+{69411}{69474}{Y:bi}Adore my battle scars
+{69476}{69596}{Y:bi}I couldn't care less what she'll wear|or what she looks like
+{69598}{69677}{Y:bi}It all depends on|what she cooks like
+{69679}{69753}{Y:bi}Beef, pork, chicken|Mmm
+{69857}{69954}{Y:bi}Bet the local girls thought you|were quite the charmer
+{69987}{70092}{Y:bi}And I'll bet the ladies|love a man in armor
+{70094}{70180}{Y:bi}You can guess what|we have missed the most
+{70182}{70241}{Y:bi}Since we went off to war
+{70243}{70350}{Y:bi}What do we want|- A girl worth fighting for
+{70352}{70430}{Y:bi}My girl will think|I have no faults
+{70432}{70492}{Y:bi}That I'm a major find
+{70494}{70594}{Y:bi}Uh, how 'bout a girl|who's got a brain
+{70596}{70688}{Y:bi}Who always speaks her mind|- Nah!
+{70690}{70755}{Y:bi}My manly ways|and turn of phrase
+{70757}{70815}{Y:bi}Are sure to thrill her
+{70817}{70940}{Y:bi}He thinks he's|such a lady killer
+{70942}{71068}{Y:bi}I've a girl back home|who's unlike any other
+{71070}{71156}{Y:bi}Yeah, the only girl|who'd love him is his mother
+{71188}{71261}{Y:bi}But when we come home in victory
+{71263}{71333}{Y:bi}They'll line up|at the door
+{71335}{71458}{Y:bi}What do we want|- A girl worth fighting for
+{71460}{71559}{Y:bi}Wish that I had|- A girl worth fighting for
+{71598}{71670}{Y:bi}A girl worth fighting-
+{72357}{72403}Search for survivors.
+{73109}{73225}I don't understand.|My father should've been here.
+{73227}{73273}Captain!
+{73553}{73599}The General.
+{74563}{74609}I'm sorry.
+{75054}{75127}The Huns are moving quickly.
+{75128}{75217}We'll make better time to the Imperial|City through the Tung Shao Pass.
+{75219}{75287}We're the only hope|for the Emperor now.
+{75289}{75337}Move out!
+{76522}{76592}What happened?
+{76592}{76621}Um... - You just gave away|our position! Now we're-
+{76621}{76672}Um... - You just gave away|our position! Now we're-
+{76786}{76874}Get out of range!
+{77150}{77215}Save the cannons!
+{77217}{77343}Come on! Empty it! Empty it!
+{77706}{77777}Oh, sure.|Save the horse.
+{77908}{77958}Fire!
+{78193}{78238}Fire!
+{78390}{78452}Hold the last cannon.
+{79053}{79146}Prepare to fight.|If we die, we die with honor.
+{79558}{79619}Yao, aim the cannon|at Shan-Yu.
+{79895}{79972}Hey!|- Ping! Come back!
+{79973}{80038}Ping!
+{80365}{80411}Stop!
+{80558}{80618}All right. You might want to|light that right about now.
+{80619}{80679}Quickly. Quickly!
+{80711}{80790}Come on!|We gotta help!
+{80992}{81067}You missed!|How could you miss?
+{81069}{81140}It was three feet|in front of you!
+{82635}{82690}Mulan!
+{82756}{82804}Mulan!
+{82806}{82848}Mulan?
+{82850}{82896}No.
+{82898}{82958}Mulan!
+{82960}{83035}Man, you are|one lucky bug.
+{83249}{83321}Shang!
+{83446}{83532}Do you see them?|- Yes.
+{83609}{83708}Perfect.|Now we'll pull them to safe-ty.
+{83769}{83837}Hey, Mulan!|I found the lucky cricket!
+{83839}{83889}We need help.
+{83916}{84024}Ooh, nice. Very nice.|You can sit by me.
+{84026}{84091}We're gonna die!
+{84093}{84139}We're gonna die!|We are definitely gonna die.
+{84141}{84214}No way we survive this.|Death is coming!
+{84257}{84368}I let them slip through my fingers.
+{84437}{84480}Pull!
+{84752}{84823}I knew we could do it.|You the man!
+{84825}{84878}Well, sort of.
+{84968}{85028}Step back, guys.|Give him some air.
+{85030}{85100}Ping?
+{85101}{85198}You are the craziest man I've ever met.
+{85231}{85291}And for that,|I owe you my life.
+{85293}{85375}From now on,|you have my trust.
+{85377}{85467}Let's hear it for Ping!|The bravest of us all!
+{85469}{85556}You're king of the mountain!|- Yes, yes, yes!
+{85617}{85669}Ping! What's wrong?
+{85758}{85824}He's wounded!|Get help!
+{85872}{85946}Ping, hold on.
+{85948}{85994}Hold on.
+{86683}{86730}I can explain.
+{86755}{86819}So it's true!
+{86821}{86874}Shang!
+{86875}{86946}I knew there was|something wrong with you.
+{86948}{87006}A woman!
+{87008}{87080}Treacherous snake!
+{87082}{87142}My name is Mulan.
+{87144}{87203}I did it|to save my father.
+{87205}{87275}High treason!|- I didn't mean for it to go this far.
+{87276}{87332}Ultimate dishonor!
+{87334}{87422}It was the only way.|Please believe me.
+{87424}{87502}Captain?
+{87664}{87722}Restrain him!
+{87780}{87849}No!|- You know the law.
+{88143}{88202}A life for a life.
+{88203}{88257}My debt is repaid.
+{88303}{88387}Move out!|- But you can't just-
+{88389}{88459}I said, "Move out."
+{89306}{89364}I was this close.
+{89366}{89441}This close|to impressin' the ancestors,
+{89443}{89510}gettin' the top shelf,|an entourage.
+{89512}{89600}Man. All my fine work.|Pfft.
+{89692}{89738}Hi.
+{89740}{89812}I should never have left home.
+{89814}{89892}Hey, come on.|You went to save your father's life.
+{89894}{89955}Who knew you'd end up shamin' him|and disgracing your ancestors...
+{89957}{90023}and losin' all your friends?
+{90025}{90102}You know, you just gotta-|You gotta learn to let these things go.
+{90156}{90229}Maybe I didn't go|for my father.
+{90231}{90343}Maybe what I really wanted was to prove|I could do things right...
+{90345}{90426}so when I looked in the mirror,
+{90428}{90490}I'd see someone worthwhile.
+{90540}{90591}But I was wrong.
+{90624}{90678}I see nothing.
+{90889}{90968}Now, that's just 'cause|this needs a little spit, that's all.
+{90969}{91053}Let me shine this up for ya.
+{91055}{91130}I can see you. Look at you.|You look so pretty.
+{91241}{91310}The truth is,|we're both frauds.
+{91312}{91387}Your ancestors never sent me.|They don't even like me.
+{91389}{91445}I mean, you risked your life|to help people you love.
+{91447}{91503}I risked your life|to help myself.
+{91505}{91574}At least|you had good intentions.
+{91651}{91704}What? What do you mean,|"You're not lucky"?
+{91706}{91784}You lied to me?
+{91786}{91887}And what are you, a sheep?
+{91889}{91988}I'll have to face my father|sooner or later.
+{91989}{92047}Let's go home.
+{92049}{92126}Yeah. This ain't|gonna be pretty.
+{92128}{92221}But don't you worry, okay?|Things will work out.
+{92223}{92320}We started this thing together,|and that's how we'll finish it.
+{92361}{92408}I promise.
+{94378}{94441}Uh, home is that way.
+{94443}{94521}I have to do something.|- Did you see those Huns?
+{94523}{94595}They popped out of the snow...|Iike daisies!
+{94596}{94670}Are we in this together|or not?
+{94754}{94839}Well, let's go kick|some Hunny buns!
+{95350}{95440}Make way for the heroes|of China.
+{95784}{95840}Shang!|- Mulan?
+{95842}{95900}The Huns are alive!|They're in the city!
+{95902}{95966}You don't belong here,|Mulan. Go home.
+{96031}{96128}Shang, I saw them in the mountains.|You have to believe me.
+{96130}{96190}Why should I?
+{96247}{96316}Why else would I come back?
+{96318}{96432}You said you'd trust Ping.|Why is Mulan any different?
+{96611}{96720}Keep your eyes open.|I know they're here. Yah!
+{96898}{96968}Now, where are you going?
+{96970}{97032}To find someone|who will believe me.
+{97774}{97868}My children,|heaven smiles down...
+{97870}{97922}upon the Middle Kingdom.
+{97923}{98011}China will sleep|safely tonight...
+{98013}{98080}thanks to|our brave warriors.
+{98130}{98211}Sir, the Emperor's in danger.
+{98213}{98265}But the Huns are here.
+{98267}{98336}Please, you have to help.
+{98380}{98463}No one will listen. - Huh? Oh,|I'm sorry. Did you say something?
+{98465}{98560}Mushu.|- Hey, you're a girl again, remember?
+{98562}{98694}Your Majesty, I present to you|the sword of Shan-Yu.
+{98695}{98778}I know what this means|to you, Captain Li.
+{98780}{98866}Your father would have been|very proud.
+{99514}{99586}No!|- Come on!
+{99999}{100061}They'll never reach|the Emperor in time.
+{100151}{100211}Hey, guys!
+{100213}{100270}I've got an idea.
+{100584}{100650}{Y:i}Be a man
+{100652}{100753}{Y:i}We must be swift as a coursing river|- Be a man
+{100755}{100838}{Y:i}With all the force of a great typhoon|- Be a man
+{100840}{100927}{Y:i}With all the strength|of a raging fire
+{100929}{101042}{Y:i}Mysterious as the dark side|of the moon
+{101339}{101385}Boo.
+{101411}{101470}Guard the door.
+{101598}{101717}Your walls and armies have fallen,|and now it's your turn.
+{101719}{101766}Bow to me.
+{101874}{101920}Okay. Any questions?
+{101922}{101971}Does this dress|make me look fat?
+{102019}{102073}Who's there?
+{102138}{102221}Concubines.|- Ugly concubines.
+{102223}{102282}Oh, he's so cute!
+{102529}{102609}Now, that's what I call|Mongolian barbecue.
+{103020}{103082}Shang, go!
+{103147}{103258}I tire of your arrogance,|old man. Bow to me!
+{103260}{103398}No matter how the wind howls,|the mountain cannot bow to it.
+{103400}{103487}Then you will kneel|in pieces!
+{103787}{103842}Chien-Po, get the Emperor!
+{103844}{103907}Sorry, Your Majesty.
+{103938}{104028}No!
+{104256}{104325}Come on!
+{104671}{104716}No.
+{104981}{105027}You!
+{105056}{105150}You took away my victory!|- No!
+{105152}{105213}I did.
+{105281}{105346}The soldier|from the mountains.
+{105586}{105642}So what's the plan?
+{105644}{105696}Um-|- You don't have a plan?
+{105697}{105791}Hey, I'm making this up|as l... go.
+{105793}{105850}Mushu!|- Way ahead of you, sister.
+{105852}{105907}Come on, Cri-Kee.
+{106355}{106440}Citizens, I need firepower.|- Who are you?
+{106442}{106499}Your worst nightmare.
+{106595}{106656}On the roof!|- Look!
+{107046}{107120}It looks like|you're out of ideas.
+{107178}{107225}Not quite.
+{107227}{107278}Ready, Mushu?
+{107280}{107365}I am ready, baby!|Light me.
+{107709}{107767}Get off the roof, get off the roof,|get off the roof.
+{108221}{108298}You are a lucky bug.
+{108465}{108529}That was a deliberate attempt|on my life!
+{108530}{108594}Where is she?|Now she's done it.
+{108596}{108652}What a mess!|Stand aside!
+{108654}{108725}That creature's|not worth protecting.
+{108727}{108774}She's a hero.|- 'Tis a woman.
+{108775}{108853}She'll never be worth anything.|- Listen, you pompous-
+{108855}{108910}That is enough.
+{109051}{109117}Your Majesty,|I can explain.
+{109303}{109394}I've heard a great deal|about you, Fa Mulan.
+{109426}{109529}You stole your father's armor,|ran away from home,
+{109531}{109584}impersonated a soldier,
+{109585}{109642}deceived|your commanding officer,
+{109643}{109746}dishonored the Chinese Army,|destroyed my palace...
+{109747}{109790}and...
+{109792}{109865}you have saved us all.
+{110597}{110700}My little baby is all grown up and-|and savin' China.
+{110702}{110748}You have a tissue?
+{110796}{110842}Chi Fu?
+{110844}{110964}Your Excellency? - See to it that this|woman is made a member of my council.
+{110966}{111023}Member? What?
+{111024}{111086}But... there are|no council positions open,
+{111088}{111145}Your Majesty.
+{111147}{111211}Very well.|You can have his job.
+{111213}{111286}What? I- Oh.
+{111337}{111407}With all due respect,|Your Excellency,
+{111409}{111477}I think I've been away|from home long enough.
+{111478}{111533}Then... take this,
+{111534}{111644}so your family will know|what you have done for me.
+{111646}{111696}And this,
+{111698}{111829}so the world will know|what you have done for China.
+{111955}{112029}Is she allowed|to do that?
+{112360}{112437}Um... you-
+{112439}{112501}you fight good.
+{112503}{112573}Ohh. Thank you.
+{112774}{112841}Khan, let's go home.
+{113013}{113095}The flower that blooms|in adversity...
+{113095}{113182}is the most rare|and beautiful of all.
+{113184}{113312}Sir? - You don't meet a girl|like that every dynasty.
+{114029}{114087}Mulan!
+{114089}{114178}Father, I brought you|the sword of Shan-Yu.
+{114214}{114278}And the crest|of the Emperor.
+{114312}{114398}They're gifts|to honor the Fa family.
+{114549}{114690}The greatest gift and honor|is having you for a daughter.
+{114691}{114765}I've missed you so.
+{114767}{114826}I've missed you too, Baba.
+{114973}{115019}Great.
+{115021}{115108}She brings home a sword. If you ask me,|she should've brought home a man.
+{115109}{115190}Excuse me.|Does Fa Mulan live here?
+{115232}{115278}Thank you.
+{115280}{115365}Whoo! Sign me up|for the next war.
+{115411}{115495}Honorable Fa Zhou, l-|Mulan!
+{115497}{115572}Uh... you forgot|your helmet.
+{115574}{115651}W-Well, actually,|it's your helmet, isn't it?
+{115653}{115752}I mean-|- Would you like to stay for dinner?
+{115754}{115821}Would you like|to stay forever?
+{115823}{115883}Dinner would be great.
+{115941}{116027}Come on.|Who did a good job?
+{116029}{116085}Come on. Tell me.|Who did a good job?
+{116086}{116198}Oh, all right!|You can be a guardian again.
+{116421}{116471}Take it, Cri-Kee!
+{116528}{116602}You know, she gets it|from my side of the family.
+{116699}{116769}Call out for egg rolls!
+{116771}{116857}Guardians.
+{116883}{116981}Oh.|- Thanks, Mushu.
+{117075}{117124}Mushu!
+{117178}{117278}{Y:i}Whenever you feel your world|is crashin' down on you
+{117280}{117376}{Y:i}Whenever you don't know|where to turn or what to do
+{117378}{117487}(c)2001 prevod adaptirao Bane|mailto: banel@EUnet.yu
+{117488}{117537}{Y:i}Don't look too far|You've got the guide
+{117539}{117603}{Y:i}To find your way|Let your heart decide
+{117605}{117698}{Y:i}Be true to your heart|You must be true to your heart
+{117699}{117749}{Y:i}That's when|the heavens will part
+{117751}{117822}{Y:i}And show the world|what you believe in
+{117824}{117914}{Y:i}Open your eyes|Your heart can tell you no lies
+{117916}{117967}{Y:i}And when you're true|to your heart
+{117969}{118064}{Y:i}Then you've got all you need|to make it through
+{118138}{118196}{Y:i}Be true to your heart
+{118237}{118304}{Y:i}Ah, someone you know|is on your side
+{118306}{118360}{Y:i}Can set you free
+{118362}{118460}{Y:i}I can do that for you|if you believe in me
+{118461}{118522}{Y:i}Why second guess
+{118524}{118571}{Y:i}What feels so right
+{118573}{118620}{Y:i}Just trust your heart
+{118620}{118691}{Y:i}And you'll see the light
+{118692}{118783}{Y:i}Be true to your heart|You must be true to your heart
+{118784}{118833}{Y:i}That's when|the heavens will part
+{118835}{118907}{Y:i}And show the world|what you believe in
+{118909}{118995}{Y:i}Open your eyes|Your heart can tell you no lies
+{118997}{119050}{Y:i}And when you're true|to your heart
+{119052}{119154}{Y:i}Then you've got all you need|to make it through
+{119193}{119254}{Y:i}You know it's true
+{119256}{119341}{Y:i}It'll see you through|Yeah, yeah, yeah
+{119343}{119408}{Y:i}You've got to be true|- Baby
+{119435}{119481}{Y:i}Be true to your heart
+{119560}{119648}{Y:i}Be true to your heart|You must be true to your heart
+{119650}{119702}{Y:i}That's when|the heavens will part
+{119704}{119775}{Y:i}And show the world|what you believe in
+{119777}{119866}{Y:i}Open your eyes|Your heart will tell you no lies
+{119868}{119919}{Y:i}And when you're true|to your heart
+{119921}{119998}{Y:i}Then you've got all you need|to make it through
+{120000}{120065}{Y:i}Be true
+{120091}{120146}{Y:i}To your heart
+{120148}{120221}Sing the chorus, boys.
+{120222}{120275}{Y:i}When things|are gettin' crazy
+{120277}{120330}{Y:i}And you don't know|where to start
+{120332}{120382}{Y:i}Keep on believin', baby
+{120384}{120440}{Y:i}Just be true|to your heart
+{120442}{120493}{Y:i}When all the world around you|- Yeah
+{120494}{120546}{Y:i}It seems to fall apart
+{120548}{120600}{Y:i}Keep on believin', baby
+{120602}{120655}{Y:i}Just be true to your heart|- True to your heart
+{120657}{120716}{Y:i}Just be true
+{120746}{120795}{Y:i}To your heart
+{120852}{120898}{Y:i}Got to be true
+{120900}{120968}{Y:i}Be true|True, true, true, true
+{120970}{121016}{Y:i}To your heart
+{121222}{121282}{Y:i}Look at me
+{121284}{121403}{Y:i}You may think you see|who I really am
+{121405}{121465}{Y:i}But you'll never know me
+{121467}{121522}{Y:i}Every day
+{121524}{121646}{Y:i}It's as if|I play a part
+{121648}{121699}{Y:i}Now I see
+{121701}{121823}{Y:i}lf I wear a mask|I can fool the world
+{121825}{121959}{Y:i}But I cannot fool my heart
+{122002}{122129}{Y:i}Who is that girl I see
+{122131}{122245}{Y:i}Staring straight|back at me
+{122247}{122383}{Y:i}When will my reflection show
+{122384}{122516}{Y:i}Who I am inside
+{122542}{122599}{Y:i}I am now
+{122601}{122723}{Y:i}In a world where|I have to hide my heart
+{122725}{122786}{Y:i}And what I believe in
+{122788}{122837}{Y:i}But somehow
+{122839}{122899}{Y:i}I will show the world
+{122901}{122962}{Y:i}What's inside my heart
+{122964}{123069}{Y:i}And be loved for who I am
+{123148}{123270}{Y:i}Who is that girl I see
+{123272}{123386}{Y:i}Staring straight back at me
+{123387}{123481}{Y:i}Why is my reflection
+{123483}{123622}{Y:i}Someone I don't know
+{123623}{123752}{Y:i}Must I pretend that I'm
+{123753}{123865}{Y:i}Someone else for all time
+{123866}{123989}{Y:i}When will my reflection show
+{123991}{124039}{Y:i}Who I am
+{124041}{124115}{Y:i}Inside, there's a heart
+{124117}{124200}{Y:i}That must be free
+{124202}{124270}{Y:i}To fly
+{124272}{124323}{Y:i}And I burn
+{124325}{124396}{Y:i}With a need to know
+{124398}{124528}{Y:i}The reason why
+{124530}{124653}{Y:i}Why must we all conceal
+{124655}{124760}{Y:i}What we think|How we feel
+{124761}{124874}{Y:i}Must there be a secret me
+{124876}{124996}{Y:i}I'm forced to hide
+{124998}{125128}{Y:i}I won't pretend that I'm
+{125129}{125242}{Y:i}Someone else for all time
+{125244}{125368}{Y:i}When will my reflection show
+{125370}{125500}{Y:i}Who I am inside
+{125547}{125683}{Y:i}When will my reflection show
+{125685}{125783}{Y:i}Who I am inside
+{125840}{125943}{Y:i}Oh, hey, yeah

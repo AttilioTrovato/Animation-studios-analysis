@@ -1,0 +1,1598 @@
+{1}{1}25.000
+{3918}{3986}Now, boy,|I've told you time and again.
+{3988}{4064}Now, listen to me. There's no horsing|around when the train's coming.
+{4066}{4124}Do you hear me?|Now, go on, get away.
+{4224}{4277}- Looks like she's on time.|- Yes, she is.
+{5051}{5102}Harrington!
+{5276}{5352}-Let me help you with that, little girl.|-Thank you.|-Watch your step.
+{5354}{5429}Watch your step.|There you are, little girl.
+{5626}{5706}So I have to go to the store.|You go get the luggage.|Be careful of the fresh eggs.
+{5708}{5776}- They're wrapped in paper.|- Yes, dear.|- Ben?
+{5778}{5854}- Yes, dear?|- I want you to write a letter|to the president of this railroad.
+{5856}{5925}There were men smoking|in the parlour car. Disgraceful!
+{5927}{5995}- I've taken his number.|- Yes, dear.
+{6069}{6137}- Miss Pollyanna?|- Yes? Aunt Polly?
+{6139}{6208}No, I'm Nancy. I work for your aunt|and I came here to fetch you.
+{6210}{6269}Oh. How do you do?
+{6271}{6342}- This is Mr Thomas, the gardener.|- How do you do?
+{6344}{6392}Hello, young lady.
+{6394}{6456}Oh, no, no, no.|Thomas will take that for you.
+{6458}{6524}Oh. Put it in the back seat.|Oh, good afternoon, Mrs Tarbell.
+{6583}{6672}- Is that Jenny Harrington's child?|- Yes, it is.
+{6674}{6758}Doesn't look a thing like any of the|Harringtons. What's your name, girl?
+{6760}{6815}- Speak up.|- Pollyanna Whittier, ma'am.
+{6817}{6873}Well, you're a very fortunate|little girl.
+{6875}{6946}Most children who have lost their|parents would end up in an orphanage.
+{6993}{7052}- You know that, don't you?|- Yes, ma'am.
+{7054}{7191}Well, thank your lucky stars for such|a good woman as your aunt taking you in.
+{7193}{7242}- Yes, ma'am.|- Yes.
+{7244}{7319}Well, see that|you're properly appreciative|and don't cause any trouble.
+{7321}{7370}- Children really never realize--|- Ed?
+{7372}{7417}- Uncle Karl!|- Much too long.
+{7419}{7485}- It's good to see you.|- Oh, same here.|How's everything at the house?
+{7562}{7627}Wait till Polly Harrington|hears about this!
+{7891}{7975}Right up here in the back seat, honey.|There you are.
+{8111}{8190}Nancy, what are you staring at?
+{8192}{8265}Oh, nothing!|Nothing at all, sir.
+{8895}{8952}- Think she'll want the car?|- I don't know if|she wants the car or not.
+{8954}{9009}You'll have to ask her yourself.
+{9342}{9393}Your aunt's waiting for you, miss.
+{9518}{9580}Hurry up.|I haven't got all day!
+{10071}{10122}Oh, Mr Thomas.|Please put that here.
+{10124}{10198}All right, Nancy.|All right.
+{10200}{10271}You wait here, miss,|and don't touch anything.
+{10273}{10332}- Do you understand?|- Yes, ma'am.
+{11361}{11430}Well, we had, uh, Matthew.
+{11432}{11515}- Mark last week.|- Isaiah has some very good passages.
+{11517}{11581}- Isaiah?|- Yes, that's more what I had in mind.
+{11583}{11650}- Yes, Isaiah has some|very good passages.|- What is it, Nancy?
+{11652}{11714}Oh, excuse me, ma'am.|The little girl is here.
+{11716}{11796}All right, show her in.
+{11798}{11862}What you've been waiting for.
+{11864}{11925}About the sermon, Reverend.
+{11927}{11975}Yes.
+{12030}{12127}Now, the transiency of life...
+{12129}{12204}that-that fleeting,|ephemeral vapour...
+{12206}{12278}it appeareth and it vanisheth--|James, the New Testament.
+{12280}{12350}The perishability of our mortal bodies.
+{12352}{12409}You want me to-- to weave a theme|of this into my sermon?
+{12411}{12486}- Well, let me tell you what|my father said to Reverend Moffet.|- Yes. What did he say?
+{12488}{12578}He said that you only have the|congregation for one short hour a week.
+{12580}{12657}And there are six long days of mischief|for them before you get them again.
+{12659}{12735}Aha! I see your point.
+{12737}{12841}Strike hard on Sunday the excessiveness|of God's wrath and hope they carry it|with them a few days into the week.
+{12843}{12904}- Exactly what I mean.|- Oh, yes, yes.
+{13029}{13095}Well, come in, young lady.
+{13097}{13145}Let's meet each other properly.
+{13301}{13387}- I'm your Aunt Polly.|- How do you do?
+{13389}{13463}This is the pastor of our church,|Reverend Ford.
+{13465}{13557}How do you do?|Well, there's a family resemblance.
+{13559}{13618}She looks very much like her mother.
+{13620}{13673}Mother always used to say|I look like you!
+{13726}{13832}Would you be good enough to stand|erect and in a proper manner, please?
+{13869}{13928}And where in the world|did you get that dress?
+{13990}{14068}It came in the missionary barrels.
+{14070}{14158}- Missionary barrels?|- Yes. Her father was a minister.
+{14160}{14257}As a matter of fact, he was|a missionary in the British West Indies.
+{14316}{14407}Pollyanna, this is going|to be your new home...
+{14409}{14472}and I hope you'll be|very happy with me.
+{14576}{14646}I'm very sorry|about the dress, Aunt Polly.
+{14648}{14704}My father said|it was a size too big...
+{14706}{14804}but that I should be glad it wasn't|a pair of boys' trousers.
+{14806}{14864}Well, that's hardly anything|to be glad about.
+{14866}{14927}Well, my father always used to say|that people--
+{14929}{15019}Yes, well, never mind|what your father used to say.
+{15021}{15114}Supper is at 6:00 sharp, and no one|is ever late for meals at this house.
+{15116}{15191}- Yes, ma'am.|- Nancy will show you your room.
+{15342}{15390}I'm very glad you sent for me,|Aunt Polly.
+{15511}{15589}Your home is very lovely.
+{15591}{15639}Well, thank you.
+{15727}{15784}It must make you awfully glad.
+{15786}{15848}- Glad?|- That you're so very rich!
+{16049}{16119}Honestly!
+{16121}{16179}- Did I say something wrong?|- Well, let's just say...
+{16181}{16277}there are about sixty-eleven things|you could have said besides that.
+{16279}{16352}I run a clean kitchen.|No shenanigans in here.
+{16354}{16410}And you clean up after yourself,|you hear me?
+{16412}{16463}Yes, ma'am.
+{16465}{16543}- You sure it was Doc Chilton?|- Mrs Tarbell saw him first!
+{16545}{16643}Coming back after all these years!|D-Does she know yet?
+{16645}{16708}- Old blabbermouth Tarbell|will see to that.|- Yeah.
+{16710}{16799}Now, mind what you're doing and don't|spill your milk. Now, come along.
+{16801}{16868}- You hurry up and change your clothes|and get back here. I need your help.|- All right, all right.
+{16870}{16932}- And if you see Angelica,|tell her to come down here too.|- Okay.
+{16934}{17033}- Leaving me all alone here.|- I'm very pleased to have met you,|Mrs Lagerlof.
+{17035}{17083}- Mmm.|- Now come along.
+{17352}{17412}Hello.
+{17473}{17575}- What's his name, please?|- His name happens to be Elizabeth.
+{17577}{17665}Oh! You're a girl!
+{17667}{17761}- You're lovely.|- Now, leave her alone and come along.
+{17812}{17861}How-- How do I address you, please?
+{17863}{17927}Well, just call me Nancy,|same as everybody else.
+{17929}{18000}Oh. And this is Angelica.|She's the upstairs maid.
+{18002}{18054}- How do you do?|- Psst! Psst!
+{18056}{18121}At the back porch.|You know who.
+{18123}{18199}Now?|Oh, for heaven's sake.
+{18201}{18251}Oh, Angie, would you show her|to her room, please?
+{18253}{18332}- Well, I still have|two rooms left to do.|- I'll help you with|the bedrooms in the morning.
+{18334}{18383}- All right, just this once.|- Come on. Come on.
+{18498}{18587}Will you get out of here? Come on.|Hurry up. I've got work to do.|Now, come on and get up here.
+{18612}{18682}I turn my back for one moment,|and what do you do? You disappear.
+{18684}{18725}- And don't spill that milk.|- Yes, ma'am.
+{18727}{18789}- I just got through|cleaning up this hall.|- Yes, ma'am.
+{19132}{19223}- What are you doing now?|- Who lives in all these?
+{19225}{19284}There's no one lives in them.|They're just there.
+{19286}{19373}- What for?|- That's what being wealthy is.
+{19375}{19426}You sure are a question-asker,|aren't you?
+{19428}{19476}Now, hurry up.
+{19840}{19888}Come on, come on.|Don't dawdle.
+{20150}{20213}- Well, what's the matter?|- Nothing.
+{20263}{20342}Oh! Stuffy!
+{20344}{20390}Not much of a room, is it?
+{20392}{20482}But it's my own anyway.|I'm glad of that.
+{20602}{20676}Ooh, and the bed's soft.
+{20678}{20739}And it's got a lovely window.
+{21149}{21210}Who's that man down there with Nancy?
+{21266}{21341}None of your business.
+{21343}{21399}Just make sure|you're dressed in time for dinner.
+{21472}{21527}You'd think she'd do better|than this for her own niece.
+{21888}{21949}Almighty God,|we thank thee for thy bounty.
+{21951}{22023}Grant unto us the grace|ever to live in dread of thee.
+{22025}{22098}And bless this food unto our nourishment|that it may strengthen us...
+{22100}{22151}to do thy will in all things.
+{22153}{22210}Amen.
+{22620}{22696}Oh, I'm sorry.
+{22698}{22762}Nancy, would you bring|another glass of milk, please?
+{22764}{22812}Yes, ma'am.
+{22957}{23005}My-My clumsy old hand.
+{23007}{23055}Well, now, there's no harm done.
+{23121}{23220}- Did you find your room satisfactory?|- Oh, yes. It's very nice. Thank you.
+{23222}{23317}You hadn't mentioned it,|so I just wondered.
+{23319}{23421}I've never had a whole room|to myself before.
+{23423}{23496}I must be higher up in the house|than anyone, aren't I?
+{23540}{23598}Well, I'm not used to|children's noises around the house...
+{23600}{23686}and that's the reason|I chose that one.
+{23688}{23771}Oh, I'm--|I love it. I really do.
+{23773}{23821}Really!
+{24095}{24161}Aunt Polly?
+{24163}{24214}Do you ever have steak and ice cream?
+{24275}{24328}Are you complaining about the food?
+{24330}{24389}Oh, no!|It's delicious!
+{24391}{24449}I just wondered.
+{24497}{24554}I love steak.
+{24556}{24657}Father always used to say that if|we ever had the money you have...
+{24659}{24779}we'd have steak and ice cream|three times every day!
+{24781}{24881}Pollyanna, I think we ought to get|one thing straight right now.
+{24883}{24987}I don't want you constantly quoting|what your father used to say.
+{24989}{25037}Do you understand?
+{25214}{25324}Nancy, I thought I made myself clear|about gentlemen callers.
+{25326}{25393}- Ma'am?|- Now, don't pretend|you don't understand me.
+{25395}{25445}I saw you and George Dodds|out in the summer house.
+{25447}{25551}- George has been every inch|a gentleman with me, and it's not--|- We won't discuss it.
+{25553}{25641}If you want to remain on my staff,|I don't want you to see him any more.
+{25643}{25735}- Do you understand?|- Yes, ma'am.
+{25854}{25929}This is no concern of yours.
+{25931}{25985}You can finish your supper, Pollyanna.
+{26120}{26181}In the fall, I'll introduce you|to Mr Bainbridge.
+{26183}{26307}He's the principal of our school, and|he'll decide what grade you're to be in.
+{26309}{26420}Pollyanna, I think we should talk about|you and your position in this community.
+{26422}{26485}Do you know why|it's called Harrington Town?
+{26487}{26552}My mother said it was named|after my grandfather.
+{26554}{26603}That's right.
+{26605}{26669}And everyone in this town looks to us|to set a good example...
+{26671}{26782}in the way we conduct ourselves,|in our duties and manners...
+{26784}{26837}in what we think|and even what we say.
+{26839}{26918}So we must be good examples|for everyone in everything we do.
+{26920}{26974}- Is that clear?|- Yes, Aunt Polly.
+{26976}{27084}Just remember our family position and|conduct yourself properly and modestly.
+{27086}{27174}Oh. You mean what I said before?
+{27176}{27272}I understand that now.|I'll never say that again.
+{27274}{27364}- You understand what?|- About the money.
+{27366}{27471}I'm not supposed to be glad|we're so very rich, huh?
+{27536}{27631}Well, uh, I think it's time for you|to get ready for bed, young lady.
+{27795}{27869}- May I kiss you good night? Please?|- What?
+{27907}{27968}Kiss you?
+{28131}{28188}I love you, Aunt Polly.
+{28269}{28322}Uh, just a moment, please.|Come back here.
+{28435}{28483}Turn around once.
+{28540}{28613}That dress is disgraceful.
+{28615}{28727}Tomorrow we'll go into town|and get you some decent clothes.
+{28729}{28788}- Store-bought?|- But of course.
+{28790}{28836}Where else would we get them?
+{28838}{28937}Out of an actual store?|New clothes?
+{28939}{29015}Well, you're a Harrington now,|and I want you to look like one.
+{29017}{29088}Yoo-hoo!
+{29090}{29144}Pollyanna?
+{29146}{29205}Walk up the stairs|like a lady, please.
+{29597}{29664}Store-bought clothes!
+{29666}{29719}What do you think of that, Elizabeth?
+{29765}{29844}I wonder if she meant|new petticoats too.
+{29846}{29915}And new garters|and stockings and underpants.
+{30016}{30096}Don't tell anyone...
+{30098}{30166}but it's wonderful|to be so rich, isn't it?
+{33099}{33161}Nancy, something's come up.|I'm going with Mrs Tarbell.
+{33163}{33259}- Would you please take Pollyanna home?|- Yes, madame.
+{33261}{33330}Oh, I'll take that box, Pollyanna.
+{33332}{33395}Now, get into the car, miss.
+{33470}{33565}Oh, Pollyanna. Will you please get into|the car? We've simply got to get home!
+{33567}{33613}Oh!
+{33694}{33751}George, stop it!
+{33831}{33943}Oh, Pollyanna, you don't know|my cousin Fred, do you?
+{33993}{34069}- Your cousin Fred?|- This is Pollyanna Whittier.
+{34071}{34167}Miss Harrington's niece.|The one who's come to live with her.
+{34169}{34223}Oh. Oh, that one.
+{34225}{34280}Hello, Pollyanna.|How are you, honey?
+{34282}{34370}- Fine, thank you.|- Good.
+{34372}{34461}Well, uh, how about this?|Running into you after all these--
+{34463}{34560}- What's it been, six years?|Say, how's your ma and pa?|- Well, they're just fine.
+{34562}{34632}You know, Pollyanna,|I don't take too much to relatives.
+{34634}{34732}But this girl here, she was|always just like a sister to me.
+{34734}{34869}- I tell ya, I love this cousin.|- Will you cut it out?
+{34952}{35051}Uh-huh. Well, look, uh,|what are you girls doin'?
+{35053}{35111}How'd you like to go down the street|and get a great big dish of ice cream?
+{35113}{35159}- Huh?|- Oh!
+{35161}{35225}Oh, no, that's a rotten idea. She|probably hates ice cream, doesn't she?
+{35227}{35288}- Oh, probably.|- Who, me?
+{35290}{35338}- Oh, no. I love it!|- Really?
+{35340}{35389}You do?|Well, now, isn't that astounding?
+{35391}{35447}How'd you ever develop|a taste for that awful stuff?
+{35449}{35514}Oh, no, really!|I really do love it. I--
+{35516}{35611}Well, I know a wonderful place.|Come on, girls.
+{35613}{35688}Follow old cousin Fred|to the land of strawberry frappe.
+{35690}{35750}Unless you'd rather go down|the street and have a beer.
+{35752}{35819}You're funny.
+{36135}{36205}Hey, you two,|get down off that truck right now.
+{36207}{36297}How many times did I tell you|to keep away from the fire engine?
+{36382}{36462}Hey, get on, there! Go on!|I'm not gonna tell you again.|Now, get off that ladder.
+{36464}{36523}You-You see?|Right up there under the eaves?
+{36525}{36588}-Just beyond the window is where--|- How'd it happen?
+{36590}{36677}Oh, the pipes busted, Mayor. Both them|boilers went up at the same time.
+{36679}{36754}- And before we knew it,|we was up to our necks in water.|- Mr Geary!
+{36756}{36854}- Uh, comin'. Excuse me.|- Well, the children are safe,|thank goodness.
+{36856}{36914}I warned you about this|and told you we should do something.
+{36916}{36971}- Now, perhaps, you'll listen.|- I've asked everyone...
+{36973}{37028}to meet at my house,|and we'll discuss this calmly.
+{37030}{37118}A fine orphanage this is!|Water pipes busting all over the place.
+{37296}{37370}Oh, Dr Chilton? Doctor, could you|have a look at Mr Geary's arm?
+{37372}{37420}- Oh, just scalded it a bit.|- Of course.
+{37422}{37489}- Is there a dispensary here?|- Yes, Doctor. This way.
+{37840}{37896}I wonder what's going on.
+{37898}{37956}Listen, miss, before we go in...
+{37958}{38007}it might be just as well|not to mention...
+{38009}{38091}about the ice cream to your aunt.
+{38093}{38193}My father told me|never to tell a lie.
+{38195}{38243}Pollyanna...
+{38275}{38335}I didn't mean to tell a lie.
+{38337}{38405}But there's no reason to bring up|the subject if it isn't mentioned.
+{38407}{38512}- I mean, about cousin Fred and all.|- I like your cousin Fred very much.
+{38514}{38579}Oh, he's all right, I guess.
+{38581}{38688}He's very handsome,|and he has a nice smile.
+{38690}{38747}But there's something sort of...
+{38749}{38827}I don't know, funny about him.
+{38829}{38921}What do you mean, funny?
+{38923}{38988}I know what it is.|It's his name.
+{38990}{39064}- He doesn't look at all like a Fred.|- What?
+{39066}{39132}He looks more like a George to me.
+{39134}{39202}Pollyanna! Wait a minute.
+{39424}{39494}- Pollyanna, I told you|to come directly home.|- Yes, I know, but--
+{39496}{39554}And know that when I tell you|to do something, you must do it.
+{39556}{39642}There are rules-- Nancy, where have|you two been? It's almost 1 :00.
+{39644}{39695}Well, uh, you see, ma'am--
+{39697}{39789}Have you been carrying on|with George Dodds again?
+{39791}{39883}- Oh, it was my fault, Aunt Polly.|- What do you mean, your fault?
+{39946}{40042}Well, I-I just dawdled so.
+{40044}{40116}It was the excitement|of the new dress, I suppose.
+{40118}{40200}Polly, before Karl Warren|get's here, we must talk.
+{40202}{40261}Oh, I suppose you're right.|Nancy?
+{40332}{40386}Nancy, get into your uniform|and help with the luncheon.
+{40388}{40479}- Yes, ma'am.|- And this is no place|for you, young lady.
+{40481}{40544}- We have lots to do, so run along.|- Yes, Aunt Polly.
+{40548}{40627}I'm sorry to start your vacation off|like this, Ed, but this won't take long.
+{40629}{40681}Don't worry about me, Uncle Karl.|I'll just wait out here.
+{40683}{40778}Fine. Fine.
+{40780}{40847}Oh, Frieda, Bessie, they're waiting|for you in the conservatory.
+{40849}{40897}Right in there, ladies.
+{40934}{41028}Why, Edmond.|This is a surprise.
+{41030}{41123}- Well, if it isn't young Dr Chilton.|- Mrs Tarbell.
+{41196}{41303}- I'll see if everyone's|ready for you, Polly.|- Thank you.
+{41305}{41397}It's nice to see you again.|Are you just visiting?
+{41399}{41484}Well, I thought it was time for|vacation, the first one in five years.
+{41486}{41578}I'm just waiting here for Karl.|I won't be in the way here, I hope.
+{41580}{41628}No, no, of course not.
+{41677}{41804}Seems strange,|being back here again like this.
+{41830}{41904}Polly, they're all ready for you.
+{41906}{41962}I'll be right there.
+{42013}{42081}- Why don't you come in and join us?|- No, I'd rather not butt in.
+{42083}{42167}I'll wait here.
+{42169}{42219}- Well, they're waiting for me.|- Go ahead.
+{42221}{42269}I'll be fine here.
+{42559}{42629}- Hi, Nancy!|- Hi. You better get out of here.
+{42631}{42685}Oh, I'm all right.
+{42898}{42948}It should be parliamentary procedure,|same as it's always been.
+{42950}{43023}- Well, for once, let's have facts.|- We always observe regular procedure.
+{43025}{43073}Oh, bunkum!|We're here because of an emergency.
+{43075}{43151}- Everybody will be talking|at the same time.|- Exactly!
+{43247}{43309}- Hello.|- Hello.
+{43311}{43400}- Is this the town meeting?|- Oh, no. It's in there.
+{43402}{43490}-In the conservatory, for heaven's sake.|-Oh.
+{43492}{43544}Are you a member|of the ladies aid group?
+{43546}{43603}Oh, no. I'm just a child.
+{43605}{43680}I'm not even supposed to be here.
+{43682}{43753}- What's your name?|- Pollyanna Whittier.
+{43755}{43826}That's my aunt over there,|the pretty one.
+{43828}{43899}This is her house,|and I live with her.
+{43979}{44061}Wait just a moment, everybody.|We'll compromise.
+{44063}{44142}- We'll go to|the immediate problems first.|- Good.
+{44144}{44257}Amelia, wouldn't you like to hear|what Karl has to say?
+{44259}{44350}All I'm saying is that it's time|we took some pride in that orphanage...
+{44352}{44438}and put up a decent, presentable|building that we could all be proud of.
+{44440}{44509}That's all I'm saying,|and I've been saying it...
+{44511}{44576}for three and a half long years!
+{44845}{44949}Polly, he is completely|out of line on the whole thing.
+{44951}{45049}If we'd all be a little more quiet,|cooperative, orderly.
+{45051}{45099}If we'd all stop shouting|and cooperate--
+{45101}{45193}There is nothing wrong with that|building! All it needs is new plumbing.
+{45195}{45282}Today the plumbing, tomorrow|the roof and the Lord knows what--
+{45284}{45366}Excuse me, Reverend.|Who knows what's gonna happen next?
+{45368}{45437}You were very happy when my father|donated the building for the town.
+{45439}{45515}Oh, for Pete's sake,|Polly Harrington, listen to reason.
+{45517}{45581}It's a dilapidated old relic!
+{45583}{45639}The dining hall, the dispensary.
+{45641}{45719}Even my nephew, Dr Chilton there,|he noticed that.
+{45721}{45811}Ed, tell them what you said.
+{45813}{45869}Well, I don't think|I should say anything.
+{45871}{45950}No, no. Now, come on. Tell them|what you said. I want them to hear it.
+{45952}{46066}Well, I got a look at the dispensary|when I fixed Mr Geary's arm.
+{46068}{46146}And I mentioned it seemed a little|inadequate for 32 children there.
+{46148}{46237}There you are.|Now you've heard it.
+{46239}{46354}We all thank you for your interest,|Edmond, but it's an equipment problem.
+{46356}{46431}We're talking about Harrington House,|which is a landmark in this town...
+{46433}{46492}and I intend to see that|it stays that way.
+{46494}{46548}We'll spend more trying|to repair that old building...
+{46550}{46622}-than it would cost to put up a new one.|-It won't cost this town one cent!
+{46624}{46691}My father donated|the building to the town...
+{46693}{46751}and I will stand the cost of the pipes|or the plumbing...
+{46753}{46836}or whatever it is that's necessary.
+{46838}{46900}It's my duty,|and I will not shirk it.
+{46961}{47027}And I suppose there's not one of you|out there that has the gumption...
+{47029}{47123}to stand up and say what you think,|is there?
+{47125}{47196}What about you, Reverend? You're a man|of influence in this community.
+{47198}{47284}- What do you think?|- No! No, no, I-I, uh--
+{47286}{47343}I-I never take sides|in these matters.
+{47345}{47411}That's comfortable. Ben?
+{47413}{47491}Speak up. Come on.
+{47493}{47547}Oh, Karl!
+{47549}{47620}Charlie, what do you say?
+{47622}{47719}Well, say something!|Anybody!
+{47721}{47769}We do have other business to discuss.
+{47771}{47841}- That is, if you've finished, Karl.|- Oh, yes, I've finished!
+{47944}{48021}There's your whole town council|and your whole civic conscience!
+{48023}{48072}And you certainly don't need me|as mayor around here as long as...
+{48074}{48132}you've got Polly Harrington|running everything.
+{48205}{48267}Karl never changes, does he?
+{48269}{48339}Uh, ladies and gentlemen,|we're having a little light lunch.
+{48341}{48390}Suppose we stop for a while|and have a bite.
+{48481}{48575}If you ask me, Reverend Ford should|have taken sides with Mayor Warren.
+{48577}{48655}He had the chance, and what'd he do?|He says he never|takes sides in these matters.
+{48657}{48738}Oh, stop stickin' your nose|into their business and|get these sherbet glasses out there.
+{48740}{48828}- We're out of spoons.|- Well, wash some up. Don't stand there|bellyaching to me about it.
+{48830}{48883}You're in a fine mood,|aren't you?
+{48918}{49011}Pollyanna, I thought you|could use this for your room.
+{49013}{49114}Oh, thank you, Nancy!|Oh, it's gorgeous!
+{49116}{49195}Oh, well, thanks for not spilling|the beans about you-know-who.
+{49197}{49252}- About cousin Fred, you mean?|- Mm-hmm. Isn't he handsome?
+{49254}{49313}- I knew it all the time!|- You did? How did you know?
+{49315}{49379}Well, sure, it was easy! I saw you|holding hands under the table.
+{49381}{49432}If you ladies got|nothing better to do...
+{49434}{49482}than sit there|gossipin' and snickerin'--
+{49484}{49555}- Well, we're just talking, Tilly.|- Well, talk on your own time.
+{49557}{49646}- This sherbet's turning to mush.|- All right, all right.
+{49712}{49788}- Nancy?|- Hmm?|- You know that man?
+{49790}{49871}- What man?|- The one at the train station.
+{49873}{49926}The one that was just here.
+{49928}{49987}Well, what was he to Aunt Polly?
+{49989}{50091}Well, you might say|they used to be friends sort of.
+{50093}{50173}- You think he's gonna marry Aunt Polly?|- Who's gonna marry her?
+{50175}{50241}- She means Dr Chilton.|- Huh!
+{50243}{50333}Fat chance! Who'd want to marry|old pickle-faced Harrington?
+{50335}{50414}Nancy, are you and George|gonna get married?
+{50416}{50490}- Oh, we hope to someday.|- Oh, I am glad.
+{50492}{50546}I think everyone should be married.
+{50548}{50647}And maybe when|you do marry George...
+{50649}{50768}Aunt Polly will see how happy you are|and she'll be very glad|to get married herself then.
+{50770}{50829}Glad this, glad that!|Do you have to be glad about everything?
+{50831}{50893}- What's the matter with you anyway?|- Oh, lay off her, Angie.
+{50895}{50966}- She's not hurting you.|- Oh, the way she goes on.
+{50968}{51032}Now, that's enough!|You heard what she said.
+{51034}{51120}Stop pickin' on the girl.|Now, take that sherbet out|and serve it the way you should.
+{51122}{51170}Go on!
+{51239}{51313}Well, let's see what your aunt|has on the menu for tomorrow.
+{51420}{51493}Roast chicken.|Chicken every Sunday.
+{51495}{51553}Your aunt has no imagination.
+{51555}{51639}Oh, I love roast chicken!|I'm glad tomorrow's Sunday.
+{51641}{51705}Yeah. Wait till tomorrow.|You won't be so glad.
+{51707}{51785}Did you ever hear of sour stomach?|Well, Sundays around here...
+{51787}{51888}give folks sour stomach|for the whole rest of the week.
+{51890}{51957}- How come?|- Wait till tomorrow.
+{51959}{52011}You'll find out soon enough.
+{52136}{52211}{Y:i}Praise him all creatures
+{52213}{52286}{Y:i}Here below
+{52288}{52434}{Y:i}Praise him above ye heavenly host
+{52436}{52499}{Y:i}Praise Father, Son
+{52501}{52629}{Y:i}And Holy Ghost
+{52631}{52757}{Y:i}Amen
+{53758}{53867}Death comes unexpectedly!
+{53869}{53947}And the god,Jehovah,|will execute his vengeance on ye...
+{53949}{54048}who despise his dying love|and trample his benefits underfoot.
+{54050}{54126}The unconverted soul,|the foolish children of man...
+{54128}{54205}do miserably delude themselves|in the false confidence...
+{54207}{54284}of their own strength and wisdom.
+{54286}{54408}They trust to nothing but a shadow.|But bear testament.
+{54410}{54487}Death comes unexpectedly!
+{54489}{54585}Now, you say, "Ah, no.|I-I had not intended it to come now.
+{54587}{54660}I had laid out matters otherwise.|I thought my scheme good.
+{54662}{54733}I intended to take effectual care,|but death came unexpectedly...
+{54735}{54813}like a thief, outwitting me,|too quick for me.
+{54815}{54896}Oh, cursed foolishness, that I had|flattered and pleased myself...
+{54898}{54952}with vain dreams of repentance.
+{54954}{55053}But sudden destruction|caught me up."
+{55055}{55136}And now he will deal with you.
+{55138}{55238}Now, the great king|of heaven and earth...
+{55240}{55335}will abolish and annihilate|this pride!
+{55337}{55451}Will crush the hardened wretch of|the polluted, infinite abomination...
+{55453}{55500}and rain on him...
+{55502}{55596}a deluge of fire and brimstone!
+{55631}{55700}And where's their strength then?
+{55702}{55799}Where are the great leviathans|who defy God then?
+{55801}{55897}Where's their courage, these-these--|these-these proud spirits?
+{55975}{56029}Yes...
+{56031}{56134}death comes unexpectedly.
+{56136}{56200}And the dread judge|has the key of hell.
+{56202}{56323}He shuts, and no man opens.
+{56325}{56364}In hell...
+{56366}{56451}you will be reserved in chains|of darkness forever and ever.
+{56453}{56551}This place of atonement,|of damned souls and misery...
+{56553}{56617}with nothing to relieve you,|no comfort...
+{56619}{56679}no water for your parched tongues...
+{56681}{56732}no place to rest or take a breath...
+{56734}{56850}but the everlasting,|infinite convulsions of misery...
+{56852}{56907}forever...
+{56909}{56980}and ever and ever!
+{56982}{57049}Now, Isaiah has warned us...
+{57051}{57160}on the day of vengeance,|the earth shall be laid to waste.
+{57162}{57255}And the cormorant and the bittern|shall possess the land.
+{57257}{57327}The raven and screech owl|shall dwell in it.
+{57329}{57433}- Don't stare at the orphans, Pollyanna.|- And who is man...
+{57435}{57519}to think he can withstand|God's mighty wrath?
+{57596}{57697}Great mountains cannot stand|before this wrath.
+{57699}{57817}Yea, he can lay the earth|to pieces in one moment...
+{57819}{57926}or shatter the whole universe|with one stroke of his fiery sword.
+{57928}{58003}How dreadful is the state of those|who are in daily danger...
+{58005}{58055}of this great wrath...
+{58057}{58129}this abyss of death and despair.
+{58131}{58234}Yet, this is the dismal case...
+{58236}{58341}of every soul in this congregation|who has not been born again...
+{58343}{58448}however moral or strict, sober|and religious you may otherwise be.
+{58450}{58516}There is no security|for the wicked...
+{58518}{58619}because there are no visible signs|of death at hand!
+{58621}{58672}Unconverted men...
+{58674}{58750}walk over the pit of hell|on a rotten covering.
+{58752}{58836}And there are innumerable places|on this covering so weak...
+{58838}{58883}they will not bear their weight.
+{58885}{58972}And these places cannot be seen.|The arrows of death fly...
+{58974}{59042}unseen as noonday.
+{59044}{59171}God has many different|unsearchable ways of taking|the wicked from this world.
+{59173}{59301}Who here, in this congregation,|listening to this discourse...
+{59303}{59427}will soon be visited|by this covenant of darkness?
+{59429}{59532}There you are, sitting there...
+{59534}{59655}calm in your knowledge of health,|secure in your well-being.
+{59701}{59802}Yet who could suffer the agonies|of the damned of tomorrow?
+{59804}{59893}Yes, even today|or maybe the next hour...
+{59895}{59978}the next minute.
+{59980}{60066}And if we were to know|which of you it was...
+{60068}{60148}what an awful sight it would be.
+{60150}{60242}A soul doomed...
+{60244}{60341}to the everlasting bottomless pit|of a divine wrath!
+{60343}{60389}Yes...
+{60391}{60472}death comes unexpectedly!
+{60539}{60593}Amen.
+{61398}{61446}Exactly!
+{61480}{61554}I thought the reference to Jeremiah|at the finish was very effective.
+{61556}{61606}- Didn't you, Mrs Ford?|- Yes.
+{61608}{61663}I, uh, sometimes wonder|whether it's necessary...
+{61665}{61729}to talk so furiously at them though.
+{61731}{61794}Dear, Isaiah,|Jeremiah and Ezekiel...
+{61796}{61847}were all recorded with flaming pens|and fire.
+{61849}{61907}I-I can't deliver the message|with syrup.
+{61909}{61967}Of course not.|Your voice is God's instrument.
+{61969}{62025}- It should be used accordingly.|- Well, we try our best.
+{62027}{62097}What'd I tell ya?
+{62099}{62189}He sure sermonizes something fierce,|doesn't he?
+{62191}{62267}Brimstone and damnation|on top of ham and eggs!
+{62269}{62351}- The one day a week we have off.|- I hate Sundays.
+{62353}{62433}- Ooh, I just hate them.|- Breakfast still a hot ball|in our stomachs...
+{62435}{62503}and him chewing our ears off|from that pulpit!
+{62505}{62565}We're gonna have roast chicken though.|I'm glad of that.
+{62567}{62660}Are you gonna start that all over again?|Glad this, glad that!
+{62662}{62743}What is all this "glad" business|you talk about?
+{62779}{62838}Oh, just a game I play.
+{62840}{62921}What kind of a game?
+{62923}{62992}A game my father taught me.
+{62994}{63090}- It helps sometimes.|- Helps what?
+{63092}{63140}When things aren't going so well.
+{63142}{63216}- That reverend!|- Away from the peas. Go away.
+{63218}{63285}Folks just hate the coming of Sunday|because of him.
+{63287}{63337}Do you know why I hate Sunday?
+{63339}{63397}Because it means|the starting of another week.
+{63399}{63471}-That's true.|-That's when you can play the glad game.
+{63473}{63523}Here it comes.
+{63525}{63591}Miss Goody Two-Shoes is gonna find|something about Sunday to be glad about!
+{63593}{63657}- Oh, lay off her, Angie.|- Oh, stop it!
+{63659}{63752}If you knew how to play the game,|then you could find something|to be glad about too.
+{63754}{63813}But you don't!
+{63887}{64002}All right, Miss Smartie-Pants,|what's so good about Sunday?
+{64004}{64065}- Well, there's always something.|- Huh!
+{64126}{64198}You could be glad because--
+{64200}{64263}Well, because what?
+{64440}{64537}Because it will be six whole days|before Sunday comes around again, huh?
+{64626}{64674}That kid.
+{66082}{66143}Hi.
+{66145}{66211}Why don't you come out of|the front door like normal people?
+{66213}{66319}They won't let us. I can come out|anytime I want with my tree.
+{66321}{66413}You can also fall and hurt yourself|badly. You shouldn't play in trees.
+{66415}{66492}That's stupid.|Don't you believe in God?
+{66494}{66560}Of course I do!|But what's that got to do with it?
+{66562}{66682}He grew it there, didn't he,|so I could climb out anytime I want.
+{66684}{66775}You're much too young|to go around discussing things|you don't know anything about.
+{66848}{66939}He did too!|Why else would it be there?
+{66941}{67006}Shows you're very juvenile.
+{67008}{67114}You aren't so much, you girl!
+{67116}{67190}Besides, I'm somethin' you can't be.
+{67192}{67244}I'm an orphan.
+{67246}{67316}Go away from me, please,|little boy.
+{67318}{67389}"Go away from me, please, little boy."
+{67391}{67442}What is it you want?
+{67444}{67515}I wanna go fishin'.|You wanna come along?
+{67582}{67636}Aren't you supposed to use a hook?
+{67638}{67681}I don't have a hook.
+{67683}{67731}Oh.
+{69389}{69437}Hello.
+{69439}{69526}- Well, look who's here. How are you?|- Fine, thank you.
+{69528}{69604}- Caught anything?|- Not yet.
+{69905}{69962}What was it you and|my Aunt Polly fought about?
+{70091}{70186}Now, where did you hear about that?
+{70188}{70293}Oh, just around. But they won't|discuss it when I'm there.
+{70295}{70367}Um, would you mind|telling me what it was?
+{70369}{70443}Well, Pollyanna,|it's a strange thing about arguments.
+{70445}{70552}At the time, they seem very important.|But now--
+{70554}{70615}You know, I can't even remember|what it was about.
+{70617}{70665}Huh.
+{70732}{70783}Aunt Polly's very pretty.
+{70832}{70909}Yes, I think she is, don't you?
+{70911}{70984}Yes. I just said so.
+{71085}{71176}I love her, but I don't love|the way she fixes her hair.
+{71178}{71300}Years ago, she used to wear it|long and soft down to her shoulders.
+{71302}{71355}It was very soft.
+{71357}{71448}It must've been beautiful.
+{71450}{71504}Yes, it was very beautiful.
+{71667}{71724}Did you used to be in love with her?
+{71781}{71865}Come on, Pollyanna.|Let's go!
+{71867}{71963}Reverend Ford and his wife|are with Aunt Polly now.
+{71965}{72045}But they'll--|they'll be leaving soon.
+{72047}{72175}I suppose Aunt Polly will be alone|by herself most of the afternoon.
+{72177}{72231}Well, I-I'd better be going now.
+{72233}{72281}Good-bye.
+{72404}{72465}- You wanna know something?|- What?
+{72467}{72527}Trees are the best things|in the world.
+{72529}{72618}You can hide up in 'em and people|don't even know where you are.
+{72620}{72705}- And they're walking right beneath you.|- I never thought much about it.
+{72707}{72773}Well, they are.|You wanna see something?
+{72775}{72841}- What?|- Come on. I'll show ya.
+{73218}{73330}- It says, "Keep out."|- Shh! Ya gotta keep quiet.
+{73801}{73853}- Ya see that place?|- What about it?
+{73855}{73908}That's Old Man Pendergast's place.
+{73910}{73984}He's the meanest man in town!
+{73986}{74071}- Well, what are we doing here?|- Shh! Keep quiet.
+{74279}{74330}Come on, Pollyanna.
+{74491}{74564}This is his old, wet basement|with rats in it.
+{74566}{74640}He hates kids.|If he catches ya...
+{74642}{74752}he throws ya down in his basement|and keeps ya for his slave.
+{74754}{74867}- Then what are we doing here?|- Because I wanna show ya something.
+{75275}{75332}There it is.
+{75334}{75383}Up there.
+{75407}{75471}The best climbing tree in town!
+{75533}{75582}Isn't it a beauty?
+{75584}{75685}Why, of all the stupid little|juvenile tricks!
+{75687}{75765}Do you mean to tell me that you|brought me all the way up here...
+{75767}{75873}just to see a crummy old--|a crummy old tree?
+{75875}{75958}Wait a minute, Pollyanna.|Don't you even want to climb it?
+{75960}{76034}- No.|- Well, would ya give me a boost?
+{76036}{76121}Aw, come on. Please?
+{76152}{76206}All right.
+{76208}{76291}All right. Up this way.|More. Come on. Higher.
+{76293}{76393}A little bit higher.|Just a little bit more.
+{76395}{76467}A little bit higher.|Right--
+{76469}{76521}Right there.
+{76523}{76574}- What are you doing here?|- Look out!
+{76576}{76614}I've gotcha!
+{76616}{76689}- Oh, you little--|- Lemme go!
+{76691}{76753}- I've got you, you little devil.|Come back here, you little girl!|- Lemme go!
+{76755}{76860}Come back here! You wicked little boy.|I'm gonna get the constable this time.
+{76862}{76946}- Lemme go, lemme go!|- Shut up! I'll teach you.
+{76948}{77012}- Lemme go!|- I'll teach you a lesson|you won't forget. Come here.
+{77014}{77061}- Lemme go.|- Come on! Get up there!
+{77063}{77117}Lemme go!
+{77305}{77375}I want you children to understand|that I do not want you on my property.
+{77377}{77460}- Keep away from me. Lemme go.|- Hey! Listen to me!|- You big bully, lemme go!
+{77462}{77524}- I've told you 50 times|to keep out of that tree!|- Lemme go!
+{77526}{77577}And I don't want you in the tree.|You hear me?
+{77579}{77638}You keep away from me.|I wasn't hurtin' anything.
+{77640}{77709}It doesn't make any difference what|you were doing. I'm gonna call|the constable this time...
+{77711}{77789}- and see that you keep off my property.|- Lemme go!|- That's all there is to it, you hear me?
+{77791}{77852}Stop it!|Stop it, you mean old man.
+{77854}{77920}- You let him go immediately!|- Oh!
+{77922}{77982}You came back, did you?|Who are you?
+{77984}{78037}My Aunt Polly will send|for the police.
+{78039}{78130}And they'll find us|in your old rat-filled basement|and you'll go to jail.
+{78132}{78189}Oh. Oh, they know about me, do they?
+{78191}{78303}Everything!|All about the children you've kidnapped|and turned into your slaves.
+{78305}{78401}- Serves 'em right for|trespassing on my property.|- We weren't hurting anything.
+{78403}{78491}We just wanna climb your old tree.
+{78493}{78557}You fall out of that tree and get hurt|and I get sued by your parents.
+{78559}{78673}I don't got any parents.|I'm an orphan.
+{78675}{78760}Well, before I pitch you|into the basement with the others...
+{78762}{78832}- what name do you go by, boy?|-Jimmy Bean.
+{78834}{78923}Jimmy Bean. I like to keep a record|of your names, you see,Jimmy...
+{78925}{78986}so that I can tell you from|the rats down there in the basement.
+{78988}{79032}- You lemme go!|- Hey! Come back here, doggone you!
+{79034}{79101}Oh, no you don't. No, you don't.|You come back here.
+{79132}{79215}What am I going|to do with you, huh?
+{79217}{79317}I don't know, sir.
+{79319}{79405}Well, it was getting too crowded|with kids in that basement anyway.
+{79407}{79470}All right.|I'll let you go this time...
+{79472}{79539}but you've got to promise|never to come bothering me here again.
+{79541}{79583}- You promise?|- Yes, sir.
+{79585}{79652}Cross your heart and hope to die?
+{79654}{79724}All right. Get out.|Get out!
+{79775}{79838}Go on. What are you waiting for?
+{79906}{79965}- You know what I think?|- No.
+{79967}{80032}What do you think?
+{80034}{80129}I don't think there's any|kids in your old basement.
+{80131}{80213}- I think you're just a big bluff!|- Oh, you do, do you?
+{80215}{80274}Well, put that down!|What are you doing touching things?
+{80276}{80363}Don't touch anything. These are|my things and I don't want them touched.
+{80365}{80470}It just looks like a lotta|old dusty junk to me.
+{80472}{80541}Well, you wouldn't know anything|about that anyway.
+{80543}{80593}You're nothing but a child.
+{80595}{80664}Imagine criticizing|a beautiful antique of this kind.
+{80797}{80904}- Never heard of such a thing.|- How'd you do that?|- What? What?|What are you talking about?
+{80906}{80997}That.|How do you make it?
+{81047}{81117}Don't you know anything?|I didn't make it. The sun made it.
+{81119}{81213}- That's prismatic reflected light.|- Where from?
+{81215}{81291}Where from? Well, uh--
+{81310}{81358}Oh, from here.
+{81433}{81498}- You see these hanging crystals?|- Mm-hmm.
+{81500}{81587}The sun's rays hit it, and it acts|like a prism. You understand?
+{81589}{81658}- Sure I understand.|- You do not.
+{81660}{81731}You don't know what|a prism is. Now, admit it.
+{81733}{81834}It makes a rainbow right on your wall.|Isn't it beautiful?
+{81836}{81938}Yes, but when the sun sets,|it'll be gone. So stop carrying on so.
+{81940}{82052}Sure, but it'll be back again|tomorrow when the sun comes again.
+{82054}{82149}- You have to admit that.|- I don't have to admit anything!
+{82201}{82280}Well, I better be|going back home now.
+{82361}{82428}Well, goodbye, Mr Pendergast.|It was very nice meeting you.
+{82430}{82475}And thank you|for showing me your house.
+{82477}{82570}But I didn't show you my house.|You came barging in here!
+{82572}{82608}Goodbye.
+{82714}{82780}Kids. Kids today.
+{82931}{82999}Well, you always were|unpredictable, Edmond.
+{83001}{83104}- Hello, Polly.|- Coming here like this|without even calling.
+{83106}{83146}Uh, won't you sit down?
+{83148}{83212}- Could I get you some sherry?|- Uh, no, thank you.
+{83214}{83267}I ran into your niece|down at Wompus Creek.
+{83269}{83360}We were talking about you and I thought,|why not stop by and say hello.
+{83362}{83442}Why, that's very nice. I don't know why|Pollyanna would be at Wompus Creek.
+{83444}{83490}Oh, she was playing.
+{83492}{83546}She told me|you'd be alone today.
+{83548}{83612}There were so many people|around the other day,|we hardly had a chance to talk.
+{83614}{83702}Yes, well, I'm sorry that meeting|got out of hand like that.
+{83704}{83790}Well, tell me, who have you seen|since you've been back?|- No one.
+{83792}{83859}- You knew that Carleen Donnelly|got married, didn't you?|- No.
+{83861}{83912}- You remember her brother,|Beckett Donnelly?|- No.
+{83914}{83984}Of course you do.|You two used to argue all the time.
+{83986}{84072}Well, I'm sorry, I don't.
+{84074}{84162}Well, it really|wasn't that important.
+{84164}{84229}I know what I'll do.|I'll give you a welcoming home party.
+{84231}{84289}It might be nice to see|some of the old faces again.
+{84291}{84345}I know that Gary and Nell|would love to see you.
+{84347}{84430}Do you know that Nell|has eight children?|And I think it's the fifth one--
+{84432}{84482}- Polly?|- What?
+{84546}{84641}I'm not very good at parties.|Please don't.
+{84643}{84744}Well, I just thought you might like|to see some of your friends.
+{84746}{84807}I came back to see you.
+{84858}{84915}Well, that's very flattering.
+{84917}{84976}A busy person like you|remembering me.
+{84978}{85053}I came back to see if you were married|and what had happened to you.
+{85094}{85159}Oh, I'm just the same.
+{85161}{85257}- Nothing has changed. Everything is--|- We made a mistake.
+{85259}{85358}I came back to see|if you felt the same as I do.
+{85360}{85425}Oh, but it's been five years.
+{85427}{85504}- You can't just pop out--|- They were wasted years.
+{85581}{85638}Tell me about your work, Edmond.
+{85640}{85695}We've heard that you've opened|a clinic in Baltimore...
+{85697}{85761}and we're very proud of you.
+{85813}{85908}- What was it you mentioned|yesterday about the orphanage?|- I don't remember.
+{85910}{86017}Oh, yes, you do.|It was something about the dispensary.
+{86019}{86089}It's inadequate for that number|of children. That's all.
+{86091}{86156}Well, I want to modernize it.|Will you help us?
+{86158}{86209}Just tell us what we need|and I'll buy it.
+{86211}{86287}It's a civic responsibility.|Why should you buy it?
+{86289}{86389}- Well, it isn't as if|I couldn't afford it.|- What does that have to do with it?
+{86391}{86468}Well, it's because I want to.|I feel I should.
+{86470}{86544}After all, there is an obligation|to having wealth.
+{86546}{86665}Haven't you learned yet|that people don't like false charity?
+{86667}{86754}Well, I don't want to talk|about it any more. I don't know how|we got off on this subject.
+{86756}{86822}Well, it isn't the way I wanted it.
+{86866}{86948}- Perhaps I should come again|another time.|- Yes, perhaps you should.
+{86950}{87033}And maybe you should call first?
+{87035}{87084}Yes, I'll do that.
+{87268}{87326}Pollyanna, look at your new dress.
+{87328}{87381}It's filthy! And your shoes!
+{87412}{87460}Oh, I'm sorry, Aunt Polly.
+{87462}{87522}I was playing, and I didn't realise.
+{87620}{87696}What were you|and Dr Chilton talking about?
+{87720}{87789}Oh! Nothing.
+{87791}{87851}We were talking about your hair.
+{87853}{87920}- My hair?|- Yes.
+{87922}{88016}He said you used to wear it very|long and soft, down to your shoulders.
+{88018}{88102}He said it was beautiful!
+{88104}{88193}Yes, well, uh--|Clean yourself up for supper, dear.
+{88195}{88244}Yes, Aunt Polly.
+{88871}{88949}Here is the last|of the calf's-foot jelly.
+{88951}{89029}- Oh, but Aunt Polly, please--|- There'll be no nonsense|about it, Pollyanna.
+{89031}{89095}This is a duty and a job|that must be done.
+{89097}{89165}Nancy will show you where|the deliveries are supposed to be made.
+{89167}{89231}- What kind of deliveries?|- Charity baskets, child.
+{89233}{89299}- Oh, the suffering in this world!|- Dwell on it.
+{89301}{89372}Appreciate how lucky you are.
+{89374}{89471}Now, these two go first, Nancy,|and handle them with care.
+{89473}{89532}- Where's the one for Mrs Snow?|- Oh.
+{89534}{89622}- We took great pains to wrap that|attractively, knowing how she is.|- Yes, ma'am.
+{89624}{89703}And there'll be no dawdling. And keep|your clothes clean for a change.
+{89705}{89774}Come on. Off with you.
+{89776}{89885}- Come on, honey.|We've got three more to go!|- Oh, just a minute, Nancy.
+{89887}{89927}What's in the durn thing?
+{89929}{90022}Um, I think that one's|calfs'-foot jelly.
+{90024}{90087}Oh, you don't have to look at it|as though it was charity...
+{90089}{90160}just a gift from|one friend to another.
+{90162}{90240}- Friend?|- Yes. I'm your friend.
+{90242}{90308}Well, uh, I better be going now.|Goodbye.
+{90418}{90489}- People sure hate to get charity.|- Isn't it the truth?
+{90491}{90576}- And I don't blame them.|- Do-gooders! Ha!
+{90624}{90704}- Goodbye, Miss Ferd.|- Goodbye.
+{90706}{90775}- Now, how does that go again?|- Uh--
+{90777}{90871}{Y:i}Early one morning|just as the sun was rising
+{90873}{90979}{Y:i}Early one morning|just as the sun was rising
+{90981}{91079}{Y:i}I heard a maiden singing|in the valley below
+{91081}{91117}One up.
+{91119}{91224}{Y:i}- Early one morning|-Just as the sun was rising
+{91226}{91280}{Y:i}I heard a maiden singing
+{91352}{91441}That takes care of|Mrs Gaupherson, Miss Neely...
+{91443}{91501}Doppsils and the Ferds.
+{91503}{91565}- Who's left?|-Just this one, Mrs Snow.
+{91567}{91660}- And I wish this one were over with.|- What's wrong with her?
+{91662}{91729}She's just plain crabby,|that's what's wrong with her.
+{91731}{91787}You never met anyone|so cantankerous.
+{91789}{91855}If it was Friday,|she'd wish it was Tuesday.
+{91989}{92088}- What'd we bring her today?|- Uh, calfs'-foot jelly.
+{92090}{92168}You wait and see.|She's bound to wish she had chicken.
+{92170}{92227}And if we brought her chicken,|she'd want lamb broth.
+{92229}{92287}She's just cantankerous!
+{92374}{92448}Millie?
+{92450}{92500}Nancy, come on in.
+{92502}{92539}- How are you?|- Hello, there.
+{92541}{92602}- Hello.|- Uh, this is Pollyanna Whittier.
+{92604}{92666}Oh, sure. I heard you were coming|to stay with your aunt.
+{92668}{92730}- And this is Mrs Snow's|daughter, Mildred.|- How do you do?
+{92732}{92794}- How do you do?|- Where were you last night?|We waited and waited.
+{92796}{92872}At the hayride. I know. My mother said|I could go and at the last minute|changed her mind.
+{92874}{92929}- She had some kind of,|I don't know, an upset stomach.|- Oh, what a shame.
+{92931}{93053}Stop that noise in there! Haven't you|any respect for a dying woman?
+{93055}{93192}Honestly! She was so crotchety|today. I'm just worn to a frazzle!
+{93194}{93247}This morning I-I fixed her|a cup of coffee, as usual.
+{93249}{93296}You know, I brought it in.|She didn't want coffee this morning.
+{93298}{93370}- This morning she wanted tea.|- I don't know how you stand it.|I swear!
+{93372}{93431}I don't know either.|I poured it down the sink.|I had to make her a new cup of tea.
+{93433}{93492}Do you remember the day that-that-that|I brought the currant jelly?
+{93494}{93556}-Yes!|-I had currant jelly from here to there.
+{93558}{93616}She threw it at you!
+{93729}{93764}Hello.
+{93766}{93804}Who are you?
+{93806}{93901}And what are you doing|in my bedroom?
+{93903}{93985}- Uh, I am Pollyanna Whittier.|- Who?
+{93987}{94051}- Miss Harrington's niece.|- Oh!
+{94053}{94130}- The ladies' aid has sent me with this.|- Hmm? What is it?
+{94132}{94258}- Calfs'-foot jelly.|- Calfs'-foot jelly! Oh!
+{94260}{94357}And I had my heart set|on lamb's broth today.
+{94359}{94453}- You mean chicken, don't you?|- What's that?
+{94455}{94565}Well, they tell me you always wanted|chicken when you were brought jelly.
+{94567}{94661}You're a Miss Impertinence,|aren't ya?
+{94663}{94767}Come here.|Come right over here.
+{94833}{94895}You have a stubby little nose.
+{94897}{94947}What do you think about that?
+{94949}{95022}I know it.|I wish I were pretty like you.
+{95024}{95096}Oh, don't you try to butter me up.
+{95098}{95191}- I'm not at all pretty.|- Oh, but you are!
+{95193}{95249}And you don't look sick at all.
+{95251}{95343}Well, that shows you|what a stupid little girl you are.
+{95345}{95414}Well, get outta my way.
+{95416}{95485}Why, I'm right on death's doorstep...
+{95487}{95592}just hanging on by sheer will power.
+{95594}{95692}If you had to lay here day after day|and day after day, and you call|anybody, and your daughter--
+{95694}{95767}Put that down, stop it.|And she wouldn't come.
+{95769}{95851}She's gallivantin' somewhere. And the|doctor, all he gives you is pills.
+{95853}{95926}Pills and bills.|Just pills and bills. That's all.
+{95983}{96049}- What are you staring at?|- Your prisms.
+{96051}{96130}- My what?|- Your prisms.
+{96132}{96231}- Did you know they paint|rainbows on your wall?|- Oh.
+{96233}{96304}See? On that wall over there.
+{96546}{96595}How'd you do that?
+{96597}{96694}- Well,I said that I'm too old and too|smart for that old saw, Fred Pallegrew.|- Well, I should say so!
+{96696}{96790}You just turn that horse around|and head out from underneath|this covered bridge right now.
+{96792}{96904}- I'll bet that cooled his heels.|- You should've seen his face.
+{96906}{96954}- More coffee?|- Oh, please.
+{97040}{97143}- It's awful quiet in there.|- I wonder what's going on.
+{97224}{97304}Uh, more to your left.|To your left, you silly girl.
+{97306}{97438}What's the matter with you? Now, there.|There. That's not bad at all.
+{97440}{97524}Not bad?|It's gorgeous!
+{97526}{97596}- I think it was a fine idea.|- Now, don't be taking credit.
+{97598}{97676}I suggested stringing them up there.
+{97678}{97789}Why, Mrs Snow, that's a fib.|It was my idea.
+{97791}{97850}It was my idea to use the string!
+{97852}{97920}You didn't know how to do it|till I suggested the string.
+{97922}{98035}You're impertinent.|I don't like you at all.
+{98037}{98116}I'm sorry.
+{98118}{98168}When are you coming back again?
+{98170}{98218}Tomorrow, I guess. I'll see you then.
+{98220}{98302}Well, if I'm not in my grave.
+{98304}{98393}- Bye.|- Bye.
+{98395}{98450}All right, Nancy?
+{98452}{98537}- Goodbye, Millie.|- Goodbye, Nancy.
+{98539}{98606}- Goodbye, Pollyanna!|- Bye.
+{98608}{98714}Don't stand there! Go on and fix|a cold pack for my headache!
+{98716}{98787}Go on! Go on!
+{98789}{98822}Yes, Mother.
+{99250}{99296}Let's get some gumption around here.
+{99298}{99368}Let's start acting|like a community.
+{99405}{99469}Hey, Doc, you just sit there|chewing on that straw.
+{99471}{99528}Put in your two bits' worth.|What do you think?
+{99530}{99653}I came here to fish, Charlie. I don't|want to butt into your affairs here.
+{99655}{99729}Ben Tarbell?|Where are you sneaking off to?
+{99778}{99849}You folks are biting off|a pretty big chew with all this talk.
+{99851}{99893}Come on, Ben. Get it said.
+{99895}{99977}A lot of us have got vested interests|in the Harrington companies.
+{99979}{100057}Our wives belong to|her ladies' aid group.
+{100059}{100131}My woman would skin me alive if I was|to go opposite to Polly Harrington.
+{100133}{100237}And that's the truth!|I'm sorry.
+{100239}{100326}Anybody else want to quit,|do it now.
+{100328}{100397}All right, then. Let's get our hands|out of our hip pockets...
+{100399}{100447}and find a way to raise some money.
+{100449}{100525}- Are you with me?|- Yeah.
+{100627}{100709}{Y:i}Early one morning|just as the sun was rising
+{100711}{100839}{Y:i}I heard a maiden singing|in the valley below
+{100841}{100879}What's happening?
+{100881}{100941}Now, that's the very first thing|in the morning. Charlie Gorman...
+{100943}{100995}that means eight men|assigned to you for carpentry.
+{100997}{101065}- Dan Seymour'll supply|the one-by-twelves. Right, Dan?|- Right.
+{101067}{101125}All right. Now, look, Mary,|you gotta get that cooking done.
+{101127}{101219}- Of course, you got|that other thing to run.|- Yes, Karl,|I'll take care of the chicken.
+{101221}{101294}- Hi, Pollyanna!|- Hi. I'll be back in a minute.
+{101296}{101356}- Hi, honey.|- Hi. What's going on?
+{101358}{101437}Lady, you are looking at the elected|head of the entertainment committee.
+{101439}{101490}Old Uncle George!
+{101492}{101546}- Entertainment committee for what?|- Well--
+{101548}{101608}If we get the corn, you can take|that whole thing out of there.
+{101610}{101697}Charlie, you can count on me|to haul in that lumber.
+{101699}{101804}- Don't have to use the big truck--|- We're gonna have the best bazaar|you've ever seen.
+{101806}{101861}We sure are!
+{101863}{101931}- A bazaar?|- To raise money for a new orphanage.
+{101933}{102000}It's the first time folks have|stood together against Polly Harrington.
+{102002}{102067}- Nancy, did you know|there's going to be a bazaar?|- Yes!
+{102069}{102130}With corn on the cob|and ice cream and everything!
+{102132}{102219}- Can kids come, George? Can they come?|- Well, of course they--
+{102221}{102353}-George?|Now, where'd you get that name?|-Oh, stop. She's known it all along.
+{102355}{102414}And you mean|you didn't tell your aunt?
+{102416}{102496}- Well, what did you think|I was, a snitch-baby?|- You're a good girl.
+{102498}{102556}- When's it gonna be?|- Sunday night, a week.
+{102558}{102625}Let me tell you about it.|What a night. An extravaganza.
+{102627}{102687}And I'm in charge of all the acts,|all the entertainment.
+{102689}{102785}Picture it, ladies.|Darkness, and out of the night...
+{102787}{102893}50 bicycles appear,|moving down the square.
+{102895}{102954}And hanging from their handlebars...
+{102956}{103081}200-- 200 gorgeous Japanese lanterns.
+{103598}{103671}Hey, Pollyanna, wait for me.
+{103673}{103764}- Where are you goin'?|- There's a big bazaar and I'm helping.
+{103766}{103831}Hey, wait a minute.
+{103833}{103932}- What's it for?|- It's an extravaganza.
+{103934}{103974}Picture it.
+{103976}{104022}Darkness...
+{104024}{104075}fifty bicycles...
+{104077}{104198}200 gorgeous|Japanese lanterns swinging.
+{104200}{104305}And I'll be on the lead bicycle,|just riding along, right out in front.
+{104307}{104409}- Oh, boy. Can I help?|- All right. Come on.
+{104411}{104482}- Where you goin' now?|- Mr Pendergast's.
+{104484}{104573}You're going back?|You're nutty!
+{105219}{105313}- What are you doing back here?|- Oh, just came to say hello.
+{105315}{105426}- Tell you something about your prisms.|- Well, what about them?
+{105428}{105513}-Well, aren't you going to invite me in?|-Invite you in?
+{105515}{105580}No more privacy than a goldfish.
+{105582}{105648}All right. Come in, come in.|But you can't stay long.
+{105650}{105711}Can he come in too?
+{105713}{105807}- Can who come in?|-Jimmy Bean!
+{105809}{105893}Come on.|Don't be a scare-baby!
+{105986}{106047}Oh, come on!
+{106199}{106249}Don't touch anything.
+{106251}{106352}Well, why didn't you just invite|the whole town while you were at it?
+{106354}{106440}Oh, I just wanted to show Jimmy|the rainbow on your wall.
+{106442}{106505}Do you mind?
+{106507}{106563}All right.|Go ahead, go ahead.
+{106565}{106622}Kids--|They'll drive you crazy.
+{106624}{106689}One thing or another.|It's getting so a man...
+{106691}{106755}can't call his home his own any more.
+{106798}{106892}And where do you think it comes from?|Through this piece of glass.
+{106894}{106989}- Explain it to him, Mr Pendergast.|- I've got work to do.
+{106991}{107100}- Don't you know anything about|refracted light, there, boy?|- It's the sunlight coming through--
+{107102}{107191}I'll do the explaining if you don't|mind, little Miss Know-it-all.
+{107193}{107271}Now, boy, you see here, the--
+{107273}{107364}- Don't they ever cut your hair|in that darn orphanage?|- I like it the way it is.
+{107366}{107443}Look at you. So much hair, you look|like you're wearing a coonskin cap.
+{107445}{107515}- Lemme go, will ya?|- Anyway...
+{107517}{107569}about the refracted light.
+{107571}{107627}Oh yes.
+{107629}{107680}Now pay attention, boy.
+{107682}{107776}You see the shape of this crystal?|That is a prism.
+{107778}{107850}The light is stripped by that angle.|That refracts the ray...
+{107852}{107910}splits the colours,|diffuses them in an oblique angle...
+{107912}{107964}and bends it out|into a dispersed colour band.
+{107966}{108014}You understand?
+{108074}{108115}What he means is...
+{108117}{108194}the sun comes through here|and paints a rainbow.
+{108196}{108284}- You see?|- Oh, I understand!
+{108286}{108343}Can I try it once, please?
+{108345}{108415}Go ahead, but don't break anything.
+{108517}{108616}Do you know Mrs Snow?|Well, I've just come from her place.
+{108618}{108689}And we strung a whole bunch of them|up across her window.
+{108691}{108735}You should see what that does!
+{108737}{108803}- Let's try it.|- All right.
+{108805}{108874}Oh no, I've got work to do.
+{108876}{108946}If we had some wire|or a piece of thread...
+{108948}{109004}we could string 'em up|across the whole window.
+{109006}{109067}Oh, we could, could we?|Do you kids think...
+{109069}{109146}I've got nothing better to do|than to play silly games?
+{109329}{109381}Well, don't stand there|looking at me like that.
+{109383}{109483}There's string in that box over there.|Go and get it, go and get it.
+{109485}{109514}Oh, dear, dear, dear.
+{109739}{109864}Oh, my goodness! Look!
+{109866}{109943}- Look. See over here?|- Look on the door!
+{109945}{110036}- It's on the door. Can't you see?|- Look!
+{110038}{110086}Oh, it's gorgeous!
+{110088}{110191}It's the most beautiful|room in the entire world.
+{110193}{110242}Not bad, is it?
+{110244}{110292}It's not bad at all.
+{110342}{110428}That dining room looks awfully gloomy.|Why don't we do the same thing in there?
+{110430}{110486}- Oh, boy! Let's go!|- No.
+{110488}{110542}What do you mean, "no"?|I thought you enjoyed it.
+{110544}{110610}Well, it's what I came to see you|about, Mr Pendergast.
+{110612}{110667}You see, they're having|a big bazaar in town...
+{110669}{110744}and they're trying to raise enough money|to build a new orphanage.
+{110746}{110799}- I like the old one.|- Be still.
+{110801}{110852}Anyway, they need help.
+{110854}{110990}And everyone's supposed to bring|somebody else. And I want to bring you.
+{110992}{111088}- What for?|- They're having all kinds of stands|to sell things--
+{111090}{111188}hooked rugs, quilts|and crocheted tablecloths.
+{111190}{111260}And we can have a stand and sell these!
+{111262}{111319}Rainbow makers!
+{111321}{111378}I'll bet everyone would buy one.
+{111380}{111470}I never go into town, and I don't|believe in community projects.
+{111472}{111536}- But they need you!|- They need me?
+{111676}{111787}Of course, they are sort of|attractive little things, aren't they?
+{111789}{111878}I just wonder if folks|would buy a thing like this.
+{111880}{111927}I wonder.
+{111981}{112082}Now, I'm not trying to sell you|the brass, but it is durable.
+{112084}{112152}Well, the silver's pretty, and I think|you're right about the brass.
+{112154}{112216}Oh, I don't know.|I just can't make up my mind.
+{112218}{112314}Of course, the effect of silver|is always in good taste.
+{112316}{112401}- Hi, Mrs Snow.|- Well, where have you been,|you naughty girl?
+{112403}{112494}- Oh, I'm sorry. I've been helping|for the bazaar. Hello, Mr Murg.|- How do you do?
+{112496}{112608}What've you got there? Don't bring those|dirty rags in here! Get them off my bed!
+{112610}{112739}Oh, they aren't dirty rags.|They're patchwork squares.|Mrs Gaupherson made them.
+{112741}{112809}I thought perhaps you'd like to|stitch them together...
+{112811}{112863}to make a patchwork quilt|for the bazaar.
+{112865}{112950}- What an impertinent child!|- Listen. You just take them|right out of here!
+{112952}{113034}- I'm not gonna do anything of the sort!|- But everyone's helping--
+{113036}{113118}Mr Neely, the Julians,|and even old Mrs Thurm.
+{113120}{113221}Oh. She wants me to work|in my condition.
+{113223}{113290}Don't bother Mrs Snow, girl.
+{113292}{113356}She's a very sick woman!
+{113358}{113478}Well, I thought it might give you|something to do instead of|just lying around.
+{113480}{113554}I mean, the bazaar's|for an awfully good cause.
+{113556}{113645}Well, it's a waste of time.|Nobody'll come to it. You wait and see.
+{113647}{113704}- That's right.|- Why not?
+{113706}{113831}Because-- Because of your aunt,|that's why not.
+{113833}{113878}Well, I don't understand.
+{113880}{113949}Well, we do, don't we, Mr Murg?
+{113951}{114008}- Indeed we do.|- Good. Well.
+{114010}{114108}Now, about this white satin.|I think it's lovely.
+{114110}{114188}- This-This is my first choice.|- And I think the best one.
+{114190}{114265}- Yeah.|- It'll look lovely|against the brass handles.
+{114267}{114329}Are you having a dress made?
+{114386}{114463}Don't be impertinent!
+{114465}{114535}I'm pickin' the lining for my coffin.
+{114537}{114593}That's right.
+{114595}{114670}But you're not gonna die!
+{114672}{114726}Does she have to be here?
+{114728}{114845}Go on into the kitchen|and talk to Mildred.
+{114847}{114893}Now--
+{114895}{114952}Now, this satin is lovely.
+{114954}{115011}Well, it's all settled then.
+{115084}{115153}Thirteen yards of the white satin...
+{115155}{115216}at $ 1 .20 the yard.
+{115265}{115352}And the brass coffin handles.
+{115354}{115454}Well, all right, all right.|Write it up.
+{115456}{115516}Stop frowning at me like that!
+{115518}{115577}What's the matter with you?
+{115579}{115655}Well, it's just that...
+{115657}{115746}well, a person shouldn't think|about dying so much!
+{115748}{115853}- I don't want you to die.|- Oh, bless you for that.
+{115855}{115907}It seems everyone else can't wait.
+{115983}{116047}I'm not supposed to talk|about my father at home...
+{116049}{116097}but I guess it's all right here.
+{116099}{116205}My father used to say,|a person should think about living.
+{116207}{116290}Why don't you go outside and play?
+{116292}{116409}- Hush up.|I want to hear what she has to say.|- Yes. Mrs Snow. Yes.
+{116411}{116483}It just reminded me|about my father and the doll.
+{116485}{116543}You see,|I always wanted a doll...
+{116545}{116654}but we never had enough money|for things like that.|My father was a minister.
+{116656}{116747}But surely he could afford|a little thing like a doll.
+{116749}{116818}Well, he couldn't.|We had to have the money for food.
+{116820}{116899}- Oh, for heaven's sake!|- Shh!
+{116901}{116982}So anyway, my father wrote|to the missionary people...
+{116984}{117076}and asked them to please send|a little secondhand doll.
+{117078}{117168}Well, there was a funny mistake.|When the missionary barrels came...
+{117170}{117268}instead of a doll,|they sent a pair of crutches.
+{117270}{117330}Well, of course,|I was rather disappointed.
+{117332}{117425}- So my father made up the glad game.|- The what game?
+{117427}{117532}She's been pestering folks all over town|with this sunshine and happiness thing.
+{117534}{117625}Hearts and flowers.|Enough to make you sick.
+{117627}{117720}- Hush up! I want to hear it.|- Certainly.
+{117772}{117826}Anyway, about the crutches...
+{117828}{117887}my father said,|"Don't let's be gloomy.
+{117889}{117953}Let's try to find something|to be glad about."
+{117955}{118021}So we made a game of it--|the glad game!
+{118023}{118105}- "The glad game"!|- Shh!
+{118107}{118171}So anyway, we played the game...
+{118173}{118265}and after a while I forgot|about the doll and being gloomy.
+{118267}{118349}And you know what?|I found a reason for being glad.
+{118351}{118443}Well, there's nothing happy|about a pair of crutches.
+{118445}{118536}Well, we were glad|that we didn't have to use them!
+{118538}{118610}Why must you bedevil|this poor dying woman...
+{118612}{118663}with your childish,|silly little stories?
+{118665}{118783}I just thought she could play the game!|You could be glad you don't need|this horrid old coffin!
+{118785}{118910}You could help others|by making the patchwork quilt|for the orphans if you wanted.
+{118912}{119001}You ought to forget about dying|and be glad you're living!
+{119087}{119148}Oh, I don't care what you do.
+{119252}{119340}I'm not gonna come|and see you any more.
+{119367}{119462}I-- I didn't mean|to hurt her feelings.
+{119513}{119606}- She's serious about it, isn't she?|- Oh, please, please, Mr Murg.
+{119608}{119656}Leave me alone.
+{119658}{119751}- I'm sorry if I've--|- Please.
+{119753}{119821}Please leave me alone.
+{121085}{121185}Ben told me yesterday they've been|organizing, about 50 of them.
+{121187}{121253}- And Ed Chilton's got a finger|in the pie too!|- Edmond?
+{121255}{121317}Gave them the idea is what he did.|And that's not all.
+{121319}{121449}- It couldn't have been Nancy.|- I tell you, she was there.|Jesse told me.
+{121451}{121546}I'd fire that girl so fast,|it would make her head swim.
+{121548}{121682}And that child, your own niece,|helping them!
+{121684}{121738}Pollyanna?
+{121740}{121803}Just a moment.
+{121805}{121883}Mrs Tarbell tells me you're involved|with that bazaar. Well, I won't have it.
+{121885}{121957}But, Aunt Polly,|I'm part of the flag.
+{121959}{122031}We won't discuss it. I don't want you|to see those people any more...
+{122033}{122108}and that's an order!
+{122110}{122159}Yes, ma'am.
+{122236}{122360}The blessings you've heaped|on that child, and her working|with those people against you.
+{122394}{122465}Get down my cake tins, Angie.|We're going to work.
+{122467}{122560}- Doin' what?|- Thinks she's the queen of Sheba,|does she?
+{122562}{122629}Well, she can't stop us|from helping with that bazaar!
+{122631}{122704}We're gonna bake cakes,|dozens and dozens of'em!
+{122706}{122788}- Where are you gonna get|the ingredients?|- Where do you think?
+{122937}{123035}- You're getting paid, aren't you?|- Not to be kicked.|He kicked me in the stomach.
+{123037}{123110}Now,Jimmy, you've got to stop|kicking Mr Hooper and sit still.
+{123112}{123169}- I don't want to get my hair cut!|- Hey,Jed.
+{123171}{123250}Get that hammer out back,|and we'll nail his shoes to the chair!
+{123252}{123321}- Hey.|- Mr Pendergast.
+{123323}{123381}You should be ashamed of yourself,|Ben Tarbell!
+{123383}{123481}I paid for the tickets.|Will you let it go at that, Karl?|I just can't show up at your affair.
+{123483}{123581}- You ain't the only one, Ben.|- What do you mean by that?
+{123583}{123681}Well, I just came|from your newspaper office.|What's the matter with those fellows?
+{123683}{123774}They said they couldn't handle|this ad for our bazaar. Will you|go over and straighten them out?
+{123776}{123863}Ah, take it easy, Doc. Our space|is all sold, and I can't go around--
+{123865}{123953}Tell him the truth.|Why lie to the man? You're a coward!
+{123955}{124035}It isn't Baltimore up here, Doc.|This is a small town.
+{124037}{124107}And you know as well as everybody else|our newspaper's owned|by the Harrington family.
+{124109}{124169}Liver-bellied bunch of miserable sheep!|That's what you all are.
+{124171}{124245}Well, take it easy, Pendergast.|It's the way things are.
+{124247}{124308}I say that you're all chicken-livered!|And I'm sick and tired of--
+{124310}{124379}Just a minute!Just a minute!|The thing is this.
+{124381}{124465}Most folks around here make a living|outta Polly Harrington,|some way or another.
+{124467}{124555}- We can't afford to antagonize her.|- Can't afford to antagonize her?
+{124557}{124644}Just don't be surprised if come Sunday|night nobody shows up at your bazaar.
+{124646}{124749}I don't believe that.
+{124751}{124854}Well, you're comin', aren't ya?|Claire? Charlie?
+{124904}{124966}People are just plain scared to, Karl.
+{124968}{125034}They're afraid of Polly Harrington|paying 'em back later.
+{125036}{125111}- She'll do it too. You know her.|- Now, look.
+{125113}{125161}We've all taken a cut or two|at the Harringtons...
+{125163}{125246}but she wouldn't do a thing like that.
+{125311}{125398}- If you think I'm|intimidating a whole town--|- Oh, Polly, you know what I mean.
+{125400}{125472}No one will make a move|in this town without the Harrington|stamp of approval on it.
+{125474}{125515}Oh!
+{125578}{125670}Karl Warren sent you, didn't he? He knew|no one would cooperate without me.
+{125672}{125773}Nobody sent me.|I just wanted it made clear|you don't mind if the others cooperate.
+{125775}{125846}You needed my help.|Why don't you admit it?
+{125848}{125916}Won't let your guard down|for a minute, will you?
+{125918}{126005}Still suspicious.|Still don't trust anyone.
+{126007}{126072}Nothing's changed, has it, Polly?
+{126074}{126160}You're still as opinionated as ever,|if that's what you mean.
+{126229}{126282}Oh, Angelica...
+{126284}{126339}Dr Chilton is leaving.
+{126418}{126523}Keep busy, Polly. Lots of meetings|and civic duties and obligations.
+{126525}{126619}It's a poor substitute|for what's really wrong with you.
+{126621}{126718}I knew I could count on you|for some lofty clinical observations.
+{126720}{126804}Would you like to be paid|for your diagnosis?
+{126806}{126932}This one's on the house.|There's no medical term for it.
+{126934}{127040}You can give everything but love.|It's as simple as that.
+{127298}{127337}- Angelica?|- Ma'am?
+{127339}{127398}See that the flowers|in the conservatory get fresh water.
+{127400}{127484}- I found them dry again today.|- Yes, ma'am.
+{127728}{127776}Did ya hear how he told her off?
+{127778}{127840}Like water off a duck's back to her.
+{127842}{127908}That woman's got no feelings at all!
+{128817}{128920}- How'd it go, Ed?|- Stubborn, mule-headed woman.Just like|her father. I should have known better.
+{128922}{128979}- What did she say?|- A lot of foolish nonsense.
+{128981}{129044}What she really wants|is for us to go begging to her...
+{129046}{129138}get her sanction, permission|from the queen to gather in the streets.
+{129140}{129198}- Hi, Nancy.|- Hi, dear.|- What's the matter?
+{129200}{129278}- Oh, nothing.|- It's a doggone shame,|after all the work folks put into it.
+{129280}{129340}- Is the bazaar off?|- It looks that way.
+{129342}{129417}- Why?|- You wouldn't understand.
+{129419}{129468}- Is it because of Aunt Polly?|- Yes.
+{129470}{129552}It takes a word from someone,|someone who isn't under her thumb.
+{129554}{129613}Fat change you got, Ed. She's got|her finger in nearly everything--
+{129615}{129671}the bank, the mills,|the paper, real estate.
+{129673}{129750}Harrington Town. A fine thing,|one woman owning a town.
+{129752}{129800}Well, like it or not,|that's what she does.
+{129802}{129868}- Nancy.|- Yes?|- She doesn't own the church.
+{129870}{129923}That's right.
+{129960}{130043}What did you say?
+{130045}{130143}Um, I just said that|nobody could own a church.
+{130209}{130308}Our social structure in this small town|seems to teeter on a delicate balance...
+{130310}{130398}one which-- which I certainly cannot|in any way attempt to influence.
+{130400}{130470}A-A man of God cannot be|taking sides in these feuds.
+{130472}{130520}- But all we want|is a word from you, Reverend.|- No.
+{130522}{130599}- If you'd just let the people know|tomorrow you're in favour of us.|- No, no, no.
+{130601}{130650}I won't use that pulpit|for public announcements.
+{130652}{130759}- Then you're siding with her|by not mentioning it.|- I am not!
+{130761}{130817}I'm staying completely out of it,|and that's all there is to it.
+{130819}{130892}Reverend Ford, if you'd just|let us say that you're in favour.
+{130894}{130962}There's nothing more to discuss.
+{130964}{131049}- This is all just impossible.|- I'm afraid you're right.
+{131210}{131262}Thank you, Reverend Ford.
+{131454}{131511}You see, I--|Of course, you understand that--
+{131513}{131640}Personally I think it's a good cause and|all that, and-and I wish you luck with it.
+{131642}{131748}Thanks a lot.|I guess Pollyanna was wrong.
+{131750}{131834}Now, what has she got to do with this?
+{131836}{131918}She said nobody|could own a church.
+{132215}{132301}- Hello, Mrs Ford.|- Hello, dear. What are you doing here?
+{132303}{132376}Aunt Polly sent me.|Uh, something for Reverend Ford.
+{132378}{132459}- Oh, he's just back up there.|- Oh, yes, I saw him. Thank you.
+{132461}{132538}- It's a lovely day, isn't it?|- Yes, it is.
+{132691}{132787}And he sayeth unto them...
+{132789}{132855}the wicked shall be punished.
+{132917}{133025}The wicked shall be punished.
+{133027}{133099}Their poison is like|the poison of serpents.
+{133128}{133214}But they shall feel|the gall of asps within them.
+{133332}{133392}How many times|have I stood on this pulpit...
+{133442}{133541}and warned you,|cautioned you again and again--
+{133543}{133638}A house divided against itself|cannot stand.
+{133640}{133763}A kingdom divided against itself|can be brought to desolation.
+{133765}{133848}If you are an enemy to one another...
+{133850}{133921}then you are an enemy to God!
+{133994}{134095}Am I reaching out to you?|Do you understand my words?
+{134097}{134143}Well--
+{134175}{134286}Week after week, I stand here|reaching out to you...
+{134288}{134357}begging you to understand.
+{134359}{134408}Yet, week after week...
+{134410}{134477}the same wickedness persists...
+{134479}{134534}the same dissension...
+{134536}{134598}the same belligerence,|the same feuding...
+{134600}{134666}until you are|ten thousand times...
+{134668}{134743}more abominable in|the eyes of God...
+{134745}{134861}than the most hateful,|venomous, violent, vicious--
+{134939}{134987}You!
+{135019}{135110}- What are you doing here?|- Oh, nothing.
+{135112}{135171}Um, I mean, I was looking for you.
+{135173}{135242}Uh, Aunt Polly sent you this.
+{135244}{135305}- Now, what is it?|- Uh, I don't know.
+{135339}{135413}I'm sorry I disturbed|your practise.
+{135618}{135692}- Would you like someone|to practise your sermon on?|- No. No, thank you, child.
+{135762}{135845}Uh, Mother and I used to be|an audience to my father...
+{135847}{135900}when he was practising|his sermons.
+{135982}{136065}- He-He was a minister too, you know.|- Oh, yes, yes. So he was.
+{136119}{136182}Uh, do you like being a minister?
+{136290}{136340}Do I like being a m--
+{136415}{136479}Now, why would you ask|a thing like that?
+{136481}{136603}Oh, the way you looked just then|reminded me of my father.
+{136630}{136718}Once I saw him sorta sad like that,|and I asked him.
+{136841}{136890}And what did he say?
+{136892}{136993}Oh. Oh, said he was glad he was.
+{136995}{137057}But it made him sad sometimes.
+{137059}{137153}Just couldn't seem to get through|to his congregation.
+{137155}{137203}Sounds familiar.
+{137205}{137285}I suppose every minister of|God faces the same problem.
+{137287}{137360}Mm, I suppose.
+{137362}{137471}Tell me, did your father|ever solve the problem?
+{137473}{137587}Well, he read something one day|that he said helped him.
+{137589}{137637}In the Bible?
+{137639}{137710}No, just something|he read someplace.
+{137712}{137770}He had it put on this chain.
+{137772}{137856}He wore it always.|It's all I have of his.
+{137905}{137993}"When you look for the bad--"
+{137995}{138078}Ooh! It always makes me cross-eyed.
+{138080}{138138}May I?
+{138269}{138400}"When you look for the bad in mankind|expecting to find it...
+{138402}{138478}you surely will.
+{138480}{138588}- Abraham Lincoln."|- He was the president.
+{138590}{138643}Yes. Yes, I know.
+{138731}{138798}But I never heard that before.
+{138800}{138848}Neither had my father.
+{138850}{138925}Anyway, he said|it started him thinking.
+{138927}{139041}And from then on, he was gonna|look for the good in people.
+{139043}{139132}That's when we both started|searching the Bible for the texts.
+{139134}{139189}The texts?
+{139191}{139333}Yes. You know. My father|called them "the glad passages."
+{139335}{139395}You know, the happy ones like...
+{139397}{139484}um, uh, "Shout for joy"...
+{139486}{139551}or "Be glad in the Lord."
+{139553}{139681}You know, like that. There are|800 happy texts. Did you know that?
+{139683}{139752}- No, I didn't know that.|- Yes, well, there are.
+{139754}{139802}And you know, my father said...
+{139804}{139918}"If God took the trouble to tell us|800 times to be glad and rejoice...
+{139920}{139970}he must've wanted us to do it."
+{140007}{140099}Oh, I'd better be going now.|I'm sorry I disturbed your practising.
+{140101}{140182}I'll see you later. Uh, goodbye.
+{140475}{140523}Goodbye, Reverend Ford.
+{140916}{140964}"Dear Reverend...
+{140993}{141063}I've taken the liberty of|jotting down a few thoughts...
+{141065}{141117}and some text from Matthew...
+{141158}{141238}which I thought you might want|to use in your sermon tom--"
+{141663}{141754}Oh, my God. What have I done?
+{141756}{141804}What have I done?
+{142313}{142366}Dear, are you all right?
+{142591}{142663}Nobody owns a church.
+{142665}{142713}No one.
+{143783}{143881}Apocrypha. Ecclesiasticus 30...
+{143912}{143978}paragraph 22.
+{144047}{144120}"Gladness of the heart|is the life of man."
+{144171}{144262}This is one of the rejoicing...
+{144264}{144334}or happy texts.
+{144336}{144388}Ayoung member of our parish|pointed out to me...
+{144390}{144464}that there are 800 such|happy texts in our Bible.
+{144516}{144566}Well, she was wrong.
+{144602}{144655}There are, to be exact...
+{144689}{144764}826.
+{144766}{144865}I know, because I stayed up most|of last night counting them.
+{144961}{145030}I intend to read one|of them every week.
+{145032}{145133}And that should take us, according to|my calculations, through 1 6 years...
+{145160}{145211}if I'm around here that long.
+{145294}{145403}But I can promise you this.|If I am here...
+{145405}{145501}our visits with God on Sunday|are going to be happier...
+{145503}{145557}and more rejoicing too.
+{145607}{145655}Eh.
+{145824}{145886}Now, what I have to say now...
+{145888}{145943}is very difficult for me.
+{145983}{146036}But it must be said.
+{146062}{146115}I look out to you now...
+{146161}{146220}and realize...
+{146222}{146290}after four years|in this congregation...
+{146340}{146463}I don't even know you. I look out|to you now not as my congregation...
+{146465}{146516}but as people.
+{146518}{146608}And I say to myself, how sad it is|to have missed those four years...
+{146610}{146704}four years when|we could've been friends.
+{146706}{146811}I should have been looking|for the good in you.
+{146813}{146901}And I-- I failed you. I--
+{146973}{147037}And I apologize for this.
+{147113}{147222}God is forgiving, but it's not|God's forgiveness I beg, it is yours.
+{147317}{147432}I'm-I'm not gonna speak about this|any more now. It's a lovely day outside.
+{147434}{147518}So let's go outside and enjoy|this Sunday for a change.
+{147520}{147586}And while you're out|appreciating the sunlight, just...
+{147588}{147686}give a little thought|to who's sending it down to you.
+{147688}{147744}Eh.
+{147874}{147983}Oh, stop, please.|One more thing, please! Please sit down.
+{147985}{148094}Please.Just one more thing.|I'm sorry.
+{148096}{148178}There's to be a charity bazaar|in the band park tonight.
+{148180}{148236}It's for a good cause.
+{148238}{148301}And, um, I want to go on record...
+{148303}{148374}as being 1 00 percent for it.
+{148376}{148433}So let's all go out there|and have ourselves some fun...
+{148435}{148495}because, um...
+{148497}{148579}well, if you're not there--
+{148581}{148652}Let me put it this way.
+{148654}{148725}If you're not there...
+{148727}{148824}I'll lam into you something fierce|when I get you in here next week!
+{148826}{148901}And you know I can do it too!
+{149693}{149777}- Where's Pollyanna?|- I don't know. I haven't seen her.
+{150163}{150224}Be careful when you put those in the|car. Don't you smudge that frosting.
+{150226}{150279}Keep your fingers outta there.
+{150394}{150460}Nancy? Angelica?
+{150759}{150842}Where's Pollyanna, please?|She's gotta be there.
+{150844}{150990}It's a big bazaar tonight. Pollyanna's|gotta be there, or she'll ruin the flag.
+{150992}{151054}Well, Pollyanna is too young|to be out alone at night.
+{151056}{151186}- Couldn't you bring her?|- No, I could not. Goodnight.
+{151336}{151401}Gemmenie! Oh!
+{152220}{152268}Pollyanna!
+{152446}{152528}What are you doing up here?|You'll fall.
+{152530}{152588}You'll fall and kill yourself,|you big silly.
+{152590}{152684}You gotta come. You'll spoil|the flag if you don't show up.
+{152686}{152791}I can't. Aunt Polly won't let me.
+{152793}{152867}Come on. She'll never know.
+{153113}{153178}Don't look down.
+{153233}{153308}- I don't think I want to try it.|- Come on. Gimme your hand.
+{153310}{153358}I'll help you across.
+{153450}{153565}Come on. Easy. Easy. Real slow.
+{153593}{153678}Grab that one. All right.|Don't look down.
+{153680}{153765}- Are you sure it's safe?|- I'm sure it's safe.
+{153767}{153823}It's ripe. It's lovely.|There you are, folks.
+{153825}{153930}The finest watermelon at a penny|a slice. You cannot have finer.
+{153932}{154030}There's your best one.|I say, isn't that good? Yes, it is.
+{154032}{154101}- Here you are, lad.|- Thank you very much.
+{154103}{154169}- There you are. Isn't that fine?|- It looks wonderful!
+{154627}{154679}Hurry, hurry! Hurry, hurry!
+{155176}{155264}- Hello, Mr Howard.|- Reverend Ford, Mrs Ford.|Nice to see ya.
+{155266}{155326}- We have a booth over here.|- There you are, sir.
+{155328}{155387}This beautiful,|soon-to-be patented rainbow maker.
+{155389}{155439}You're going to be very happy|with it, sir. Hurry, hurry.
+{155441}{155489}Right this way,|ladies and gentlemen.
+{155491}{155539}- Well, where in the heck have you been?|- Well, we made--
+{155541}{155597}Well, they're looking|for you everywhere.|Go and get into your costume now.
+{155599}{155675}Hurry, hurry! Go on! And,Jimmy,|go have some fun for yourself.
+{155677}{155775}- This way, ladies and gentlemen.|- Oh, that looks delicious, Mrs Litner.
+{155777}{155853}Thank you, Mrs Cleaver.|Just pay on the other side.
+{155924}{156010}- There you go, my dear.|- Thank you, Mrs Lagerlof.
+{156012}{156067}You're very welcome.
+{156069}{156192}Pollyanna! Will you go and get into|your costume? They're waiting for you.
+{156194}{156277}Now, who do you suppose this is?
+{156279}{156335}- Mrs Snow!|- Here.
+{156337}{156421}Here. Now, you can take this|and raffle it off.
+{156423}{156508}You finished it. Oh, it's gorgeous.
+{156510}{156559}Mrs Snow, it's beautiful.
+{156561}{156619}Hi, Millie. Good evening, Mrs Snow.
+{156621}{156713}Darling! Listen, honey, you've|gotta hurry. They're waiting for you.
+{156715}{156777}- Uhh, quilt?|- Well, I'll take it to the quilt stand.
+{156779}{156844}- Now you skedaddle as fast as you can|and put on your costume.|- Here. Hold my cake.
+{156846}{156894}Run!
+{156896}{157004}A nice, home-made patchwork quilt.|No home is complete without one.
+{157006}{157065}On the cob.|There's some salt over there.
+{157067}{157129}- Can I have more?|- You finish those first, then you|can come back and have some more.
+{157131}{157194}Delicious corn on the cob.
+{157196}{157247}- One.|- Right here.
+{157249}{157321}Pollyanna, will you hurry up? Everyone|else is dressed and waiting for you.
+{157323}{157384}- But I never get a chance|to have anything.|- Oh, come on.
+{157386}{157449}Yes, you'll win yourself|a beautiful doll.
+{157451}{157521}A beautiful doll if ya fish|in the fishing pond.
+{157523}{157573}All right, step right up here, folks.|This is the place.
+{157575}{157702}- I am not going to budge.|- I've had just enough of your nonsense.
+{157704}{157793}You're going to join in with the others|and make this a town, not a dynasty.
+{157795}{157873}Get down out of that car, Amelia.|I'm warning you. Move!
+{158017}{158058}- Good evening, folks.|- Come on.
+{158060}{158121}- Fish and wish for|a surprise here, folks.|- Here, honey.|- Oh, thank you.
+{158123}{158208}- Yes, sir, folks.|- Now, you have to think about|what you want and wish very hard.
+{158210}{158258}I understand.
+{158293}{158385}- I'm wishing.|- Do you know what you want?
+{158387}{158435}All right.
+{158493}{158585}Hey, there she goes.|The young lady's going down after it.
+{158587}{158688}What we gonna get there? Come on.|Step right in there, folks.
+{158690}{158759}Fish in the magic fishing pond.|Everybody step right up here.
+{158761}{158856}It's only two cents.|Drop a line and fish for your surprise.
+{158858}{158919}It's the most exciting game|at the bazaar.
+{158921}{159014}Come on, folks. Fish and wish.|Get your bamboo pole here.
+{159016}{159085}Two cents! Hey! Looky there!
+{159087}{159172}- The little lady just pulled|a beautiful doll for herself.|- Oh, my gosh! Look!
+{159174}{159285}- Yes, sir, folks.|- She's mine. Oh, how did they know?
+{159287}{159347}- Right here--|- Step right up-- Well, Reverend.
+{159349}{159403}- Step right up|and show 'em how to do it.|- No, no. No, no.
+{159405}{159468}- I haven't pitched|since my college days.|- Hey, Reverend!
+{159470}{159523}Bet you couldn't hit|the broad side of a barn.
+{159578}{159642}Who is that?|Charley MacAndrews up there?
+{159644}{159711}- What about it?|- Here. Hold this.
+{159713}{159769}Leave your coat on.|You're not gonna hit anything anyhow.
+{159771}{159850}- Buy some corn with the money.|- You know...
+{159852}{159935}I've been trying to get you|baptised for the past three years.
+{160027}{160079}And he throws!
+{160081}{160131}Look out! Look out! Look out!
+{162456}{162576}{Y:i}O beautiful for spacious skies
+{162578}{162681}{Y:i}For amber waves of grain
+{162683}{162793}{Y:i}For purple mountain majesties
+{162795}{162911}{Y:i}Above the fruited plain
+{162913}{163028}{Y:i}America, America
+{163030}{163143}{Y:i}God shed his grace on thee
+{163145}{163270}{Y:i}And crown thy good with brotherhood
+{163272}{163379}{Y:i}From sea to shining
+{163381}{163464}{Y:i}Sea
+{163466}{163580}{Y:i}O beautiful for spacious skies
+{163582}{163689}{Y:i}For amber waves of grain
+{163691}{163801}{Y:i}For purple mountain majesties
+{163803}{163913}{Y:i}Above the fruited plain
+{163915}{164031}{Y:i}America, America
+{164033}{164147}{Y:i}God shed his grace on thee
+{164149}{164274}{Y:i}And crown thy good with brotherhood
+{164276}{164392}{Y:i}From sea to shining
+{164394}{164457}{Y:i}Sea
+{165201}{165319}{Y:i}Take you home again, Kathleen
+{165321}{165389}{Y:i}Across the ocean
+{165391}{165481}{Y:i}Wild and wide
+{165524}{165579}- Oh! Thank you.|- Goodnight.|- Goodnight.
+{165581}{165639}- Goodnight.|- Thanks for the ride.
+{165699}{165827}{Y:i}Where your heart has ever been
+{165829}{165957}{Y:i}Since first you were my bonny bride
+{165990}{166133}{Y:i}The roses all have left your cheeks
+{166135}{166222}{Y:i}My heart just fades away
+{166224}{166292}{Y:i}And dies
+{166294}{166378}{Y:i}I'll take you home again
+{166380}{166466}{Y:i}Kathleen
+{170139}{170216}I'd never thought.|The way they bought up those cakes!
+{170218}{170289}It's a lot of money for that.
+{170291}{170360}- What is it, ma'am?|- I thought I heard something.
+{170561}{170609}Oh, Lord of mercy.
+{170701}{170749}Oh!
+{170885}{170949}Oh, Angelica,|call the doctor quickly.
+{171015}{171066}Oh, my God.
+{172230}{172321}If you don't mind, I'd like to speak|to all of you in the salon for a moment.
+{172795}{172891}Nancy, when Miss Pollyanna|feels better...
+{172893}{172995}I want you to move all of my clothes|and my personal belongings|into the next room.
+{172997}{173077}- Yes, ma'am.|- I want her to stay where she is.
+{173079}{173163}It's a larger room,|and it has a much nicer view.
+{173209}{173322}And it looks as though she's|going to have to remain there|for quite some time.
+{173379}{173470}You might as well know that|Pollyanna's legs are paralyzed.
+{173576}{173664}She doesn't know it yet, and I don't|know exactly how I'm going to tell her.
+{173704}{173790}I just don't know how|I'm going to tell her.
+{174085}{174172}I came as soon as I heard.|Eh, how is the child?
+{174916}{174969}Pollyanna!
+{174971}{175081}Come on down and play! Pollyanna!
+{175083}{175132}We'll go swimmin'. Want to?
+{175134}{175205}- Pollyanna!|- Boy! Boy! Boy, boy.
+{175207}{175273}Stop that, stop that.|Now, you go away from here.
+{175275}{175382}- But I wanna play with Pollyanna.|- Pollyanna can't play,|because she's had an accident.
+{175384}{175504}Now, you go on home like a good boy.|Go on. Hurry up. Go on.
+{175531}{175579}Hurry up. Go on.
+{176011}{176093}- God works in ways mysterious to man.|- Don't speak to me about God!
+{176095}{176194}Say what you think.|I can see it in your eyes.
+{176196}{176281}- They blame me, don't they?|- No. No, nobody's blaming you.
+{176283}{176401}It's true, isn't it? I could have|been the least bit understanding.
+{176403}{176463}That child lies up there|because of me.
+{176518}{176618}- Polly, the mercy of God is forgiving--|- Oh, what kind of a merciful God...
+{176620}{176701}could allow a thing like this|to happen to a child?
+{176703}{176775}And if he were merciful,|why did he let her come to our town?
+{176810}{176876}Let me tell you something,|Polly Harrington.
+{176907}{176961}-Sunday a miracle happened in this town.|-Oh, this town!
+{176963}{177070}Yes, this town.|Right out there in that street|the people are smiling at one another.
+{177072}{177182}Go on. Take a look for yourself.|It's very contagious.
+{177184}{177289}Just think, Polly.|If she had never come to this town--
+{177419}{177505}We ought to get down on our knees|and thank God for sending her to us.
+{177575}{177657}Excuse me, ma'am.|Dr Chilton wants to see you.
+{178075}{178138}Now, you understand everything|I told you, don't you, dear?
+{178140}{178222}- And there's nothing to be afraid of.|- What is it, Edmond?
+{178224}{178345}I told Pollyanna about her injury.|She understands. Don't you, dear?
+{178347}{178439}We're going to take you to Baltimore|for an operation so you can walk again.
+{178441}{178494}You hear that, honey?
+{178658}{178729}I know. Why don't we all cheer up?
+{178776}{178902}Let's see if we can't find something|to be glad about your staying in bed.
+{178904}{178977}Um, oh, I know.
+{178979}{179044}This way we can all|have steak and ice cream.
+{179046}{179128}Did you know that your aunt|ordered it for you?
+{179130}{179212}Now you find something to be|glad about. We'll play the game.
+{179276}{179341}Well--
+{179418}{179488}I suppose I could be glad because--
+{179490}{179546}Yes? Go ahead, darling.
+{179618}{179699}No. It was a silly game.
+{179737}{179789}I hate it.
+{179791}{179855}I never want to play it again.
+{179887}{179949}Leave me alone.
+{180131}{180188}Please try to understand,|Pollyanna.
+{180219}{180293}You're such a part|of our lives now.
+{180295}{180396}Nancy and Angelica, Mrs Lagerlof.
+{180439}{180519}And I love you as if|you were my own little girl.
+{180565}{180640}Won't you give me that chance?|Please?
+{181103}{181170}- Put these in too, Mr Thomas.|- All right.
+{181172}{181261}- And tell Dr Chilton|that the car's all ready.|- Yes.
+{181263}{181361}Yes, we're leaving immediately|on the 1 1 :30 train.
+{181363}{181432}Well, check the arrival schedule.
+{181434}{181537}Make sure we're met with an ambulance.|I want complete X rays|the minute we arrive.
+{181567}{181620}Yes. Thank you.
+{181773}{181871}- Is the operation dangerous?|- Yes, it's very delicate.
+{181873}{181953}You're coming, aren't you?|I need your permission to operate.
+{182090}{182152}Edmond.
+{182154}{182250}There's something worrying you,|and I want to know what it is.
+{182252}{182358}We can only do so much with surgery.|A great deal depends on her.
+{182360}{182468}This depression she's got herself into.|That's what's worrying me.
+{182499}{182616}Edmond. She's had a shock.|She's just learned about her legs.
+{182618}{182679}I can't have her despondent|like this for the operation.
+{182681}{182751}- Well, you have to give her time.|- Time? There is no time.
+{182753}{182830}I have to move her, get her into|the hospital, and I don't like it.
+{182832}{182908}What that child needs is|a good shot in the arm of hope.
+{182945}{183040}Hope?|What she really needed was love.
+{183042}{183113}And that's something|I never gave her.
+{183227}{183286}We can still give her that love.
+{183288}{183341}You and I together.
+{183464}{183554}Ma'am! Ma'am! There's something|very peculiar happening outside.
+{183556}{183639}Miss Harrington!|They-They-They'll ruin our flower beds.
+{183641}{183723}- What are you talking about?|- A-A-Across the lawns and the flowers.
+{183725}{183834}W-We gotta do something. I gotta|stop 'em. Gotta get 'em outta there.
+{183836}{183893}- Now, let me out.|- That's what I've been|trying to tell you.
+{183895}{183953}Been trying to tell me what?
+{184620}{184674}Oh, not the begonias!
+{184711}{184782}Them's Miss Harrington's|favourite flowers.
+{184784}{184835}Now, please, folks.|Go around the other way.
+{184837}{184918}Don't come through there.|You can go around that tree.
+{184920}{185017}Now look!|Go around over by the driveway. I--
+{185105}{185172}Oh, the heck with it.
+{185295}{185361}- What is it you want?|- We don't want anything.
+{185363}{185422}We just come to say|"How'd ya do" to the child...
+{185424}{185484}and bring a bit of gladness|into her life.
+{185486}{185549}Like she brought into ours,|God love her.
+{185551}{185618}We just want her to know|she's got friends, lots of them.
+{185620}{185725}Give her our love and we'll get off|your private property, Miss Harrington.
+{185727}{185795}Well, no. Uh, wait.
+{185797}{185888}Why don't you tell her yourself?|Open the doors, Nancy.
+{185890}{185938}Nancy, open the door.
+{185969}{186017}Come in, won't you?|Nice to see you.
+{186019}{186097}Hello. How are you, Mr Neely?|I'm just fine. How are you today?
+{186125}{186197}Hello. Won't you come in?|Oh, what beautiful flowers.
+{186199}{186304}Hello. I'm so glad you came. Hello.
+{186417}{186492}You have a few callers downstairs,|young lady.
+{186494}{186595}- What?|- You gonna greet them with|that mopey old face of yours?
+{186597}{186653}I don't wanna see anyone.
+{186655}{186749}Well, Pollyanna, you're not gonna have|much choice in the matter this time.
+{186837}{186914}- Oh, no, please.|I don't wanna see anyone.|- Now, just easy.
+{187643}{187749}- You'll be all right, dear. I know.|- You get well now, you hear?
+{187751}{187849}It's not charity.Just a gift,|eh, from one friend to another.
+{187851}{187919}- Oh, thank you, Mr Neely.|- Hi, honey.
+{187921}{187983}You're going to be fine.|Don't you worry.
+{187985}{188058}Goodbye, darling. We're going|to visit you in the hospital.
+{188060}{188147}Hey, Snookie.|Take a look at this, will ya?
+{188149}{188244}Really? You mean, really?|You did it!
+{188284}{188406}- Oh, Nancy. It's gorgeous.|- Isn't it?
+{188408}{188508}And we're gonna wait for you.|You're gonna be my flower girl.
+{188613}{188674}I'm glad you'll be comin'|back to us, darlin'.
+{188676}{188729}And that's the truth of it.
+{188770}{188829}The house will be|miserable without you.
+{188831}{188930}Miserable. You hurry back to us.
+{188995}{189043}Best wishes, Pollyanna.
+{189204}{189252}Goodbye.
+{189291}{189345}Goodbye, Angelica.
+{189499}{189547}Hurry home to us.
+{189611}{189685}What is everybody sniffin' about?|My goodness.
+{189687}{189771}A bunch of ninnies.|Think a person couldn't get well.
+{189773}{189891}- Hi, Mrs Snow.|- Oh, bless you. Bless you, darling.
+{189893}{189941}- I'll see you soon.|- Thank you for coming.
+{189943}{190040}- Ah, it's all right. Bye.|- Goodbye.
+{190162}{190231}- Hello, Pollyanna.|- Hello, dear.|We have a surprise for you.
+{190233}{190317}- Shall we tell her now,Jimmy?|- I've been adopted.
+{190319}{190431}- Adopted? Who?|- Who? Who do you think?
+{190433}{190524}We're gonna spend the rest of our lives|just hangin' prisms.
+{190526}{190591}You hurry home and help.
+{190670}{190747}Hello, Mrs Ford.|Hello, Reverend Ford.
+{190792}{190870}We looked for the good in them,|and we found it, didn't we?
+{191076}{191146}Aunt Polly?
+{191758}{191842}- Bye-bye.|- Bye.|- Bye. Ta-ta.
+{191844}{191905}Bye-bye. Bye.

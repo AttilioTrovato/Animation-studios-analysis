@@ -1,0 +1,7818 @@
+﻿
+16
+00:00:45,613 --> 00:00:48,929
+{\ blur3.7}<font color="#ff00ff">(BELL TOLLING)</font>
+
+17
+00:01:09,736 --> 00:01:12,105
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>Sometimes,
+I think I'm cursed.</i>
+
+18
+00:01:12,107 --> 00:01:15,740
+{\ blur3.7}<i>Because of something that
+happened before I was even born.</i>
+
+19
+00:01:15,742 --> 00:01:19,093
+{\ blur3.7}<i>See, a long time ago,
+there was this family.</i>
+
+20
+00:01:20,247 --> 00:01:23,115
+{\ blur3.7}<i>The</i> papa, <i>he was a musician.</i>
+
+21
+00:01:23,117 --> 00:01:26,968
+{\ blur3.7}<i>He and his family would sing and
+dance and count their blessings.</i>
+
+22
+00:01:28,123 --> 00:01:31,757
+{\ blur3.7}<i>But he also had a dream.
+To play for the world.</i>
+
+23
+00:01:31,759 --> 00:01:33,608
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE CHEERING)</font>
+
+24
+00:01:34,661 --> 00:01:37,130
+{\ blur3.7}<i>And one day,</i>
+
+25
+00:01:37,132 --> 00:01:41,133
+{\ blur3.7}<i>he left with his guitar
+and never returned.</i>
+
+26
+00:01:41,135 --> 00:01:44,017
+{\ blur3.7}<font color="#ff00ff">(RAIN PATTERING)</font>
+
+27
+00:01:49,409 --> 00:01:51,144
+{\ blur3.7}<i>And the</i> mama...
+
+28
+00:01:51,146 --> 00:01:53,812
+{\ blur3.7}<i>She didn't have time to cry
+over that walk-away musician.</i>
+
+29
+00:01:53,814 --> 00:01:56,280
+{\ blur3.7}<font color="#ff00ff">(UPBEAT MUSIC PLAYING)</font>
+
+30
+00:01:56,282 --> 00:02:01,254
+{\ blur3.7}<i>After banishing all music from
+her life she found a way...</i>
+
+31
+00:02:01,256 --> 00:02:02,870
+{\ blur3.7}<i>to provide for her daughter.</i>
+
+32
+00:02:06,694 --> 00:02:10,162
+{\ blur3.7}<i>She rolled up her sleeves
+and she learned to make shoes.</i>
+
+33
+00:02:10,164 --> 00:02:12,445
+{\ blur3.7}<font color="#ff00ff">(HAMMERING)</font>
+
+34
+00:02:15,336 --> 00:02:17,602
+{\ blur3.7}<i>She could have made candy,</i>
+
+35
+00:02:17,604 --> 00:02:20,705
+{\ blur3.7}<i>or fireworks,
+or sparkly underwear...</i>
+
+36
+00:02:20,707 --> 00:02:26,026
+{\ blur3.7}<i>for wrestlers,
+but no, she chose shoes.</i>
+
+37
+00:02:28,581 --> 00:02:30,897
+{\ blur3.7}<i>Then she taught her daughter
+to make shoes.</i>
+
+38
+00:02:32,287 --> 00:02:34,869
+{\ blur3.7}<i>And later,
+she taught her son-in-law.</i>
+
+39
+00:02:35,857 --> 00:02:37,857
+{\ blur3.7}<i>Then her grandkids got roped in.</i>
+
+40
+00:02:37,859 --> 00:02:39,492
+{\ blur3.7}<font color="#ff00ff">(CHILDREN LAUGHING)</font>
+
+41
+00:02:39,494 --> 00:02:42,510
+{\ blur3.7}<i>As her family grew,
+so did the business.</i>
+
+42
+00:02:43,865 --> 00:02:46,781
+{\ blur3.7}<i>Music had torn her family apart.</i>
+
+43
+00:02:47,568 --> 00:02:49,916
+{\ blur3.7}<i>But shoes held
+them all together.</i>
+
+44
+00:02:51,472 --> 00:02:53,238
+{\ blur3.7}<i>You see, that woman was</i>
+
+45
+00:02:53,240 --> 00:02:55,789
+{\ blur3.7}<i>my great-great-grandmother,</i>
+Mama <i>Imelda.</i>
+
+46
+00:02:56,777 --> 00:02:59,611
+{\ blur3.7}<i>She died way before I was born.</i>
+
+47
+00:02:59,613 --> 00:03:01,780
+{\ blur3.7}<i>But my family
+still tells her story</i>
+
+48
+00:03:01,782 --> 00:03:04,349
+{\ blur3.7}<i>every year
+on</i> Dia de los Muertos...
+
+49
+00:03:04,352 --> 00:03:05,851
+{\ blur3.7}<i>the Day of the Dead.</i>
+
+50
+00:03:05,853 --> 00:03:07,752
+{\ blur3.7}<i>And her little girl,</i>
+
+51
+00:03:07,754 --> 00:03:10,203
+{\ blur3.7}<i>she's my great-grandmother,</i>
+Mama <i>Coco.</i>
+
+52
+00:03:10,891 --> 00:03:12,792
+{\ blur3.7}<i>Hola, Mama</i> Coco.
+
+53
+00:03:12,794 --> 00:03:15,328
+{\ blur3.7}How are you, Julio?
+
+54
+00:03:15,330 --> 00:03:17,495
+{\ blur3.7}<i>Actually, my name is Miguel.</i>
+
+55
+00:03:17,497 --> 00:03:21,334
+{\ blur3.7}Mama <i>Coco has trouble
+remembering things.</i>
+
+56
+00:03:21,336 --> 00:03:23,368
+{\ blur3.7}<i>But it's good
+to talk to her anyway.</i>
+
+57
+00:03:23,371 --> 00:03:25,504
+{\ blur3.7}<i>So, I tell her
+pretty much everything.</i>
+
+58
+00:03:25,506 --> 00:03:27,239
+{\ blur3.7}I used to run like this.
+
+59
+00:03:27,241 --> 00:03:30,243
+{\ blur3.7}But now I run like this
+which is way faster.
+
+60
+00:03:30,245 --> 00:03:34,412
+{\ blur3.7}And the winner
+is <i>Luchadora</i> Coco!
+
+61
+00:03:34,414 --> 00:03:36,548
+{\ blur3.7}I have a dimple on this side,
+but not on this side.
+
+62
+00:03:36,550 --> 00:03:38,517
+{\ blur3.7}Dimple, no dimple.
+Dimple, no dimple.
+
+63
+00:03:38,519 --> 00:03:40,751
+{\ blur3.7}Miguel, eat your food.
+
+64
+00:03:40,754 --> 00:03:43,387
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>My</i> Abuelita,
+<i>she's</i> Mama <i>Coco's daughter.</i>
+
+65
+00:03:43,390 --> 00:03:46,524
+{\ blur3.7}Oh, you're a twig, <i>mijo.</i>
+Have some more.
+
+66
+00:03:46,526 --> 00:03:47,659
+{\ blur3.7}No, <i>gracias.</i>
+
+67
+00:03:47,662 --> 00:03:50,895
+{\ blur3.7}I asked if you would
+like more tamales!
+
+68
+00:03:50,897 --> 00:03:52,264
+{\ blur3.7}<i>Si?</i>
+
+69
+00:03:52,266 --> 00:03:54,834
+{\ blur3.7}That's what I thought you said!
+
+70
+00:03:54,836 --> 00:03:56,400
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: Abuelita <i>runs our house</i>
+
+71
+00:03:56,403 --> 00:03:58,270
+{\ blur3.7}<i>just like</i> Mama <i>Imelda did.</i>
+
+72
+00:03:58,272 --> 00:04:00,840
+{\ blur3.7}<font color="#ff00ff">(BLOWING RHYTHMICALLY)</font>
+
+73
+00:04:00,842 --> 00:04:02,274
+{\ blur3.7}No music!
+<font color="#ff00ff">(GASPS)</font>
+
+74
+00:04:02,276 --> 00:04:03,575
+{\ blur3.7}<font color="#ff00ff">(MUSIC PLAYING ON RADIO)</font>
+
+75
+00:04:03,577 --> 00:04:04,810
+{\ blur3.7}No music!
+
+76
+00:04:04,812 --> 00:04:06,678
+{\ blur3.7}<i>♪ Y aunque la vida ♪</i>
+
+77
+00:04:06,681 --> 00:04:07,981
+{\ blur3.7}No music!
+<font color="#ff00ff">(MEN SCREAMING)</font>
+
+78
+00:04:07,983 --> 00:04:10,416
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>I think we're
+the only family in Mexico</i>
+
+79
+00:04:10,418 --> 00:04:12,385
+{\ blur3.7}<i>who hates music.</i>
+
+80
+00:04:12,387 --> 00:04:15,387
+{\ blur3.7}<i>And my family's fine
+with that. But me...</i>
+
+81
+00:04:15,389 --> 00:04:17,737
+{\ blur3.7}Be back by lunch, <i>mijo.</i>
+Love you, <i>Mama.</i>
+
+82
+00:04:18,693 --> 00:04:21,309
+{\ blur3.7}<i>I am not like
+the rest of my family!</i>
+
+83
+00:04:22,563 --> 00:04:23,962
+{\ blur3.7}<i>Hola,</i> Miguel!
+<i>Hola!</i>
+
+84
+00:04:23,965 --> 00:04:26,881
+{\ blur3.7}<font color="#ff00ff">(PLAYING MARIACHI MUSIC)</font>
+
+85
+00:04:29,736 --> 00:04:32,153
+{\ blur3.7}<i>Muchas gracias.</i>
+<i>De nada,</i> Miguel.
+
+86
+00:04:36,077 --> 00:04:38,726
+{\ blur3.7}<font color="#ff00ff">(BARKS)</font>
+Hey! Dante!
+
+87
+00:04:39,813 --> 00:04:43,898
+{\ blur3.7}Sit. Down.
+Roll over. Shake.
+
+88
+00:04:44,452 --> 00:04:45,684
+{\ blur3.7}Fist bump!
+
+89
+00:04:45,686 --> 00:04:47,901
+{\ blur3.7}Good boy, Dante!
+
+90
+00:04:51,558 --> 00:04:54,093
+{\ blur3.7}<i>I know I'm not
+supposed to love music.</i>
+
+91
+00:04:54,095 --> 00:04:57,662
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES)</font> <i>But it's not my fault!
+It's his!</i>
+
+92
+00:04:57,664 --> 00:04:59,564
+{\ blur3.7}<i>Ernesto de la Cruz.</i>
+
+93
+00:04:59,566 --> 00:05:02,501
+{\ blur3.7}<i>The greatest musician
+of all time.</i>
+
+94
+00:05:02,503 --> 00:05:04,436
+{\ blur3.7}<font color="#ff8000">TOUR GUIDE</font>: Right here
+in this very plaza,
+
+95
+00:05:04,438 --> 00:05:08,005
+{\ blur3.7}Ernesto de la Cruz
+took his first steps...
+
+96
+00:05:08,008 --> 00:05:12,578
+{\ blur3.7}toward becoming the most beloved
+singer in Mexican history.
+
+97
+00:05:12,580 --> 00:05:17,482
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>He started out a total
+nobody from Santa Cecilia, like me.</i>
+
+98
+00:05:17,484 --> 00:05:21,520
+{\ blur3.7}<i>But when he played music, he made
+people fall in love with him.</i>
+
+99
+00:05:21,522 --> 00:05:24,622
+{\ blur3.7}<font color="#ff00ff">(HORSE NEIGHING)</font>
+<i>He starred in movies.</i>
+
+100
+00:05:24,624 --> 00:05:28,926
+{\ blur3.7}<i>He had the coolest guitar!
+He could fly!</i>
+
+101
+00:05:28,928 --> 00:05:31,496
+{\ blur3.7}<i>And he wrote the best songs.</i>
+
+102
+00:05:31,498 --> 00:05:33,732
+{\ blur3.7}<i>But my all-time favorite,
+it's...</i>
+
+103
+00:05:33,734 --> 00:05:35,768
+{\ blur3.7}<i>♪ Remember me</i>
+
+104
+00:05:35,770 --> 00:05:37,034
+{\ blur3.7}<i>♪ Remember me</i>
+
+105
+00:05:37,037 --> 00:05:38,903
+{\ blur3.7}<i>♪ Though I have
+to say goodbye</i>
+
+106
+00:05:38,905 --> 00:05:40,773
+{\ blur3.7}<i>♪ Remember me
+♪ Remember me</i>
+
+107
+00:05:40,775 --> 00:05:44,676
+{\ blur3.7}<i>♪ Don't let it make you cry
+For even if I'm far away</i>
+
+108
+00:05:44,679 --> 00:05:48,381
+{\ blur3.7}<i>♪ I hold you in my heart
+I sing a secret song to you</i>
+
+109
+00:05:48,383 --> 00:05:51,383
+{\ blur3.7}<i>♪ Each night we are apart
+Remember me</i>
+
+110
+00:05:51,385 --> 00:05:53,386
+{\ blur3.7}<i>♪ Though I have
+to travel far</i>
+
+111
+00:05:53,388 --> 00:05:55,054
+{\ blur3.7}<i>♪ Remember me
+♪ Remember me</i>
+
+112
+00:05:55,056 --> 00:05:57,390
+{\ blur3.7}<i>♪ Each time you hear
+a sad guitar</i>
+
+113
+00:05:57,392 --> 00:06:02,061
+{\ blur3.7}<i>♪ Know that I'm with you
+the only way that I can be</i>
+
+114
+00:06:02,063 --> 00:06:06,063
+{\ blur3.7}<i>♪ Until you're
+in my arms again ♪</i>
+
+115
+00:06:06,066 --> 00:06:08,882
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>He lived the kind
+of life you dream about.</i>
+
+116
+00:06:12,539 --> 00:06:14,286
+{\ blur3.7}<i>Until 1942.</i>
+
+117
+00:06:14,909 --> 00:06:15,974
+{\ blur3.7}<font color="#ff00ff">(CLANGS)</font>
+
+118
+00:06:15,977 --> 00:06:19,227
+{\ blur3.7}<i>When he was crushed
+by a giant bell.</i>
+
+119
+00:06:19,981 --> 00:06:22,697
+{\ blur3.7}<i>I want to be just like him.</i>
+
+120
+00:06:28,655 --> 00:06:30,855
+{\ blur3.7}<i>Sometimes, I look at de la Cruz</i>
+
+121
+00:06:30,857 --> 00:06:35,093
+{\ blur3.7}<i>and I get this feeling
+like we're connected.</i>
+
+122
+00:06:35,095 --> 00:06:40,046
+{\ blur3.7}<i>Like if he could play music,
+maybe someday, I could too.</i>
+
+123
+00:06:40,700 --> 00:06:42,701
+{\ blur3.7}If it wasn't for my family.
+
+124
+00:06:42,703 --> 00:06:45,104
+{\ blur3.7}<i>Ay-ay-ay, muchacho.</i>
+Huh?
+
+125
+00:06:45,106 --> 00:06:47,539
+{\ blur3.7}I asked for a shoe shine
+not your life story.
+
+126
+00:06:47,541 --> 00:06:49,575
+{\ blur3.7}Oh, yeah. Sorry.
+<font color="#ff00ff">(STRUMS GUITAR)</font>
+
+127
+00:06:49,577 --> 00:06:52,845
+{\ blur3.7}I just can't really talk about
+any of this at home. So...
+
+128
+00:06:52,847 --> 00:06:53,845
+{\ blur3.7}If I were you,
+
+129
+00:06:53,847 --> 00:06:56,014
+{\ blur3.7}I'd march right up
+to my family and say...
+
+130
+00:06:56,017 --> 00:06:58,617
+{\ blur3.7}"Hey, I'm a musician.
+Deal with it."
+
+131
+00:06:58,619 --> 00:07:00,552
+{\ blur3.7}I could never say that.
+
+132
+00:07:00,554 --> 00:07:02,087
+{\ blur3.7}You are a musician, no?
+
+133
+00:07:02,089 --> 00:07:03,489
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> I don't know.
+
+134
+00:07:03,491 --> 00:07:06,024
+{\ blur3.7}I mean, I only
+really play for myself.
+
+135
+00:07:06,027 --> 00:07:09,093
+{\ blur3.7}Ah! Did de la Cruz become
+the world's best musician
+
+136
+00:07:09,095 --> 00:07:10,996
+{\ blur3.7}by hiding his skills?
+
+137
+00:07:10,998 --> 00:07:14,133
+{\ blur3.7}No! He walked out
+onto that plaza
+
+138
+00:07:14,135 --> 00:07:16,134
+{\ blur3.7}and he played out loud.
+
+139
+00:07:16,136 --> 00:07:18,604
+{\ blur3.7}<i>Mira, Mira,</i> they're
+setting up for tonight!
+
+140
+00:07:18,606 --> 00:07:21,006
+{\ blur3.7}The music competition
+for <i>Dia de Muertos.</i>
+
+141
+00:07:21,008 --> 00:07:23,742
+{\ blur3.7}You want to be like your hero?
+You should sign up!
+
+142
+00:07:23,744 --> 00:07:26,645
+{\ blur3.7}Uh-uh.
+My family would freak!
+
+143
+00:07:26,647 --> 00:07:30,331
+{\ blur3.7}Look, if you're too scared then,
+well, have fun making shoes.
+
+144
+00:07:31,118 --> 00:07:34,035
+{\ blur3.7}Come on, what did
+de la Cruz always say?
+
+145
+00:07:34,188 --> 00:07:36,037
+{\ blur3.7}Seize your moment?
+
+146
+00:07:37,157 --> 00:07:39,157
+{\ blur3.7}Show me what you got, <i>muchacho.</i>
+
+147
+00:07:39,159 --> 00:07:40,626
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+148
+00:07:40,628 --> 00:07:42,477
+{\ blur3.7}I'll be your first audience.
+
+149
+00:07:49,636 --> 00:07:51,218
+{\ blur3.7}<font color="#ff8000">ABUELITA ELENA</font>: Miguel!
+<font color="#ff00ff">(GASPS)</font>
+
+150
+00:07:52,907 --> 00:07:55,040
+{\ blur3.7}<i>Abuelita!</i>
+What are you doing here?
+
+151
+00:07:55,042 --> 00:07:56,542
+{\ blur3.7}<font color="#ff00ff">(MIGUEL STAMMERING)</font>
+
+152
+00:07:56,544 --> 00:07:57,976
+{\ blur3.7}You leave my grandson alone.
+<font color="#ff00ff">(GROANS)</font>
+
+153
+00:07:57,979 --> 00:07:59,078
+{\ blur3.7}<i>Dona,</i> please!
+
+154
+00:07:59,080 --> 00:08:00,245
+{\ blur3.7}I was just getting
+a shine. <font color="#ff00ff">(GASPS)</font>
+
+155
+00:08:00,247 --> 00:08:03,516
+{\ blur3.7}I know your tricks, mariachi.
+What did he say to you?
+
+156
+00:08:03,518 --> 00:08:05,049
+{\ blur3.7}He was just
+showing me his guitar.
+
+157
+00:08:05,051 --> 00:08:06,852
+{\ blur3.7}<font color="#ff00ff">(BOTH GASP)</font>
+Shame on you.
+
+158
+00:08:06,854 --> 00:08:12,157
+{\ blur3.7}My grandson is a sweet little
+<i>Angelito Querido Cielito.</i>
+
+159
+00:08:12,159 --> 00:08:14,893
+{\ blur3.7}He wants no part
+of your music, mariachi.
+
+160
+00:08:14,895 --> 00:08:16,227
+{\ blur3.7}You keep away from him.
+
+161
+00:08:16,229 --> 00:08:18,112
+{\ blur3.7}<font color="#ff00ff">(YELPING)</font>
+
+162
+00:08:19,933 --> 00:08:23,669
+{\ blur3.7}<i>Ay, pobrecito.</i>
+Oh, <i>estas bien, mijo.</i>
+
+163
+00:08:23,671 --> 00:08:25,670
+{\ blur3.7}<font color="#ff00ff">(MUFFLED GROANING)</font>
+
+164
+00:08:25,672 --> 00:08:27,906
+{\ blur3.7}You know better than to
+be here in this place!
+
+165
+00:08:27,908 --> 00:08:31,292
+{\ blur3.7}You will come home. Now.
+
+166
+00:08:35,081 --> 00:08:37,130
+{\ blur3.7}<font color="#ff00ff">(SIGHS HEAVILY)</font>
+
+167
+00:08:41,321 --> 00:08:42,954
+{\ blur3.7}How many times have we told you?
+
+168
+00:08:42,956 --> 00:08:45,323
+{\ blur3.7}That plaza is
+crawling with mariachis.
+
+169
+00:08:45,325 --> 00:08:47,559
+{\ blur3.7}Yes, <i>Tio</i> Berto.
+<font color="#ff00ff">(DANTE BARKING)</font>
+
+170
+00:08:47,561 --> 00:08:50,695
+{\ blur3.7}No, no, no, no, no!
+Ah! Go away, you. Go!
+
+171
+00:08:50,697 --> 00:08:51,963
+{\ blur3.7}It's just Dante.
+<font color="#ff00ff">(DANTE WHINES)</font>
+
+172
+00:08:51,965 --> 00:08:54,098
+{\ blur3.7}Never name a street dog.
+
+173
+00:08:54,100 --> 00:08:57,150
+{\ blur3.7}They'll follow you forever.
+Now, go get my shoe.
+
+174
+00:09:03,277 --> 00:09:06,011
+{\ blur3.7}I found your son
+in Mariachi Plaza.
+
+175
+00:09:06,013 --> 00:09:07,078
+{\ blur3.7}<i>Ay,</i> Miguel!
+
+176
+00:09:07,080 --> 00:09:09,714
+{\ blur3.7}You know how <i>Abuelita</i>
+feels about the plaza.
+
+177
+00:09:09,716 --> 00:09:11,016
+{\ blur3.7}I was just shining shoes.
+
+178
+00:09:11,018 --> 00:09:12,583
+{\ blur3.7}A musician's shoes!
+
+179
+00:09:12,585 --> 00:09:14,252
+{\ blur3.7}<font color="#ff00ff">(ALL GASP)</font>
+
+180
+00:09:14,254 --> 00:09:16,722
+{\ blur3.7}But the plaza's where
+all the foot traffic is.
+
+181
+00:09:16,724 --> 00:09:20,358
+{\ blur3.7}If <i>Abuelita</i> says no more
+plaza, then no more plaza.
+
+182
+00:09:20,360 --> 00:09:22,761
+{\ blur3.7}But what about tonight?
+What's tonight?
+
+183
+00:09:22,763 --> 00:09:25,596
+{\ blur3.7}Well, they're having
+this talent show.
+
+184
+00:09:25,598 --> 00:09:27,833
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> And I
+thought I might...
+
+185
+00:09:27,835 --> 00:09:30,368
+{\ blur3.7}Sign up?
+Well, maybe?
+
+186
+00:09:30,370 --> 00:09:33,738
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font> You have to have
+talent to be in a talent show.
+
+187
+00:09:33,740 --> 00:09:36,707
+{\ blur3.7}What are you gonna do?
+Shine shoes? <font color="#ff00ff">(GROANS)</font>
+
+188
+00:09:36,710 --> 00:09:38,176
+{\ blur3.7}It's <i>Dia de los Muertos.</i>
+
+189
+00:09:38,178 --> 00:09:41,612
+{\ blur3.7}No one's going anywhere.
+Tonight is about family.
+
+190
+00:09:41,614 --> 00:09:44,432
+{\ blur3.7}<font color="#ff00ff">(SPITS)</font>
+<i>Ofrenda</i> room. <i>Vamonos.</i>
+
+191
+00:09:54,027 --> 00:09:55,160
+{\ blur3.7}<font color="#ff00ff">(KISSES)</font>
+<font color="#ff00ff">(SIGHS)</font>
+
+192
+00:09:55,162 --> 00:09:57,029
+{\ blur3.7}Don't give me that look.
+
+193
+00:09:57,031 --> 00:09:59,865
+{\ blur3.7}<i>Dia de los Muertos</i>
+is the one night of the year
+
+194
+00:09:59,867 --> 00:10:01,900
+{\ blur3.7}our ancestors can come visit us.
+
+195
+00:10:01,902 --> 00:10:04,136
+{\ blur3.7}We've put their photos
+on the <i>ofrenda</i>
+
+196
+00:10:04,138 --> 00:10:06,038
+{\ blur3.7}so their spirits can cross over.
+
+197
+00:10:06,040 --> 00:10:08,005
+{\ blur3.7}That is very important.
+
+198
+00:10:08,008 --> 00:10:10,908
+{\ blur3.7}If we don't put them up,
+they can't come.
+
+199
+00:10:10,910 --> 00:10:12,644
+{\ blur3.7}We made all this food,
+
+200
+00:10:12,647 --> 00:10:15,279
+{\ blur3.7}set out the things
+they loved in life, <i>mijo.</i>
+
+201
+00:10:15,281 --> 00:10:18,649
+{\ blur3.7}All this work
+to bring the family together.
+
+202
+00:10:18,651 --> 00:10:21,919
+{\ blur3.7}I don't want you sneaking
+off to who knows where.
+
+203
+00:10:21,921 --> 00:10:23,354
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font> Where are you going?
+
+204
+00:10:23,356 --> 00:10:24,890
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> I thought
+we were done.
+
+205
+00:10:24,892 --> 00:10:28,025
+{\ blur3.7}<i>Ay, Dios mio.</i> Being part
+of this family means
+
+206
+00:10:28,028 --> 00:10:29,895
+{\ blur3.7}being here for this family.
+
+207
+00:10:29,897 --> 00:10:32,164
+{\ blur3.7}I don't want
+to see you end up like...
+
+208
+00:10:32,166 --> 00:10:33,332
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: Like <i>Mama</i> Coco's <i>papa?</i>
+
+209
+00:10:33,334 --> 00:10:36,801
+{\ blur3.7}Never mention that man!
+He's better off forgotten.
+
+210
+00:10:36,803 --> 00:10:37,902
+{\ blur3.7}But you're the one who...
+<font color="#ff00ff">(TUTTING)</font>
+
+211
+00:10:37,904 --> 00:10:39,070
+{\ blur3.7}I was just...
+<font color="#ff00ff">(SHUSHING)</font>
+
+212
+00:10:39,072 --> 00:10:40,338
+{\ blur3.7}But... I...
+<font color="#ff00ff">(SHUSHING)</font>
+
+213
+00:10:40,340 --> 00:10:43,708
+{\ blur3.7}<i>Papa? Papa</i> is home?
+
+214
+00:10:43,710 --> 00:10:46,678
+{\ blur3.7}<i>Mama, calmese, calmese.</i>
+
+215
+00:10:46,681 --> 00:10:48,447
+{\ blur3.7}<i>Papa</i> is coming home?
+
+216
+00:10:48,449 --> 00:10:51,565
+{\ blur3.7}No, <i>Mama.</i>
+It's okay. I'm here.
+
+217
+00:10:52,686 --> 00:10:54,317
+{\ blur3.7}Who are you?
+
+218
+00:10:54,319 --> 00:10:57,923
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font> Rest, <i>Mama.</i>
+
+219
+00:10:57,925 --> 00:11:01,093
+{\ blur3.7}I'm hard on you
+because I care, Miguel.
+
+220
+00:11:01,095 --> 00:11:03,276
+{\ blur3.7}Miguel? Miguel?
+
+221
+00:11:04,230 --> 00:11:06,231
+{\ blur3.7}<font color="#ff00ff">(SIGHS HEAVILY)</font>
+
+222
+00:11:06,233 --> 00:11:09,367
+{\ blur3.7}What are we going
+to do with that boy?
+
+223
+00:11:09,369 --> 00:11:13,421
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font> You're right.
+That's just what he needs.
+
+224
+00:11:15,241 --> 00:11:17,525
+{\ blur3.7}<font color="#ff00ff">(GRUNTING)</font>
+
+225
+00:11:22,083 --> 00:11:24,532
+{\ blur3.7}<font color="#ff00ff">(BRICKS CLATTERING)</font>
+
+226
+00:11:26,353 --> 00:11:29,270
+{\ blur3.7}<font color="#ff00ff">(CLATTERING IN DISTANCE)</font>
+
+227
+00:11:36,029 --> 00:11:37,361
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+<font color="#ff00ff">(BARKS)</font>
+
+228
+00:11:37,364 --> 00:11:39,097
+{\ blur3.7}<font color="#ff00ff">(SIGHS IN RELIEF)</font>
+It's you. Get in here.
+
+229
+00:11:39,099 --> 00:11:42,166
+{\ blur3.7}Come on, Dante. Hurry up!
+
+230
+00:11:42,168 --> 00:11:44,136
+{\ blur3.7}You're gonna
+get me in trouble, boy.
+
+231
+00:11:44,138 --> 00:11:45,720
+{\ blur3.7}Someone could hear me.
+
+232
+00:11:50,444 --> 00:11:52,410
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font> I wish someone
+wanted to hear me.
+
+233
+00:11:52,412 --> 00:11:53,746
+{\ blur3.7}<font color="#ff00ff">(TUNES STRINGS)</font>
+
+234
+00:11:53,748 --> 00:11:56,730
+{\ blur3.7}Other than you. Ew. Okay.
+
+235
+00:11:58,319 --> 00:12:00,468
+{\ blur3.7}<font color="#ff00ff">(STRUMS)</font>
+<i>Perfecto!</i>
+
+236
+00:12:33,888 --> 00:12:36,454
+{\ blur3.7}<i>I have to sing.
+I have to play!</i>
+
+237
+00:12:36,456 --> 00:12:41,207
+{\ blur3.7}<i>The music, it's not
+just in me, it is me.</i>
+
+238
+00:12:41,829 --> 00:12:42,995
+{\ blur3.7}<font color="#ff00ff">(STRUMMING GUITAR)</font>
+
+239
+00:12:42,997 --> 00:12:46,112
+{\ blur3.7}<i>When life gets me down,
+I play my guitar.</i>
+
+240
+00:12:47,033 --> 00:12:49,233
+{\ blur3.7}<i>The rest of the world
+may follow the rules,</i>
+
+241
+00:12:49,235 --> 00:12:52,118
+{\ blur3.7}<i>but I must follow my heart.</i>
+
+242
+00:12:52,505 --> 00:12:54,173
+{\ blur3.7}Ugh!
+
+243
+00:12:54,175 --> 00:12:56,973
+{\ blur3.7}<i>You know that feeling like
+there's a song in the air and...</i>
+
+244
+00:12:56,975 --> 00:12:59,092
+{\ blur3.7}<i>it's playing just for you?</i>
+
+245
+00:13:02,215 --> 00:13:05,384
+{\ blur3.7}<i>♪ A feeling so close...</i>
+
+246
+00:13:05,386 --> 00:13:09,703
+{\ blur3.7}<i>♪ You could
+reach out and touch it</i>
+
+247
+00:13:10,355 --> 00:13:12,223
+{\ blur3.7}<i>♪ I never knew</i>
+
+248
+00:13:12,225 --> 00:13:16,376
+{\ blur3.7}<i>♪ I could want something
+so much, but it's true ♪</i>
+
+249
+00:13:17,330 --> 00:13:18,930
+{\ blur3.7}<i>You must have faith, sister.</i>
+
+250
+00:13:18,932 --> 00:13:21,365
+{\ blur3.7}<i>Oh, but,</i> Padre,
+<i>he will never listen.</i>
+
+251
+00:13:21,368 --> 00:13:23,401
+{\ blur3.7}<i>He will listen. To music.</i>
+
+252
+00:13:23,403 --> 00:13:27,004
+{\ blur3.7}<i>♪ Only a song,
+only a song</i>
+
+253
+00:13:27,007 --> 00:13:29,689
+{\ blur3.7}<i>♪ Has the power
+to change a heart ♪</i>
+
+254
+00:13:33,947 --> 00:13:36,831
+{\ blur3.7}<i>Never underestimate
+the power of music.</i>
+
+255
+00:13:41,221 --> 00:13:44,555
+{\ blur3.7}<font color="#ff8000">NUN</font>: <i>But my father, he will
+never give his permission.</i>
+
+256
+00:13:44,557 --> 00:13:46,190
+{\ blur3.7}<font color="#ff8000">DE LA CRUZ</font>: <i>I am done
+asking permission.</i>
+
+257
+00:13:46,192 --> 00:13:49,361
+{\ blur3.7}<i>When you see your moment, you
+mustn't let it pass you by.</i>
+
+258
+00:13:49,363 --> 00:13:51,262
+{\ blur3.7}<i>You must seize it!</i>
+
+259
+00:13:51,264 --> 00:13:52,497
+{\ blur3.7}<font color="#ff8000">INTERVIEWER</font>: Senor <i>de la Cruz,</i>
+
+260
+00:13:52,499 --> 00:13:55,548
+{\ blur3.7}<i>what did it take for you
+to seize your moment?</i>
+
+261
+00:13:57,104 --> 00:14:00,005
+{\ blur3.7}<i>I had to have faith in my dream.</i>
+
+262
+00:14:00,007 --> 00:14:01,973
+{\ blur3.7}<i>No one was going
+to hand it to me.</i>
+
+263
+00:14:01,975 --> 00:14:04,275
+{\ blur3.7}<i>It was up to me
+to reach for that dream.</i>
+
+264
+00:14:04,277 --> 00:14:06,245
+{\ blur3.7}<i>Grab it tight
+and make it come true.</i>
+
+265
+00:14:06,247 --> 00:14:07,862
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>And make it come true.</i>
+
+266
+00:14:08,147 --> 00:14:09,864
+{\ blur3.7}<font color="#ff00ff">(STATIC)</font>
+
+267
+00:14:12,386 --> 00:14:16,020
+{\ blur3.7}No more hiding, Dante.
+I got to seize my moment!
+
+268
+00:14:16,022 --> 00:14:17,189
+{\ blur3.7}<font color="#ff00ff">(BARKS)</font>
+
+269
+00:14:17,191 --> 00:14:20,192
+{\ blur3.7}I'm gonna play in Mariachi
+Plaza if it kills me.
+
+270
+00:14:20,194 --> 00:14:22,877
+{\ blur3.7}<font color="#ff00ff">(BELL TOLLING)</font>
+<font color="#ff00ff">(CHILDREN LAUGHING)</font>
+
+271
+00:14:23,564 --> 00:14:27,266
+{\ blur3.7}<i>Dia de los Muertos</i> has begun!
+
+272
+00:14:27,268 --> 00:14:30,535
+{\ blur3.7}No, no. We have to make
+a clear path.
+
+273
+00:14:30,537 --> 00:14:33,170
+{\ blur3.7}The petals guide
+our ancestors home.
+
+274
+00:14:33,172 --> 00:14:35,207
+{\ blur3.7}We don't want
+their spirits to get lost.
+
+275
+00:14:35,209 --> 00:14:37,910
+{\ blur3.7}We want them to come
+and enjoy all the food
+
+276
+00:14:37,912 --> 00:14:39,527
+{\ blur3.7}and drinks on the <i>ofrenda.</i>
+
+277
+00:14:40,613 --> 00:14:41,978
+{\ blur3.7}<font color="#ff8000">PAPA</font>: <i>Mama!</i>
+<font color="#ff00ff">(GASPS)</font>
+
+278
+00:14:41,980 --> 00:14:43,346
+{\ blur3.7}Where should we put this table?
+
+279
+00:14:43,348 --> 00:14:45,049
+{\ blur3.7}<font color="#ff8000">ABUELITA ELENA</font>: In the courtyard, <i>mijos.</i>
+
+280
+00:14:45,051 --> 00:14:46,218
+{\ blur3.7}<font color="#ff8000">PAPA</font>: You want it
+down by the kitchen?
+
+281
+00:14:46,220 --> 00:14:48,619
+{\ blur3.7}<i>Si.</i> Next to the other one.
+
+282
+00:14:48,621 --> 00:14:51,189
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+283
+00:14:51,191 --> 00:14:54,159
+{\ blur3.7}Get under! Get under!
+Miguel?
+
+284
+00:14:54,161 --> 00:14:57,596
+{\ blur3.7}Nothing! <i>Mama, Papa.</i> I...
+
+285
+00:14:57,598 --> 00:15:02,467
+{\ blur3.7}Miguel, your <i>abuelita</i> had
+the most wonderful idea.
+
+286
+00:15:02,469 --> 00:15:06,704
+{\ blur3.7}We've all decided. It's time
+you joined us in the workshop!
+
+287
+00:15:06,706 --> 00:15:09,174
+{\ blur3.7}What?
+No more shining shoes.
+
+288
+00:15:09,176 --> 00:15:12,110
+{\ blur3.7}You'll be making them
+every day after school.
+
+289
+00:15:12,112 --> 00:15:15,179
+{\ blur3.7}Oh! Our Migueli-ti-ti-ti-to
+
+290
+00:15:15,181 --> 00:15:17,648
+{\ blur3.7}carrying on
+the family tradition.
+
+291
+00:15:17,650 --> 00:15:20,318
+{\ blur3.7}And on <i>Dia de los Muertos!</i>
+
+292
+00:15:20,320 --> 00:15:23,121
+{\ blur3.7}Your ancestors will be so proud.
+
+293
+00:15:23,123 --> 00:15:26,525
+{\ blur3.7}You'll craft huaraches
+just like your <i>Tia</i> Victoria.
+
+294
+00:15:26,527 --> 00:15:29,193
+{\ blur3.7}<font color="#ff8000">PAPA</font>: And wingtips
+like your <i>Papa</i> Julio.
+
+295
+00:15:29,195 --> 00:15:31,729
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> But what if
+I'm no good at making shoes?
+
+296
+00:15:31,731 --> 00:15:36,101
+{\ blur3.7}Ah, Miguel. You have your
+family here to guide you.
+
+297
+00:15:36,103 --> 00:15:40,688
+{\ blur3.7}You are a Rivera.
+And a Rivera is...
+
+298
+00:15:41,374 --> 00:15:44,242
+{\ blur3.7}A shoemaker.
+Through and through.
+
+299
+00:15:44,244 --> 00:15:47,279
+{\ blur3.7}That's my boy!
+<font color="#ff00ff">(LAUGHS)</font> Berto!
+
+300
+00:15:47,281 --> 00:15:50,247
+{\ blur3.7}Break out the good stuff.
+I want to make a toast.
+
+301
+00:15:50,249 --> 00:15:53,150
+{\ blur3.7}<font color="#ff00ff">(KISSING)</font>
+<font color="#ff00ff">(GRUNTS)</font>
+
+302
+00:15:53,152 --> 00:15:54,935
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES NERVOUSLY)</font>
+
+303
+00:15:57,123 --> 00:15:58,688
+{\ blur3.7}<font color="#ff00ff">(SIGHS HEAVILY)</font>
+<font color="#ff00ff">(CLATTERS)</font>
+
+304
+00:15:58,690 --> 00:16:00,158
+{\ blur3.7}<font color="#ff00ff">(DANTE WHINES)</font>
+
+305
+00:16:00,160 --> 00:16:03,877
+{\ blur3.7}Dante! No, Dante. Stop!
+
+306
+00:16:09,302 --> 00:16:10,535
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+307
+00:16:10,537 --> 00:16:11,985
+{\ blur3.7}<font color="#ff00ff">(GRUNTING)</font>
+
+308
+00:16:12,772 --> 00:16:14,139
+{\ blur3.7}<font color="#ff00ff">(GASPING)</font>
+
+309
+00:16:14,141 --> 00:16:17,458
+{\ blur3.7}No, no, no, no, no! No.
+
+310
+00:16:25,319 --> 00:16:26,734
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+311
+00:16:29,288 --> 00:16:31,589
+{\ blur3.7}De la Cruz's guitar?
+
+312
+00:16:31,591 --> 00:16:35,040
+{\ blur3.7}<i>Papa? Papa?</i>
+
+313
+00:16:36,195 --> 00:16:40,165
+{\ blur3.7}<i>Mama</i> Coco, is your <i>papa</i>
+Ernesto de la Cruz?
+
+314
+00:16:40,167 --> 00:16:42,800
+{\ blur3.7}<i>Papa! Papa!</i>
+
+315
+00:16:42,802 --> 00:16:44,651
+{\ blur3.7}<font color="#ff00ff">(BREATHES HEAVILY)</font>
+
+316
+00:16:52,745 --> 00:16:54,413
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font>
+
+317
+00:16:54,415 --> 00:16:56,548
+{\ blur3.7}<i>Papa! Papa!</i> It's him!
+
+318
+00:16:56,550 --> 00:16:58,416
+{\ blur3.7}I know who my
+great-great-grandfather was.
+
+319
+00:16:58,418 --> 00:17:00,452
+{\ blur3.7}Miguel, get down from there.
+
+320
+00:17:00,454 --> 00:17:03,221
+{\ blur3.7}<i>Mama</i> Coco's father
+was Ernesto de la Cruz!
+
+321
+00:17:03,223 --> 00:17:04,522
+{\ blur3.7}What are you talking about?
+
+322
+00:17:04,524 --> 00:17:06,605
+{\ blur3.7}I'm gonna be a musician!
+
+323
+00:17:08,327 --> 00:17:09,628
+{\ blur3.7}<font color="#ff8000">ABUELITA ELENA</font>: What is all this?
+
+324
+00:17:09,630 --> 00:17:11,729
+{\ blur3.7}You keep secrets
+from your own family?
+
+325
+00:17:11,731 --> 00:17:14,065
+{\ blur3.7}It's all that time
+he spends in the plaza.
+
+326
+00:17:14,067 --> 00:17:15,467
+{\ blur3.7}Fills his head
+with crazy fantasies.
+
+327
+00:17:15,469 --> 00:17:17,069
+{\ blur3.7}It's not a fantasy.
+
+328
+00:17:17,071 --> 00:17:19,336
+{\ blur3.7}That man was Ernesto de la Cruz!
+
+329
+00:17:19,338 --> 00:17:21,206
+{\ blur3.7}The greatest musician
+of all time!
+
+330
+00:17:21,208 --> 00:17:22,740
+{\ blur3.7}We've never known anything
+about this man!
+
+331
+00:17:22,742 --> 00:17:26,477
+{\ blur3.7}But whoever he was, he still
+abandoned his family.
+
+332
+00:17:26,479 --> 00:17:28,112
+{\ blur3.7}This is no future for my son.
+
+333
+00:17:28,114 --> 00:17:30,649
+{\ blur3.7}But, <i>Papa,</i> you said
+my family would guide me.
+
+334
+00:17:30,651 --> 00:17:33,218
+{\ blur3.7}Well, de la Cruz is my family.
+
+335
+00:17:33,220 --> 00:17:34,753
+{\ blur3.7}I'm supposed to play music.
+
+336
+00:17:34,755 --> 00:17:37,089
+{\ blur3.7}Never! That man's music
+was a curse.
+
+337
+00:17:37,091 --> 00:17:39,091
+{\ blur3.7}I will not allow it.
+
+338
+00:17:39,093 --> 00:17:40,624
+{\ blur3.7}If you would just let...
+Miguel...
+
+339
+00:17:40,626 --> 00:17:42,227
+{\ blur3.7}You will listen to your family.
+
+340
+00:17:42,229 --> 00:17:43,527
+{\ blur3.7}No more music.
+
+341
+00:17:43,529 --> 00:17:46,679
+{\ blur3.7}Just listen to me play!
+End of argument.
+
+342
+00:17:47,166 --> 00:17:48,499
+{\ blur3.7}<font color="#ff00ff">(STRUMMING)</font>
+
+343
+00:17:48,501 --> 00:17:51,169
+{\ blur3.7}You want to end up
+like that man? Forgotten?
+
+344
+00:17:51,171 --> 00:17:53,572
+{\ blur3.7}Left off your family's <i>ofrenda?</i>
+
+345
+00:17:53,574 --> 00:17:55,706
+{\ blur3.7}I don't care if I'm on
+some stupid <i>ofrenda.</i>
+
+346
+00:17:55,709 --> 00:17:57,590
+{\ blur3.7}<font color="#ff00ff">(ALL GASP)</font>
+
+347
+00:17:58,479 --> 00:17:59,544
+{\ blur3.7}<font color="#ff00ff">(GRUNTS)</font>
+
+348
+00:17:59,546 --> 00:18:00,710
+{\ blur3.7}No!
+<i>Mama!</i>
+
+349
+00:18:00,713 --> 00:18:02,629
+{\ blur3.7}<font color="#ff00ff">(GRUNTING)</font>
+
+350
+00:18:03,717 --> 00:18:05,417
+{\ blur3.7}<font color="#ff00ff">(BREATHING HEAVILY)</font>
+
+351
+00:18:05,419 --> 00:18:09,253
+{\ blur3.7}There. No guitar.
+No music.
+
+352
+00:18:09,255 --> 00:18:11,523
+{\ blur3.7}<font color="#ff00ff">(BREATHES SHAKILY)</font>
+
+353
+00:18:11,525 --> 00:18:16,459
+{\ blur3.7}Oh, come. You'll feel better
+after you eat with your family.
+
+354
+00:18:16,462 --> 00:18:18,578
+{\ blur3.7}I don't want
+to be in this family!
+
+355
+00:18:18,798 --> 00:18:21,046
+{\ blur3.7}Miguel! Miguel!
+
+356
+00:18:23,804 --> 00:18:25,719
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+357
+00:18:28,408 --> 00:18:29,856
+{\ blur3.7}<font color="#ff00ff">(YIPPING)</font>
+
+358
+00:18:37,151 --> 00:18:39,484
+{\ blur3.7}<font color="#ff00ff">(MAN SINGING IN SPANISH)</font>
+
+359
+00:18:39,486 --> 00:18:42,353
+{\ blur3.7}I want to play in the plaza,
+like de la Cruz.
+
+360
+00:18:42,355 --> 00:18:43,554
+{\ blur3.7}Can I still sign up?
+
+361
+00:18:43,556 --> 00:18:45,223
+{\ blur3.7}You got an instrument?
+
+362
+00:18:45,225 --> 00:18:47,558
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> No. But if I
+can borrow a guitar...
+
+363
+00:18:47,560 --> 00:18:49,427
+{\ blur3.7}Musicians got to bring
+their own instruments.
+
+364
+00:18:49,429 --> 00:18:50,896
+{\ blur3.7}<font color="#ff00ff">(CROWD CHEERING)</font>
+You find a guitar, kid,
+
+365
+00:18:50,898 --> 00:18:52,612
+{\ blur3.7}I'll put you on the list.
+
+366
+00:18:54,835 --> 00:18:58,302
+{\ blur3.7}Can I borrow your guitar?
+Sorry, <i>muchacho.</i>
+
+367
+00:18:58,304 --> 00:19:01,304
+{\ blur3.7}You guys have a spare guitar?
+No.
+
+368
+00:19:01,306 --> 00:19:03,440
+{\ blur3.7}I need a guitar
+just for a little bit.
+
+369
+00:19:03,442 --> 00:19:06,025
+{\ blur3.7}Get out of here, kid.
+<font color="#ff00ff">(SIGHS)</font>
+
+370
+00:19:15,655 --> 00:19:17,855
+{\ blur3.7}<font color="#ff00ff">(FIREWORKS EXPLODING)</font>
+
+371
+00:19:17,857 --> 00:19:22,208
+{\ blur3.7}Great-great-grandfather,
+what am I supposed to do?
+
+372
+00:19:59,900 --> 00:20:01,399
+{\ blur3.7}<font color="#ff00ff">(BARKS)</font>
+No, no, no, no.
+
+373
+00:20:01,401 --> 00:20:04,268
+{\ blur3.7}Dante, stop! <i>Callate!</i> Shh!
+
+374
+00:20:04,270 --> 00:20:06,219
+{\ blur3.7}<font color="#ff00ff">(CONTINUES BARKING)</font>
+
+375
+00:20:06,506 --> 00:20:07,954
+{\ blur3.7}<font color="#ff00ff">(GRUNTS)</font>
+
+376
+00:20:16,649 --> 00:20:19,099
+{\ blur3.7}<font color="#ff00ff">(FIREWORKS CONTINUE
+EXPLODING)</font>
+
+377
+00:20:25,726 --> 00:20:27,240
+{\ blur3.7}I'm sorry.
+
+378
+00:20:27,560 --> 00:20:28,875
+{\ blur3.7}<font color="#ff00ff">(GLASS SHATTERS)</font>
+
+379
+00:20:43,876 --> 00:20:45,624
+{\ blur3.7}<font color="#ff00ff">(STONE SHIFTS)</font>
+<font color="#ff00ff">(GASPS)</font>
+
+380
+00:21:03,497 --> 00:21:07,331
+{\ blur3.7}<i>Senor</i> de la Cruz,
+please don't be mad.
+
+381
+00:21:07,333 --> 00:21:08,698
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> I'm Miguel.
+
+382
+00:21:08,700 --> 00:21:13,285
+{\ blur3.7}Your great-great grandson.
+I need to borrow this.
+
+383
+00:21:16,309 --> 00:21:18,843
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font> Our family thinks
+music is a curse.
+
+384
+00:21:18,845 --> 00:21:22,746
+{\ blur3.7}None of them understand
+but I know you would have.
+
+385
+00:21:22,748 --> 00:21:25,516
+{\ blur3.7}You would have told me
+to follow my heart.
+
+386
+00:21:25,518 --> 00:21:27,032
+{\ blur3.7}To seize my moment!
+
+387
+00:21:28,322 --> 00:21:31,323
+{\ blur3.7}So, if it's all right with you,
+
+388
+00:21:31,325 --> 00:21:34,040
+{\ blur3.7}I'm gonna play in the plaza.
+Just like you did!
+
+389
+00:21:35,528 --> 00:21:37,577
+{\ blur3.7}<font color="#ff00ff">(STRUMS GUITAR)</font>
+
+390
+00:21:41,768 --> 00:21:44,735
+{\ blur3.7}<font color="#ff8000">MAN 1</font>: The guitar! It's gone!
+<font color="#ff00ff">(GASPING)</font>
+
+391
+00:21:44,738 --> 00:21:47,037
+{\ blur3.7}<font color="#ff8000">MAN 2</font>: Somebody stole
+de la Cruz's guitar!
+
+392
+00:21:47,039 --> 00:21:49,341
+{\ blur3.7}<font color="#ff8000">WOMAN</font>: The window's broken.
+Look!
+
+393
+00:21:49,343 --> 00:21:51,958
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+<font color="#ff00ff">(KEYS JANGLING)</font>
+
+394
+00:21:53,747 --> 00:21:55,513
+{\ blur3.7}All right, who's in there?
+
+395
+00:21:55,515 --> 00:21:57,349
+{\ blur3.7}I'm sorry.
+It's not what it looks like.
+
+396
+00:21:57,351 --> 00:21:58,865
+{\ blur3.7}De la Cruz is my...
+
+397
+00:21:59,952 --> 00:22:02,234
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+There's nobody here.
+
+398
+00:22:02,889 --> 00:22:05,705
+{\ blur3.7}<font color="#ff00ff">(BREATHING HEAVILY)</font>
+
+399
+00:22:06,360 --> 00:22:08,675
+{\ blur3.7}<font color="#ff00ff">(GASPING)</font>
+
+400
+00:22:17,671 --> 00:22:19,035
+{\ blur3.7}<font color="#ff8000">MAMA</font>: Miguel!
+<i>Mama!</i>
+
+401
+00:22:19,037 --> 00:22:23,674
+{\ blur3.7}Miguel, come home.
+Where are you, Miguel?
+
+402
+00:22:23,677 --> 00:22:24,774
+{\ blur3.7}<font color="#ff00ff">(YELPING)</font>
+
+403
+00:22:24,777 --> 00:22:26,910
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font>
+
+404
+00:22:26,912 --> 00:22:30,515
+{\ blur3.7}<i>Dios mio!</i>
+Little boy. Are you okay?
+
+405
+00:22:30,517 --> 00:22:32,232
+{\ blur3.7}Here. Let me help you.
+
+406
+00:22:33,120 --> 00:22:34,900
+{\ blur3.7}Thanks. I...
+
+407
+00:22:35,389 --> 00:22:37,237
+{\ blur3.7}<font color="#ff00ff">(BOTH SCREAMING)</font>
+
+408
+00:22:38,057 --> 00:22:39,872
+{\ blur3.7}<font color="#ff00ff">(RATTLING)</font>
+
+409
+00:22:40,393 --> 00:22:41,774
+{\ blur3.7}<font color="#ff00ff">(YELPING)</font>
+
+410
+00:22:45,097 --> 00:22:47,413
+{\ blur3.7}Do you mind? Whoa!
+<font color="#ff00ff">(YELPS)</font>
+
+411
+00:22:48,434 --> 00:22:50,249
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+<font color="#ff00ff">(INDISTINCT CHATTERING)</font>
+
+412
+00:22:58,944 --> 00:23:01,292
+{\ blur3.7}<font color="#ff00ff">(BREATHING HEAVILY)</font>
+
+413
+00:23:02,149 --> 00:23:04,131
+{\ blur3.7}<font color="#ff00ff">(BOTH LAUGHING)</font>
+
+414
+00:23:07,953 --> 00:23:10,688
+{\ blur3.7}Look how big she's getting.
+<font color="#ff00ff">(CHUCKLES)</font>
+
+415
+00:23:10,690 --> 00:23:13,824
+{\ blur3.7}<font color="#ff00ff">(BREATHING HEAVILY)</font>
+
+416
+00:23:13,826 --> 00:23:15,726
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font> Dante!
+
+417
+00:23:15,729 --> 00:23:18,728
+{\ blur3.7}You can see me? Wait!
+<font color="#ff00ff">(BARKING)</font>
+
+418
+00:23:18,731 --> 00:23:21,781
+{\ blur3.7}What's going on? Dante!
+
+419
+00:23:22,736 --> 00:23:23,669
+{\ blur3.7}<font color="#ff00ff">(BOTH GRUNT)</font>
+
+420
+00:23:23,671 --> 00:23:25,969
+{\ blur3.7}Oh, I'm sorry. I'm sorry.
+Miguel?
+
+421
+00:23:25,971 --> 00:23:27,754
+{\ blur3.7}Miguel?
+Miguel?
+
+422
+00:23:27,973 --> 00:23:29,288
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+423
+00:23:31,143 --> 00:23:34,845
+{\ blur3.7}You're here? Here, here.
+And you can see us?
+
+424
+00:23:34,847 --> 00:23:37,481
+{\ blur3.7}Our Migueli-ti-ti-ti-to!
+<font color="#ff00ff">(YELPING)</font>
+
+425
+00:23:37,483 --> 00:23:38,983
+{\ blur3.7}Remind me how I know you.
+
+426
+00:23:38,985 --> 00:23:41,967
+{\ blur3.7}We're your family, <i>mijo.</i>
+<font color="#ff00ff">(GASPING)</font>
+
+427
+00:23:42,922 --> 00:23:45,772
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>Tia</i> Rosita?
+<i>Si.</i>
+
+428
+00:23:47,660 --> 00:23:49,943
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>Papa</i> Julio?
+<i>Hola.</i>
+
+429
+00:23:50,697 --> 00:23:52,130
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>Tia</i> Victoria?
+
+430
+00:23:52,132 --> 00:23:54,631
+{\ blur3.7}He doesn't seem entirely dead.
+
+431
+00:23:54,633 --> 00:23:57,535
+{\ blur3.7}<font color="#ff00ff">(GRUNTS)</font>
+He's not quite alive either.
+
+432
+00:23:57,537 --> 00:24:00,138
+{\ blur3.7}We need <i>Mama</i> Imelda.
+She'll know how to fix this.
+
+433
+00:24:00,140 --> 00:24:04,141
+{\ blur3.7}<i>Oye!</i> It's <i>Mama</i> Imelda.
+
+434
+00:24:04,143 --> 00:24:05,543
+{\ blur3.7}She couldn't cross over.
+<font color="#ff00ff">(ALL GASP)</font>
+
+435
+00:24:05,545 --> 00:24:07,978
+{\ blur3.7}She's stuck!
+On the other side!
+
+436
+00:24:07,980 --> 00:24:10,782
+{\ blur3.7}<i>Tio</i> Oscar? <i>Tio</i> Felipe?
+
+437
+00:24:10,784 --> 00:24:12,883
+{\ blur3.7}Oh. Hey, Miguel.
+<font color="#ff00ff">(BOTH GASP)</font>
+
+438
+00:24:12,885 --> 00:24:15,519
+{\ blur3.7}I have a feeling this has
+something to do with you.
+
+439
+00:24:15,521 --> 00:24:17,654
+{\ blur3.7}But if <i>Mama</i> Imelda
+can't come to us...
+
+440
+00:24:17,656 --> 00:24:19,923
+{\ blur3.7}Then we are going to her.
+<i>Vamonos!</i>
+
+441
+00:24:19,925 --> 00:24:22,107
+{\ blur3.7}<font color="#ff00ff">(DANTE BARKING)</font>
+
+442
+00:24:23,829 --> 00:24:25,144
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+443
+00:24:33,839 --> 00:24:35,206
+{\ blur3.7}Whoa.
+
+444
+00:24:35,208 --> 00:24:37,957
+{\ blur3.7}Come on, Miguel.
+It's okay.
+
+445
+00:24:39,645 --> 00:24:41,093
+{\ blur3.7}<font color="#ff00ff">(DANTE BARKS)</font>
+
+446
+00:24:48,521 --> 00:24:50,654
+{\ blur3.7}<font color="#ff00ff">(DANTE CONTINUES BARKING)</font>
+
+447
+00:24:50,656 --> 00:24:55,140
+{\ blur3.7}Dante? Dante!
+Dante, wait up!
+
+448
+00:24:57,564 --> 00:25:02,414
+{\ blur3.7}You got to stay with me, boy.
+We don't know... where...
+
+449
+00:25:22,822 --> 00:25:26,256
+{\ blur3.7}This isn't a dream then.
+You're all really out there.
+
+450
+00:25:26,258 --> 00:25:28,226
+{\ blur3.7}You thought we weren't?
+Well, I don't know.
+
+451
+00:25:28,228 --> 00:25:30,093
+{\ blur3.7}I thought it might've been
+one of those
+
+452
+00:25:30,095 --> 00:25:32,028
+{\ blur3.7}made up things
+that adults tell kids.
+
+453
+00:25:32,030 --> 00:25:33,598
+{\ blur3.7}Like vitamins.
+
+454
+00:25:33,600 --> 00:25:35,733
+{\ blur3.7}Miguel,
+vitamins are a real thing.
+
+455
+00:25:35,735 --> 00:25:37,901
+{\ blur3.7}Well, now I'm thinking
+maybe they could be.
+
+456
+00:25:37,903 --> 00:25:39,970
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+<i>Mija,</i> it's not nice to stare at...
+
+457
+00:25:39,972 --> 00:25:41,639
+{\ blur3.7}<i>Ay!</i> Santa Maria!
+
+458
+00:25:41,641 --> 00:25:43,056
+{\ blur3.7}<font color="#ff00ff">(WHOOSHING)</font>
+
+459
+00:25:49,315 --> 00:25:53,718
+{\ blur3.7}Are those...
+Alebrijes! But those are...
+
+460
+00:25:53,720 --> 00:25:56,254
+{\ blur3.7}<font color="#ff8000">OSCAR</font>: Real alebrijes.
+Spirit creatures.
+
+461
+00:25:56,256 --> 00:25:58,121
+{\ blur3.7}They guide souls
+on their journey.
+
+462
+00:25:58,123 --> 00:26:00,591
+{\ blur3.7}Watch your step. They
+make <i>caquitas</i> everywhere.
+
+463
+00:26:00,593 --> 00:26:02,794
+{\ blur3.7}<font color="#ff8000">ANNOUNCER</font>: <i>Welcome back
+to the Land of the Dead.</i>
+
+464
+00:26:02,796 --> 00:26:05,630
+{\ blur3.7}<i>Please have all offerings
+ready for re-entry.</i>
+
+465
+00:26:05,632 --> 00:26:07,864
+{\ blur3.7}Welcome back.
+Anything to declare?
+
+466
+00:26:07,866 --> 00:26:09,332
+{\ blur3.7}Some churros.
+From my family.
+
+467
+00:26:09,334 --> 00:26:11,334
+{\ blur3.7}<font color="#ff8000">ARRIVALS AGENT</font>: How wonderful. Next.
+
+468
+00:26:11,336 --> 00:26:13,204
+{\ blur3.7}<font color="#ff8000">ANNOUNCER</font>: <i>If you are
+experiencing travel issues,</i>
+
+469
+00:26:13,206 --> 00:26:14,939
+{\ blur3.7}<i>agents at
+the Department of Family...</i>
+
+470
+00:26:14,941 --> 00:26:17,175
+{\ blur3.7}<i>Reunions are
+available to assist you.</i>
+
+471
+00:26:17,177 --> 00:26:18,959
+{\ blur3.7}<font color="#ff8000">DEPARTURES AGENT</font>: Next family, please.
+
+472
+00:26:21,346 --> 00:26:22,447
+{\ blur3.7}<font color="#ff00ff">(DINGS)</font>
+
+473
+00:26:22,449 --> 00:26:25,016
+{\ blur3.7}Oh! Your photos
+are on your son's <i>ofrenda.</i>
+
+474
+00:26:25,018 --> 00:26:26,383
+{\ blur3.7}Have a great visit.
+
+475
+00:26:26,385 --> 00:26:27,651
+{\ blur3.7}<font color="#ff8000">BOTH</font>: <i>Gracias.</i>
+
+476
+00:26:27,653 --> 00:26:29,687
+{\ blur3.7}<font color="#ff8000">ANNOUNCER</font>: <i>And remember
+to return before sunrise.</i>
+
+477
+00:26:29,689 --> 00:26:30,888
+{\ blur3.7}<i>Enjoy your visit.</i>
+
+478
+00:26:30,890 --> 00:26:33,224
+{\ blur3.7}Next.
+<font color="#ff00ff">(DINGS)</font>
+
+479
+00:26:33,226 --> 00:26:36,760
+{\ blur3.7}Your photo's on your dentist's <i>ofrenda.</i>
+Enjoy your visit.
+
+480
+00:26:36,762 --> 00:26:38,544
+{\ blur3.7}<i>Gracias.</i>
+Next?
+
+481
+00:26:40,834 --> 00:26:43,066
+{\ blur3.7}Yes! It is I.
+Frida Kahlo.
+
+482
+00:26:43,068 --> 00:26:44,634
+{\ blur3.7}Shall we skip the scanner?
+
+483
+00:26:44,636 --> 00:26:48,354
+{\ blur3.7}I'm on so many <i>ofrendas</i> it'll just
+overwhelm your blinky thingy.
+
+484
+00:26:48,908 --> 00:26:50,073
+{\ blur3.7}<font color="#ff00ff">(BUZZING)</font>
+
+485
+00:26:50,075 --> 00:26:54,645
+{\ blur3.7}Well, shoot, looks like no one
+put up your photo, Frida.
+
+486
+00:26:54,647 --> 00:26:58,916
+{\ blur3.7}Okay, when I said I was Frida,
+just now, that was a lie.
+
+487
+00:26:58,918 --> 00:27:00,317
+{\ blur3.7}And I apologize for doing that.
+
+488
+00:27:00,319 --> 00:27:03,187
+{\ blur3.7}No photo on an <i>ofrenda,</i>
+no crossing the bridge.
+
+489
+00:27:03,189 --> 00:27:06,972
+{\ blur3.7}I'm just gonna zip right over.
+You won't even know I'm gone.
+
+490
+00:27:07,927 --> 00:27:10,109
+{\ blur3.7}Hey!
+<font color="#ff00ff">(LAUGHS)</font>
+
+491
+00:27:10,729 --> 00:27:12,044
+{\ blur3.7}<font color="#ff00ff">(WOMAN YELPS)</font>
+
+492
+00:27:12,931 --> 00:27:14,546
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+493
+00:27:15,668 --> 00:27:19,402
+{\ blur3.7}Almost... there.
+Just a little further.
+
+494
+00:27:19,405 --> 00:27:21,253
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+495
+00:27:22,275 --> 00:27:23,657
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font>
+
+496
+00:27:24,210 --> 00:27:25,275
+{\ blur3.7}Upsy-daisy...
+
+497
+00:27:25,277 --> 00:27:29,679
+{\ blur3.7}Fine. Okay. Fine, who cares?
+Dumb flower bridge!
+
+498
+00:27:29,681 --> 00:27:33,785
+{\ blur3.7}Aw. I don't know what I'd do
+if no one put up my photo.
+
+499
+00:27:33,787 --> 00:27:36,086
+{\ blur3.7}<font color="#ff8000">ARRIVALS AGENT</font>: Next?
+Oh! Come, <i>mijo.</i> It's our turn.
+
+500
+00:27:36,088 --> 00:27:39,023
+{\ blur3.7}Welcome back, <i>amigos.</i>
+Anything to declare?
+
+501
+00:27:39,025 --> 00:27:42,442
+{\ blur3.7}As a matter of fact, yes.
+<font color="#ff00ff">(CHUCKLES NERVOUSLY)</font>
+
+502
+00:27:42,828 --> 00:27:44,143
+{\ blur3.7}<i>Hola.</i>
+
+503
+00:27:50,969 --> 00:27:53,137
+{\ blur3.7}<font color="#ff8000">MALE ANNOUNCER</font>:
+<i>Paging Marta Gonzales-Ramos.</i>
+
+504
+00:27:53,139 --> 00:27:56,021
+{\ blur3.7}<i>Please report to Level Seven.</i>
+
+505
+00:28:00,313 --> 00:28:02,061
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: Whoa!
+
+506
+00:28:02,414 --> 00:28:03,729
+{\ blur3.7}<font color="#ff00ff">(ALL GASP)</font>
+
+507
+00:28:05,250 --> 00:28:07,299
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font> I miss my nose.
+
+508
+00:28:12,424 --> 00:28:14,573
+{\ blur3.7}<font color="#ff00ff">(INDISTINCT CHATTERING)</font>
+
+509
+00:28:16,328 --> 00:28:18,295
+{\ blur3.7}Come on, help us out, <i>amigo.</i>
+
+510
+00:28:18,297 --> 00:28:19,764
+{\ blur3.7}We got to get to
+a dozen <i>ofrendas</i> tonight.
+
+511
+00:28:19,766 --> 00:28:23,900
+{\ blur3.7}We are not visiting your ex-wife's
+family for <i>Dia de Muertos!</i>
+
+512
+00:28:23,902 --> 00:28:26,437
+{\ blur3.7}I demand to speak
+to the person in charge!
+
+513
+00:28:26,439 --> 00:28:29,340
+{\ blur3.7}I'm sorry, <i>senora,</i> it says
+here no one put up your photo.
+
+514
+00:28:29,342 --> 00:28:33,910
+{\ blur3.7}My family always puts my
+photo on the <i>ofrenda.</i>
+
+515
+00:28:33,912 --> 00:28:37,013
+{\ blur3.7}That devil box tells
+you nothing but lies!
+
+516
+00:28:37,015 --> 00:28:41,785
+{\ blur3.7}<i>Mama</i> Imelda? <font color="#ff00ff">(GASPS)</font>
+Oh, <i>mi familia!</i>
+
+517
+00:28:41,787 --> 00:28:43,386
+{\ blur3.7}They wouldn't let me
+cross the bridge.
+
+518
+00:28:43,389 --> 00:28:45,890
+{\ blur3.7}Tell this woman
+and her devil box
+
+519
+00:28:45,892 --> 00:28:48,426
+{\ blur3.7}that my photo is on the <i>ofrenda.</i>
+
+520
+00:28:48,428 --> 00:28:51,896
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> Well, we never
+made it to the <i>ofrenda.</i>
+
+521
+00:28:51,898 --> 00:28:55,614
+{\ blur3.7}What?
+We ran into... <font color="#ff00ff">(STAMMERS)</font>
+
+522
+00:28:58,303 --> 00:29:01,421
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font> Miguel?
+<i>Mama</i> Imelda.
+
+523
+00:29:01,841 --> 00:29:04,175
+{\ blur3.7}What is going on?
+
+524
+00:29:04,177 --> 00:29:06,477
+{\ blur3.7}You the Rivera family?
+
+525
+00:29:06,479 --> 00:29:08,079
+{\ blur3.7}<font color="#ff00ff">(COMPUTER EXPLODES)</font>
+
+526
+00:29:08,081 --> 00:29:09,447
+{\ blur3.7}Well, you're cursed.
+
+527
+00:29:09,449 --> 00:29:10,581
+{\ blur3.7}<font color="#ff00ff">(ALL GASP)</font>
+What?
+
+528
+00:29:10,583 --> 00:29:13,217
+{\ blur3.7}<i>Dia de los Muertos</i> is the
+night to give to the dead.
+
+529
+00:29:13,219 --> 00:29:14,819
+{\ blur3.7}You stole from the dead!
+
+530
+00:29:14,821 --> 00:29:16,187
+{\ blur3.7}But I wasn't
+stealing the guitar.
+
+531
+00:29:16,189 --> 00:29:17,320
+{\ blur3.7}Guitar?
+
+532
+00:29:17,322 --> 00:29:18,922
+{\ blur3.7}It was my
+great-great-grandfather's.
+
+533
+00:29:18,924 --> 00:29:20,224
+{\ blur3.7}He would have
+wanted me to have it.
+
+534
+00:29:20,226 --> 00:29:23,361
+{\ blur3.7}Ah, ah, ah. We do not speak
+of that musician.
+
+535
+00:29:23,363 --> 00:29:25,095
+{\ blur3.7}He is dead to this family.
+
+536
+00:29:25,097 --> 00:29:27,063
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: Uh,
+you're all dead.
+
+537
+00:29:27,066 --> 00:29:28,131
+{\ blur3.7}<font color="#ff00ff">(SNEEZES)</font>
+
+538
+00:29:28,133 --> 00:29:30,802
+{\ blur3.7}I am sorry.
+Whose alebrije is that?
+
+539
+00:29:30,804 --> 00:29:32,068
+{\ blur3.7}That's just Dante.
+
+540
+00:29:32,071 --> 00:29:34,205
+{\ blur3.7}He sure doesn't
+look like an alebrije.
+
+541
+00:29:34,207 --> 00:29:35,806
+{\ blur3.7}He just looks
+like a plain old dog.
+
+542
+00:29:35,808 --> 00:29:38,073
+{\ blur3.7}Or a sausage someone dropped
+in a barbershop.
+
+543
+00:29:38,075 --> 00:29:41,845
+{\ blur3.7}Whatever he is, I am
+<font color="#ff00ff">(SNEEZES)</font> terribly allergic.
+
+544
+00:29:41,847 --> 00:29:43,514
+{\ blur3.7}But Dante doesn't have any hair.
+
+545
+00:29:43,516 --> 00:29:46,217
+{\ blur3.7}And I don't have a nose,
+and yet, here we are.
+
+546
+00:29:46,219 --> 00:29:47,418
+{\ blur3.7}<font color="#ff00ff">(SNEEZES)</font>
+
+547
+00:29:47,420 --> 00:29:51,121
+{\ blur3.7}But none of this explains
+why I couldn't cross over.
+
+548
+00:29:51,123 --> 00:29:52,805
+{\ blur3.7}Oh! <font color="#ff00ff">(CHUCKLES NERVOUSLY)</font>
+
+549
+00:29:53,092 --> 00:29:54,257
+{\ blur3.7}<font color="#ff00ff">(ALL GASP)</font>
+
+550
+00:29:54,259 --> 00:29:56,993
+{\ blur3.7}You took my photo
+off the <i>ofrenda?</i>
+
+551
+00:29:56,995 --> 00:29:59,094
+{\ blur3.7}It was an accident!
+How do we send him back?
+
+552
+00:29:59,097 --> 00:30:01,833
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES NERVOUSLY)</font> Well,
+since it's a family matter...
+
+553
+00:30:01,835 --> 00:30:04,267
+{\ blur3.7}the way to undo a family curse
+
+554
+00:30:04,269 --> 00:30:07,003
+{\ blur3.7}is to get your family's blessing.
+That's it?
+
+555
+00:30:07,005 --> 00:30:08,406
+{\ blur3.7}Get your family's blessing
+
+556
+00:30:08,408 --> 00:30:11,006
+{\ blur3.7}and everything should
+go back to normal.
+
+557
+00:30:11,008 --> 00:30:13,044
+{\ blur3.7}But you got to do it by sunrise.
+
+558
+00:30:13,046 --> 00:30:14,978
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font>
+What happens at sunrise?
+
+559
+00:30:14,980 --> 00:30:16,830
+{\ blur3.7}<i>Hijole!</i> Your hand!
+
+560
+00:30:17,450 --> 00:30:18,764
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+561
+00:30:20,987 --> 00:30:21,986
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font>
+
+562
+00:30:21,988 --> 00:30:24,855
+{\ blur3.7}Whoa, Miguel, can't have
+you fainting on us.
+
+563
+00:30:24,857 --> 00:30:27,425
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES)</font> But not to worry.
+Your family's here.
+
+564
+00:30:27,427 --> 00:30:29,459
+{\ blur3.7}You can get
+your blessing right now.
+
+565
+00:30:29,461 --> 00:30:34,431
+{\ blur3.7}<i>Cempasuchil, cempasuchil.</i>
+Aha! <i>Perdon, senora.</i>
+
+566
+00:30:34,433 --> 00:30:35,399
+{\ blur3.7}Oh. <font color="#ff00ff">(GIGGLES)</font>
+
+567
+00:30:35,402 --> 00:30:38,318
+{\ blur3.7}Now, you look at the living
+and say his name.
+
+568
+00:30:39,204 --> 00:30:40,237
+{\ blur3.7}Miguel.
+
+569
+00:30:40,239 --> 00:30:43,541
+{\ blur3.7}Nailed it. Now say,
+"I give you my blessing."
+
+570
+00:30:43,543 --> 00:30:45,592
+{\ blur3.7}I give you my blessing.
+
+571
+00:30:48,014 --> 00:30:51,413
+{\ blur3.7}I give you my blessing
+to go home...
+
+572
+00:30:51,415 --> 00:30:54,584
+{\ blur3.7}to put my photo
+back on the <i>ofrenda,</i>
+
+573
+00:30:54,586 --> 00:30:57,021
+{\ blur3.7}and to never play music again.
+
+574
+00:30:57,023 --> 00:30:58,890
+{\ blur3.7}What? She can't do that!
+
+575
+00:30:58,892 --> 00:31:02,159
+{\ blur3.7}Well, technically, she can
+add any condition she wants.
+
+576
+00:31:02,161 --> 00:31:04,294
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font> Fine.
+
+577
+00:31:04,296 --> 00:31:06,513
+{\ blur3.7}<font color="#ff8000">CLERK</font>: Then you hand
+the petal to Miguel.
+
+578
+00:31:12,305 --> 00:31:14,169
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+579
+00:31:14,172 --> 00:31:15,621
+{\ blur3.7}<font color="#ff00ff">(LAUGHS IN RELIEF)</font>
+
+580
+00:31:19,045 --> 00:31:20,392
+{\ blur3.7}No skeletons!
+
+581
+00:31:20,947 --> 00:31:22,493
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font>
+
+582
+00:31:24,483 --> 00:31:26,764
+{\ blur3.7}Mariachi Plaza, here I come.
+
+583
+00:31:27,921 --> 00:31:29,501
+{\ blur3.7}<font color="#ff00ff">(GRUNTS)</font>
+
+584
+00:31:30,989 --> 00:31:33,189
+{\ blur3.7}Two seconds and you already
+break your promise.
+
+585
+00:31:33,191 --> 00:31:37,061
+{\ blur3.7}This isn't fair. It's my life.
+You already had yours.
+
+586
+00:31:37,063 --> 00:31:39,130
+{\ blur3.7}<i>Papa</i> Julio,
+I ask for your blessing.
+
+587
+00:31:39,132 --> 00:31:42,233
+{\ blur3.7}<font color="#ff00ff">(WHIMPERS)</font>
+<i>Tia</i> Rosita? Oscar?
+
+588
+00:31:42,235 --> 00:31:45,101
+{\ blur3.7}<font color="#ff00ff">(ALL WHIMPERING)</font>
+Felipe? <i>Tia</i> Victoria?
+
+589
+00:31:45,104 --> 00:31:49,506
+{\ blur3.7}Don't make this hard, <i>mijo.</i>
+You go home my way or no way.
+
+590
+00:31:49,508 --> 00:31:51,373
+{\ blur3.7}You really hate music that much?
+
+591
+00:31:51,375 --> 00:31:54,525
+{\ blur3.7}I will not let you go down
+the same path he did.
+
+592
+00:31:56,950 --> 00:32:01,151
+{\ blur3.7}The same path he did.
+He's family.
+
+593
+00:32:01,153 --> 00:32:02,954
+{\ blur3.7}Listen to your <i>Mama</i> Imelda.
+
+594
+00:32:02,956 --> 00:32:04,220
+{\ blur3.7}She's just looking out for you.
+
+595
+00:32:04,222 --> 00:32:05,288
+{\ blur3.7}Be reasonable.
+
+596
+00:32:05,290 --> 00:32:08,625
+{\ blur3.7}<i>Con permiso,</i>
+I need to visit the restroom.
+
+597
+00:32:08,627 --> 00:32:10,409
+{\ blur3.7}Be right back.
+
+598
+00:32:11,264 --> 00:32:13,363
+{\ blur3.7}Uh, should we tell him
+there are no restrooms
+
+599
+00:32:13,365 --> 00:32:14,680
+{\ blur3.7}in the Land of the Dead?
+
+600
+00:32:15,268 --> 00:32:16,849
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+601
+00:32:23,276 --> 00:32:24,691
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+602
+00:32:27,713 --> 00:32:28,880
+{\ blur3.7}<i>Vamonos.</i>
+
+603
+00:32:28,882 --> 00:32:31,582
+{\ blur3.7}<font color="#ff8000">PATROLWOMAN</font>: We got a family
+looking for a living boy.
+
+604
+00:32:31,584 --> 00:32:34,317
+{\ blur3.7}If I want to be a musician,
+I need a musician's blessing.
+
+605
+00:32:34,319 --> 00:32:36,387
+{\ blur3.7}We got to find
+my great-great-grandpa.
+
+606
+00:32:36,389 --> 00:32:38,438
+{\ blur3.7}Hold it, <i>muchacho.</i>
+<font color="#ff00ff">(GASPS)</font>
+
+607
+00:32:40,460 --> 00:32:42,025
+{\ blur3.7}<font color="#ff00ff">(SHOUTS)</font>
+
+608
+00:32:42,027 --> 00:32:43,393
+{\ blur3.7}I found that living boy!
+
+609
+00:32:43,395 --> 00:32:45,629
+{\ blur3.7}Oh, whoa, excuse me.
+Excuse me, folks.
+
+610
+00:32:45,631 --> 00:32:46,980
+{\ blur3.7}Excuse me.
+
+611
+00:32:47,733 --> 00:32:49,248
+{\ blur3.7}Oh.
+
+612
+00:32:53,006 --> 00:32:55,272
+{\ blur3.7}No, no. Dante!
+
+613
+00:32:55,274 --> 00:32:58,308
+{\ blur3.7}Disturbing the peace.
+Fleeing an officer.
+
+614
+00:32:58,310 --> 00:33:00,177
+{\ blur3.7}Falsifying a unibrow.
+
+615
+00:33:00,179 --> 00:33:02,445
+{\ blur3.7}That's illegal?
+Very illegal.
+
+616
+00:33:02,448 --> 00:33:04,547
+{\ blur3.7}You need to clean up
+your act, <i>amigo.</i>
+
+617
+00:33:04,549 --> 00:33:08,285
+{\ blur3.7}<i>Amigo?</i> Oh, that's so nice
+to hear you say that
+
+618
+00:33:08,287 --> 00:33:10,085
+{\ blur3.7}because I have just had a...
+
+619
+00:33:10,088 --> 00:33:13,024
+{\ blur3.7}really hard <i>Dia de Muertos</i>
+and I could really use
+
+620
+00:33:13,026 --> 00:33:14,025
+{\ blur3.7}an <i>amigo</i> right now.
+<font color="#ff00ff">(SIGHS)</font>
+
+621
+00:33:14,027 --> 00:33:16,760
+{\ blur3.7}And <i>amigos,</i>
+they help their <i>amigos.</i>
+
+622
+00:33:16,762 --> 00:33:19,461
+{\ blur3.7}You get me across
+that bridge tonight,
+
+623
+00:33:19,464 --> 00:33:21,064
+{\ blur3.7}and I'll make it
+worth your while.
+
+624
+00:33:21,066 --> 00:33:24,168
+{\ blur3.7}Oh! You like de la Cruz?
+He and I go way back.
+
+625
+00:33:24,170 --> 00:33:27,505
+{\ blur3.7}I can get you front row seats to
+his Sunrise Spectacular show.
+
+626
+00:33:27,507 --> 00:33:29,707
+{\ blur3.7}I'll get you backstage.
+You can meet him.
+
+627
+00:33:29,709 --> 00:33:31,441
+{\ blur3.7}You just got to let me
+cross that bridge!
+
+628
+00:33:31,443 --> 00:33:33,611
+{\ blur3.7}I should lock you up
+for the rest of the holiday.
+
+629
+00:33:33,613 --> 00:33:37,715
+{\ blur3.7}But my shift's almost up and I
+want to visit my living family.
+
+630
+00:33:37,717 --> 00:33:40,432
+{\ blur3.7}So I'm letting you off
+with a warning.
+
+631
+00:33:41,385 --> 00:33:43,521
+{\ blur3.7}Can I at least
+get my costume back?
+
+632
+00:33:43,523 --> 00:33:45,322
+{\ blur3.7}Uh... No.
+
+633
+00:33:45,324 --> 00:33:47,806
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font> Some <i>amigo.</i>
+
+634
+00:33:50,262 --> 00:33:53,730
+{\ blur3.7}Hey! Hey!
+You really know de la Cruz?
+
+635
+00:33:53,732 --> 00:33:56,366
+{\ blur3.7}Who wants to... Ahh!
+<i>Ay!</i> You're alive!
+
+636
+00:33:56,368 --> 00:33:58,069
+{\ blur3.7}Shh! Yeah, I'm alive.
+
+637
+00:33:58,071 --> 00:34:00,137
+{\ blur3.7}And if I want to get back
+to the Land of the Living...
+
+638
+00:34:00,139 --> 00:34:01,604
+{\ blur3.7}I need de la Cruz's blessing.
+
+639
+00:34:01,606 --> 00:34:03,207
+{\ blur3.7}That's weirdly specific.
+
+640
+00:34:03,209 --> 00:34:04,741
+{\ blur3.7}He's my
+great-great-grandfather.
+
+641
+00:34:04,743 --> 00:34:07,326
+{\ blur3.7}<font color="#ff00ff">(STAMMERING)</font>
+He's your Gr... What?
+
+642
+00:34:07,747 --> 00:34:09,678
+{\ blur3.7}Ugh.
+
+643
+00:34:09,680 --> 00:34:13,533
+{\ blur3.7}Wait, wait, wait.
+Wait, wait. <font color="#ff00ff">(GASPS)</font>
+
+644
+00:34:14,386 --> 00:34:16,486
+{\ blur3.7}Wait. No, wait, wait, wait.
+
+645
+00:34:16,488 --> 00:34:20,623
+{\ blur3.7}Wait! Yes! You're going back
+to the Land of the Living!
+
+646
+00:34:20,625 --> 00:34:22,625
+{\ blur3.7}You know what? Maybe this
+isn't such a good...
+
+647
+00:34:22,627 --> 00:34:25,361
+{\ blur3.7}No, no, <i>nino! Nino, nino,</i> I can help you.
+You can help me.
+
+648
+00:34:25,363 --> 00:34:26,496
+{\ blur3.7}We can help each other.
+
+649
+00:34:26,498 --> 00:34:28,364
+{\ blur3.7}But most importantly,
+you can help me.
+
+650
+00:34:28,366 --> 00:34:29,866
+{\ blur3.7}Miguel!
+I'm Hector.
+
+651
+00:34:29,868 --> 00:34:31,417
+{\ blur3.7}That's nice.
+<font color="#ff00ff">(YELPS)</font>
+
+652
+00:34:36,109 --> 00:34:37,756
+{\ blur3.7}<i>Esperame, chamaco!</i>
+
+653
+00:34:43,716 --> 00:34:45,582
+{\ blur3.7}<font color="#ff00ff">(ALL GRUNTING)</font>
+
+654
+00:34:45,584 --> 00:34:48,152
+{\ blur3.7}<i>Ay,</i> he is going
+to get himself killed.
+
+655
+00:34:48,154 --> 00:34:51,770
+{\ blur3.7}I need my spirit guide...
+Pepita. <font color="#ff00ff">(WHISTLES)</font>
+
+656
+00:34:52,191 --> 00:34:54,507
+{\ blur3.7}<font color="#ff00ff">(SCREECHING)</font>
+
+657
+00:35:03,468 --> 00:35:05,536
+{\ blur3.7}Who has that petal
+Miguel touched?
+
+658
+00:35:05,538 --> 00:35:08,683
+{\ blur3.7}<font color="#ff00ff">(GROWLING)</font>
+Here. Nice alebrije.
+
+659
+00:35:08,707 --> 00:35:10,022
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+660
+00:35:10,676 --> 00:35:12,925
+{\ blur3.7}<font color="#ff00ff">(SNIFFING)</font>
+
+661
+00:35:14,714 --> 00:35:16,529
+{\ blur3.7}<font color="#ff00ff">(SNARLING)</font>
+
+662
+00:35:20,152 --> 00:35:21,685
+{\ blur3.7}<font color="#ff00ff">(CLATTERS)</font>
+
+663
+00:35:21,687 --> 00:35:26,004
+{\ blur3.7}<i>Ay, ay,</i> hold still. Look up. <i>A ver, a ver.</i>
+Look up, up, up.
+
+664
+00:35:26,291 --> 00:35:27,290
+{\ blur3.7}<font color="#ff00ff">(SNIFFING)</font>
+
+665
+00:35:27,292 --> 00:35:32,428
+{\ blur3.7}<i>Aqui arriba, eso...</i>
+Eh, <i>la rayita.</i>
+
+666
+00:35:32,430 --> 00:35:35,013
+{\ blur3.7}Okay. Hey! Ta-da!
+
+667
+00:35:35,701 --> 00:35:37,550
+{\ blur3.7}Dead as a doorknob.
+
+668
+00:35:38,504 --> 00:35:41,605
+{\ blur3.7}So listen, Miguel,
+this place runs on memories.
+
+669
+00:35:41,607 --> 00:35:42,839
+{\ blur3.7}When you're well remembered,
+
+670
+00:35:42,841 --> 00:35:44,707
+{\ blur3.7}people put up your photo
+and you get to...
+
+671
+00:35:44,709 --> 00:35:46,309
+{\ blur3.7}cross the bridge
+and visit the living
+
+672
+00:35:46,311 --> 00:35:48,778
+{\ blur3.7}on <i>Dia de Muertos.</i>
+Unless you're me.
+
+673
+00:35:48,781 --> 00:35:50,580
+{\ blur3.7}You don't get to cross over?
+
+674
+00:35:50,582 --> 00:35:51,848
+{\ blur3.7}No one's ever put up my picture.
+
+675
+00:35:51,850 --> 00:35:53,631
+{\ blur3.7}But you can change that!
+
+676
+00:35:53,852 --> 00:35:55,618
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: This is you?
+
+677
+00:35:55,620 --> 00:35:57,254
+{\ blur3.7}Eh, <i>muy guapo,</i> eh?
+
+678
+00:35:57,256 --> 00:36:00,357
+{\ blur3.7}So, you get me
+to my great-great-grandpa...
+
+679
+00:36:00,359 --> 00:36:03,259
+{\ blur3.7}then I put up your photo
+when I get home?
+
+680
+00:36:03,261 --> 00:36:06,931
+{\ blur3.7}Such a smart boy! Yes!
+Great idea, yes! One hiccup.
+
+681
+00:36:06,933 --> 00:36:08,866
+{\ blur3.7}De la Cruz is
+a tough guy to get to
+
+682
+00:36:08,868 --> 00:36:10,667
+{\ blur3.7}and I need to
+cross the bridge soon.
+
+683
+00:36:10,669 --> 00:36:11,669
+{\ blur3.7}Like, tonight.
+
+684
+00:36:11,671 --> 00:36:13,636
+{\ blur3.7}So, you got any other
+family here, you know?
+
+685
+00:36:13,638 --> 00:36:15,772
+{\ blur3.7}Someone a bit more,
+eh, accessible?
+
+686
+00:36:15,774 --> 00:36:17,607
+{\ blur3.7}Mmm... Nope.
+
+687
+00:36:17,609 --> 00:36:18,942
+{\ blur3.7}Don't yank my chain, <i>chamaco.</i>
+
+688
+00:36:18,944 --> 00:36:20,544
+{\ blur3.7}You got to have
+some other family.
+
+689
+00:36:20,546 --> 00:36:21,879
+{\ blur3.7}Only de la Cruz.
+
+690
+00:36:21,881 --> 00:36:23,913
+{\ blur3.7}If you can't help me,
+I'll find him myself.
+
+691
+00:36:23,915 --> 00:36:25,347
+{\ blur3.7}<font color="#ff00ff">(MIGUEL WHISTLES)</font>
+
+692
+00:36:25,349 --> 00:36:27,785
+{\ blur3.7}Oh! Okay. Okay, kid.
+Fine! Fine!
+
+693
+00:36:27,787 --> 00:36:29,667
+{\ blur3.7}I'll get you to your
+great-great-grandpa.
+
+694
+00:36:31,356 --> 00:36:32,823
+{\ blur3.7}It's not gonna
+be easy, you know?
+
+695
+00:36:32,825 --> 00:36:35,960
+{\ blur3.7}He's a busy man.
+What are you doing?
+
+696
+00:36:35,962 --> 00:36:38,628
+{\ blur3.7}I'm walking like a skeleton.
+Blending in.
+
+697
+00:36:38,630 --> 00:36:40,431
+{\ blur3.7}No. Skeletons
+don't walk like that.
+
+698
+00:36:40,433 --> 00:36:44,500
+{\ blur3.7}It's how you walk.
+No, I don't! Stop it!
+
+699
+00:36:44,502 --> 00:36:48,439
+{\ blur3.7}Whoa! Ernesto de la Cruz's
+Sunrise Spectacular?
+
+700
+00:36:48,441 --> 00:36:50,241
+{\ blur3.7}<i>Que padre!</i>
+<font color="#ff00ff">(SCOFFS)</font>
+
+701
+00:36:50,243 --> 00:36:53,376
+{\ blur3.7}Every year your great-great-grandpa
+puts on that dumb show...
+
+702
+00:36:53,379 --> 00:36:54,812
+{\ blur3.7}to mark the end
+of <i>Dia de Muertos.</i>
+
+703
+00:36:54,814 --> 00:36:57,380
+{\ blur3.7}And you can get us in!
+Um...
+
+704
+00:36:57,383 --> 00:36:59,649
+{\ blur3.7}Hey, you said you have
+front row tickets!
+
+705
+00:36:59,651 --> 00:37:02,853
+{\ blur3.7}That... was a lie.
+I apologize for that.
+
+706
+00:37:02,855 --> 00:37:05,021
+{\ blur3.7}Cool off, <i>chamaco.</i>
+Come on. I'll get you to him.
+
+707
+00:37:05,023 --> 00:37:06,122
+{\ blur3.7}How?
+
+708
+00:37:06,125 --> 00:37:08,240
+{\ blur3.7}Because I happen to know
+where he's rehearsing.
+
+709
+00:37:18,803 --> 00:37:22,987
+{\ blur3.7}<font color="#ff8000">DE LA CRUZ</font>: <i>♪ Remember me
+Don't let it make you cry ♪</i>
+
+710
+00:37:24,276 --> 00:37:26,542
+{\ blur3.7}<font color="#ff00ff">(SCOFFS)</font> You better have
+my dress, Hector.
+
+711
+00:37:26,544 --> 00:37:27,926
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: <i>Hola,</i> Ceci.
+
+712
+00:37:28,980 --> 00:37:30,929
+{\ blur3.7}<font color="#ff00ff">(HECTOR YELPS)</font>
+
+713
+00:37:32,584 --> 00:37:33,750
+{\ blur3.7}<font color="#ff00ff">(MUSIC PLAYING)</font>
+
+714
+00:37:33,752 --> 00:37:38,022
+{\ blur3.7}<i>Hola.</i>
+Ceci, I lost the dress.
+
+715
+00:37:38,024 --> 00:37:39,689
+{\ blur3.7}<i>Ya lo sabia!</i>
+
+716
+00:37:39,691 --> 00:37:41,958
+{\ blur3.7}I got to dress
+forty dancers by sunrise.
+
+717
+00:37:41,960 --> 00:37:45,828
+{\ blur3.7}Thanks to you, I'm one Frida
+short of an opening number!
+
+718
+00:37:45,830 --> 00:37:49,915
+{\ blur3.7}Dante!
+We shouldn't be in here.
+
+719
+00:37:55,974 --> 00:37:57,289
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+720
+00:38:01,314 --> 00:38:03,161
+{\ blur3.7}<font color="#ff00ff">(CHITTERING)</font>
+<font color="#ff00ff">(BARKING)</font>
+
+721
+00:38:04,850 --> 00:38:07,166
+{\ blur3.7}No, no, Dante! <i>Ven aca!</i>
+
+722
+00:38:07,619 --> 00:38:09,033
+{\ blur3.7}<font color="#ff00ff">(GRUNTS)</font>
+
+723
+00:38:15,994 --> 00:38:17,861
+{\ blur3.7}You! How did you
+get in here?
+
+724
+00:38:17,863 --> 00:38:22,031
+{\ blur3.7}I just followed my...
+Oh! The mighty Xolo dog!
+
+725
+00:38:22,033 --> 00:38:25,001
+{\ blur3.7}Guider of wandering spirits.
+
+726
+00:38:25,003 --> 00:38:28,038
+{\ blur3.7}And whose spirit
+have you guided to me?
+
+727
+00:38:28,040 --> 00:38:30,406
+{\ blur3.7}I don't think
+he's a spirit guide.
+
+728
+00:38:30,408 --> 00:38:31,408
+{\ blur3.7}Ah, ah, ah.
+
+729
+00:38:31,410 --> 00:38:34,478
+{\ blur3.7}The alebrijes of this world
+can take many forms.
+
+730
+00:38:34,480 --> 00:38:37,796
+{\ blur3.7}They are as mysterious
+as they are powerful.
+
+731
+00:38:39,352 --> 00:38:40,666
+{\ blur3.7}<font color="#ff00ff">(COUGHS)</font>
+
+732
+00:38:43,387 --> 00:38:47,238
+{\ blur3.7}Or maybe he's just a dog.
+Come, I need your eyes.
+
+733
+00:38:48,493 --> 00:38:52,662
+{\ blur3.7}You are the audience.
+Darkness.
+
+734
+00:38:52,664 --> 00:38:56,882
+{\ blur3.7}And from the darkness,
+a giant papaya.
+
+735
+00:38:57,837 --> 00:39:00,837
+{\ blur3.7}Dancers emerge from the papaya,
+
+736
+00:39:00,839 --> 00:39:04,908
+{\ blur3.7}and the dancers are all me.
+
+737
+00:39:04,910 --> 00:39:07,643
+{\ blur3.7}And they go to drink from
+the milk of their mother,
+
+738
+00:39:07,645 --> 00:39:08,846
+{\ blur3.7}who is a cactus.
+
+739
+00:39:08,848 --> 00:39:10,580
+{\ blur3.7}But who is also me.
+
+740
+00:39:10,582 --> 00:39:14,899
+{\ blur3.7}And her milk is
+not milk but tears.
+
+741
+00:39:15,855 --> 00:39:16,920
+{\ blur3.7}Is it too obvious?
+
+742
+00:39:16,922 --> 00:39:20,656
+{\ blur3.7}I think it's just
+the right amount of obvious?
+
+743
+00:39:20,658 --> 00:39:24,059
+{\ blur3.7}It could use some music.
+Oh, what if you did like...
+
+744
+00:39:24,061 --> 00:39:26,061
+{\ blur3.7}<font color="#ff00ff">(SINGS TUNE)</font>
+<font color="#ff00ff">(SNAPS FINGERS)</font>
+
+745
+00:39:26,063 --> 00:39:27,464
+{\ blur3.7}<font color="#ff00ff">(ALL PLAYING TUNE)</font>
+
+746
+00:39:27,466 --> 00:39:28,931
+{\ blur3.7}Oh! And then it could go...
+
+747
+00:39:28,933 --> 00:39:31,535
+{\ blur3.7}<font color="#ff00ff">(SINGING TUNE)</font>
+
+748
+00:39:31,537 --> 00:39:34,538
+{\ blur3.7}<font color="#ff00ff">(PLAYING TUNE)</font>
+
+749
+00:39:34,540 --> 00:39:37,408
+{\ blur3.7}And what if
+everything was on fire?
+
+750
+00:39:37,410 --> 00:39:39,609
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+Yes! Fire! Everywhere!
+
+751
+00:39:39,611 --> 00:39:43,814
+{\ blur3.7}Inspired! You have
+the spirit of an artist.
+
+752
+00:39:43,816 --> 00:39:45,748
+{\ blur3.7}<font color="#ff00ff">(BAND PLAYING)</font>
+
+753
+00:39:45,750 --> 00:39:48,685
+{\ blur3.7}The dancers exit. The music
+fades, the lights go out.
+
+754
+00:39:48,687 --> 00:39:52,022
+{\ blur3.7}And Ernesto de la Cruz
+rises to the stage!
+
+755
+00:39:52,024 --> 00:39:53,339
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+756
+00:39:55,828 --> 00:39:57,127
+{\ blur3.7}Huh?
+
+757
+00:39:57,129 --> 00:39:59,461
+{\ blur3.7}He does a couple of songs, the
+sun rises, everyone cheers...
+
+758
+00:39:59,464 --> 00:40:01,997
+{\ blur3.7}Excuse me,
+where's the real de la Cruz?
+
+759
+00:40:01,999 --> 00:40:04,099
+{\ blur3.7}Ernesto doesn't do rehearsals!
+
+760
+00:40:04,102 --> 00:40:08,019
+{\ blur3.7}He's too busy hosting that fancy
+party at the top of his tower.
+
+761
+00:40:10,176 --> 00:40:11,341
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font>
+
+762
+00:40:11,343 --> 00:40:13,643
+{\ blur3.7}<i>Chamaco,</i> you can't run off
+on me like that.
+
+763
+00:40:13,645 --> 00:40:15,477
+{\ blur3.7}Stop pestering the celebrities.
+
+764
+00:40:15,480 --> 00:40:17,647
+{\ blur3.7}You said my great-great-grandpa
+would be here!
+
+765
+00:40:17,649 --> 00:40:20,516
+{\ blur3.7}He's halfway across town
+throwing some big party.
+
+766
+00:40:20,518 --> 00:40:22,920
+{\ blur3.7}That bum. Who doesn't show up
+to his own rehearsal?
+
+767
+00:40:22,922 --> 00:40:25,855
+{\ blur3.7}If you're such good friends,
+how come he didn't invite you?
+
+768
+00:40:25,857 --> 00:40:28,725
+{\ blur3.7}He's your great-great-grandpa,
+how come he didn't invite you?
+
+769
+00:40:28,727 --> 00:40:31,728
+{\ blur3.7}Hey, Gustavo! You know
+anything about this party?
+
+770
+00:40:31,730 --> 00:40:33,163
+{\ blur3.7}<font color="#ff00ff">(SCOFFS)</font>
+It's the hot ticket!
+
+771
+00:40:33,165 --> 00:40:34,764
+{\ blur3.7}But if you're not
+on the guest list,
+
+772
+00:40:34,767 --> 00:40:37,201
+{\ blur3.7}you're never
+getting in, <i>Chorizo.</i>
+
+773
+00:40:37,203 --> 00:40:40,002
+{\ blur3.7}Hey! It's <i>Chorizo! Choricito!</i>
+<font color="#ff00ff">(ALL LAUGHING)</font>
+
+774
+00:40:40,004 --> 00:40:41,638
+{\ blur3.7}A-ha. Very funny, guys.
+Very funny.
+
+775
+00:40:41,640 --> 00:40:42,873
+{\ blur3.7}<i>Chorizo?</i>
+
+776
+00:40:42,875 --> 00:40:45,007
+{\ blur3.7}Oh, this guy's famous!
+
+777
+00:40:45,009 --> 00:40:47,142
+{\ blur3.7}Go on, go on.
+Ask him how he died.
+
+778
+00:40:47,145 --> 00:40:48,778
+{\ blur3.7}I don't want to talk about it.
+
+779
+00:40:48,781 --> 00:40:51,915
+{\ blur3.7}He choked on some <i>chorizo!</i>
+
+780
+00:40:51,917 --> 00:40:54,016
+{\ blur3.7}<font color="#ff00ff">(ALL LAUGHING)</font>
+
+781
+00:40:54,018 --> 00:40:55,752
+{\ blur3.7}I didn't choke, okay?
+
+782
+00:40:55,754 --> 00:40:57,754
+{\ blur3.7}I got food poisoning
+which is a big difference.
+
+783
+00:40:57,756 --> 00:40:58,888
+{\ blur3.7}<font color="#ff00ff">(ALL LAUGHING)</font>
+
+784
+00:40:58,890 --> 00:41:00,524
+{\ blur3.7}This is why
+I don't like musicians.
+
+785
+00:41:00,526 --> 00:41:02,157
+{\ blur3.7}Bunch of
+self-important jerks.
+
+786
+00:41:02,160 --> 00:41:04,661
+{\ blur3.7}Hey! I'm a musician!
+You are?
+
+787
+00:41:04,663 --> 00:41:07,498
+{\ blur3.7}If you really want
+to get to Ernesto,
+
+788
+00:41:07,500 --> 00:41:08,899
+{\ blur3.7}there is that
+music competition...
+
+789
+00:41:08,901 --> 00:41:10,567
+{\ blur3.7}at the Plaza de la Cruz.
+
+790
+00:41:10,569 --> 00:41:13,118
+{\ blur3.7}Winner gets
+to play at his party.
+
+791
+00:41:14,073 --> 00:41:17,073
+{\ blur3.7}No, no. <i>Chamaco,</i>
+you're <i>loco</i> if you think...
+
+792
+00:41:17,076 --> 00:41:19,509
+{\ blur3.7}I need to get my
+great-great-grandfather's blessing!
+
+793
+00:41:19,511 --> 00:41:21,392
+{\ blur3.7}You know where
+I can get a guitar?
+
+794
+00:41:21,980 --> 00:41:25,263
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font> I know a guy.
+
+795
+00:41:35,060 --> 00:41:36,792
+{\ blur3.7}<font color="#ff00ff">(SNIFFING)</font>
+
+796
+00:41:36,794 --> 00:41:39,929
+{\ blur3.7}Have you found him, Pepita?
+Have you found our boy?
+
+797
+00:41:39,931 --> 00:41:41,131
+{\ blur3.7}<font color="#ff00ff">(BLOWS)</font>
+
+798
+00:41:41,133 --> 00:41:43,933
+{\ blur3.7}<font color="#ff8000">ROSITA</font>: A footprint!
+It's a Rivera boot.
+
+799
+00:41:43,935 --> 00:41:45,801
+{\ blur3.7}Size seven!
+And a half.
+
+800
+00:41:45,803 --> 00:41:48,254
+{\ blur3.7}Pronated.
+Miguel.
+
+801
+00:41:57,750 --> 00:41:59,683
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: Why the heck would
+you want to be a musician?
+
+802
+00:41:59,685 --> 00:42:01,551
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: My great-great-grandpa
+was a musician!
+
+803
+00:42:01,553 --> 00:42:03,085
+{\ blur3.7}Who spent his life
+performing like a monkey
+
+804
+00:42:03,087 --> 00:42:04,888
+{\ blur3.7}for complete strangers.
+
+805
+00:42:04,890 --> 00:42:07,290
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font> No thank you.
+No! <i>Guacala!</i>
+
+806
+00:42:07,292 --> 00:42:09,158
+{\ blur3.7}<font color="#ff00ff">(SCOFFS)</font>
+What do you know?
+
+807
+00:42:09,160 --> 00:42:11,562
+{\ blur3.7}So, how far is
+this guitar anyway?
+
+808
+00:42:11,564 --> 00:42:12,945
+{\ blur3.7}We're almost there.
+
+809
+00:42:13,265 --> 00:42:15,014
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font>
+
+810
+00:42:17,770 --> 00:42:19,350
+{\ blur3.7}Keep up, <i>chamaco.</i> Come on.
+
+811
+00:42:21,105 --> 00:42:22,955
+{\ blur3.7}<font color="#ff00ff">(HECTOR WHISTLES)</font>
+
+812
+00:42:24,843 --> 00:42:27,025
+{\ blur3.7}<font color="#ff00ff">(MUSIC PLAYING)</font>
+
+813
+00:42:28,013 --> 00:42:32,716
+{\ blur3.7}<font color="#ff8000">ALL</font>: Cousin Hector!
+Hey! These guys! Hey, <i>Tio!</i>
+
+814
+00:42:32,718 --> 00:42:33,850
+{\ blur3.7}<i>¿Que onda?</i>
+
+815
+00:42:33,852 --> 00:42:35,318
+{\ blur3.7}These people are
+all your family?
+
+816
+00:42:35,320 --> 00:42:36,686
+{\ blur3.7}Uh...
+
+817
+00:42:36,688 --> 00:42:40,022
+{\ blur3.7}In a way. We're all the ones
+with no photos or <i>ofrendas.</i>
+
+818
+00:42:40,024 --> 00:42:43,160
+{\ blur3.7}No family to go home to.
+Nearly forgotten, you know?
+
+819
+00:42:43,162 --> 00:42:47,313
+{\ blur3.7}So, we all call each other
+cousin, or <i>tio,</i> or whatever.
+
+820
+00:42:48,333 --> 00:42:51,734
+{\ blur3.7}<font color="#ff00ff">(DANTE WHINES)</font>
+<font color="#ff00ff">(GRUNTING)</font>
+
+821
+00:42:51,736 --> 00:42:54,252
+{\ blur3.7}Hector!
+<i>Tia</i> Chelo!
+
+822
+00:42:54,607 --> 00:42:56,038
+{\ blur3.7}<font color="#ff00ff">(ALL LAUGHING)</font>
+
+823
+00:42:56,040 --> 00:42:58,140
+{\ blur3.7}<i>Muchas gracias!</i>
+
+824
+00:42:58,142 --> 00:43:00,676
+{\ blur3.7}Hey! Save some for me!
+Is Chicharron around?
+
+825
+00:43:00,678 --> 00:43:01,844
+{\ blur3.7}<font color="#ff8000">CHELO</font>: Eh, in the bungalow.
+
+826
+00:43:01,846 --> 00:43:04,347
+{\ blur3.7}I don't know if he's in
+the mood for visitors.
+
+827
+00:43:04,349 --> 00:43:07,632
+{\ blur3.7}<font color="#ff00ff">(SCOFFS)</font> Who doesn't like
+a visit from Cousin Hector?
+
+828
+00:43:11,055 --> 00:43:12,937
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+<font color="#ff00ff">(CLATTERS)</font>
+
+829
+00:43:16,794 --> 00:43:18,661
+{\ blur3.7}<i>Buenas noches,</i> Chicharron!
+
+830
+00:43:18,663 --> 00:43:21,097
+{\ blur3.7}I don't want to see
+your stupid face, Hector.
+
+831
+00:43:21,100 --> 00:43:23,165
+{\ blur3.7}Come on.
+It's <i>Dia de Muertos.</i>
+
+832
+00:43:23,167 --> 00:43:24,768
+{\ blur3.7}I brought you a little offering.
+
+833
+00:43:24,770 --> 00:43:26,837
+{\ blur3.7}Get out of here.
+I would, Cheech.
+
+834
+00:43:26,839 --> 00:43:29,487
+{\ blur3.7}But the thing is,
+me and my friend, Miguel...
+
+835
+00:43:30,642 --> 00:43:32,341
+{\ blur3.7}We really need
+to borrow your guitar.
+
+836
+00:43:32,343 --> 00:43:33,910
+{\ blur3.7}My guitar?
+Yes.
+
+837
+00:43:33,912 --> 00:43:36,212
+{\ blur3.7}My prized beloved guitar?
+
+838
+00:43:36,214 --> 00:43:38,047
+{\ blur3.7}I promise
+we'll bring it right back.
+
+839
+00:43:38,049 --> 00:43:40,716
+{\ blur3.7}Like the time you promised
+to bring back my van?
+
+840
+00:43:40,718 --> 00:43:42,185
+{\ blur3.7}Uh...
+Or my mini-fridge?
+
+841
+00:43:42,187 --> 00:43:43,920
+{\ blur3.7}Ah, you see...
+Or my good napkins?
+
+842
+00:43:43,922 --> 00:43:45,755
+{\ blur3.7}My lasso? My femur?
+
+843
+00:43:45,758 --> 00:43:46,989
+{\ blur3.7}Well, no, not like those times.
+
+844
+00:43:46,991 --> 00:43:49,326
+{\ blur3.7}Where is my femur?
+You... <font color="#ff00ff">(GROANING)</font>
+
+845
+00:43:49,328 --> 00:43:51,328
+{\ blur3.7}Whoa, whoa.
+
+846
+00:43:51,330 --> 00:43:55,246
+{\ blur3.7}You okay, <i>amigo?</i>
+<font color="#ff00ff">(SIGHS)</font> I'm fading, Hector.
+
+847
+00:43:55,834 --> 00:43:58,268
+{\ blur3.7}I can feel it.
+
+848
+00:43:58,270 --> 00:44:01,452
+{\ blur3.7}I couldn't even play
+that thing if I wanted to.
+
+849
+00:44:04,675 --> 00:44:07,210
+{\ blur3.7}You play me something.
+
+850
+00:44:07,212 --> 00:44:09,279
+{\ blur3.7}No. You know
+I don't play anymore, Cheech.
+
+851
+00:44:09,281 --> 00:44:11,214
+{\ blur3.7}The guitar is for the kid.
+
+852
+00:44:11,216 --> 00:44:14,999
+{\ blur3.7}You want it, you got to earn it.
+
+853
+00:44:16,388 --> 00:44:19,270
+{\ blur3.7}<i>Ay,</i> only for you, <i>amigo.</i>
+
+854
+00:44:20,359 --> 00:44:21,824
+{\ blur3.7}<font color="#ff00ff">(STRUMMING)</font>
+
+855
+00:44:21,826 --> 00:44:23,225
+{\ blur3.7}Any requests?
+
+856
+00:44:23,227 --> 00:44:27,312
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES)</font>
+You know my favorite, Hector.
+
+857
+00:44:28,433 --> 00:44:30,415
+{\ blur3.7}<font color="#ff00ff">(PLAYING SOFT MUSIC)</font>
+
+858
+00:44:44,783 --> 00:44:48,499
+{\ blur3.7}<i>♪ Well,
+everyone knows Juanita</i>
+
+859
+00:44:49,455 --> 00:44:53,072
+{\ blur3.7}<i>♪ Her eyes
+each a different color</i>
+
+860
+00:44:54,759 --> 00:44:59,444
+{\ blur3.7}<i>♪ Her teeth stick out
+And her chin goes in</i>
+
+861
+00:45:00,399 --> 00:45:03,046
+{\ blur3.7}<i>♪ And her...</i>
+
+862
+00:45:04,001 --> 00:45:07,136
+{\ blur3.7}<i>♪ Knuckles they
+drag on the floor</i>
+
+863
+00:45:07,138 --> 00:45:09,772
+{\ blur3.7}Those aren't the words.
+There are children present.
+
+864
+00:45:09,774 --> 00:45:13,523
+{\ blur3.7}<i>♪ Her hair is like a briar</i>
+
+865
+00:45:14,480 --> 00:45:18,464
+{\ blur3.7}<i>♪ She stands in
+a bow-legged stance</i>
+
+866
+00:45:20,151 --> 00:45:24,469
+{\ blur3.7}<i>♪ And if I weren't so ugly</i>
+
+867
+00:45:26,158 --> 00:45:31,677
+{\ blur3.7}<i>♪ She'd possibly
+give me a chance ♪</i>
+
+868
+00:45:35,500 --> 00:45:37,366
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font>
+
+869
+00:45:37,368 --> 00:45:40,083
+{\ blur3.7}Brings back memories.
+
+870
+00:45:44,243 --> 00:45:46,225
+{\ blur3.7}<i>Gracias.</i>
+
+871
+00:45:56,120 --> 00:45:57,802
+{\ blur3.7}<font color="#ff00ff">(EXHALES DEEPLY)</font>
+
+872
+00:46:03,861 --> 00:46:05,176
+{\ blur3.7}<font color="#ff00ff">(WHINES)</font>
+
+873
+00:46:17,142 --> 00:46:19,475
+{\ blur3.7}Wait. What happened?
+
+874
+00:46:19,477 --> 00:46:21,511
+{\ blur3.7}He's been forgotten.
+
+875
+00:46:21,513 --> 00:46:23,077
+{\ blur3.7}When there's no one left
+in the living world
+
+876
+00:46:23,079 --> 00:46:24,413
+{\ blur3.7}who remembers you...
+
+877
+00:46:24,415 --> 00:46:27,216
+{\ blur3.7}you disappear from this world.
+
+878
+00:46:27,218 --> 00:46:30,152
+{\ blur3.7}We call it the final death.
+
+879
+00:46:30,154 --> 00:46:32,354
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> Where did he go?
+
+880
+00:46:32,356 --> 00:46:33,623
+{\ blur3.7}No one knows.
+
+881
+00:46:33,625 --> 00:46:37,828
+{\ blur3.7}But I've met him. I could
+remember him when I go back!
+
+882
+00:46:37,830 --> 00:46:40,163
+{\ blur3.7}No, it doesn't work
+like that, <i>chamaco.</i>
+
+883
+00:46:40,165 --> 00:46:43,132
+{\ blur3.7}Our memories,
+they have to be passed down
+
+884
+00:46:43,134 --> 00:46:44,968
+{\ blur3.7}by those who knew us in life...
+
+885
+00:46:44,970 --> 00:46:48,839
+{\ blur3.7}in the stories
+they tell about us.
+
+886
+00:46:48,841 --> 00:46:51,689
+{\ blur3.7}But there's no one left alive
+to pass down Cheech's stories.
+
+887
+00:46:54,011 --> 00:46:56,178
+{\ blur3.7}Hey, it happens
+to everyone eventually.
+
+888
+00:46:56,180 --> 00:46:59,162
+{\ blur3.7}Come on, de la Cruzcito,
+you've got a contest to win.
+
+889
+00:47:11,263 --> 00:47:13,263
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: You told me
+you hated musicians.
+
+890
+00:47:13,265 --> 00:47:14,565
+{\ blur3.7}You never said you were one.
+
+891
+00:47:14,567 --> 00:47:17,032
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: How do you think I
+knew your great-great-grandpa?
+
+892
+00:47:17,034 --> 00:47:18,268
+{\ blur3.7}We used to play music together.
+
+893
+00:47:18,270 --> 00:47:20,236
+{\ blur3.7}Taught him everything he knows.
+
+894
+00:47:20,238 --> 00:47:23,506
+{\ blur3.7}<i>No manches!</i> You played
+with Ernesto de la Cruz...
+
+895
+00:47:23,508 --> 00:47:25,407
+{\ blur3.7}the greatest musician
+of all time?
+
+896
+00:47:25,409 --> 00:47:27,176
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font> Ah, you're funny.
+
+897
+00:47:27,178 --> 00:47:29,144
+{\ blur3.7}Greatest eyebrows
+of all time maybe.
+
+898
+00:47:29,147 --> 00:47:31,146
+{\ blur3.7}But his music?
+Eh, not so much.
+
+899
+00:47:31,149 --> 00:47:33,331
+{\ blur3.7}You don't know
+what you're talking about.
+
+900
+00:47:35,287 --> 00:47:38,254
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: Welcome
+to the Plaza de la Cruz!
+
+901
+00:47:38,256 --> 00:47:40,505
+{\ blur3.7}Showtime, <i>chamaco!</i>
+
+902
+00:47:44,029 --> 00:47:46,529
+{\ blur3.7}<font color="#ff00ff">(WHOOPING)</font>
+
+903
+00:47:46,531 --> 00:47:49,915
+{\ blur3.7}<i>Llevelo!</i>
+T-shirts! Bobbleheads!
+
+904
+00:47:50,602 --> 00:47:52,518
+{\ blur3.7}<font color="#ff00ff">(ALL CHEERING)</font>
+
+905
+00:47:54,305 --> 00:47:56,172
+{\ blur3.7}<font color="#ff00ff">(ALL GASP)</font>
+
+906
+00:47:56,174 --> 00:47:59,910
+{\ blur3.7}<i>Bienvenidos a todos!</i>
+
+907
+00:47:59,912 --> 00:48:01,911
+{\ blur3.7}Oh! <font color="#ff00ff">(LAUGHS)</font>
+
+908
+00:48:01,913 --> 00:48:06,448
+{\ blur3.7}Who's ready for some <i>musica?</i>
+<font color="#ff00ff">(ALL CHEERING)</font>
+
+909
+00:48:06,451 --> 00:48:09,084
+{\ blur3.7}It's a battle
+of the bands, <i>amigos.</i>
+
+910
+00:48:09,086 --> 00:48:12,154
+{\ blur3.7}The winner gets to play
+for the maestro himself,
+
+911
+00:48:12,156 --> 00:48:14,190
+{\ blur3.7}Ernesto de la Cruz...
+
+912
+00:48:14,192 --> 00:48:17,027
+{\ blur3.7}at his <i>fiesta</i> tonight!
+
+913
+00:48:17,029 --> 00:48:18,560
+{\ blur3.7}That's our ticket, <i>muchacho.</i>
+
+914
+00:48:18,562 --> 00:48:20,696
+{\ blur3.7}Oh! Oh, oh, oh!
+
+915
+00:48:20,698 --> 00:48:23,600
+{\ blur3.7}Let the competition begin!
+
+916
+00:48:23,602 --> 00:48:25,035
+{\ blur3.7}<font color="#ff00ff">(ALL CHEERING)</font>
+
+917
+00:48:25,037 --> 00:48:28,419
+{\ blur3.7}<font color="#ff00ff">(ALL PLAYING UPBEAT MUSIC)</font>
+
+918
+00:48:34,645 --> 00:48:36,078
+{\ blur3.7}<font color="#ff00ff">(ALL BARKING)</font>
+
+919
+00:48:36,080 --> 00:48:37,763
+{\ blur3.7}<font color="#ff00ff">(PLAYING ACCORDIONS)</font>
+
+920
+00:48:40,118 --> 00:48:42,185
+{\ blur3.7}So, what's the plan?
+What are you gonna play?
+
+921
+00:48:42,187 --> 00:48:43,585
+{\ blur3.7}Definitely <i>Remember Me.</i>
+
+922
+00:48:43,587 --> 00:48:44,987
+{\ blur3.7}No! Not that one. No.
+
+923
+00:48:44,989 --> 00:48:47,056
+{\ blur3.7}Come on.
+It's his most popular song!
+
+924
+00:48:47,058 --> 00:48:48,357
+{\ blur3.7}Ah, it's too popular.
+
+925
+00:48:48,359 --> 00:48:50,460
+{\ blur3.7}<i>♪ Remember me
+Though I have to travel far ♪</i>
+
+926
+00:48:50,462 --> 00:48:51,627
+{\ blur3.7}<i>♪ Remember me... ♪</i>
+
+927
+00:48:51,629 --> 00:48:53,629
+{\ blur3.7}<i>♪ Don't let it
+make you cry... ♪</i>
+
+928
+00:48:53,631 --> 00:48:55,513
+{\ blur3.7}<font color="#ff00ff">(PLAYING <I>REMEMBER ME)</font></i>
+
+929
+00:48:57,069 --> 00:48:58,201
+{\ blur3.7}<font color="#ff00ff">(STAMMERING)</font>
+
+930
+00:48:58,203 --> 00:49:01,638
+{\ blur3.7}What about <i>Poco Loco?</i>
+<i>Epa!</i> Now that's a song!
+
+931
+00:49:01,640 --> 00:49:03,540
+{\ blur3.7}De la Cruzcito?
+You're on standby.
+
+932
+00:49:03,542 --> 00:49:05,557
+{\ blur3.7}Los Chachalacos, you're up next.
+
+933
+00:49:06,745 --> 00:49:08,645
+{\ blur3.7}<font color="#ff8000">ALL</font>: Los Chachalacos!
+
+934
+00:49:08,647 --> 00:49:11,396
+{\ blur3.7}<font color="#ff00ff">(PLAYING UPBEAT MUSIC)</font>
+<font color="#ff00ff">(ALL CHEERING)</font>
+
+935
+00:49:19,758 --> 00:49:21,757
+{\ blur3.7}You always this nervous
+before a performance?
+
+936
+00:49:21,759 --> 00:49:25,094
+{\ blur3.7}I don't know. <font color="#ff00ff">(SIGHS)</font>
+I've never performed before.
+
+937
+00:49:25,096 --> 00:49:27,029
+{\ blur3.7}What? You said
+you were a musician!
+
+938
+00:49:27,031 --> 00:49:28,998
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> I am!
+I mean, I will be.
+
+939
+00:49:29,000 --> 00:49:30,399
+{\ blur3.7}<i>Ay!</i>
+Once I win.
+
+940
+00:49:30,401 --> 00:49:33,002
+{\ blur3.7}That's your plan?
+No. You have to win.
+
+941
+00:49:33,004 --> 00:49:34,571
+{\ blur3.7}Your life
+literally depends on...
+
+942
+00:49:34,573 --> 00:49:36,138
+{\ blur3.7}you winning. And you've
+never done this before!
+
+943
+00:49:36,140 --> 00:49:37,306
+{\ blur3.7}I'll go up there.
+
+944
+00:49:37,308 --> 00:49:39,641
+{\ blur3.7}No! I need to do this.
+Why?
+
+945
+00:49:39,643 --> 00:49:42,111
+{\ blur3.7}If I can't go out
+and play one song,
+
+946
+00:49:42,113 --> 00:49:44,013
+{\ blur3.7}how can I call
+myself a musician?
+
+947
+00:49:44,015 --> 00:49:45,382
+{\ blur3.7}What does that matter?
+
+948
+00:49:45,384 --> 00:49:47,283
+{\ blur3.7}Because I don't just want to
+get de la Cruz's blessing...
+
+949
+00:49:47,285 --> 00:49:51,788
+{\ blur3.7}I need to prove
+that I'm worthy of it.
+
+950
+00:49:51,790 --> 00:49:54,690
+{\ blur3.7}Oh, that's such
+a sweet sentiment
+
+951
+00:49:54,692 --> 00:49:57,160
+{\ blur3.7}at such a bad time!
+
+952
+00:49:57,162 --> 00:49:59,461
+{\ blur3.7}<font color="#ff00ff">(GROANING)</font>
+
+953
+00:49:59,464 --> 00:50:01,729
+{\ blur3.7}Okay! Okay.
+You want to perform?
+
+954
+00:50:01,731 --> 00:50:03,533
+{\ blur3.7}Then you got to perform!
+
+955
+00:50:03,535 --> 00:50:06,536
+{\ blur3.7}First, you have to loosen up.
+Shake off those nerves.
+
+956
+00:50:06,538 --> 00:50:08,654
+{\ blur3.7}<font color="#ff00ff">(VOCALIZING)</font>
+
+957
+00:50:09,473 --> 00:50:10,672
+{\ blur3.7}<font color="#ff00ff">(VOCALIZING)</font>
+
+958
+00:50:10,674 --> 00:50:12,274
+{\ blur3.7}Now give me your best <i>grito.</i>
+
+959
+00:50:12,276 --> 00:50:15,026
+{\ blur3.7}My best <i>grito?</i>
+Come on, yell! Belt it out.
+
+960
+00:50:15,279 --> 00:50:18,181
+{\ blur3.7}<font color="#ff00ff">(WHOOPING)</font>
+
+961
+00:50:18,183 --> 00:50:21,633
+{\ blur3.7}Ah, it feels good.
+Okay, now you.
+
+962
+00:50:22,421 --> 00:50:26,623
+{\ blur3.7}<font color="#ff00ff">(WHOOPING WEAKLY)</font>
+
+963
+00:50:26,625 --> 00:50:28,640
+{\ blur3.7}Oh, come on, kid.
+
+964
+00:50:29,761 --> 00:50:31,677
+{\ blur3.7}<font color="#ff00ff">(MUSIC PLAYING)</font>
+
+965
+00:50:37,234 --> 00:50:39,335
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE CHEERING)</font>
+
+966
+00:50:39,337 --> 00:50:41,303
+{\ blur3.7}De la Cruzcito, you're on now!
+
+967
+00:50:41,305 --> 00:50:43,573
+{\ blur3.7}Miguel, look at me.
+Hey, look at me.
+
+968
+00:50:43,575 --> 00:50:44,773
+{\ blur3.7}You can do this.
+
+969
+00:50:44,776 --> 00:50:47,310
+{\ blur3.7}Grab their attention
+and don't let it go.
+
+970
+00:50:47,312 --> 00:50:49,510
+{\ blur3.7}Make them listen, <i>chamaco.</i>
+You've got this.
+
+971
+00:50:49,513 --> 00:50:52,114
+{\ blur3.7}De la Cruzcito
+
+972
+00:50:52,116 --> 00:50:54,398
+{\ blur3.7}<font color="#ff00ff">(CHEERING IN SPANISH)</font>
+
+973
+00:50:58,489 --> 00:51:00,656
+{\ blur3.7}<font color="#ff00ff">(EXHALES NERVOUSLY)</font>
+<font color="#ff00ff">(FEEDBACK)</font>
+
+974
+00:51:00,658 --> 00:51:03,325
+{\ blur3.7}What's he doing?
+Why isn't he playing?
+
+975
+00:51:03,327 --> 00:51:05,627
+{\ blur3.7}<font color="#ff8000">WOMAN</font>: Bring back
+the singing dogs!
+
+976
+00:51:05,629 --> 00:51:07,044
+{\ blur3.7}<font color="#ff00ff">(BREATHING HEAVILY)</font>
+
+977
+00:51:12,236 --> 00:51:14,117
+{\ blur3.7}<font color="#ff00ff">(EXHALES DEEPLY)</font>
+
+978
+00:51:15,540 --> 00:51:17,674
+{\ blur3.7}<font color="#ff00ff">(VOCALIZING)</font>
+
+979
+00:51:17,676 --> 00:51:20,826
+{\ blur3.7}<font color="#ff8000">AUDIENCE</font>: <i>Que bien!
+Vamonos!</i> Whoo!
+
+980
+00:51:21,779 --> 00:51:23,728
+{\ blur3.7}<font color="#ff00ff">(PLAYING UPBEAT MUSIC)</font>
+
+981
+00:51:28,252 --> 00:51:31,788
+{\ blur3.7}<i>♪ What color is the sky?
+Ay mi amor, ay mi amor</i>
+
+982
+00:51:31,790 --> 00:51:35,625
+{\ blur3.7}<i>♪ You tell me that it's red
+Ay mi amor, ay mi amor</i>
+
+983
+00:51:35,627 --> 00:51:39,295
+{\ blur3.7}<i>♪ Where should I put my shoes?
+Ay mi amor, ay mi amor</i>
+
+984
+00:51:39,297 --> 00:51:41,531
+{\ blur3.7}<i>♪ You say
+put them on your head</i>
+
+985
+00:51:41,533 --> 00:51:44,299
+{\ blur3.7}<i>♪ Ay mi amor, ay mi amor</i>
+
+986
+00:51:44,301 --> 00:51:48,804
+{\ blur3.7}<i>♪ You make me un poco loco
+Un poqui-ti-ti-to loco</i>
+
+987
+00:51:48,806 --> 00:51:52,542
+{\ blur3.7}<i>♪ The way you keep me guessing
+I'm nodding and I'm yes-ing</i>
+
+988
+00:51:52,544 --> 00:51:55,245
+{\ blur3.7}<i>♪ I'll count
+it as a blessing</i>
+
+989
+00:51:55,247 --> 00:51:58,897
+{\ blur3.7}<i>♪ That I'm only
+un poco loco</i>
+
+990
+00:52:00,584 --> 00:52:02,500
+{\ blur3.7}No! No! No!
+
+991
+00:52:03,387 --> 00:52:05,904
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE CHEERING)</font>
+
+992
+00:52:08,727 --> 00:52:10,527
+{\ blur3.7}Not bad for a dead guy!
+
+993
+00:52:10,529 --> 00:52:13,328
+{\ blur3.7}Not so bad yourself,
+<i>gordito! Eso!</i>
+
+994
+00:52:13,330 --> 00:52:15,880
+{\ blur3.7}<font color="#ff00ff">(CHEERING CONTINUES)</font>
+
+995
+00:52:17,569 --> 00:52:19,650
+{\ blur3.7}<font color="#ff00ff">(SNIFFING)</font>
+
+996
+00:52:20,172 --> 00:52:21,837
+{\ blur3.7}He's close! Find him!
+
+997
+00:52:21,839 --> 00:52:25,707
+{\ blur3.7}<i>♪ The loco that you make me
+It is just un poco crazy</i>
+
+998
+00:52:25,709 --> 00:52:27,576
+{\ blur3.7}<i>♪ The sense
+that you're not making</i>
+
+999
+00:52:27,578 --> 00:52:29,578
+{\ blur3.7}<i>♪ The liberties you're taking</i>
+
+1000
+00:52:29,580 --> 00:52:35,900
+{\ blur3.7}<i>♪ Leaves my cabeza shaking
+You're just un poco loco</i>
+
+1001
+00:52:39,191 --> 00:52:42,072
+{\ blur3.7}<font color="#ff00ff">(BOTH WHOOPING)</font>
+
+1002
+00:52:43,828 --> 00:52:45,327
+{\ blur3.7}<font color="#ff00ff">(DANTE HOWLING)</font>
+
+1003
+00:52:45,329 --> 00:52:46,728
+{\ blur3.7}We're looking for a living kid.
+
+1004
+00:52:46,730 --> 00:52:47,964
+{\ blur3.7}About twelve?
+
+1005
+00:52:47,966 --> 00:52:50,466
+{\ blur3.7}Have you seen a living boy?
+
+1006
+00:52:50,468 --> 00:52:56,087
+{\ blur3.7}<i>♪ Un poqui-ti-ti-ti-ti-ti-ti-
+ti-ti-ti-to loco ♪</i>
+
+1007
+00:52:57,341 --> 00:52:58,875
+{\ blur3.7}<font color="#ff00ff">(WHOOPING)</font>
+
+1008
+00:52:58,877 --> 00:53:00,792
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE CHEERING)</font>
+
+1009
+00:53:03,647 --> 00:53:08,833
+{\ blur3.7}Hey! You did good!
+I'm proud of you. <i>Eso!</i>
+
+1010
+00:53:10,321 --> 00:53:11,321
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+1011
+00:53:11,323 --> 00:53:14,772
+{\ blur3.7}<font color="#ff8000">AUDIENCE</font>: <font color="#ff00ff">(CHANTING)</font>
+<i>Otra! Otra! Otra!</i>
+
+1012
+00:53:17,761 --> 00:53:20,596
+{\ blur3.7}Hey! Where are you going?
+We got to get out of here!
+
+1013
+00:53:20,598 --> 00:53:23,080
+{\ blur3.7}What? Are you crazy? We're
+about to win this thing.
+
+1014
+00:53:24,236 --> 00:53:25,768
+{\ blur3.7}<i>Damas y caballeros,</i>
+
+1015
+00:53:25,770 --> 00:53:27,803
+{\ blur3.7}I have an emergency
+announcement.
+
+1016
+00:53:27,805 --> 00:53:31,507
+{\ blur3.7}Please be on the lookout
+for a living boy.
+
+1017
+00:53:31,509 --> 00:53:33,408
+{\ blur3.7}Answers to the name of Miguel.
+
+1018
+00:53:33,410 --> 00:53:36,645
+{\ blur3.7}Earlier tonight
+he ran away from his family.
+
+1019
+00:53:36,647 --> 00:53:39,781
+{\ blur3.7}They just want to send him back
+to the Land of the Living.
+
+1020
+00:53:39,783 --> 00:53:41,350
+{\ blur3.7}Wait, wait.
+
+1021
+00:53:41,352 --> 00:53:43,018
+{\ blur3.7}You said de la Cruz
+was your only family.
+
+1022
+00:53:43,020 --> 00:53:44,953
+{\ blur3.7}The only person
+who could send you home.
+
+1023
+00:53:44,955 --> 00:53:46,120
+{\ blur3.7}I do have other family, but...
+
+1024
+00:53:46,122 --> 00:53:48,389
+{\ blur3.7}You could have taken my
+photo back this whole time?
+
+1025
+00:53:48,391 --> 00:53:51,361
+{\ blur3.7}But they hate music!
+I need a musician's blessing.
+
+1026
+00:53:51,363 --> 00:53:53,662
+{\ blur3.7}You lied to me!
+Oh, you're one to talk.
+
+1027
+00:53:53,664 --> 00:53:55,664
+{\ blur3.7}Look at me.
+I'm being forgotten, Miguel.
+
+1028
+00:53:55,666 --> 00:53:57,666
+{\ blur3.7}I don't even know
+if I'm gonna last the night.
+
+1029
+00:53:57,668 --> 00:53:59,034
+{\ blur3.7}I'm not gonna miss my one chance
+
+1030
+00:53:59,036 --> 00:54:00,103
+{\ blur3.7}to cross that bridge because...
+
+1031
+00:54:00,105 --> 00:54:03,306
+{\ blur3.7}you want to live out
+some stupid musical fantasy.
+
+1032
+00:54:03,308 --> 00:54:04,405
+{\ blur3.7}It's not stupid!
+
+1033
+00:54:04,407 --> 00:54:05,641
+{\ blur3.7}I'm taking you to your family.
+
+1034
+00:54:05,643 --> 00:54:06,877
+{\ blur3.7}Let go of me!
+You'll thank me later.
+
+1035
+00:54:06,879 --> 00:54:10,379
+{\ blur3.7}You don't want to help me.
+You only care about yourself!
+
+1036
+00:54:10,381 --> 00:54:13,514
+{\ blur3.7}Keep your dumb photo.
+Stay away from me!
+
+1037
+00:54:13,517 --> 00:54:15,951
+{\ blur3.7}No! <font color="#ff00ff">(GRUNTING)</font>
+
+1038
+00:54:15,953 --> 00:54:19,169
+{\ blur3.7}Hey, <i>chamaco!</i>
+Where did you go?
+
+1039
+00:54:20,324 --> 00:54:23,975
+{\ blur3.7}<i>Chamaco!</i> I'm sorry!
+Come back!
+
+1040
+00:54:31,335 --> 00:54:33,569
+{\ blur3.7}<font color="#ff00ff">(WHINING)</font>
+
+1041
+00:54:33,571 --> 00:54:38,439
+{\ blur3.7}Dante, <i>callate!</i> No!
+Dante, stop it.
+
+1042
+00:54:38,441 --> 00:54:39,856
+{\ blur3.7}He can't help me.
+
+1043
+00:54:41,578 --> 00:54:42,944
+{\ blur3.7}Dante! Stop!
+
+1044
+00:54:42,946 --> 00:54:45,480
+{\ blur3.7}<font color="#ff00ff">(GROWLING)</font>
+Stop it! Leave me alone!
+
+1045
+00:54:45,482 --> 00:54:47,616
+{\ blur3.7}You're not a spirit guide.
+You're just a dumb dog!
+
+1046
+00:54:47,618 --> 00:54:49,818
+{\ blur3.7}Now get out of here!
+
+1047
+00:54:49,821 --> 00:54:52,621
+{\ blur3.7}It's him!
+It's that living boy!
+
+1048
+00:54:52,623 --> 00:54:54,623
+{\ blur3.7}I heard about him. Look!
+He's alive!
+
+1049
+00:54:54,625 --> 00:54:56,825
+{\ blur3.7}<font color="#ff8000">SKELETON1</font>: He's alive.
+<font color="#ff8000">SKELETON 2</font>: The boy is alive!
+
+1050
+00:54:58,330 --> 00:55:00,645
+{\ blur3.7}<font color="#ff00ff">(TRAIN BELL CLANGING)</font>
+
+1051
+00:55:03,701 --> 00:55:04,900
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+<font color="#ff00ff">(GROWLS)</font>
+
+1052
+00:55:04,902 --> 00:55:06,001
+{\ blur3.7}<font color="#ff00ff">(SCREAMS)</font>
+
+1053
+00:55:06,003 --> 00:55:08,705
+{\ blur3.7}This nonsense ends now, Miguel!
+
+1054
+00:55:08,707 --> 00:55:11,574
+{\ blur3.7}I am giving you my blessing
+and you are going home.
+
+1055
+00:55:11,576 --> 00:55:13,224
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: I don't want your blessing!
+
+1056
+00:55:14,378 --> 00:55:16,360
+{\ blur3.7}<font color="#ff8000">MAMA IMELDA</font>: Miguel, stop!
+<font color="#ff00ff">(ROARS)</font>
+
+1057
+00:55:18,515 --> 00:55:22,366
+{\ blur3.7}Come back! Miguel!
+
+1058
+00:55:23,988 --> 00:55:25,803
+{\ blur3.7}<font color="#ff00ff">(GRUNTING)</font>
+
+1059
+00:55:26,790 --> 00:55:28,890
+{\ blur3.7}I am trying to save your life!
+
+1060
+00:55:28,892 --> 00:55:31,026
+{\ blur3.7}You're ruining my life!
+What?
+
+1061
+00:55:31,028 --> 00:55:33,596
+{\ blur3.7}Music's the only thing
+that makes me happy.
+
+1062
+00:55:33,598 --> 00:55:35,764
+{\ blur3.7}And you want to take it away.
+
+1063
+00:55:35,767 --> 00:55:38,049
+{\ blur3.7}You'll never understand.
+
+1064
+00:55:38,770 --> 00:55:41,002
+{\ blur3.7}<font color="#ff00ff">(FOOTSTEPS RECEDING)</font>
+
+1065
+00:55:41,004 --> 00:55:45,875
+{\ blur3.7}<i>♪ Y aunque la vida
+me cueste, Llorona</i>
+
+1066
+00:55:45,877 --> 00:55:49,961
+{\ blur3.7}<i>♪ No dejare de quererte... ♪</i>
+
+1067
+00:55:50,915 --> 00:55:53,015
+{\ blur3.7}I thought you hated music.
+
+1068
+00:55:53,017 --> 00:55:58,654
+{\ blur3.7}Oh, I loved it!
+I remember that feeling...
+
+1069
+00:55:58,656 --> 00:56:02,423
+{\ blur3.7}when my husband would play,
+and I would sing
+
+1070
+00:56:02,425 --> 00:56:05,075
+{\ blur3.7}and nothing else mattered.
+
+1071
+00:56:06,029 --> 00:56:08,430
+{\ blur3.7}But when we had Coco,
+
+1072
+00:56:08,433 --> 00:56:10,933
+{\ blur3.7}suddenly there was something
+in my life that...
+
+1073
+00:56:10,935 --> 00:56:17,072
+{\ blur3.7}mattered more than music.
+I wanted to put down roots.
+
+1074
+00:56:17,074 --> 00:56:20,124
+{\ blur3.7}He wanted to play for the world.
+
+1075
+00:56:21,077 --> 00:56:24,580
+{\ blur3.7}We each made a sacrifice
+to get what we wanted.
+
+1076
+00:56:24,582 --> 00:56:26,915
+{\ blur3.7}Now you must make a choice.
+
+1077
+00:56:26,917 --> 00:56:29,818
+{\ blur3.7}But I don't want to pick sides!
+
+1078
+00:56:29,821 --> 00:56:32,186
+{\ blur3.7}Why can't you be on my side?
+
+1079
+00:56:32,189 --> 00:56:34,456
+{\ blur3.7}That's what
+family's supposed to do.
+
+1080
+00:56:34,459 --> 00:56:39,410
+{\ blur3.7}Support you.
+But you never will.
+
+1081
+00:56:58,582 --> 00:57:01,951
+{\ blur3.7}Have a good time.
+Oh, how exciting!
+
+1082
+00:57:01,953 --> 00:57:07,437
+{\ blur3.7}Oh, El Santo. I'm a big fan!
+You mind if I...
+
+1083
+00:57:10,962 --> 00:57:12,494
+{\ blur3.7}<font color="#ff00ff">(CAMERA CLICKS)</font>
+
+1084
+00:57:12,497 --> 00:57:14,279
+{\ blur3.7}<i>Gracias, Senor.</i>
+
+1085
+00:57:17,734 --> 00:57:19,734
+{\ blur3.7}Invitation?
+It's okay.
+
+1086
+00:57:19,736 --> 00:57:22,286
+{\ blur3.7}I'm Ernesto's
+great-great-grandson.
+
+1087
+00:57:24,008 --> 00:57:25,322
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES)</font>
+
+1088
+00:57:25,709 --> 00:57:27,291
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font>
+
+1089
+00:57:27,745 --> 00:57:29,178
+{\ blur3.7}<font color="#ff00ff">(SIGHS)</font>
+
+1090
+00:57:29,180 --> 00:57:31,496
+{\ blur3.7}<font color="#ff00ff">(PEOPLE LAUGHING)</font>
+
+1091
+00:57:33,116 --> 00:57:36,652
+{\ blur3.7}<i>Disculpen, senores...</i>
+Hey, guys! It's poco loco!
+
+1092
+00:57:36,654 --> 00:57:39,020
+{\ blur3.7}You were on fire tonight!
+You too!
+
+1093
+00:57:39,022 --> 00:57:42,806
+{\ blur3.7}Hey, musician to musician...
+I need a favor.
+
+1094
+00:57:45,029 --> 00:57:49,080
+{\ blur3.7}Oh, the competition winners.
+Congratulations, <i>chicos.</i>
+
+1095
+00:57:56,607 --> 00:57:58,207
+{\ blur3.7}<font color="#ff00ff">(MUFFLED SCREAMING)</font>
+
+1096
+00:57:58,209 --> 00:57:59,774
+{\ blur3.7}<font color="#ff00ff">(BLOWS)</font>
+<font color="#ff00ff">(GROANS)</font>
+
+1097
+00:57:59,776 --> 00:58:01,224
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES)</font> Thanks, guys!
+
+1098
+00:58:04,748 --> 00:58:07,197
+{\ blur3.7}<font color="#ff00ff">(ALL LAUGHING)</font>
+
+1099
+00:58:07,886 --> 00:58:09,534
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+<font color="#ff00ff">(BELL RINGS)</font>
+
+1100
+00:58:11,922 --> 00:58:13,288
+{\ blur3.7}Whoa!
+
+1101
+00:58:13,290 --> 00:58:15,189
+{\ blur3.7}Hey! Enjoy the party,
+little <i>musico!</i>
+
+1102
+00:58:15,192 --> 00:58:16,840
+{\ blur3.7}<i>Gracias!</i>
+
+1103
+00:58:20,832 --> 00:58:22,146
+{\ blur3.7}Oh!
+
+1104
+00:58:28,205 --> 00:58:29,987
+{\ blur3.7}<font color="#ff8000">ALL</font>: Oh!
+
+1105
+00:58:31,808 --> 00:58:33,857
+{\ blur3.7}Look! It's Ernesto!
+
+1106
+00:58:35,547 --> 00:58:36,861
+{\ blur3.7}De la Cruz!
+
+1107
+00:58:37,814 --> 00:58:39,496
+{\ blur3.7}<i>Senor</i> de la Cruz!
+
+1108
+00:58:41,319 --> 00:58:45,587
+{\ blur3.7}Pardon me! <i>Senor</i> de la Cruz!
+<i>Senor</i> de la...
+
+1109
+00:58:45,589 --> 00:58:48,105
+{\ blur3.7}<font color="#ff00ff">(UPBEAT MUSIC PLAYING)</font>
+
+1110
+00:58:50,861 --> 00:58:52,261
+{\ blur3.7}<font color="#ff8000">DE LA CRUZ</font>: <i>When you see
+your moment,</i>
+
+1111
+00:58:52,263 --> 00:58:53,995
+{\ blur3.7}<i>you mustn't let it pass you by.</i>
+
+1112
+00:58:53,997 --> 00:58:55,863
+{\ blur3.7}<i>You must seize it.</i>
+
+1113
+00:58:55,866 --> 00:58:58,148
+{\ blur3.7}<i>This one has a wise spirit.</i>
+
+1114
+00:59:07,812 --> 00:59:09,327
+{\ blur3.7}<font color="#ff00ff">(MUSIC PLAYING)</font>
+
+1115
+00:59:12,716 --> 00:59:14,398
+{\ blur3.7}<i>We're almost there, Dante.</i>
+
+1116
+00:59:16,721 --> 00:59:17,853
+{\ blur3.7}<font color="#ff00ff">(GRUNTING)</font>
+
+1117
+00:59:17,855 --> 00:59:20,938
+{\ blur3.7}<i>Senor</i> de la Cruz!
+<i>Senor</i> de la...
+
+1118
+00:59:26,730 --> 00:59:29,297
+{\ blur3.7}<font color="#ff8000">NUN</font>: <i>But what can we do?
+It is hopeless...</i>
+
+1119
+00:59:29,299 --> 00:59:30,966
+{\ blur3.7}<i>You must have faith, sister.</i>
+
+1120
+00:59:30,968 --> 00:59:33,268
+{\ blur3.7}<font color="#ff8000">NUN</font>: <i>But</i> Padre,
+<i>he will never listen.</i>
+
+1121
+00:59:33,270 --> 00:59:36,221
+{\ blur3.7}<i>He will listen... to music.</i>
+
+1122
+00:59:48,285 --> 00:59:50,018
+{\ blur3.7}<font color="#ff00ff">(EXHALES DEEPLY)</font>
+
+1123
+00:59:50,020 --> 00:59:52,720
+{\ blur3.7}<font color="#ff00ff">(VOCALIZING)</font>
+
+1124
+00:59:52,722 --> 00:59:54,390
+{\ blur3.7}<font color="#ff00ff">(ECHOING)</font>
+
+1125
+00:59:54,392 --> 00:59:55,940
+{\ blur3.7}<font color="#ff00ff">(MUSIC STOPS)</font>
+
+1126
+00:59:56,194 --> 00:59:58,041
+{\ blur3.7}<font color="#ff00ff">(PLAYING UPBEAT MUSIC)</font>
+
+1127
+01:00:00,797 --> 01:00:05,000
+{\ blur3.7}<i>♪ Senoras y senores,
+Buenas tardes, Buenas noches</i>
+
+1128
+01:00:05,002 --> 01:00:09,038
+{\ blur3.7}<i>♪ Buenas tardes, Buenas
+noches Senoritas y senores</i>
+
+1129
+01:00:09,040 --> 01:00:13,643
+{\ blur3.7}<i>♪ To be here with you tonight
+Brings me joy! Que alegria</i>
+
+1130
+01:00:13,645 --> 01:00:15,678
+{\ blur3.7}<i>♪ For this music
+is my language</i>
+
+1131
+01:00:15,680 --> 01:00:18,362
+{\ blur3.7}<i>♪ And the world
+es mi familia</i>
+
+1132
+01:00:19,317 --> 01:00:21,817
+{\ blur3.7}<i>♪ For this music
+is my language</i>
+
+1133
+01:00:21,819 --> 01:00:24,402
+{\ blur3.7}<i>♪ And the world
+es mi familia</i>
+
+1134
+01:00:25,355 --> 01:00:27,056
+{\ blur3.7}<i>♪ For this music
+is my language</i>
+
+1135
+01:00:27,058 --> 01:00:31,026
+{\ blur3.7}<i>♪ And the world
+es mi familia</i>
+
+1136
+01:00:31,028 --> 01:00:32,795
+{\ blur3.7}<i>♪ For this music
+is my Lang... ♪</i>
+
+1137
+01:00:32,797 --> 01:00:35,030
+{\ blur3.7}<font color="#ff00ff">(YELPS)</font>
+<font color="#ff00ff">(ALL GASP)</font>
+
+1138
+01:00:35,032 --> 01:00:36,346
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+1139
+01:00:42,305 --> 01:00:44,154
+{\ blur3.7}<font color="#ff00ff">(COUGHING)</font>
+
+1140
+01:00:45,109 --> 01:00:46,808
+{\ blur3.7}Are you all right, <i>nino?</i>
+
+1141
+01:00:46,810 --> 01:00:48,844
+{\ blur3.7}<font color="#ff00ff">(BREATHING HEAVILY)</font>
+
+1142
+01:00:48,846 --> 01:00:50,812
+{\ blur3.7}<font color="#ff00ff">(ALL GASP)</font>
+
+1143
+01:00:50,814 --> 01:00:53,848
+{\ blur3.7}It's you!
+You are that boy!
+
+1144
+01:00:53,850 --> 01:00:55,984
+{\ blur3.7}The one who came
+from the Land of the Living.
+
+1145
+01:00:55,986 --> 01:00:58,087
+{\ blur3.7}You... know about me?
+
+1146
+01:00:58,089 --> 01:01:01,323
+{\ blur3.7}<font color="#ff00ff">(LAUGHING)</font> You are all anyone
+has been talking about.
+
+1147
+01:01:01,325 --> 01:01:03,692
+{\ blur3.7}Why have you come here?
+
+1148
+01:01:03,694 --> 01:01:07,996
+{\ blur3.7}I'm Miguel. <font color="#ff00ff">(STAMMERS)</font>
+Your great-great-grandson.
+
+1149
+01:01:07,998 --> 01:01:09,098
+{\ blur3.7}<font color="#ff00ff">(ALL EXCLAIM)</font>
+
+1150
+01:01:09,100 --> 01:01:11,466
+{\ blur3.7}I... have
+a great-great-grandson?
+
+1151
+01:01:11,468 --> 01:01:13,368
+{\ blur3.7}I need your blessing
+
+1152
+01:01:13,370 --> 01:01:15,704
+{\ blur3.7}so I can go back home
+and be a musician.
+
+1153
+01:01:15,706 --> 01:01:17,373
+{\ blur3.7}Just like you.
+
+1154
+01:01:17,375 --> 01:01:21,210
+{\ blur3.7}The rest of our family,
+they wouldn't listen.
+
+1155
+01:01:21,212 --> 01:01:24,262
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font>
+But I hoped you would.
+
+1156
+01:01:25,950 --> 01:01:30,701
+{\ blur3.7}My boy, with a talent like
+yours, how could I not listen?
+
+1157
+01:01:31,955 --> 01:01:33,855
+{\ blur3.7}<font color="#ff8000">ALL</font>: Aww!
+<font color="#ff00ff">(LAUGHS)</font>
+
+1158
+01:01:33,857 --> 01:01:36,257
+{\ blur3.7}I have a great-great-grandson!
+
+1159
+01:01:36,259 --> 01:01:38,576
+{\ blur3.7}<font color="#ff00ff">(ALL CHEERING)</font>
+
+1160
+01:01:42,834 --> 01:01:46,268
+{\ blur3.7}Look! It's Frida!
+Yes, it is I. Frida Kahlo.
+
+1161
+01:01:46,270 --> 01:01:49,287
+{\ blur3.7}It is an honor, <i>Senora.</i>
+<i>Gracias.</i>
+
+1162
+01:01:49,740 --> 01:01:51,321
+{\ blur3.7}<font color="#ff00ff">(BELL RINGS)</font>
+
+1163
+01:01:53,310 --> 01:01:55,277
+{\ blur3.7}Hey, Negrete! Infante!
+
+1164
+01:01:55,279 --> 01:01:57,513
+{\ blur3.7}Have you met
+my great-great-grandson?
+
+1165
+01:01:57,515 --> 01:01:59,415
+{\ blur3.7}My great-great-grandson.
+
+1166
+01:01:59,417 --> 01:02:01,984
+{\ blur3.7}He's alive!
+And a musician to boot!
+
+1167
+01:02:01,986 --> 01:02:04,018
+{\ blur3.7}Dimple. No dimple.
+Dimple. No dimple.
+
+1168
+01:02:04,020 --> 01:02:05,119
+{\ blur3.7}No dimple!
+<font color="#ff00ff">(ALL LAUGH)</font>
+
+1169
+01:02:05,121 --> 01:02:06,556
+{\ blur3.7}<i>To our friendship.</i>
+
+1170
+01:02:06,558 --> 01:02:10,440
+{\ blur3.7}<font color="#ff8000">BOTH</font>: I would move Heaven and
+Earth for you, <i>mi amigo. Salud!</i>
+
+1171
+01:02:11,863 --> 01:02:13,428
+{\ blur3.7}Poison!
+
+1172
+01:02:13,430 --> 01:02:15,764
+{\ blur3.7}You know,
+I did all my own stunts.
+
+1173
+01:02:15,767 --> 01:02:19,616
+{\ blur3.7}<i>♪ Though I have to say
+goodbye Remember me... ♪</i>
+
+1174
+01:02:21,305 --> 01:02:24,006
+{\ blur3.7}<font color="#ff8000">DE LA CRUZ</font>: All of this
+came from my amazing fans
+
+1175
+01:02:24,008 --> 01:02:26,407
+{\ blur3.7}in the Land of the Living.
+
+1176
+01:02:26,409 --> 01:02:30,446
+{\ blur3.7}They leave me more offerings
+than I know what to do with!
+
+1177
+01:02:30,448 --> 01:02:34,048
+{\ blur3.7}Hey, what's wrong? Is it too much?
+You look overwhelmed.
+
+1178
+01:02:34,050 --> 01:02:37,319
+{\ blur3.7}No! It's all great!
+But?
+
+1179
+01:02:37,321 --> 01:02:39,419
+{\ blur3.7}It's just... <font color="#ff00ff">(SIGHS)</font>
+
+1180
+01:02:39,421 --> 01:02:41,824
+{\ blur3.7}I have been looking up to you
+my whole life.
+
+1181
+01:02:41,826 --> 01:02:45,208
+{\ blur3.7}You're the guy
+who actually did it!
+
+1182
+01:02:46,163 --> 01:02:49,098
+{\ blur3.7}But did you ever regret it?
+
+1183
+01:02:49,100 --> 01:02:52,516
+{\ blur3.7}Choosing music
+over everything else?
+
+1184
+01:02:52,937 --> 01:02:54,469
+{\ blur3.7}It was hard.
+
+1185
+01:02:54,471 --> 01:02:58,522
+{\ blur3.7}Saying goodbye to my hometown.
+Heading off on my own...
+
+1186
+01:02:59,477 --> 01:03:01,477
+{\ blur3.7}Leaving your family?
+
+1187
+01:03:01,479 --> 01:03:06,382
+{\ blur3.7}<i>Si.</i> But I could not have
+done it differently.
+
+1188
+01:03:06,384 --> 01:03:09,984
+{\ blur3.7}One cannot deny
+who one is meant to be.
+
+1189
+01:03:09,986 --> 01:03:14,403
+{\ blur3.7}And you, my great-great-grandson,
+are meant to be a musician!
+
+1190
+01:03:16,828 --> 01:03:19,328
+{\ blur3.7}You and I,
+we are artists, Miguel.
+
+1191
+01:03:19,330 --> 01:03:21,330
+{\ blur3.7}We cannot belong to one family.
+
+1192
+01:03:21,332 --> 01:03:23,815
+{\ blur3.7}The world is our family.
+
+1193
+01:03:25,236 --> 01:03:28,251
+{\ blur3.7}Ooh! Ooh!
+The fireworks have begun!
+
+1194
+01:03:38,515 --> 01:03:42,984
+{\ blur3.7}Soon the party will move across
+town for my Sunrise Spectacular.
+
+1195
+01:03:42,986 --> 01:03:45,955
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font> Miguel,
+you must come to the show!
+
+1196
+01:03:45,957 --> 01:03:47,989
+{\ blur3.7}You will be my guest of honor!
+
+1197
+01:03:47,991 --> 01:03:50,408
+{\ blur3.7}You mean it?
+Of course, my boy.
+
+1198
+01:03:52,096 --> 01:03:54,263
+{\ blur3.7}<font color="#ff00ff">(SIGHING)</font> I can't.
+
+1199
+01:03:54,265 --> 01:03:56,966
+{\ blur3.7}I have to get home
+before sunrise.
+
+1200
+01:03:56,968 --> 01:03:59,283
+{\ blur3.7}Oh! I really do
+need to get you home.
+
+1201
+01:04:03,274 --> 01:04:06,139
+{\ blur3.7}It has been an honor.
+
+1202
+01:04:06,141 --> 01:04:08,544
+{\ blur3.7}I am sorry
+to see you go, Miguel.
+
+1203
+01:04:08,546 --> 01:04:10,427
+{\ blur3.7}I hope you die very soon.
+
+1204
+01:04:12,048 --> 01:04:14,632
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES)</font>
+You know what I mean.
+
+1205
+01:04:16,654 --> 01:04:19,455
+{\ blur3.7}Miguel, I give you my bless...
+
+1206
+01:04:19,457 --> 01:04:21,521
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: We had a deal, <i>chamaco.</i>
+
+1207
+01:04:21,524 --> 01:04:25,159
+{\ blur3.7}Who are you?
+What is the meaning of this?
+
+1208
+01:04:25,162 --> 01:04:27,996
+{\ blur3.7}Oh, Frida! I thought
+you couldn't make it.
+
+1209
+01:04:27,998 --> 01:04:30,164
+{\ blur3.7}You said
+you'd take back my photo.
+
+1210
+01:04:30,167 --> 01:04:31,567
+{\ blur3.7}You promised, Miguel.
+
+1211
+01:04:31,569 --> 01:04:33,602
+{\ blur3.7}You know this, uh, man?
+
+1212
+01:04:33,604 --> 01:04:37,355
+{\ blur3.7}Uh, I just met him tonight.
+He told me he knew you.
+
+1213
+01:04:37,575 --> 01:04:39,607
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> Hector?
+
+1214
+01:04:39,609 --> 01:04:42,893
+{\ blur3.7}Please, Miguel.
+Put my photo up.
+
+1215
+01:04:44,915 --> 01:04:49,051
+{\ blur3.7}My friend,
+you're being forgotten.
+
+1216
+01:04:49,053 --> 01:04:50,685
+{\ blur3.7}And whose fault is that?
+Hector, please...
+
+1217
+01:04:50,687 --> 01:04:53,489
+{\ blur3.7}Those were my songs you took.
+My songs that made you famous.
+
+1218
+01:04:53,491 --> 01:04:54,556
+{\ blur3.7}What?
+
+1219
+01:04:54,558 --> 01:04:56,189
+{\ blur3.7}If I'm being forgotten,
+it's because you never
+
+1220
+01:04:56,192 --> 01:04:58,060
+{\ blur3.7}told anyone that I wrote them!
+
+1221
+01:04:58,062 --> 01:05:01,297
+{\ blur3.7}That's crazy! De la Cruz
+wrote all his own songs.
+
+1222
+01:05:01,299 --> 01:05:03,197
+{\ blur3.7}You want to tell him
+or should I?
+
+1223
+01:05:03,200 --> 01:05:05,600
+{\ blur3.7}Hector, I never meant
+to take credit.
+
+1224
+01:05:05,602 --> 01:05:09,170
+{\ blur3.7}We made a great team,
+but you died...
+
+1225
+01:05:09,172 --> 01:05:11,204
+{\ blur3.7}and I only sang your songs
+
+1226
+01:05:11,207 --> 01:05:14,207
+{\ blur3.7}because I wanted to keep
+a part of you alive.
+
+1227
+01:05:14,210 --> 01:05:15,944
+{\ blur3.7}Oh, how generous!
+
+1228
+01:05:15,946 --> 01:05:18,179
+{\ blur3.7}You really did play together.
+
+1229
+01:05:18,181 --> 01:05:20,515
+{\ blur3.7}I don't want to fight about it.
+
+1230
+01:05:20,517 --> 01:05:22,350
+{\ blur3.7}I just want you
+to make it right.
+
+1231
+01:05:22,352 --> 01:05:26,403
+{\ blur3.7}Miguel can put my photo up, and
+I can cross over the bridge.
+
+1232
+01:05:27,223 --> 01:05:29,122
+{\ blur3.7}I can see my girl.
+
+1233
+01:05:29,124 --> 01:05:32,094
+{\ blur3.7}Ernesto,
+remember the night I left?
+
+1234
+01:05:32,096 --> 01:05:33,629
+{\ blur3.7}That was a long time ago.
+
+1235
+01:05:33,631 --> 01:05:35,263
+{\ blur3.7}We drank together
+and you told me
+
+1236
+01:05:35,265 --> 01:05:37,232
+{\ blur3.7}you would move
+Heaven and Earth...
+
+1237
+01:05:37,234 --> 01:05:41,203
+{\ blur3.7}for your <i>amigo.</i>
+Well, I'm asking you to now.
+
+1238
+01:05:41,205 --> 01:05:43,503
+{\ blur3.7}Heaven and Earth?
+Like in the movie?
+
+1239
+01:05:43,506 --> 01:05:46,241
+{\ blur3.7}What?
+That's Don Hidalgo's toast.
+
+1240
+01:05:46,243 --> 01:05:48,743
+{\ blur3.7}In the de la Cruz movie,
+<i>El Camino a Casa.</i>
+
+1241
+01:05:48,745 --> 01:05:50,144
+{\ blur3.7}I'm talking about
+my real life, Miguel.
+
+1242
+01:05:50,147 --> 01:05:52,982
+{\ blur3.7}No! It's in there. Look!
+
+1243
+01:05:52,984 --> 01:05:54,350
+{\ blur3.7}<font color="#ff8000">DON</font>: <font color="#ff00ff">(ON TV)</font> <i>Never were
+truer words spoken.</i>
+
+1244
+01:05:54,352 --> 01:05:57,517
+{\ blur3.7}<i>This calls for a toast.
+To our friendship!</i> <font color="#ff00ff">(LAUGHS)</font>
+
+1245
+01:05:57,520 --> 01:06:00,221
+{\ blur3.7}<i>I would move Heaven and Earth
+for you,</i> mi amigo.
+
+1246
+01:06:00,223 --> 01:06:03,359
+{\ blur3.7}But in the movie, Don
+Hidalgo poisons the drink.
+
+1247
+01:06:03,361 --> 01:06:06,310
+{\ blur3.7}<font color="#ff8000">DON</font>: Salud!
+<font color="#ff8000">DE LA CRUZ</font>: <i>Poison!</i>
+
+1248
+01:06:08,265 --> 01:06:12,768
+{\ blur3.7}That night, Ernesto.
+The night I left...
+
+1249
+01:06:12,770 --> 01:06:15,370
+{\ blur3.7}<i>We'd been performing
+on the road for months.</i>
+
+1250
+01:06:15,372 --> 01:06:16,672
+{\ blur3.7}<i>I got homesick...</i>
+
+1251
+01:06:16,674 --> 01:06:18,456
+{\ blur3.7}<i>and I packed up my songs.</i>
+
+1252
+01:06:19,009 --> 01:06:20,042
+{\ blur3.7}You want to give up now
+
+1253
+01:06:20,044 --> 01:06:22,511
+{\ blur3.7}when we're this close
+to reaching our dream?
+
+1254
+01:06:22,513 --> 01:06:24,544
+{\ blur3.7}This was your dream.
+You'll manage.
+
+1255
+01:06:24,547 --> 01:06:26,546
+{\ blur3.7}I can't do this
+without your songs, Hector.
+
+1256
+01:06:26,549 --> 01:06:27,715
+{\ blur3.7}I'm going home, Ernesto.
+
+1257
+01:06:27,717 --> 01:06:30,467
+{\ blur3.7}Hate me if you want,
+but my mind is made up.
+
+1258
+01:06:32,256 --> 01:06:33,522
+{\ blur3.7}<font color="#ff00ff">(DOOR OPENS)</font>
+
+1259
+01:06:33,524 --> 01:06:36,792
+{\ blur3.7}Oh, I could never hate you.
+If you must go,
+
+1260
+01:06:36,794 --> 01:06:39,909
+{\ blur3.7}then I'm sending you off
+with a toast.
+
+1261
+01:06:43,465 --> 01:06:44,732
+{\ blur3.7}To our friendship.
+
+1262
+01:06:44,734 --> 01:06:49,352
+{\ blur3.7}I would move Heaven and Earth
+for you, <i>mi amigo. Salud!</i>
+
+1263
+01:06:53,676 --> 01:06:55,444
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: <i>You walked me
+to the train station.</i>
+
+1264
+01:06:55,446 --> 01:06:58,312
+{\ blur3.7}<i>But I felt a pain in my stomach.</i>
+
+1265
+01:06:58,314 --> 01:07:00,582
+{\ blur3.7}<i>I thought it must have been
+something I ate.</i>
+
+1266
+01:07:00,584 --> 01:07:03,085
+{\ blur3.7}Perhaps it was
+that <i>chorizo,</i> my friend.
+
+1267
+01:07:03,087 --> 01:07:05,636
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: <i>Or something I drank.</i>
+
+1268
+01:07:09,060 --> 01:07:10,907
+{\ blur3.7}<i>I woke up dead.</i>
+
+1269
+01:07:12,494 --> 01:07:14,762
+{\ blur3.7}You poisoned me.
+
+1270
+01:07:14,764 --> 01:07:18,299
+{\ blur3.7}You're confusing movies
+with reality, Hector.
+
+1271
+01:07:18,301 --> 01:07:21,951
+{\ blur3.7}All this time, I thought
+it was just bad luck.
+
+1272
+01:07:23,339 --> 01:07:27,058
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: <i>I never thought that
+you might have... That you...</i>
+
+1273
+01:07:28,446 --> 01:07:30,846
+{\ blur3.7}<font color="#ff00ff">(YELLS)</font>
+<font color="#ff00ff">(GROANS)</font>
+
+1274
+01:07:30,848 --> 01:07:32,714
+{\ blur3.7}How could you?
+Hector!
+
+1275
+01:07:32,716 --> 01:07:34,065
+{\ blur3.7}Security! Security!
+
+1276
+01:07:34,718 --> 01:07:38,802
+{\ blur3.7}You took everything
+away from me! You rat!
+
+1277
+01:07:39,756 --> 01:07:43,324
+{\ blur3.7}Have him taken care of.
+He's not well.
+
+1278
+01:07:43,326 --> 01:07:48,111
+{\ blur3.7}I just wanted to go back home.
+No! No!
+
+1279
+01:07:49,265 --> 01:07:52,600
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font> I apologize.
+Where were we?
+
+1280
+01:07:52,602 --> 01:07:54,802
+{\ blur3.7}You were going to give me
+your blessing.
+
+1281
+01:07:54,805 --> 01:07:57,455
+{\ blur3.7}Yes. Uh, <i>Si.</i>
+
+1282
+01:08:00,377 --> 01:08:04,212
+{\ blur3.7}Miguel, uh, my reputation...
+
+1283
+01:08:04,214 --> 01:08:07,683
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES)</font> It is
+very important to me.
+
+1284
+01:08:07,685 --> 01:08:09,785
+{\ blur3.7}I would hate
+to have you think...
+
+1285
+01:08:09,787 --> 01:08:13,820
+{\ blur3.7}That you murdered Hector
+for his songs?
+
+1286
+01:08:13,822 --> 01:08:15,257
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font>
+
+1287
+01:08:15,259 --> 01:08:18,558
+{\ blur3.7}You don't think that.
+Do you?
+
+1288
+01:08:18,561 --> 01:08:23,546
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> I... No. Everyone
+knows you're the good guy.
+
+1289
+01:08:29,772 --> 01:08:32,856
+{\ blur3.7}<i>Papa</i> Ernesto, my blessing?
+
+1290
+01:08:34,811 --> 01:08:39,581
+{\ blur3.7}Security? Take care of Miguel.
+He'll be extending his stay.
+
+1291
+01:08:39,583 --> 01:08:42,718
+{\ blur3.7}What? But I'm your family!
+
+1292
+01:08:42,720 --> 01:08:45,287
+{\ blur3.7}And Hector was my best friend.
+
+1293
+01:08:45,289 --> 01:08:48,689
+{\ blur3.7}Success doesn't
+come for free, Miguel.
+
+1294
+01:08:48,691 --> 01:08:50,857
+{\ blur3.7}You have to be willing to do
+whatever it takes
+
+1295
+01:08:50,860 --> 01:08:54,328
+{\ blur3.7}to seize your moment.
+<font color="#ff00ff">(GASPS)</font>
+
+1296
+01:08:54,330 --> 01:08:55,912
+{\ blur3.7}I know you understand.
+
+1297
+01:08:56,299 --> 01:08:58,848
+{\ blur3.7}No! No!
+
+1298
+01:08:59,169 --> 01:09:00,536
+{\ blur3.7}<font color="#ff00ff">(GRUNTING)</font>
+
+1299
+01:09:00,538 --> 01:09:03,471
+{\ blur3.7}Let go! No!
+
+1300
+01:09:03,473 --> 01:09:05,489
+{\ blur3.7}<font color="#ff00ff">(SCREAMING)</font>
+
+1301
+01:09:09,180 --> 01:09:11,661
+{\ blur3.7}<font color="#ff00ff">(GASPS AND COUGHS)</font>
+
+1302
+01:09:25,896 --> 01:09:30,232
+{\ blur3.7}<font color="#ff00ff">(ECHOING)</font> Help!
+Can anyone hear me?
+
+1303
+01:09:30,234 --> 01:09:32,683
+{\ blur3.7}I want to go home.
+
+1304
+01:09:32,835 --> 01:09:35,485
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+1305
+01:09:47,351 --> 01:09:49,099
+{\ blur3.7}<font color="#ff00ff">(RUSTLING)</font>
+<font color="#ff00ff">(GASPS)</font>
+
+1306
+01:09:51,222 --> 01:09:52,888
+{\ blur3.7}<font color="#ff00ff">(STAMMERS)</font> Hector?
+Kid?
+
+1307
+01:09:52,890 --> 01:09:55,756
+{\ blur3.7}Oh, Hector!
+You were right.
+
+1308
+01:09:55,758 --> 01:09:58,359
+{\ blur3.7}I should have gone
+back to my family.
+
+1309
+01:09:58,361 --> 01:10:00,929
+{\ blur3.7}They told me not
+to be like de la Cruz,
+
+1310
+01:10:00,931 --> 01:10:02,764
+{\ blur3.7}but I didn't listen.
+
+1311
+01:10:02,766 --> 01:10:05,766
+{\ blur3.7}I told them I didn't care
+if they remembered me.
+
+1312
+01:10:05,768 --> 01:10:09,337
+{\ blur3.7}I didn't care if I was
+on their stupid <i>ofrenda.</i>
+
+1313
+01:10:09,339 --> 01:10:12,241
+{\ blur3.7}Hey, <i>chamaco.</i>
+It's okay. It's okay.
+
+1314
+01:10:12,243 --> 01:10:14,859
+{\ blur3.7}I told them I didn't care.
+
+1315
+01:10:16,914 --> 01:10:18,546
+{\ blur3.7}<font color="#ff00ff">(GASPING)</font>
+
+1316
+01:10:18,548 --> 01:10:21,731
+{\ blur3.7}Hector! Hector?
+
+1317
+01:10:22,418 --> 01:10:25,653
+{\ blur3.7}She's forgetting me.
+
+1318
+01:10:25,655 --> 01:10:28,938
+{\ blur3.7}Who?
+My daughter.
+
+1319
+01:10:31,361 --> 01:10:35,796
+{\ blur3.7}She's the reason you wanted
+to cross the bridge.
+
+1320
+01:10:35,798 --> 01:10:39,300
+{\ blur3.7}I just wanted to see her again.
+
+1321
+01:10:39,302 --> 01:10:41,985
+{\ blur3.7}I never should have
+left Santa Cecilia.
+
+1322
+01:10:43,039 --> 01:10:45,039
+{\ blur3.7}I wish I could apologize.
+
+1323
+01:10:45,041 --> 01:10:49,043
+{\ blur3.7}I wish I could tell her that her
+<i>papa</i> was trying to come home.
+
+1324
+01:10:49,045 --> 01:10:51,629
+{\ blur3.7}That he loved her so much.
+
+1325
+01:10:53,950 --> 01:10:55,865
+{\ blur3.7}My Coco...
+
+1326
+01:10:57,787 --> 01:10:59,603
+{\ blur3.7}Coco?
+
+1327
+01:11:15,472 --> 01:11:18,805
+{\ blur3.7}Where did you get this?
+
+1328
+01:11:18,807 --> 01:11:22,625
+{\ blur3.7}That's my <i>Mama</i> Coco.
+That's my <i>Mama</i> Imelda.
+
+1329
+01:11:23,579 --> 01:11:26,663
+{\ blur3.7}Is that you?
+
+1330
+01:11:30,320 --> 01:11:33,803
+{\ blur3.7}We're...
+<font color="#ff8000">BOTH</font>: Family?
+
+1331
+01:11:46,003 --> 01:11:48,703
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: I always hoped
+I'd see her again.
+
+1332
+01:11:48,705 --> 01:11:51,104
+{\ blur3.7}That she'd miss me.
+
+1333
+01:11:51,106 --> 01:11:55,191
+{\ blur3.7}Maybe put up my photo.
+But it never happened.
+
+1334
+01:11:56,347 --> 01:11:58,478
+{\ blur3.7}You know the worst part?
+
+1335
+01:11:58,480 --> 01:12:00,747
+{\ blur3.7}Even if I never got to see
+Coco in the living world...
+
+1336
+01:12:00,749 --> 01:12:04,353
+{\ blur3.7}I thought at least
+one day I'd see her here.
+
+1337
+01:12:04,355 --> 01:12:06,069
+{\ blur3.7}Give her the biggest hug.
+
+1338
+01:12:08,025 --> 01:12:11,858
+{\ blur3.7}But she's the last person
+who remembers me.
+
+1339
+01:12:11,861 --> 01:12:14,128
+{\ blur3.7}The moment she's gone
+from the living world...
+
+1340
+01:12:14,131 --> 01:12:18,032
+{\ blur3.7}You disappear...
+from this one.
+
+1341
+01:12:18,034 --> 01:12:19,900
+{\ blur3.7}You'll never get to see her.
+
+1342
+01:12:19,902 --> 01:12:21,918
+{\ blur3.7}Ever again.
+
+1343
+01:12:24,908 --> 01:12:28,042
+{\ blur3.7}You know,
+I wrote her a song once.
+
+1344
+01:12:28,044 --> 01:12:32,046
+{\ blur3.7}We used to sing it every
+night at the same time.
+
+1345
+01:12:32,048 --> 01:12:34,797
+{\ blur3.7}No matter how far apart we were.
+
+1346
+01:12:35,753 --> 01:12:38,419
+{\ blur3.7}What I wouldn't give
+to sing it to her
+
+1347
+01:12:38,421 --> 01:12:41,370
+{\ blur3.7}one... last... time.
+
+1348
+01:12:43,393 --> 01:12:47,095
+{\ blur3.7}<i>♪ Remember me</i>
+
+1349
+01:12:47,097 --> 01:12:51,949
+{\ blur3.7}<i>♪ Though I have to say
+goodbye Remember me</i>
+
+1350
+01:12:52,902 --> 01:12:55,937
+{\ blur3.7}<i>♪ Don't let it make you cry</i>
+
+1351
+01:12:55,939 --> 01:13:01,808
+{\ blur3.7}<i>♪ For even if I'm far away
+I hold you in my heart</i>
+
+1352
+01:13:01,810 --> 01:13:07,763
+{\ blur3.7}<i>♪ I sing a secret song to
+you Each night we are apart</i>
+
+1353
+01:13:08,685 --> 01:13:11,051
+{\ blur3.7}<i>♪ Remember me</i>
+
+1354
+01:13:11,053 --> 01:13:12,386
+{\ blur3.7}<i>Papa!</i>
+
+1355
+01:13:12,388 --> 01:13:16,739
+{\ blur3.7}<i>♪ Though I have to
+travel far Remember me</i>
+
+1356
+01:13:17,593 --> 01:13:21,529
+{\ blur3.7}<i>♪ Each time
+you hear a sad guitar</i>
+
+1357
+01:13:21,531 --> 01:13:27,417
+{\ blur3.7}<i>♪ Know that I'm with you
+The only way that I can be</i>
+
+1358
+01:13:29,573 --> 01:13:34,056
+{\ blur3.7}<i>♪ Until you're in
+my arms again</i>
+
+1359
+01:13:35,979 --> 01:13:42,732
+{\ blur3.7}<i>♪ Remember me ♪</i>
+
+1360
+01:13:48,490 --> 01:13:52,594
+{\ blur3.7}He stole your guitar.
+He stole your songs.
+
+1361
+01:13:52,596 --> 01:13:56,229
+{\ blur3.7}You should be the one the world
+remembers, not de la Cruz!
+
+1362
+01:13:56,232 --> 01:13:59,000
+{\ blur3.7}I didn't write <i>Remember Me</i>
+for the world.
+
+1363
+01:13:59,002 --> 01:14:00,917
+{\ blur3.7}I wrote it for Coco.
+
+1364
+01:14:02,606 --> 01:14:05,607
+{\ blur3.7}I'm a pretty sorry excuse
+for a great-great-grandpa.
+
+1365
+01:14:05,609 --> 01:14:08,875
+{\ blur3.7}Are you kidding? A minute ago I
+thought I was related to a murderer.
+
+1366
+01:14:08,878 --> 01:14:11,144
+{\ blur3.7}You're a total upgrade.
+
+1367
+01:14:11,146 --> 01:14:13,781
+{\ blur3.7}My whole life,
+there's been something...
+
+1368
+01:14:13,783 --> 01:14:15,515
+{\ blur3.7}that made me different.
+
+1369
+01:14:15,518 --> 01:14:17,801
+{\ blur3.7}And I never knew
+where it came from.
+
+1370
+01:14:18,622 --> 01:14:22,156
+{\ blur3.7}But now I know.
+It comes from you.
+
+1371
+01:14:22,159 --> 01:14:27,028
+{\ blur3.7}I'm proud we're family!
+I'm proud to be his family!
+
+1372
+01:14:27,030 --> 01:14:28,779
+{\ blur3.7}<font color="#ff00ff">(WHOOPING)</font>
+
+1373
+01:14:30,900 --> 01:14:33,350
+{\ blur3.7}<font color="#ff00ff">(WHOOPING)</font>
+
+1374
+01:14:34,037 --> 01:14:36,804
+{\ blur3.7}I'm proud to be his family!
+
+1375
+01:14:36,807 --> 01:14:39,640
+{\ blur3.7}<font color="#ff00ff">(WHOOPING)</font>
+
+1376
+01:14:39,642 --> 01:14:41,858
+{\ blur3.7}<font color="#ff00ff">(ECHOING)</font>
+
+1377
+01:14:47,217 --> 01:14:49,933
+{\ blur3.7}<font color="#ff00ff">(DANTE HOWLING)</font>
+
+1378
+01:14:51,754 --> 01:14:53,654
+{\ blur3.7}Dante?
+
+1379
+01:14:53,656 --> 01:14:56,089
+{\ blur3.7}<font color="#ff00ff">(BARKS)</font>
+Dante!
+
+1380
+01:14:56,091 --> 01:14:58,107
+{\ blur3.7}<font color="#ff00ff">(BARKING)</font>
+
+1381
+01:14:58,662 --> 01:15:00,243
+{\ blur3.7}It's Dante!
+
+1382
+01:15:02,097 --> 01:15:03,480
+{\ blur3.7}<font color="#ff00ff">(ROARS)</font>
+
+1383
+01:15:04,967 --> 01:15:06,283
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font>
+
+1384
+01:15:06,537 --> 01:15:08,986
+{\ blur3.7}<font color="#ff00ff">(LAUGHING)</font>
+
+1385
+01:15:11,842 --> 01:15:15,125
+{\ blur3.7}Imelda!
+Hector.
+
+1386
+01:15:15,546 --> 01:15:17,127
+{\ blur3.7}You look good.
+
+1387
+01:15:22,718 --> 01:15:24,967
+{\ blur3.7}<font color="#ff00ff">(WHIMPERS)</font>
+
+1388
+01:15:26,957 --> 01:15:28,290
+{\ blur3.7}<font color="#ff00ff">(ROARS)</font>
+
+1389
+01:15:28,292 --> 01:15:31,559
+{\ blur3.7}Dante! You knew he was my
+<i>Papa</i> Hector the whole time!
+
+1390
+01:15:31,561 --> 01:15:33,562
+{\ blur3.7}You are a real spirit guide.
+
+1391
+01:15:33,564 --> 01:15:36,096
+{\ blur3.7}Who's the good spirit guide?
+You are!
+
+1392
+01:15:36,098 --> 01:15:37,331
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font>
+
+1393
+01:15:37,333 --> 01:15:40,049
+{\ blur3.7}<font color="#ff00ff">(WHINING)</font>
+
+1394
+01:15:43,106 --> 01:15:44,421
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+1395
+01:15:47,009 --> 01:15:48,325
+{\ blur3.7}Whoa!
+
+1396
+01:15:50,814 --> 01:15:52,428
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font>
+<font color="#ff00ff">(BARKS)</font>
+
+1397
+01:15:55,718 --> 01:15:57,266
+{\ blur3.7}Dante!
+
+1398
+01:15:57,721 --> 01:15:59,268
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+1399
+01:16:00,123 --> 01:16:02,039
+{\ blur3.7}<font color="#ff00ff">(BARKING)</font>
+
+1400
+01:16:09,699 --> 01:16:12,148
+{\ blur3.7}<font color="#ff00ff">(ROARS)</font>
+
+1401
+01:16:20,910 --> 01:16:22,211
+{\ blur3.7}There they are!
+
+1402
+01:16:22,213 --> 01:16:26,563
+{\ blur3.7}<font color="#ff8000">ALL</font>: Miguel! Miguelito! Look, it's Miguel!
+He's all right.
+
+1403
+01:16:28,017 --> 01:16:31,067
+{\ blur3.7}<i>Gracias, Dios mio.
+Que bueno.</i>
+
+1404
+01:16:31,288 --> 01:16:32,603
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font>
+
+1405
+01:16:34,324 --> 01:16:36,072
+{\ blur3.7}<font color="#ff00ff">(SCOFFS)</font>
+
+1406
+01:16:37,860 --> 01:16:39,342
+{\ blur3.7}<font color="#ff00ff">(BARKS)</font>
+
+1407
+01:16:42,665 --> 01:16:43,898
+{\ blur3.7}<font color="#ff00ff">(YELPS)</font>
+
+1408
+01:16:43,900 --> 01:16:45,166
+{\ blur3.7}<font color="#ff00ff">(CHUCKLES)</font>
+
+1409
+01:16:45,168 --> 01:16:47,201
+{\ blur3.7}<i>Mijo,</i> I was so worried!
+
+1410
+01:16:47,204 --> 01:16:49,453
+{\ blur3.7}Thank goodness
+we found you in time.
+
+1411
+01:16:50,406 --> 01:16:53,942
+{\ blur3.7}And you... How many times
+must I turn you away?
+
+1412
+01:16:53,944 --> 01:16:55,209
+{\ blur3.7}Imelda.
+
+1413
+01:16:55,212 --> 01:16:58,412
+{\ blur3.7}I want nothing to do with you!
+Not in life, not in death!
+
+1414
+01:16:58,414 --> 01:17:02,050
+{\ blur3.7}I spent decades protecting
+my family from your mistakes.
+
+1415
+01:17:02,052 --> 01:17:04,051
+{\ blur3.7}He spends five minutes with you
+
+1416
+01:17:04,053 --> 01:17:05,787
+{\ blur3.7}and I have to fish him
+out of a sinkhole!
+
+1417
+01:17:05,789 --> 01:17:07,322
+{\ blur3.7}I wasn't in there
+because of Hector.
+
+1418
+01:17:07,324 --> 01:17:09,957
+{\ blur3.7}He was in there because of me.
+
+1419
+01:17:09,959 --> 01:17:12,227
+{\ blur3.7}He was just
+trying to get me home!
+
+1420
+01:17:12,229 --> 01:17:16,697
+{\ blur3.7}I didn't want to listen,
+but he was right.
+
+1421
+01:17:16,699 --> 01:17:18,981
+{\ blur3.7}Nothing's more
+important than family.
+
+1422
+01:17:19,936 --> 01:17:22,619
+{\ blur3.7}I'm ready
+to accept your blessing.
+
+1423
+01:17:23,039 --> 01:17:25,072
+{\ blur3.7}And your conditions.
+
+1424
+01:17:25,074 --> 01:17:27,375
+{\ blur3.7}But first,
+I need to find de la Cruz.
+
+1425
+01:17:27,377 --> 01:17:29,242
+{\ blur3.7}To get Hector's photo.
+
+1426
+01:17:29,245 --> 01:17:30,944
+{\ blur3.7}What?
+So he can see Coco again.
+
+1427
+01:17:30,946 --> 01:17:32,846
+{\ blur3.7}Hector should be on our <i>ofrenda.</i>
+
+1428
+01:17:32,848 --> 01:17:34,314
+{\ blur3.7}He's part of our family.
+
+1429
+01:17:34,316 --> 01:17:35,782
+{\ blur3.7}He left this family!
+
+1430
+01:17:35,784 --> 01:17:37,452
+{\ blur3.7}He tried to go home
+to you and Coco.
+
+1431
+01:17:37,454 --> 01:17:39,436
+{\ blur3.7}But de la Cruz murdered him!
+
+1432
+01:17:40,390 --> 01:17:42,239
+{\ blur3.7}It's true, Imelda.
+
+1433
+01:17:42,993 --> 01:17:44,458
+{\ blur3.7}And so what if it's true?
+
+1434
+01:17:44,460 --> 01:17:46,961
+{\ blur3.7}You leave me alone
+with a child to raise...
+
+1435
+01:17:46,963 --> 01:17:49,063
+{\ blur3.7}and I'm just
+supposed to forgive you?
+
+1436
+01:17:49,065 --> 01:17:50,998
+{\ blur3.7}Imelda, I... <font color="#ff00ff">(GROANS)</font>
+
+1437
+01:17:51,000 --> 01:17:53,233
+{\ blur3.7}Hector!
+<font color="#ff00ff">(GASPS)</font>
+
+1438
+01:17:53,235 --> 01:17:54,836
+{\ blur3.7}<font color="#ff00ff">(BREATHES SHAKILY)</font>
+
+1439
+01:17:54,838 --> 01:17:58,587
+{\ blur3.7}I'm running out of time.
+It's Coco.
+
+1440
+01:17:59,743 --> 01:18:01,424
+{\ blur3.7}She's forgetting you.
+
+1441
+01:18:02,378 --> 01:18:05,212
+{\ blur3.7}You don't have to forgive him.
+
+1442
+01:18:05,214 --> 01:18:07,530
+{\ blur3.7}But we shouldn't forget him.
+
+1443
+01:18:09,953 --> 01:18:13,354
+{\ blur3.7}I wanted to forget you.
+
+1444
+01:18:13,356 --> 01:18:16,256
+{\ blur3.7}I wanted Coco
+to forget you too, but...
+
+1445
+01:18:16,258 --> 01:18:19,308
+{\ blur3.7}This is my fault.
+Not yours.
+
+1446
+01:18:21,364 --> 01:18:23,512
+{\ blur3.7}I'm sorry, Imelda.
+
+1447
+01:18:27,404 --> 01:18:31,139
+{\ blur3.7}Miguel, if we help you
+get his photo,
+
+1448
+01:18:31,141 --> 01:18:32,873
+{\ blur3.7}you will return home?
+
+1449
+01:18:32,875 --> 01:18:34,458
+{\ blur3.7}No more music?
+
+1450
+01:18:35,412 --> 01:18:38,060
+{\ blur3.7}Family comes first.
+
+1451
+01:18:39,748 --> 01:18:43,199
+{\ blur3.7}I can't forgive you.
+
+1452
+01:18:45,422 --> 01:18:47,371
+{\ blur3.7}But I will help you.
+
+1453
+01:18:48,324 --> 01:18:51,307
+{\ blur3.7}So, how do we get to de la Cruz?
+
+1454
+01:18:52,262 --> 01:18:55,077
+{\ blur3.7}I might know a way.
+
+1455
+01:18:56,900 --> 01:18:59,348
+{\ blur3.7}<font color="#ff00ff">(DRAMATIC MUSIC PLAYING)</font>
+
+1456
+01:19:05,174 --> 01:19:08,325
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE CHEERING)</font>
+
+1457
+01:19:10,446 --> 01:19:12,262
+{\ blur3.7}<font color="#ff00ff">(MUSIC PLAYING)</font>
+
+1458
+01:19:19,788 --> 01:19:21,202
+{\ blur3.7}<font color="#ff00ff">(MUSIC STOPS)</font>
+
+1459
+01:19:23,293 --> 01:19:25,342
+{\ blur3.7}<font color="#ff00ff">(SPOOKY MUSIC PLAYING)</font>
+
+1460
+01:19:45,481 --> 01:19:48,097
+{\ blur3.7}Good luck, <i>muchacho.</i>
+<i>Gracias,</i> Frida.
+
+1461
+01:19:49,186 --> 01:19:51,535
+{\ blur3.7}<font color="#ff00ff">(ALL GRUNTING)</font>
+
+1462
+01:19:52,955 --> 01:19:54,821
+{\ blur3.7}<font color="#ff00ff">(SCREAMS IN PAIN)</font>
+<font color="#ff00ff">(YELPS)</font>
+
+1463
+01:19:54,823 --> 01:19:56,590
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+1464
+01:19:56,592 --> 01:19:59,861
+{\ blur3.7}Here, let me help you with...
+Don't touch me!
+
+1465
+01:19:59,863 --> 01:20:02,130
+{\ blur3.7}Everyone clear on the plan?
+Find Hector's photo.
+
+1466
+01:20:02,132 --> 01:20:03,965
+{\ blur3.7}Give it to Miguel.
+Send Miguel home.
+
+1467
+01:20:03,967 --> 01:20:05,816
+{\ blur3.7}Got your petals?
+<font color="#ff00ff">(BARKS)</font>
+
+1468
+01:20:06,837 --> 01:20:08,468
+{\ blur3.7}Now, we just
+have to find de la Cruz.
+
+1469
+01:20:08,470 --> 01:20:09,785
+{\ blur3.7}Yes?
+<font color="#ff00ff">(SCREAMS)</font>
+
+1470
+01:20:10,606 --> 01:20:12,556
+{\ blur3.7}Don't I know you?
+
+1471
+01:20:13,409 --> 01:20:16,144
+{\ blur3.7}That's for murdering
+the love of my life!
+
+1472
+01:20:16,146 --> 01:20:18,211
+{\ blur3.7}Who... Who the...
+She's talking about me!
+
+1473
+01:20:18,214 --> 01:20:19,514
+{\ blur3.7}I'm the love of your life?
+
+1474
+01:20:19,516 --> 01:20:21,282
+{\ blur3.7}I don't know.
+I'm still angry at you.
+
+1475
+01:20:21,284 --> 01:20:22,617
+{\ blur3.7}Hector!
+How did you... <font color="#ff00ff">(GROANS)</font>
+
+1476
+01:20:22,619 --> 01:20:25,553
+{\ blur3.7}And that's for trying
+to murder my grandson.
+
+1477
+01:20:25,555 --> 01:20:27,956
+{\ blur3.7}Grandson?
+She's talking about me!
+
+1478
+01:20:27,958 --> 01:20:32,125
+{\ blur3.7}You! Wait.
+You're related to Hector?
+
+1479
+01:20:32,127 --> 01:20:33,677
+{\ blur3.7}The photo!
+
+1480
+01:20:35,397 --> 01:20:37,031
+{\ blur3.7}Uh...
+
+1481
+01:20:37,033 --> 01:20:38,748
+{\ blur3.7}After him!
+
+1482
+01:20:39,501 --> 01:20:40,902
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font>
+
+1483
+01:20:40,904 --> 01:20:43,104
+{\ blur3.7}Security! <i>Ayudenme!</i>
+
+1484
+01:20:43,106 --> 01:20:46,174
+{\ blur3.7}You said love of your life.
+I don't know what I said.
+
+1485
+01:20:46,176 --> 01:20:47,590
+{\ blur3.7}That's what I heard.
+
+1486
+01:20:49,879 --> 01:20:52,161
+{\ blur3.7}<font color="#ff00ff">(GRUNTING)</font>
+
+1487
+01:21:00,891 --> 01:21:02,873
+{\ blur3.7}Places, <i>Senor.</i>
+You're on in thirty seconds.
+
+1488
+01:21:04,127 --> 01:21:06,243
+{\ blur3.7}<font color="#ff00ff">(BOTH GRUNTING)</font>
+
+1489
+01:21:07,162 --> 01:21:08,645
+{\ blur3.7}<font color="#ff00ff">(MAMA IMELDA YELPS)</font>
+<font color="#ff00ff">(GASPS)</font>
+
+1490
+01:21:09,431 --> 01:21:12,349
+{\ blur3.7}<font color="#ff00ff">(GRUNTS)</font>
+<i>Ay!</i> Miguel! I have it!
+
+1491
+01:21:12,569 --> 01:21:13,884
+{\ blur3.7}<font color="#ff00ff">(YELPS)</font>
+
+1492
+01:21:15,437 --> 01:21:17,485
+{\ blur3.7}<font color="#ff00ff">(RUMBLING)</font>
+<font color="#ff00ff">(YELPS)</font>
+
+1493
+01:21:21,043 --> 01:21:22,359
+{\ blur3.7}Oh!
+
+1494
+01:21:25,447 --> 01:21:26,861
+{\ blur3.7}<font color="#ff00ff">(SCREAMS)</font>
+
+1495
+01:21:28,284 --> 01:21:29,899
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: Hurry! Come on!
+
+1496
+01:21:31,288 --> 01:21:33,587
+{\ blur3.7}<font color="#ff8000">EMCEE</font>: <i>Ladies and gentlemen...</i>
+
+1497
+01:21:33,589 --> 01:21:39,459
+{\ blur3.7}<i>the one... the only...
+Ernesto de la Cruz!</i>
+
+1498
+01:21:39,461 --> 01:21:42,812
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE CHEERING)</font>
+
+1499
+01:21:48,370 --> 01:21:49,604
+{\ blur3.7}Get her off the stage.
+
+1500
+01:21:49,606 --> 01:21:52,355
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+1501
+01:21:56,212 --> 01:21:58,313
+{\ blur3.7}<font color="#ff00ff">(BREATHING HEAVILY)</font>
+
+1502
+01:21:58,315 --> 01:22:01,364
+{\ blur3.7}Sing! Sing!
+
+1503
+01:22:07,089 --> 01:22:11,775
+{\ blur3.7}<i>♪ Ay, de mi Llorona</i>
+
+1504
+01:22:12,729 --> 01:22:17,414
+{\ blur3.7}<i>♪ Llorona de azul Celeste</i>
+
+1505
+01:22:20,369 --> 01:22:24,005
+{\ blur3.7}<i>♪ Ay, de mi Llorona</i>
+
+1506
+01:22:24,007 --> 01:22:25,237
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE APPLAUDING)</font>
+
+1507
+01:22:25,240 --> 01:22:29,657
+{\ blur3.7}<i>♪ Llorona de azul Celeste</i>
+
+1508
+01:22:31,614 --> 01:22:36,583
+{\ blur3.7}<i>♪ Y aunque la vida
+me cueste, Llorona</i>
+
+1509
+01:22:36,585 --> 01:22:40,254
+{\ blur3.7}<i>♪ No dejare de quererte</i>
+
+1510
+01:22:40,256 --> 01:22:44,358
+{\ blur3.7}<i>♪ No dejare de quererte</i>
+
+1511
+01:22:44,360 --> 01:22:46,508
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE CHEERING)</font>
+
+1512
+01:22:47,364 --> 01:22:50,764
+{\ blur3.7}<i>♪ Me subi Al pino mas alto,
+Llorona</i>
+
+1513
+01:22:50,766 --> 01:22:53,433
+{\ blur3.7}<i>♪ A ver Si Te divisaba</i>
+
+1514
+01:22:53,435 --> 01:22:58,170
+{\ blur3.7}<i>♪ Como El pino era tierno,
+Llorona</i>
+
+1515
+01:22:58,172 --> 01:23:01,309
+{\ blur3.7}<i>♪ Al verme llorar, lloraba</i>
+
+1516
+01:23:01,311 --> 01:23:08,548
+{\ blur3.7}<i>♪ Ay de mi Llorona, Llorona
+Llorona de azul Celeste</i>
+
+1517
+01:23:08,551 --> 01:23:15,455
+{\ blur3.7}<i>♪ Ay de mi Llorona, Llorona
+Llorona de azul Celeste</i>
+
+1518
+01:23:15,457 --> 01:23:19,459
+{\ blur3.7}<i>♪ Y aunque la vida
+me cueste, Llorona</i>
+
+1519
+01:23:19,461 --> 01:23:22,796
+{\ blur3.7}<i>♪ No dejare de quererte</i>
+
+1520
+01:23:22,798 --> 01:23:24,064
+{\ blur3.7}Let go of me!
+
+1521
+01:23:24,066 --> 01:23:26,768
+{\ blur3.7}<i>♪ Y aunque la vida
+me cueste, Llorona</i>
+
+1522
+01:23:26,770 --> 01:23:30,103
+{\ blur3.7}<i>♪ No dejare de quererte</i>
+
+1523
+01:23:30,105 --> 01:23:33,674
+{\ blur3.7}<i>♪ No dejare de quererte</i>
+
+1524
+01:23:33,676 --> 01:23:38,460
+{\ blur3.7}<i>♪ No dejare de quererte</i>
+
+1525
+01:23:38,714 --> 01:23:41,597
+{\ blur3.7}<i>♪ Ay, ay, ay ♪</i>
+
+1526
+01:23:42,685 --> 01:23:44,652
+{\ blur3.7}<font color="#ff00ff">(GROANING)</font>
+
+1527
+01:23:44,654 --> 01:23:47,036
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE CHEERING)</font>
+
+1528
+01:23:47,457 --> 01:23:49,705
+{\ blur3.7}<font color="#ff00ff">(LAUGHING)</font>
+
+1529
+01:23:50,360 --> 01:23:52,426
+{\ blur3.7}I forgot what that felt like.
+
+1530
+01:23:52,428 --> 01:23:55,044
+{\ blur3.7}You still got it.
+
+1531
+01:23:56,065 --> 01:23:58,714
+{\ blur3.7}<font color="#ff00ff">(MIGUEL CLEARS THROAT)</font>
+Oh.
+
+1532
+01:24:01,236 --> 01:24:04,320
+{\ blur3.7}Miguel, I give you my blessing.
+
+1533
+01:24:05,506 --> 01:24:09,509
+{\ blur3.7}To go home, to put up our photos
+
+1534
+01:24:09,512 --> 01:24:11,278
+{\ blur3.7}and to never...
+
+1535
+01:24:11,280 --> 01:24:13,696
+{\ blur3.7}Never play music again.
+
+1536
+01:24:14,650 --> 01:24:19,601
+{\ blur3.7}To never forget how much
+your family loves you.
+
+1537
+01:24:21,824 --> 01:24:23,605
+{\ blur3.7}You're going home.
+
+1538
+01:24:27,129 --> 01:24:29,130
+{\ blur3.7}You're not going anywhere.
+
+1539
+01:24:29,132 --> 01:24:30,774
+{\ blur3.7}<font color="#ff00ff">(BOTH GRUNTING)</font>
+
+1540
+01:24:30,798 --> 01:24:31,866
+{\ blur3.7}Imelda!
+
+1541
+01:24:31,868 --> 01:24:33,300
+{\ blur3.7}<font color="#ff8000">DE LA CRUZ</font>: Stay back!
+Stay back!
+
+1542
+01:24:33,302 --> 01:24:37,536
+{\ blur3.7}All of you, stay back.
+Not one more step.
+
+1543
+01:24:37,538 --> 01:24:39,306
+{\ blur3.7}<font color="#ff00ff">(BARKING)</font>
+
+1544
+01:24:39,308 --> 01:24:40,824
+{\ blur3.7}Dante!
+
+1545
+01:24:41,110 --> 01:24:42,210
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font>
+
+1546
+01:24:42,212 --> 01:24:46,514
+{\ blur3.7}Ernesto, stop!
+Leave the boy alone.
+
+1547
+01:24:46,516 --> 01:24:48,447
+{\ blur3.7}I've worked too hard, Hector.
+
+1548
+01:24:48,449 --> 01:24:50,785
+{\ blur3.7}Too hard to let him
+destroy everything.
+
+1549
+01:24:50,787 --> 01:24:52,854
+{\ blur3.7}<font color="#ff8000">HECTOR</font>: He's a living child, Ernesto.
+
+1550
+01:24:52,856 --> 01:24:54,454
+{\ blur3.7}He's a threat! <font color="#ff00ff">(ECHOES)</font>
+
+1551
+01:24:54,456 --> 01:24:56,290
+{\ blur3.7}<i>You think I'd let him go back</i>
+
+1552
+01:24:56,292 --> 01:24:58,290
+{\ blur3.7}<i>to the Land of the Living
+with your photo?</i>
+
+1553
+01:24:58,293 --> 01:25:01,362
+{\ blur3.7}To keep
+your memory alive? No.
+
+1554
+01:25:01,364 --> 01:25:04,232
+{\ blur3.7}You're a coward!
+I am Ernesto de la Cruz.
+
+1555
+01:25:04,234 --> 01:25:06,166
+{\ blur3.7}The greatest musician
+of all time!
+
+1556
+01:25:06,168 --> 01:25:08,135
+{\ blur3.7}Hector's the real musician.
+
+1557
+01:25:08,137 --> 01:25:09,437
+{\ blur3.7}<i>You're just the guy
+who murdered him</i>
+
+1558
+01:25:09,439 --> 01:25:10,671
+{\ blur3.7}<i>and stole his songs!</i>
+<font color="#ff00ff">(ALL GASP)</font>
+
+1559
+01:25:10,673 --> 01:25:11,838
+{\ blur3.7}Murdered?
+
+1560
+01:25:11,841 --> 01:25:13,773
+{\ blur3.7}I am the one who's willing to do
+
+1561
+01:25:13,775 --> 01:25:15,791
+{\ blur3.7}what it takes
+to seize my moment.
+
+1562
+01:25:16,212 --> 01:25:17,927
+{\ blur3.7}Whatever it takes.
+
+1563
+01:25:18,647 --> 01:25:21,415
+{\ blur3.7}<font color="#ff00ff">(SCREAMING)</font>
+No!
+
+1564
+01:25:21,417 --> 01:25:23,482
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE EXCLAIMING)</font>
+
+1565
+01:25:23,484 --> 01:25:25,653
+{\ blur3.7}<font color="#ff8000">MAMA IMELDA AND OSCAR</font>:
+Miguel!
+
+1566
+01:25:25,655 --> 01:25:29,406
+{\ blur3.7}Apologies, old friend.
+But the show must go on.
+
+1567
+01:25:30,360 --> 01:25:32,776
+{\ blur3.7}<font color="#ff00ff">(SCREAMING)</font>
+
+1568
+01:25:36,399 --> 01:25:38,114
+{\ blur3.7}<font color="#ff00ff">(CONTINUES SCREAMING)</font>
+
+1569
+01:25:44,908 --> 01:25:46,955
+{\ blur3.7}<font color="#ff00ff">(CONTINUES SCREAMING)</font>
+
+1570
+01:25:52,749 --> 01:25:54,597
+{\ blur3.7}<font color="#ff00ff">(ROARS)</font>
+
+1571
+01:26:03,226 --> 01:26:04,936
+{\ blur3.7}<font color="#ff00ff">(INHALES SHARPLY)</font>
+
+1572
+01:26:04,960 --> 01:26:06,693
+{\ blur3.7}<font color="#ff00ff">(LAUGHS)</font>
+
+1573
+01:26:06,695 --> 01:26:10,546
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE BOOING)</font>
+
+1574
+01:26:11,366 --> 01:26:14,234
+{\ blur3.7}<font color="#ff00ff">(LAUGHING)</font> Please,
+please, <i>mi familia.</i>
+
+1575
+01:26:14,236 --> 01:26:16,304
+{\ blur3.7}<font color="#ff8000">MAN</font>: Murderer!
+<font color="#ff00ff">(AUDIENCE JEERING)</font>
+
+1576
+01:26:16,306 --> 01:26:18,804
+{\ blur3.7}Orchestra.
+A-one, a-two, a-one...
+
+1577
+01:26:18,806 --> 01:26:21,309
+{\ blur3.7}<font color="#ff00ff">(AUDIENCE BOOING)</font>
+
+1578
+01:26:21,311 --> 01:26:24,578
+{\ blur3.7}<i>♪ Remember me
+Though I have to s... ♪</i>
+
+1579
+01:26:24,580 --> 01:26:25,880
+{\ blur3.7}Hey!
+
+1580
+01:26:25,882 --> 01:26:26,980
+{\ blur3.7}<font color="#ff00ff">(BOOING CONTINUES)</font>
+
+1581
+01:26:26,982 --> 01:26:28,497
+{\ blur3.7}Look!
+
+1582
+01:26:41,864 --> 01:26:45,114
+{\ blur3.7}<font color="#ff00ff">(GROWLING)</font>
+<font color="#ff00ff">(CHUCKLES NERVOUSLY)</font>
+
+1583
+01:26:48,637 --> 01:26:51,005
+{\ blur3.7}Nice kitty.
+<font color="#ff00ff">(ROARS)</font>
+
+1584
+01:26:51,007 --> 01:26:54,242
+{\ blur3.7}<font color="#ff00ff">(SCREAMING)</font>
+
+1585
+01:26:54,244 --> 01:26:58,745
+{\ blur3.7}Put me down! No, please! I beg of you!
+Stop! Stop! No!
+
+1586
+01:26:58,747 --> 01:27:00,830
+{\ blur3.7}<font color="#ff00ff">(DE LA CRUZ SCREAMING)</font>
+
+1587
+01:27:07,423 --> 01:27:09,038
+{\ blur3.7}No! No!
+
+1588
+01:27:09,726 --> 01:27:10,857
+{\ blur3.7}<font color="#ff00ff">(CLANGS)</font>
+
+1589
+01:27:10,860 --> 01:27:11,957
+{\ blur3.7}<font color="#ff00ff">(GROANS)</font>
+
+1590
+01:27:11,960 --> 01:27:13,275
+{\ blur3.7}<font color="#ff00ff">(CREAKS)</font>
+<font color="#ff00ff">(GASPS)</font>
+
+1591
+01:27:16,498 --> 01:27:19,148
+{\ blur3.7}<font color="#ff00ff">(ALL CHEERING)</font>
+
+1592
+01:27:20,570 --> 01:27:21,867
+{\ blur3.7}What did I miss?
+
+1593
+01:27:21,869 --> 01:27:23,671
+{\ blur3.7}Good boy, Dante!
+
+1594
+01:27:23,673 --> 01:27:24,988
+{\ blur3.7}Miguel!
+
+1595
+01:27:25,307 --> 01:27:26,406
+{\ blur3.7}<font color="#ff00ff">(HECTOR GROANS)</font>
+
+1596
+01:27:26,408 --> 01:27:30,745
+{\ blur3.7}Hector!
+The photo... I lost it!
+
+1597
+01:27:30,747 --> 01:27:33,680
+{\ blur3.7}It's okay, <i>mijo.</i>
+It's o... <font color="#ff00ff">(GROANING)</font>
+
+1598
+01:27:33,682 --> 01:27:36,598
+{\ blur3.7}Hector! Hector?
+
+1599
+01:27:37,486 --> 01:27:38,617
+{\ blur3.7}Coco.
+
+1600
+01:27:38,620 --> 01:27:41,055
+{\ blur3.7}No! We can still
+find the photo.
+
+1601
+01:27:41,057 --> 01:27:43,006
+{\ blur3.7}Miguel, it's almost sunrise.
+
+1602
+01:27:43,959 --> 01:27:45,725
+{\ blur3.7}No, no. I can't leave you.
+
+1603
+01:27:45,727 --> 01:27:48,296
+{\ blur3.7}I promised
+I'd put your photo up.
+
+1604
+01:27:48,298 --> 01:27:50,430
+{\ blur3.7}I promised you'd see Coco.
+
+1605
+01:27:50,432 --> 01:27:52,815
+{\ blur3.7}We're both out of time, <i>mijo.</i>
+
+1606
+01:27:53,770 --> 01:27:57,037
+{\ blur3.7}Oh no! No!
+She can't forget you!
+
+1607
+01:27:57,039 --> 01:28:01,222
+{\ blur3.7}I just wanted her to know
+that I loved her.
+
+1608
+01:28:02,378 --> 01:28:03,443
+{\ blur3.7}Hector!
+
+1609
+01:28:03,445 --> 01:28:05,760
+{\ blur3.7}You have our blessing, Miguel.
+
+1610
+01:28:05,981 --> 01:28:08,515
+{\ blur3.7}No conditions.
+
+1611
+01:28:08,517 --> 01:28:11,633
+{\ blur3.7}No! <i>Papa</i> Hector, please!
+
+1612
+01:28:15,490 --> 01:28:16,838
+{\ blur3.7}No!
+
+1613
+01:28:17,793 --> 01:28:18,960
+{\ blur3.7}Go home.
+
+1614
+01:28:18,962 --> 01:28:22,178
+{\ blur3.7}I promise I won't let Coco forget you!
+<font color="#ff00ff">(SCREAMS)</font>
+
+1615
+01:28:37,680 --> 01:28:39,061
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+
+1616
+01:28:39,981 --> 01:28:41,697
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+1617
+01:28:49,057 --> 01:28:50,772
+{\ blur3.7}There he is!
+<font color="#ff00ff">(GROANS)</font>
+
+1618
+01:28:51,793 --> 01:28:53,875
+{\ blur3.7}Miguel! Stop!
+
+1619
+01:28:55,798 --> 01:28:57,346
+{\ blur3.7}<font color="#ff00ff">(PANTING)</font>
+
+1620
+01:28:58,834 --> 01:29:00,400
+{\ blur3.7}Where have you been?
+<font color="#ff00ff">(GASPS)</font>
+
+1621
+01:29:00,402 --> 01:29:02,068
+{\ blur3.7}I need to see <i>Mama</i> Coco, please.
+
+1622
+01:29:02,070 --> 01:29:05,138
+{\ blur3.7}What are you doing with that...
+Give it to me!
+
+1623
+01:29:05,140 --> 01:29:08,943
+{\ blur3.7}Miguel, stop!
+Miguel! Miguel!
+
+1624
+01:29:08,945 --> 01:29:10,876
+{\ blur3.7}<font color="#ff00ff">(POUNDING ON DOOR)</font>
+
+1625
+01:29:10,879 --> 01:29:15,415
+{\ blur3.7}<i>Mama</i> Coco? Can you hear me?
+It's Miguel.
+
+1626
+01:29:15,417 --> 01:29:20,086
+{\ blur3.7}I saw your <i>papa.</i>
+Remember? <i>Papa?</i>
+
+1627
+01:29:20,088 --> 01:29:26,493
+{\ blur3.7}Please! If you forget him,
+he'll be gone. Forever.
+
+1628
+01:29:26,495 --> 01:29:27,995
+{\ blur3.7}<font color="#ff8000">PAPA</font>: Miguel,
+open this door!
+
+1629
+01:29:27,997 --> 01:29:30,831
+{\ blur3.7}Here. This was
+his guitar, right?
+
+1630
+01:29:30,833 --> 01:29:32,315
+{\ blur3.7}He used to play it to you?
+
+1631
+01:29:34,971 --> 01:29:39,005
+{\ blur3.7}See? There he is! <i>Papa!</i>
+
+1632
+01:29:39,007 --> 01:29:41,222
+{\ blur3.7}Remember? <i>Papa?</i>
+
+1633
+01:29:44,646 --> 01:29:45,712
+{\ blur3.7}<font color="#ff00ff">(KNOCKING ON DOOR)</font>
+<font color="#ff8000">PAPA</font>: Miguel!
+
+1634
+01:29:45,714 --> 01:29:48,798
+{\ blur3.7}<i>Mama</i> Coco, please!
+Don't forget him.
+
+1635
+01:29:53,088 --> 01:29:55,088
+{\ blur3.7}<font color="#ff00ff">(KEYS JANGLING)</font>
+<font color="#ff00ff">(DOOR UNLOCKS)</font>
+
+1636
+01:29:55,090 --> 01:29:57,056
+{\ blur3.7}What are you doing
+to that poor woman?
+
+1637
+01:29:57,058 --> 01:29:58,558
+{\ blur3.7}It's okay, <i>Mamita.</i>
+It's okay.
+
+1638
+01:29:58,561 --> 01:29:59,826
+{\ blur3.7}<font color="#ff8000">PAPA</font>: What's gotten into you?
+
+1639
+01:29:59,828 --> 01:30:01,811
+{\ blur3.7}<font color="#ff00ff">(SOBBING)</font>
+
+1640
+01:30:06,502 --> 01:30:08,169
+{\ blur3.7}I thought I'd lost you, Miguel.
+
+1641
+01:30:08,171 --> 01:30:09,835
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: I'm sorry, <i>Papa.</i>
+
+1642
+01:30:09,837 --> 01:30:13,188
+{\ blur3.7}We're all together now.
+That's what matters.
+
+1643
+01:30:13,909 --> 01:30:15,175
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: Not all of us.
+
+1644
+01:30:15,177 --> 01:30:17,576
+{\ blur3.7}It's okay, <i>Mamita.</i>
+
+1645
+01:30:17,579 --> 01:30:20,829
+{\ blur3.7}Miguel, you apologize
+to your <i>Mama</i> Coco.
+
+1646
+01:30:22,685 --> 01:30:25,835
+{\ blur3.7}<font color="#ff00ff">(SNIFFLES)</font> <i>Mama</i> Coco?
+<font color="#ff00ff">(THUDS)</font>
+
+1647
+01:30:30,159 --> 01:30:32,340
+{\ blur3.7}Well? Apologize!
+
+1648
+01:30:36,031 --> 01:30:38,497
+{\ blur3.7}<i>Mama</i> Coco?
+
+1649
+01:30:38,499 --> 01:30:42,184
+{\ blur3.7}Your <i>papa,</i>
+he wanted you to have this.
+
+1650
+01:30:42,738 --> 01:30:43,837
+{\ blur3.7}<font color="#ff00ff">(STRUMS GUITAR)</font>
+
+1651
+01:30:43,839 --> 01:30:45,772
+{\ blur3.7}<font color="#ff00ff">(GASPS)</font>
+<i>Mama,</i> wait!
+
+1652
+01:30:45,774 --> 01:30:49,959
+{\ blur3.7}<i>♪ Remember me</i>
+
+1653
+01:30:50,913 --> 01:30:53,879
+{\ blur3.7}<i>♪ Though I have
+to say goodbye</i>
+
+1654
+01:30:53,882 --> 01:30:57,117
+{\ blur3.7}<i>♪ Remember me</i>
+
+1655
+01:30:57,119 --> 01:30:59,953
+{\ blur3.7}<i>♪ Don't let it make you cry</i>
+
+1656
+01:30:59,955 --> 01:31:03,724
+{\ blur3.7}<i>♪ For even if I'm far away</i>
+
+1657
+01:31:03,726 --> 01:31:09,729
+{\ blur3.7}<i>♪ I hold you in my heart
+I sing a secret song to you</i>
+
+1658
+01:31:09,731 --> 01:31:13,214
+{\ blur3.7}<i>♪ Each night we are apart</i>
+
+1659
+01:31:13,636 --> 01:31:17,638
+{\ blur3.7}<i>♪ Remember me</i>
+
+1660
+01:31:17,640 --> 01:31:21,574
+{\ blur3.7}<i>♪ Though I have
+to travel far</i>
+
+1661
+01:31:21,576 --> 01:31:24,211
+{\ blur3.7}<font color="#ff8000">BOTH</font>: <i>♪ Remember me</i>
+
+1662
+01:31:24,213 --> 01:31:29,182
+{\ blur3.7}<i>♪ Each time
+you hear a sad guitar</i>
+
+1663
+01:31:29,185 --> 01:31:35,036
+{\ blur3.7}<i>♪ Know that I'm with you
+The only way that I can be</i>
+
+1664
+01:31:36,726 --> 01:31:41,277
+{\ blur3.7}<i>♪ Until you're in
+my arms again</i>
+
+1665
+01:31:42,964 --> 01:31:49,851
+{\ blur3.7}<i>♪ Remember me ♪</i>
+
+1666
+01:31:55,011 --> 01:31:56,175
+{\ blur3.7}<font color="#ff00ff">(SNIFFLES)</font>
+
+1667
+01:31:56,177 --> 01:31:59,845
+{\ blur3.7}Elena? What's wrong, <i>mija?</i>
+
+1668
+01:31:59,847 --> 01:32:04,333
+{\ blur3.7}<font color="#ff00ff">(SNIFFLES)</font> Nothing, <i>Mama.</i>
+Nothing at all.
+
+1669
+01:32:05,288 --> 01:32:08,854
+{\ blur3.7}My <i>papa</i> used
+to sing me that song.
+
+1670
+01:32:08,856 --> 01:32:12,125
+{\ blur3.7}<font color="#ff00ff">(SNIFFLES)</font>
+He loved you, <i>Mama</i> Coco.
+
+1671
+01:32:12,127 --> 01:32:16,145
+{\ blur3.7}Your <i>papa</i> loved you so much.
+
+1672
+01:32:34,316 --> 01:32:38,318
+{\ blur3.7}I kept his letters.
+
+1673
+01:32:38,320 --> 01:32:43,038
+{\ blur3.7}Poems he wrote me. And...
+
+1674
+01:33:02,143 --> 01:33:05,345
+{\ blur3.7}<i>Papa</i> was a musician.
+
+1675
+01:33:05,347 --> 01:33:07,813
+{\ blur3.7}When I was a little girl...
+
+1676
+01:33:07,815 --> 01:33:13,435
+{\ blur3.7}he and <i>Mama</i> would sing
+such beautiful songs.
+
+1677
+01:33:26,067 --> 01:33:27,701
+{\ blur3.7}<font color="#ff8000">TOUR GUIDE</font>: And right over here,
+
+1678
+01:33:27,703 --> 01:33:30,170
+{\ blur3.7}one of Santa Cecilia's
+greatest treasures.
+
+1679
+01:33:30,172 --> 01:33:34,675
+{\ blur3.7}The home of the esteemed
+song writer, Hector Rivera.
+
+1680
+01:33:34,677 --> 01:33:36,143
+{\ blur3.7}The letters Hector wrote home
+
+1681
+01:33:36,145 --> 01:33:38,312
+{\ blur3.7}for his daughter, Coco,
+contain the lyrics...
+
+1682
+01:33:38,314 --> 01:33:40,247
+{\ blur3.7}for all of your favorite songs.
+
+1683
+01:33:40,249 --> 01:33:42,231
+{\ blur3.7}Not just <i>Remember Me.</i>
+
+1684
+01:33:43,851 --> 01:33:45,919
+{\ blur3.7}<font color="#ff00ff">(CHILDREN LAUGHING)</font>
+
+1685
+01:33:45,921 --> 01:33:48,154
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: And that man
+is your <i>Papa</i> Julio.
+
+1686
+01:33:48,156 --> 01:33:51,391
+{\ blur3.7}And there's <i>Tia</i> Rosita
+and your <i>Tia</i> Victoria.
+
+1687
+01:33:51,393 --> 01:33:55,028
+{\ blur3.7}And those two
+are Oscar and Felipe.
+
+1688
+01:33:55,030 --> 01:33:57,697
+{\ blur3.7}These aren't just old pictures,
+they're our family...
+
+1689
+01:33:57,699 --> 01:34:00,081
+{\ blur3.7}and they're counting on us
+to remember them.
+
+1690
+01:34:17,453 --> 01:34:23,138
+{\ blur3.7}<font color="#ff8000">MIGUEL</font>: <i>♪ Say that I'm
+crazy or call me a fool</i>
+
+1691
+01:34:26,262 --> 01:34:29,028
+{\ blur3.7}<font color="#ff00ff">(DINGS)</font>
+Enjoy your visit, Hector.
+
+1692
+01:34:29,030 --> 01:34:34,015
+{\ blur3.7}<i>♪ But last night it seemed
+that I dreamed about you</i>
+
+1693
+01:34:36,972 --> 01:34:40,040
+{\ blur3.7}<i>Papa!</i>
+<font color="#ff00ff">(CHUCKLES)</font> Coco!
+
+1694
+01:34:40,042 --> 01:34:44,911
+{\ blur3.7}<i>♪ When I opened my mouth
+what came out was a song</i>
+
+1695
+01:34:44,914 --> 01:34:51,000
+{\ blur3.7}<i>♪ And you know every word
+and we all sang along</i>
+
+1696
+01:34:53,055 --> 01:34:58,024
+{\ blur3.7}<i>♪ To a melody played
+on the strings of our souls</i>
+
+1697
+01:34:58,026 --> 01:35:02,962
+{\ blur3.7}<i>♪ And a rhythm that rattled
+us down to the bone</i>
+
+1698
+01:35:02,964 --> 01:35:08,116
+{\ blur3.7}<i>♪ Our love for each other
+will live on forever</i>
+
+1699
+01:35:09,203 --> 01:35:14,340
+{\ blur3.7}<i>♪ In every beat
+of my proud corazon</i>
+
+1700
+01:35:14,342 --> 01:35:19,112
+{\ blur3.7}<i>♪ Our love for each other
+will live on forever</i>
+
+1701
+01:35:19,114 --> 01:35:20,180
+{\ blur3.7}<font color="#ff00ff">(BARKS)</font>
+
+1702
+01:35:20,182 --> 01:35:25,200
+{\ blur3.7}<i>♪ In every beat
+of my proud corazon</i>
+
+1703
+01:35:28,423 --> 01:35:32,792
+{\ blur3.7}<i>♪ Ay mi familia
+Oiga mi gente</i>
+
+1704
+01:35:32,794 --> 01:35:36,796
+{\ blur3.7}<i>♪ Canten a coro
+Let it be known</i>
+
+1705
+01:35:36,798 --> 01:35:40,466
+{\ blur3.7}<i>♪ Our love for each other
+will live on forever</i>
+
+1706
+01:35:40,468 --> 01:35:45,171
+{\ blur3.7}<i>♪ In every beat
+of my proud corazon</i>
+
+1707
+01:35:45,173 --> 01:35:49,208
+{\ blur3.7}<i>♪ Ay mi familia
+Oiga mi gente</i>
+
+1708
+01:35:49,210 --> 01:35:53,146
+{\ blur3.7}<i>♪ Canten a coro
+Let it be known</i>
+
+1709
+01:35:53,148 --> 01:35:57,117
+{\ blur3.7}<i>♪ Our love for each other
+will live on forever</i>
+
+1710
+01:35:57,119 --> 01:36:01,804
+{\ blur3.7}<i>♪ In every beat
+of my proud corazon ♪</i>
+
+1711
+01:36:04,560 --> 01:36:07,076
+{\ blur3.7}<font color="#ff00ff">(ALL CHEERING)</font>
+
+1712
+01:36:07,078 --> 01:36:09,395
+
+1713
+01:36:09,397 --> 01:36:12,531
+{\ blur3.7}<i>♪ Remember me</i>
+
+1714
+01:36:12,533 --> 01:36:17,752
+{\ blur3.7}<i>♪ Though I have to say
+goodbye Remember me</i>
+
+1715
+01:36:18,507 --> 01:36:21,440
+{\ blur3.7}<i>♪ Don't let it make you cry</i>
+
+1716
+01:36:21,442 --> 01:36:27,113
+{\ blur3.7}<i>♪ For even if I'm far away
+I hold you in my heart</i>
+
+1717
+01:36:27,115 --> 01:36:32,219
+{\ blur3.7}<i>♪ I sing a secret song to
+you Each night we are apart</i>
+
+1718
+01:36:32,221 --> 01:36:35,221
+{\ blur3.7}<i>♪ Remember me</i>
+
+1719
+01:36:35,223 --> 01:36:40,459
+{\ blur3.7}<i>♪ Though I have to
+travel far Remember me</i>
+
+1720
+01:36:40,461 --> 01:36:44,297
+{\ blur3.7}<i>♪ Each time
+you hear a sad guitar</i>
+
+1721
+01:36:44,299 --> 01:36:49,568
+{\ blur3.7}<i>♪ Know that I'm with you
+The only way that I can be</i>
+
+1722
+01:36:49,571 --> 01:36:54,541
+{\ blur3.7}<i>♪ Until you're in
+my arms again</i>
+
+1723
+01:36:54,543 --> 01:36:56,559
+{\ blur3.7}<i>♪ Remember me</i>
+
+1724
+01:37:00,348 --> 01:37:03,465
+{\ blur3.7}<font color="#ff00ff">(CONTINUES SINGING IN SPANISH)</font>
+
+1725
+01:37:52,467 --> 01:37:55,402
+{\ blur3.7}<i>♪ If you close your eyes
+and let the music play</i>
+
+1726
+01:37:55,404 --> 01:37:58,272
+{\ blur3.7}<i>♪ Keep our love alive
+I'll never fade away</i>
+
+1727
+01:37:58,274 --> 01:38:01,108
+{\ blur3.7}<i>♪ If you close your eyes
+and let the music play</i>
+
+1728
+01:38:01,110 --> 01:38:04,144
+{\ blur3.7}<i>♪ Keep our love alive
+I'll never fade away</i>
+
+1729
+01:38:04,146 --> 01:38:06,680
+{\ blur3.7}<i>♪ If you close your eyes
+and let the music play</i>
+
+1730
+01:38:06,682 --> 01:38:12,600
+{\ blur3.7}<i>♪ Keep our love alive
+I'll never fade away</i>
+
+1731
+01:38:13,689 --> 01:38:17,291
+{\ blur3.7}<i>♪ Remember me</i>
+
+1732
+01:38:17,293 --> 01:38:22,261
+{\ blur3.7}<i>♪ For I will soon be gone
+Remember me</i>
+
+1733
+01:38:22,263 --> 01:38:25,698
+{\ blur3.7}<i>♪ And let the love
+we have live on</i>
+
+1734
+01:38:25,700 --> 01:38:31,438
+{\ blur3.7}<i>♪ And know that I'm with you
+the only way that I can be</i>
+
+1735
+01:38:31,440 --> 01:38:36,343
+{\ blur3.7}<i>♪ So, until you're
+on my arms again</i>
+
+1736
+01:38:36,345 --> 01:38:38,326
+{\ blur3.7}<i>♪ Remember me</i>
+
+1737
+01:38:42,083 --> 01:38:46,533
+{\ blur3.7}<i>♪ Remember me</i>
+
+1738
+01:38:47,623 --> 01:38:50,638
+{\ blur3.7}<i>♪ Remember me ♪</i>
+

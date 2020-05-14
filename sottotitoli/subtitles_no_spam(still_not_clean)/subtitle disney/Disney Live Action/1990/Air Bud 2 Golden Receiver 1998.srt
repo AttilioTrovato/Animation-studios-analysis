@@ -1,0 +1,1074 @@
+{1606}{1666}- [Dog Barking]|- Come on, boy, let's go!
+{1669}{1726}Let's go, boy. Come on!
+{1729}{1848}- All right, go! Hey! Oh!|- [ Barking ]
+{2037}{2088}Take a shot.
+{2091}{2186}Yeah, good boy!|All right.
+{2276}{2367}Come on, Buddy.
+{2370}{2427}Good shot.
+{2489}{2570}Here! Let's get it!
+{2573}{2661}[ Groaning, Laughing ]
+{2664}{2727}All right, boy,|here's my--
+{2867}{2964}All right, boy.|This is game point. Let's go.
+{3095}{3214}-[Beeping]|- [ Barking ]
+{3220}{3283}- [ Beeping Stops ]|- Oh, man. We gotta go, boy.
+{3568}{3623}Hey, Mom.|Sorry we're late.
+{3626}{3698}- Hi, Josh.|- [Woman] Who won?
+{3701}{3755}- [ Barks ]|- Stop bragging.
+{3758}{3853}- [ Girl ] Buddy won?|- Get your coat.
+{3856}{3932}Sorry, Buddy.|You can't go.
+{3935}{4029}- Love you. Bye.|- [ Whimpers ]
+{4236}{4326}[ Chattering ]
+{4569}{4672}- Why can't Buddy come?|- Zip up your coat.
+{4675}{4762}All right, boy.|I'll give you the play by play|when I get back, all right?
+{4765}{4845}- Okay, buckle up.|- You got your seat belt on?
+{4848}{4972}-[Girl] Yes, of course I do.|-[josh] Too bad|Buddy couldn't come.
+{5184}{5276}[Crowd Cheering]
+{5279}{5361}Got tickets here.|Who needs tickets?
+{5364}{5421}I have tickets.
+{5460}{5525}Yo, tickets!|I got tickets.
+{5561}{5633}Tickets here.|Come on.
+{5709}{5790}- [ Blows Whistle ]|- [ Grunts ]
+{5891}{5957}Tickets!|I got tickets!
+{6104}{6182}[Announcer, Indistinct]
+{6999}{7080}[Crowd Cheers]
+{7290}{7362}My dog can shoot|better than that!
+{7365}{7423}Uh, you mean like|that dog over there?
+{7569}{7641}Oh, no!
+{7644}{7723}[ Clamoring ]
+{7726}{7792}What's going on here?
+{7795}{7855}[ Groans ]|Come here!
+{7857}{7935}- [ Barks ]|- [ Cheering ]
+{8265}{8327}- ...A dog!|- Sorry.
+{8372}{8481}[ Both Groaning ]
+{8484}{8562}- It's over there!|- Go, go, go, go!
+{8612}{8675}[Man]|Grab 'im!Grab 'im!
+{8678}{8739}[ Cheering ]
+{9001}{9076}Looking for this?
+{9082}{9215}-[Crowd Cheering]|- This dog's got|a mean jump shot.
+{9218}{9331}- Thanks, Mr. Blue.|-[Man]Hey, guys,|how 'bout a picture?
+{9794}{9884}Hey, Tom, I gotta take Buddy|to the vet after school tomorrow.
+{9887}{9943}It's kind of|a two-man job.
+{9946}{9994}- You can count on me, Keemosabee.|- Hello, boys.
+{10029}{10092}- Hello, Mrs. Salter.|- Hello, Mrs. Salter.
+{10095}{10189}Hey, you know what the best thing|about the eighth grade is?
+{10192}{10303}- What's that?|- [Tom] The girls|have turned into women.
+{10341}{10413}Hi, Tammy.
+{10519}{10623}- She likes me so much she's speechless.|- Yeah, right.
+{10626}{10722}She'll like me even more|when she sees me in a football uniform.
+{10725}{10867}- Football uniform?|What are you talking about?|- Women dig football players,
+{10870}{10962}- so I'm going out for the team.|- You're kidding, right?
+{10965}{11057}No. I've been working out|all summer.
+{11060}{11126}[ Scoffs ]|Yeah, well, anyway, Tom,
+{11132}{11190}you can't play football.|I mean, you're a basketball player.
+{11193}{11319}- Well, Deion Sanders played two sports.|-[BelI Rings]
+{11322}{11393}[ Whining ]
+{11396}{11490}[Bleating]
+{11493}{11589}[Dogs Barking]
+{11708}{11802}-Josh, they're all|lookin' at us funny.|-[Cat Meows]
+{11805}{11942}So what?|You know Buddy hates the vet.
+{11945}{12002}Buddy Framm.
+{12005}{12088}- [ Both Grunting ]|- [ Whimpering ]
+{12091}{12187}[josh]|Come on, Buddy.
+{12358}{12421}I take it he's|a little nervous.
+{12424}{12518}Whoa! Oh!
+{12521}{12641}- Where's Dr. Ragland?|- He's taking a year's sabbatical.
+{12644}{12706}- I'm filling in.|My name's Patrick Sullivan.|- Hi. I'm Josh.
+{12709}{12784}- This is Buddy.|- Hello, Buddy.
+{12787}{12929}Look at you.|What a handsome dog. Good dog.
+{12932}{13039}- Let's get him up on the table.|- All right. Come on, boy.
+{13045}{13116}He doesn't really like the vet.|He might need some help.
+{13119}{13203}Come on, boy.|[ Chuckles ]
+{13206}{13285}- Okay.|- [ Barking ]
+{13288}{13401}Oh, good. Okay, okay.|Hold still.
+{13455}{13570}- What are you doin'?|-Just making sure|everything's in place.
+{13573}{13633}Spinal column feels right.
+{13636}{13710}No slipped disks.
+{13713}{13788}Muscle tone is good.
+{13791}{13894}Yeah. Your dog|could run a marathon.
+{13897}{13954}Or play basketball.|[ Groans ]
+{13957}{14040}Play basketball?|That's a good one.
+{14093}{14150}Looks like Buddy's due|for his distemper shot.
+{14153}{14222}Oh, uh, you might|want to use the straps.
+{14225}{14283}Buddy's not ver ygood|with needles.
+{14286}{14396}- Oh, I don't think he's going anywhere.|- All right.
+{14420}{14456}If you say so.
+{14507}{14613}- [ Gagging ]|- There, see? Nothing to be afraid of.
+{14658}{14729}[ Groans ]
+{14732}{14789}[Tom Moaning]|I'm okay.
+{14979}{15083}[Woman With Russian Accent]|Let's try it again.
+{15086}{15166}|" Hello, children,|and welcome...
+{15172}{15347}to Natalya's Amazing and Stupendous|Animal Circus."
+{15350}{15460}[Parrot Squawks]Show me the money.|Show me the money.
+{15463}{15611}One more time.|" Hello, children,
+{15614}{15754}- and welcome to Natalya's--"|- I'm back, my little mackerel.
+{15757}{15869}- [ Groans ]|- [ Parrot ] I'm king of the world!
+{15872}{15932}Idiot!
+{15935}{16006}How many times|do I have to tell you?
+{16009}{16122}Never interrupt me|when I am throttling a performer!
+{16125}{16203}- Sorry, Natalya.|-And this place...
+{16209}{16297}- stinks like fishes!|- It's all I could find|on our budget.
+{16300}{16428}But look.|I brought you the Amazing Mortimer.
+{16431}{16530}- What is so amazing about him?|- Watch this.
+{16624}{16681}- Ooh!|- [ Gasps ]
+{16770}{16839}[ Cackling ]
+{17001}{17076}So. We go back|to Russia now?
+{17079}{17144}No! My circus|is not complete.
+{17147}{17210}We still need to find|a main attraction.
+{17213}{17304}There has been another in a series|Of animal abductions.
+{17310}{17436}A prize chimpanzee was stolen|from a home in downtown Seattle.
+{17439}{17510}Police are baffled|as to the motive.
+{17513}{17573}All right. Time now|for something special.
+{17576}{17631}...Number one circus in Russia.|Do you know why?
+{17634}{17756}Move aside, Air Jordan,|and make way for Air Bud,|the newest top dog in basketball.
+{17759}{17849}- During yesterday's game,|- We have to find|the perfect creature!
+{17852}{17979}...Stole his way onto the court|and into our Play of the Week.
+{17980}{18062}- Take a look.|- [People Cheering]
+{18068}{18184}- What's this?|- [ Chittering ]
+{18238}{18298}[ Laughing ]|He's good!
+{18304}{18377}What do you think,|Mortimer, huh?
+{18499}{18629}We have found|our main attraction.
+{18752}{18811}Food. Yes.
+{18814}{18892}There we go.|What about this?
+{19090}{19162}- Wow. Hungry?|- Starving.
+{19203}{19308}So, uh, who was that|on the phone?
+{19311}{19441}Oh, that was, um,|just a guy from work. Herb.
+{19447}{19551}Oh. What did he want?
+{19554}{19669}Well, he wanted to know|if he could take me to the movies.
+{19672}{19744}So it's a date?
+{19935}{20015}Does it weird you out?
+{20018}{20139}No. Doesn't matter.|You should go on a date, Mom.
+{20309}{20367}Oh, mayonnaise.
+{20609}{20706}Hey! Buddy!
+{20745}{20802}[ Belches ]
+{20867}{20977}So, uh, you must be " Erb."|I'm Josh.
+{21022}{21137}It's, uh, H-erb.
+{21185}{21256}[ Sneezes ]
+{21307}{21386}Do you have a, uh,
+{21389}{21437}- cat?|- Uh--
+{21440}{21530}No, but-but I have a dog.|Come here, Buddy.
+{21532}{21640}- Hey, come here, boy.|- [Herb Sneezes]
+{21643}{21716}Oh. Oh.
+{21758}{21821}Oh! [ Sneezes ]
+{21967}{22026}[ Sneezes ]
+{22068}{22177}[Sneezes]
+{22180}{22281}- Bye, Herb.|-[Door Closes]
+{22359}{22504}- Where's Herb?|- Um, well, he kinda had to run.
+{22507}{22584}- [ Whines ]|- These are for you.
+{22798}{22929}So. You're Richard.
+{22932}{23015}That's right.|I'm in Legal.
+{23121}{23190}Oh, my.
+{23193}{23300}I must be in the wrong house.|I was expecting jackie Framm,
+{23303}{23372}not Cindy Crawford.
+{23717}{23820}I don't know. You know,|I'm not just thinking about myself.
+{23823}{23909}I'm also thinking|About Josh and Andrea.
+{23912}{23995}Maybe it's too soon|for me to be dating.
+{23998}{24073}Do you think|it's too soon?
+{24106}{24188}[ Sighs ]
+{24194}{24313}- Maybe I'm just not meant|to fallin love again.|- [ Barks ]
+{24316}{24412}[Buddy Barking, jackie Whimpering]
+{24415}{24470}Buddy, it's a ramp!|It's a ramp!
+{24473}{24592}Buddy!
+{24646}{24764}Buddy! Buddy! Buddy!
+{24767}{24904}- Whoa, hey!|-Sorry!
+{24907}{24976}- [ Barking ]|- Did you see what you just did?
+{24979}{25044}B-B-B-Buddy!
+{25047}{25104}[ Screams ]
+{25110}{25216}No! No! Look out!
+{25222}{25300}[ Both Groan ]
+{25347}{25431}Are we...|rushing things?
+{25617}{25710}-[josh]Um, Mom?|- Hi, sweetie.
+{25867}{25938}So, where's this vet|taking you?
+{25941}{26016}I don't know.|He wants to surprise me.
+{26019}{26096}Hmm. So, uh, what time...
+{26102}{26175}- are you planning to be home?|- Well--
+{26178}{26289}Now, when did you become the mom|and me the adolescent?
+{26292}{26396}- Oh. Sorry.|- [Door bell Rings]
+{26399}{26487}Josh, be nice.
+{26628}{26708}- Hi.|- Hi.
+{26711}{26768}Wow. You look beautiful.
+{26771}{26838}You look rumpled.
+{26841}{26966}[Patrick]|Oh, yeah. I left my iron in San Diego.
+{26969}{27043}Better than leaving your heart|in San Francisco.
+{27046}{27097}[jackie, Patrick Laughing]
+{27100}{27172}Hey, there he is.|Hi, Buddy.
+{27175}{27242}Hi, Andrea. Whoa.
+{27245}{27317}- Hi, Patrick.|- Hey, josh.
+{27320}{27379}- Hey, Dr. Sullivan.|- Hey, I heard you were into sports.
+{27382}{27451}Got you something.
+{27454}{27563}- Oh.|- I started playing|when I was about your age.
+{27566}{27667}- Gee, thanks.|- You ever play?
+{27670}{27793}Um, well, no, actually.|Basketball's kind of my sport.
+{27796}{27890}But thanks.|It's nice.
+{27976}{28077}Well, I guess we better go.|Uh, Josh, no TV after 9:00.
+{28083}{28179}- And I've written down|Mrs. Clumsky's phone number--|- I know, Mom.
+{28182}{28279}Okay. All right.|I love you guys.
+{28282}{28357}- Bye, sweetie.|- Good to see you again,Josh.
+{28360}{28467}Yeah. Good to see you too.|[ Sighs ]
+{28470}{28528}Josh, you left|the garage open.
+{28531}{28627}- Oh. Sorry.|-[Door Closes]
+{29450}{29559}Let's go, boy.|Come on.
+{29789}{29865}Stayin' out here, boy?
+{29868}{29943}Allright.
+{31018}{31075}Oh!
+{31164}{31269}- How did this get in here?|- [ Barks ]
+{31276}{31437}§§ [ Calliope Music ]
+{31440}{31530}[Natalya]I told you to get|plain white truck.
+{31533}{31624}Not musical truck.
+{31627}{31734}It was good deal.|It came with all the ice cream|you could eat.
+{31737}{31788}[Brakes Squealing]
+{31992}{32100}[Natalya]Stupid boy and dog.|Wait a minute!
+{32103}{32204}- [ Brakes Squealing ]|- That was our boy and dog!
+{32207}{32316}§§§§[Continues]
+{32319}{32397}-[Brakes Squealing]|-[Man]Natalya!Ow!Ooh!
+{32450}{32513}They've been on|four dates already.
+{32516}{32607}You know what happens|after four dates, don't you?
+{32610}{32691}- What's that?|- Speed dial.
+{32694}{32780}- Speed dial?|- Yeah.
+{32825}{32882}If his number's been|programmed into your speed dial,
+{32885}{32955}you might as well|shop for your tuxedo.
+{33119}{33187}[Natalya]|When doggy gets close,
+{33190}{33262}- we nab him with net.|-[Laughing]Got it.
+{33265}{33341}- Nab him with net.|- It will be piece of pie.
+{33389}{33452}And if he buys you a gift,
+{33535}{33595}he's trying to bribe you.
+{33598}{33656}Bribe me to do what?
+{33659}{33734}Call him dad.
+{33965}{34048}Nice.
+{34051}{34132}- [ Groans ]|- Oh, my! Oh, my!
+{34138}{34209}[ Both Groaning ]
+{34360}{34459}[ Both ] Whoa!
+{34462}{34560}[ Snorting ]
+{34693}{34786}-[Door Creaking]|-[Tom]Hey, check the speeddial.
+{34875}{34960}Hey, Josh.|You got a great arm.
+{34963}{35064}I'm not going out|for the team, Tom.
+{35067}{35133}[ Woman On Phone ]|Fern field Napkin Factory.|How may I direct your call?
+{35136}{35196}Oh, sorry.|Wrong number.
+{35199}{35282}- Would you just think about it?|- No.
+{35285}{35342}[jackie, Patrick Talking]
+{35540}{35630}- [ Woman ]|- Oh, sorry, Grandma.|Wrong number.
+{35633}{35766}- Uh, it's Josh. Love you. Bye.|-[Phone Beeps]
+{35802}{35864}He comes here|every afternoon.
+{35867}{35965}Well, you know,|football practice is every afternoon.
+{35968}{36098}Hmm. He's helping my mom|build the gazebo.
+{36101}{36209}Oh! Oh!|[ Laughs ]
+{36212}{36383}Oh. That's worse|than speed dial, buddy.
+{36386}{36467}[ Patrick] Hi. This is Patrick.|Leave a message after the beep.
+{36470}{36527}[Phone Beeps]
+{36758}{36836}When's the next|football practice?
+{37002}{37059}Touchdown.
+{37102}{37177}-[Whistle Blows]|- [ Groans ]
+{37314}{37392}[ Doing Cheers ]
+{37395}{37453}[ Groans ]
+{37662}{37741}Uh! Oh! Oh!
+{37744}{37789}-[Whistle Blows]|-[Man]Cole!
+{37792}{37878}- Take five. Low, remember?|Use those legs.|- Uh--
+{37881}{38006}- Get underneath there.|- Uh, excuse--|Excuse us, Coach Fanelli.
+{38009}{38069}- Yeah?|- I'm Tom. He's josh.
+{38075}{38184}We were wondering|if you've still got room|for a couple more players.
+{38187}{38273}I always got room|for players on my team.
+{38276}{38351}- What positions do you play?|- I'm wide receptor.
+{38357}{38436}- [ Laughs ] Receiver.|- Uh, yeah.
+{38439}{38553}-And you?|- Oh, well, I'm, you know,|whatever. I mean, I could--
+{38556}{38633}He's a quarterback.|He's got a killer arm.
+{38636}{38748}Really. Let's see.|Uh, here, Tom. Here.
+{38751}{38862}You, uh, put this on.|Go ahead. Go deep.|Toward the end zone.
+{38865}{38930}Deep.
+{38933}{39022}Come on.|Let's see that killer arm.
+{39025}{39109}Okay, let 'er rip.
+{39286}{39382}- [ Groans ]|- [Fanelli Groans]
+{39385}{39485}- Mr. Receptor will fit right in.|- Yeah.
+{39488}{39581}Nice arm.|I could use a backup quarterback.
+{39584}{39739}- W-What's a backup do?|- You back up Cole Powers|over there.
+{39742}{39812}He's the hottest quarterback|in the league right now.|You might not get much playing time.
+{39815}{39955}- Oh. That's okay.|- You sure? My practices|are no picnic, capisce?
+{39958}{40017}Well, yeah.|I-l-l think I can handle it.
+{40020}{40077}Okay. All right, come on.|Once around the field.
+{40080}{40137}- Full out. Go.|- Now?
+{40140}{40246}Go ahead. Now.|Go, go! Come on, go!
+{40252}{40308}- Go! Hit it! Let's go!|- [ Groaning ]
+{40314}{40392}[ Whistle Blowing ]
+{40614}{40689}[ Clamoring ]
+{40692}{40746}[ All Panting ]
+{40822}{40879}[ Groaning ]
+{41021}{41162}- [ Groans ]|- [ Whistle Blows ]
+{41354}{41405}Hey, Tammy.
+{41811}{41910}[Andrea]|Like some more tea, Buddy?
+{42017}{42079}[Door Opens]
+{42323}{42379}Hi.
+{42500}{42563}Hmm! What's bugging him?
+{42700}{42815}- [ Groans ]|-[Andrea] What a mess!
+{42878}{42935}[ Groans ]
+{42988}{43089}[Groaning]Ow.
+{43092}{43222}- You joined the football team?|- Yeah.
+{43225}{43324}- Yeah. I love football.|- Since when?
+{43327}{43383}Um, well, since, uh--
+{43386}{43485}-since l, uh, talked to--|- Mm-hmm.
+{43540}{43621}I'll, uh, put this in the wash.
+{43624}{43710}- Okay.|- Bring down your pants too.
+{43713}{43770}All right.
+{43915}{44010}Oh, not now, boy.|My head hurts.
+{44168}{44244}[josh]It's never going to work, Tom.|I just know it.
+{44247}{44322}Traveling doctors are worse|than traveling salesmen.
+{44325}{44396}He's probably got a woman|in every port.
+{44399}{44501}We'll just go in there|and check it out, all right?
+{44504}{44571}- Whatever.|-[Patrick]|What seems to be the trouble?
+{44574}{44643}- His tail bone.|- His hip bone.
+{44726}{44804}- Which is it?|- Mm, his tail.
+{44807}{44907}You know, the bone|in his tail.
+{44910}{45008}Yeah, you know, his tail, it just hasn't|been it self lately, you know?
+{45011}{45068}Mm, you know, no wag.
+{45103}{45157}No wag?
+{45163}{45247}Well, yeah, I mean,|there's something wrong|with a tail that doesn't wag.
+{45250}{45308}Yeah. Exactly.
+{45362}{45421}Yeah, so, uh--
+{45424}{45484}Oh, um--
+{45487}{45556}Well, you see,|Tom and I kind of figured out...
+{45559}{45626}that-that it only wags|when he's lying down.
+{45629}{45686}[Tom]Not when he's standing.|You know what I mean?
+{45757}{45932}Hmm. Well, it, uh,|looks fine to me,
+{45935}{46003}but if it'll make|you boys feel better,
+{46006}{46066}uh, I'll get it x-rayed|just to make sure.
+{46072}{46155}- Oh, great.|- Good idea.
+{46158}{46215}Come on, Buddy.
+{46260}{46300}I'll be right back.
+{46303}{46360}- Thank you.|- Yeah.
+{46363}{46431}Tom--
+{46434}{46494}I don't feel right about this.|I mean--
+{46497}{46557}What are you looking for,|anyways?
+{46560}{46678}Anything that'll show that this guy's|a roaming Romeo.
+{46791}{46875}I mean, this is a waste of time.|I mean, he's gonna catch us.
+{46878}{46952}- Let's go, all right?|- Wait, wait, hold--|Wait a minute.
+{46955}{47046}Wait a minute.
+{47049}{47136}Wait a minute.|Wait, wait, wait.
+{47139}{47195}Got it.
+{47576}{47664}- [ Sighs ]|- Come on, Buddy.
+{47715}{47771}[Door Closes]
+{47774}{47870}Buddy's tail|checks out just fine.
+{47873}{47956}[josh]Oh, that's great.|Th-That's great.
+{47959}{48023}- Thanks.|- Come on, Buddy.
+{48026}{48137}- Thanks, Dr. Sullivan.|- Patrick. You can call me Patrick.
+{48143}{48232}Patrick. Okay, thanks.
+{48235}{48295}[Door Closes]
+{48725}{48781}[ Sighs ]
+{48823}{48898}What have I got myself into?
+{48901}{48960}[ Sighing ]
+{49033}{49177}- [ Barking ]|- Stop it, boy. Buddy! Stop it.
+{49180}{49269}[ Whimpering ]
+{49305}{49378}[Playful Barking]
+{49381}{49503}I don't want to play. Buddy!
+{49899}{49991}[ Growling ]
+{49994}{50061}[ Gasps ]|Oh, man!
+{50064}{50207}You could play football. [ Chuckles ]|Holy cow.
+{50210}{50273}Go! Go, boy. Go!
+{50318}{50409}- [ Grunts ]|- [ Growls ]
+{50466}{50540}Hey, boy.
+{50543}{50618}Hey! Bring that back!
+{50621}{50730}- Hey, Buddy!|- [Barking]
+{50745}{50805}Hey--
+{50808}{50864}[ Barking ]
+{50971}{51046}Aw, you,|get off me! Buddy--
+{51104}{51173}- [ Laughing ]|-[Barking]
+{51176}{51265}Good catch! Bring it, boy.|Come on, bring it.
+{51298}{51358}Hey, give it!
+{51361}{51419}-[Barking]|- [ Laughing ]
+{51497}{51577}Hey, come on.|Come here!
+{51836}{51889}- [ Panting Heavily]|- Come on.
+{51928}{51984}Come here, boy.
+{52341}{52429}Here, boy. Here you go.|I'm late for my first game, all right?
+{52432}{52498}I know, I wish|you could play too, but--
+{52501}{52587}- Miss you. Bye-bye.|- [ Whimpers ]
+{52590}{52647}[Door Closing]
+{52650}{52741}[Children Shouting]
+{52744}{52816}[Fanelli]I been a volunteer coach|for 14years.
+{52819}{52908}[Pepper]I nearly blew a gasket|about it, jimmy, but...
+{52911}{52973}the school board isn't|budging on this one.
+{52976}{53051}[ Sighs ]|They're all moaning that...
+{53054}{53166}you haven't had|a winning season in ten years.
+{53172}{53279}Attendance is down,|and the football program is expensive.
+{53282}{53351}Winning isn't what|kid's football's all about.
+{53354}{53463}I know. The school board|gave me a choice.
+{53466}{53571}At the end of the season, I can either|drop the football program...
+{53573}{53660}- That's not even an option.|- or...
+{53663}{53733}I, uh, let you go.
+{53936}{54097}[ Sighs ] Oh, I'm sorry. It's just--|It's out of my hands.
+{54430}{54503}§§§§[Marching Band]
+{54554}{54631}Right, girls.|Come on. Come on.
+{54634}{54785}Kick it! Kick it!
+{54991}{55074}[Metal Banging]
+{55077}{55134}[ Groaning ]
+{55204}{55291}Weeble? You forgot something.
+{55294}{55374}- Oh! Thanks, Goose.|- You're welcome.
+{55558}{55647}Jeez. You look like|you seen a ghost.
+{55650}{55707}-[Banging Continues]|- What's wrong? You got butterflies?
+{55710}{55810}Tom, why would I have butterflies?|I'm a bench-warmer, remember?
+{55813}{55888}Hey. Listen up, boys.
+{55891}{55947}[ Panting ]
+{56007}{56096}All right, come on.|Let's get out there and win|this one for the home team!
+{56102}{56159}Yeah, yeah.|[ Clapping ]
+{56162}{56262}- Let's win!|- [Tom]Razzle-dazzle!
+{56265}{56330}Yeah, right, Tom.
+{56333}{56390}[Door Bangs]
+{56538}{56622}[ Sighs ]|Hey! Let's go.
+{56625}{56723}Yeah, sure, Coach.
+{56726}{56835}Welcome, everyone,|to the open in game...
+{56838}{56951}- of the Fern field|Junior High football team!|-[Sparse Cheering]
+{57178}{57239}- [ Screaming ]|- [ Grunting, Thudding ]
+{57275}{57352}[ Screaming, Yelling ]
+{57415}{57524}- [Cheerleaders, Indistinct]|- Ohh! Oooh.
+{57527}{57569}Let's go, baby. We got 'em!
+{57575}{57614}Let's go, big guy!
+{57617}{57694}- Let's hit somebody, all right?|-[Cheerleaders Continue]
+{57697}{57769}Hi.
+{57772}{57893}§§ Go fight Winston|Boogie on down|All right, all right§§
+{57896}{57952}§§ Go fight Winston|Boogie on down|All right, all right§§
+{57955}{58009}-[Whistles]|- All right.
+{58012}{58092}§§§§["Comin' 'Round|The Mountain" Over P.A.]
+{58152}{58264}[Natalya]Remember—we go|into back yard, we grab pooch,
+{58267}{58380}- then we make like banana, and peel.|- You mean "split."
+{58648}{58707}Hello, I'd like|a nice cream bar.
+{58758}{58812}And my sister would like|a chocolate swirl.
+{58815}{58873}We're all out|Of chocolate swirls,
+{58876}{58968}but um, we have fudge stick|with candy sprinkles.
+{58971}{59061}-[Truck Door Slams]|-[Natalya]|We have no sprinkles! Go away!
+{59129}{59186}Idiot!
+{59313}{59390}-[Thumping On Roof]|- Did you hear something?
+{59456}{59513}- We follow!|- Aah!
+{59601}{59685}[Quarterback]|Thirty-three! Thirty-three!
+{59688}{59744}-[Chattering]|- Hike!
+{59987}{60071}Yeah, Tom. Yeah, Tom.|Yeah, yeah, Tom, yeah--
+{60127}{60208}-[Crowd Groans]|-[Fanelli]Aww.
+{60257}{60359}Yeah. Gonna be a long season.
+{60362}{60418}§§§§["Comin' 'Round The Mountain"]
+{60490}{60599}[Popov]|Look! He's running. Faster!
+{60638}{60715}[ Yelling ]
+{60718}{60796}[Pepper]Cole's running.|He's running with it!
+{60799}{60905}[Fanelli]|Yes, Cole! Yes, baby! Yes!
+{60908}{61027}[Pepper]|Run, Cole!Ru-u-un!
+{61030}{61149}Yes! Ru-u-un!
+{61155}{61230}Yes! Yes! Yes!
+{61236}{61318}Touchdown! Yea!
+{61366}{61437}- Yes! Yes!|- [Pepper On P.A.]Cole Powers!
+{61440}{61518}[Cheering, Applauding]
+{61521}{61633}- §§ [ Music Continues ]|- Yes.
+{61636}{61708}[Popov]|Stop the truck!
+{61851}{61936}[Natalya]Let's go!
+{61937}{62061}Catch him. Hurry! Hurry! Hurry!|He's getting away!
+{62156}{62231}[ Cackling ]|We've got him now!
+{62285}{62373}That's it!|People, kids, dogs--
+{62376}{62483}I'm sick and tired...
+{62486}{62555}- of every body running through my yard!|- [ Groaning, Whimpering ]
+{62715}{62786}[Popov]|Oh, he's getting away!
+{62789}{62894}[Pepper On P.A.]|High snap. Cole's picked it up.
+{62956}{63059}He's running!|He's at the 30.
+{63101}{63161}- Forty!|- [ Grunting, Groaning ]
+{63202}{63320}- Oh, no.|- Oh, no. Cole's down.|Nate, Mullin, come here.
+{63323}{63407}- [ Whining ]|- [ Groaning ]
+{63410}{63490}-[Man]Come on, Cole! Come on, buddy.|Getup! Okay.|- [ Whistles ]
+{63493}{63580}[Pepper]|Cole is hurt!
+{63644}{63701}[Pepper]|Is he all right?
+{63704}{63761}[ Chattering ]
+{63820}{63901}[Man]It's all right, Cole.|Good work. He's okay!
+{63904}{63984}- Easy now. Watch it.|- Good work, Cole.
+{64057}{64114}Hey, Ned, take him|right into the trainers.
+{64117}{64191}You'll be all right, son.|Just hold it still.
+{64194}{64281}All right, he'll be all right.|Powers got a dislocated shoulder.
+{64284}{64375}- Pudge?|- H-He can play with that,|though, right, Coach?
+{64378}{64444}[ Sighs ]|I'm afraid not, son.
+{64447}{64530}Josh, you gonna be fine.|All right, come on. Get in there.
+{64533}{64605}Come on!|Open up with B-52. Go.
+{64654}{64741}-[Whistling]|-[juan] There goes our shot|at a winning season.
+{64744}{64854}Give him time.|He'll be fine.
+{64857}{64937}Hey, Josh is going in.
+{64940}{65021}[Pepper On P.A.]|It, uh, looks like josh Framm,
+{65024}{65136}number eight,|is stepping in to take the helm.
+{65139}{65202}- Break a leg!|-[Feed back Squeals]
+{65291}{65348}So, what's the call, Josh?
+{65351}{65427}- Call. Good question.|- Oh, we're gonna die.
+{65430}{65570}- Give him a break.|- All right, B-52. Break!
+{65573}{65636}Tom, which one's B-52?
+{65639}{65697}Crossing pattern. Deep.
+{65781}{65837}All right! Ready--
+{65840}{65924}B-52! Down!
+{65927}{65998}Josh! Over here.
+{66001}{66080}- Oh!|-[Crowd Laughing]
+{66125}{66215}All right!
+{66221}{66310}[ Growling, Snarling ]
+{66464}{66532}B! Fifty-two!
+{66535}{66613}Ready, down, set--
+{66616}{66695}Hike! Hike!
+{66794}{66862}He's open!|He's open!
+{66954}{67044}I'm wide open!
+{67047}{67102}[ Growling ]
+{67153}{67237}- [ Gasps ]|- [ Whimpers ]
+{67240}{67296}- [ Groans ]|- [ Groans ]
+{67341}{67432}Oh, dear.
+{67435}{67519}[Whistle Blows]
+{67522}{67596}[ Sighs ]
+{67686}{67744}Great.|[ Grunts ]
+{67747}{67834}Oh!|[ Groans ]
+{67950}{68015}Hang in there, defense.|Hang in there.
+{68018}{68075}[Cheerleaders]|Let's go, defense, let's go!
+{68078}{68154}Let's go, defense,|let's go!
+{68157}{68214}Come on, it ain't|the end of the world.
+{68217}{68273}Come on, put one up|on these clowns.
+{68354}{68460}-[Fanelli] You're the man, josh!|- [ Whimpering ]
+{68793}{68879}[Belching Sound]
+{68882}{68969}All right, guys, let's try B-52 again.|Trust me, it'll work this time.
+{68972}{69028}- Ready?|- [ All ] Break!
+{69164}{69233}-[Whimpering]|-[josh]B!
+{69236}{69310}Fifty-two! Down!
+{69313}{69388}Set! Hike!
+{69391}{69464}[Fanelli]|He's open, he's open!
+{69467}{69557}- [Pepper]josh is going long!|- [ Whimpers ]
+{69661}{69749}[Pepper]|And it's a perfect pass...
+{69752}{69845}right to... a dog.
+{69848}{69985}- Buddy.|- [Pepper]|There is a dog on the field,
+{69988}{70062}and he's doing a lot better|than the Trojans.
+{70600}{70683}[Pepper]|And touch down!
+{70686}{70758}Yes!
+{70977}{71045}So that's the famous|Air Bud, huh?
+{71048}{71135}Amazing dog.|Great form.
+{71138}{71208}Reminds me a lot|of Fred Biletnikoff.
+{71211}{71274}Except he's better|lookin' than Fred.
+{71402}{71459}You all right?
+{71520}{71607}You know, you got a great arm|on ya out there, son,
+{71610}{71741}but i-it's like  you're playin' for all|the wrong reasons.
+{71744}{71817}Football's all about|havin' fun.
+{71820}{71927}That's gotta be|your bottom line, Josh.
+{71930}{71999}Come on.|Seeya, boy.
+{72085}{72178}[ Growling ]
+{72181}{72263}I know you want|to play on the team, boy.
+{72266}{72335}But you just can't,|you know?
+{72346}{72412}'Cause football's|not like basketball.
+{72415}{72521}'Cause you might get hurt,|and I don't want you to get hurt, do l?
+{72524}{72605}And you gotta wear equipment,|and a helmet--
+{72608}{72670}I know it's not fair.
+{73110}{73167}[Barking]
+{73561}{73615}Hey, boy.
+{73909}{73965}Perfect.
+{74213}{74280}Boy? Try this on?
+{74405}{74498}[ Fanelli ] All right, guys.|Come on, come on.
+{74501}{74613}Now, guys, meet me halfway here.|Stop. We got a lot of work to do here.
+{74738}{74837}-[Barking]|- [ All Laughing ]
+{74840}{74951}- [Fanelli] What's this?|- Got a new wide receptor for ya.
+{74954}{75023}- What is this? Some kind of a joke?|- Well, no.
+{75026}{75124}I mean, like you said,|there's always room on your team|for a couple more players.
+{75130}{75184}Come on, dogs|don't play football.
+{75187}{75263}Yeah, they don't play|basketball either, right?
+{75269}{75341}Come on, Coach.|We'll be the laughingstock|of the league!
+{75344}{75433}Have you all forgotten?|We've been the laughingstock of|The league for the last decade!
+{75436}{75532}All right, all right.|Fellas, fellas, fellas!|Come on-- whoa, whoa!
+{75535}{75593}Quiet down here.|Come on.
+{75665}{75781}- Why you doin' this,Josh?|- Ready to have some fun, Coach.
+{75784}{75859}Bottom line.
+{75862}{75945}[ Chuckles ]|All right!
+{75948}{76048}Let's see what|this pooch is made of.
+{76051}{76140}- Go! Ten! Hike, hike!|- [Whistle Blows]
+{76215}{76336}- [Whistle Blows]|- Up, down. Kickers too, Vaughn. Down.
+{76339}{76458}No knees, Weeble.|Up, dow--
+{76461}{76533}- That's the way to do it, boys.|- [Barking]
+{76839}{76909}Yeah!
+{76982}{77091}I tell you one thing, boys.|That ain't no golden retriever--
+{77094}{77186}that there's|a golden receiver.
+{77192}{77325}He-h-hey, there he is! Say hello|To your new teammate, fellas!
+{77394}{77576}[ Out Of Tune ]|§ O'er the la-and §
+{77579}{77709}§§ Of the free§§
+{77712}{77910}§§And the home§§
+{77913}{78007}-§§ Of the§§|- [ Whining ]
+{78011}{78128}- § Brave §§|-[Buddy Howling]
+{78131}{78199}[Cheering]
+{78205}{78304}§§§§[Marching Band]
+{78392}{78493}All right, come on now.|Let's go, let's go! Come on.
+{78496}{78574}- That's it. Good boy.|- Who do we appreciate?|Timberwolves, timberwolves!
+{78577}{78653}- Rah, rah, rah!|-[Whistle Blows]
+{78755}{78907}Ahh! We're gonna kick|some Ram butt today. I can feel it.
+{78933}{78990}[ Screams ]
+{79093}{79185}Since when are you|Mr. Confident?
+{79188}{79317}Since I got my hands|on a genuine Jerry Rice nose-spreader.
+{79320}{79378}-[Fanelli]Come on, now.|Hit some body out there.|- Okay, Coach. No problem.
+{79381}{79503}I don't want to see|a green shirt standin; all right?|Let's go, offense!
+{79506}{79566}All right, Josh.|You know what to do.
+{79611}{79672}Hey, Buddy, just like|we practiced. Let's go.
+{79675}{79836}-[Pepper]Kick it, girls.|- What's your favorite color?|Navy blue and gold!
+{80207}{80285}[Josh ] All right, guys.|B-52 on two.
+{80288}{80364}-[Man]Oh, that's so cute!|-[Barks Loudly]
+{80585}{80664}- B! Fifty-two! Down!|- What is this?
+{80667}{80736}Set! Hike, hike!
+{80808}{80870}[ Barks ]
+{81089}{81170}- [ Blows Whistle ]|- Yeah!
+{81713}{81797}[ Cheering, Indistinct ]
+{81916}{82002}[Josh ] Let's do red 48, all right?|On two.
+{82213}{82272}What the-- Hey!
+{82365}{82468}[Applause]
+{82537}{82611}Let's do G-28,|on two, all right?
+{82614}{82671}- Ready!|- Break!
+{82768}{82825}[josh]|Go, K. Hike!
+{82967}{83024}- [ Grunts ]|- Hey!
+{83202}{83256}[Barking]
+{83259}{83366}[ Moaning ]
+{83369}{83433}[ Screaming ]
+{83436}{83508}Does anybody on this team|want to play football?
+{83690}{83775}Come on. Get him.|Cut off the angle.
+{83778}{83882}Come on!|Take out his paws!
+{83885}{83983}- Dog-pile him!|- Dog-pile him!
+{83986}{84052}[Opposing Team]|Dog-pile him! Dog-pile him!
+{84055}{84130}Dog-pile him!
+{84215}{84295}- Great! Yeah!|- Buddy!
+{84388}{84467}- [ Groaning, Moaning ]|-[Boy]Get off of him.
+{84518}{84613}Move, get off!.|Hey, get off. Get off now.
+{84616}{84715}[ Whimpering ]
+{84718}{84818}[ Blows Whistle ]
+{84821}{84896}Aah! [ Muttering ]
+{85594}{85671}That is one talented dog.
+{85713}{85810}You're doing fine,|too, josh, you know?
+{85813}{85888}You just need to face up|to the pressure...
+{85891}{85968}and not desert|the pocket too early.
+{86057}{86114}I found these|in your office.
+{86117}{86187}Who are they?
+{86292}{86357}Well,
+{86360}{86511}that's Laura,|she lives in Seattle.
+{86514}{86625}And that's Gail,|she's in Santa Fe.
+{86628}{86705}And the pretty one with the red hair,|that's Shannon Marie.
+{86708}{86790}- She's in Boston.|- So--
+{86862}{86948}And this is a picture|Of the whole Sullivan clan.
+{86951}{87085}- You see, there's Mom|and Dad and me and--|- Your three sisters.
+{87190}{87278}You know, Josh,|I think we could be friends.
+{87341}{87454}First we gotta learn|to trust each other.
+{87457}{87515}[ Scoffs ]|Broken tail.
+{87572}{87632}[Door Closes]
+{87635}{87718}Oh, Patrick,|this is so romantic.
+{87721}{87781}If I didn't have to fix the engine,|we could have been--
+{87784}{87869}No, l-l think|this is perfect.
+{87979}{88071}- [ Sighs ]|- What's wrong?
+{88074}{88179}Well, I've been offered...
+{88182}{88264}a permanent job|in San Diego.
+{88267}{88386}But I don't know|If I'm going to accept it.
+{88389}{88476}Oh.
+{88479}{88594}I-l don't want|to complicate things for you.
+{88597}{88666}But I will if you insist.|[ Giggles ]
+{88669}{88731}[ Chuckles ]
+{88734}{88803}I think Josh would be|very happy...
+{88806}{88882}to see me leave town.
+{88950}{89070}Well, in lieu of growing|fur and a tail,
+{89073}{89186}for now, just be his friend.
+{89550}{89640}All right, gimme hands. Gimme hands.|How we gonna play?
+{89643}{89699}Ruff, ruff, ruff!.
+{89702}{89777}- How are we gonna play? Let's get 'em!|- Ruff, ruff, ruff!.
+{89780}{89837}[ Cheering, Screaming ]
+{90202}{90275}- [ Blows Whistle ]|- [ Cheering ]
+{90671}{90733}[josh]|Twenty-five! Down!
+{90736}{90790}Set, hut!
+{90884}{90945}Yes!
+{91309}{91440}So you run X-curl, and Buddy|in the deep fly pattern.
+{91443}{91557}Straight up the middle.|Better known as the K-9knockout.
+{91560}{91618}This is the one|For all the marbles.
+{91621}{91675}'Cause after that, I want to do|a couple of motion things--
+{91821}{91881}[Whistle Blows]
+{92007}{92070}[ Shouting ]
+{92956}{93014}- Yes!|- [ Cheering ]
+{93017}{93074}Yes, yes!
+{93134}{93217}We did it!|Come here, Pudgy!
+{93220}{93317}We did it!|We did it!
+{93320}{93458}When Josh threw that pass|to Buddy and he scored the home run,
+{93461}{93517}- Touchdown.|- I thought I was gonna have|a heart attack.
+{93520}{93592}- Oh, football is so dramatic, yeah.|- Touchdown.
+{93595}{93656}Hmm.
+{93704}{93829}I've come to a decision|about that consulting job in San Diego.
+{93895}{93951}You're gonna accept it.
+{93954}{94099}Only if you don't accept this.
+{94174}{94269}Oh, Patrick.
+{94345}{94426}Oh!
+{94429}{94497}Jackie, will you marry me?
+{94566}{94623}[Footsteps Approach]
+{94666}{94732}- What's goin' on?|-[jackie]Nothing.
+{94735}{94878}I made your cake--|shaped like a football. Isn't it cute?
+{94881}{94964}[ Scoffs ]|What's in that box?
+{95379}{95510}[jackie, Knocking On Door]|josh, may I come in?
+{95513}{95624}[Continues Knocking]|josh, please.
+{95861}{95995}[ Whimpering ]
+{96224}{96301}[Owl Hooting]
+{97096}{97189}[ Whimpers ]
+{97456}{97522}No, Buddy.|You can't come.
+{97596}{97650}[Continues Whimpering]
+{97692}{97819}- I mean it, Buddy. Stay!|- [ Whimpers ]
+{98118}{98172}[ Barks ]
+{98330}{98463}[Continues Barking]
+{98511}{98568}[ Whimpers ]
+{98838}{98915}[ Whimpers ]
+{98918}{99025}[ Laughing ]|Way to go, Natalya!
+{99028}{99124}§§§§[Hums "Mexican Hat Dance"]
+{99127}{99200}[ Whimpers ]
+{99604}{99739}It's jackie Framm.|Josh has runaway.
+{99742}{99812}Is he there with you?
+{99884}{99964}Josh isn't at Tom's house.
+{99967}{100032}Uh, I'll try Coach Fanelli.
+{100035}{100095}This is all my fault.
+{100162}{100246}[Man Over Loudspeaker]|Train number 14 from Portland|is delayed20minutes...
+{100249}{100308}and will be arriving on track2.
+{100311}{100465}That's train number 14|from Portland arriving|20minutes late on track2.
+{100468}{100525}[ Chattering ]
+{100719}{100807}Know what I hate most|about train station food?
+{100810}{100908}There's nothing even remotely|Italian about the Italian subs.
+{100911}{101063}- Oh, hi, Coach Fanelli.|- Hey, what do you say, kid?|You mind if I grab some wood?
+{101066}{101123}Sure.
+{101156}{101217}How'd you find me here?
+{101220}{101330}Eh, I ran away more than a few times|when I was your age.
+{101333}{101423}- Usually I got about this far.|- Hmm.
+{101426}{101517}- I'm leaving.|- Where you headin'?
+{101520}{101577}San Francisco.
+{101580}{101732}Boy, if my star quarterback's|willin' to pass up|the state championship game...
+{101735}{101799}there must be somethin'|pretty serious.
+{101802}{101871}- Hmm.|- Wanna talk about it?
+{101874}{101966}No.
+{101969}{102097}It wouldn't have anything to do|with a new man|in your mom's life, would it?
+{102139}{102215}Would it?
+{102218}{102284}He's not my dad,|all right?
+{102287}{102355}No, I guess he isn't.
+{102358}{102430}And you loved|your father very much.
+{102533}{102635}[ Coughs ] So, where you headin'|after football season?
+{102638}{102751}- I'm running away, remember?|- Yeah, well, I mean,|theoretically,
+{102754}{102848}if you weren't running away,|what would you be doing?
+{102851}{102988}- I don't know.|Probably play basketball or something.|- Hmm.
+{102991}{103060}Well, I would have thought|the way you'd gotten into football,
+{103062}{103125}basketball was out.
+{103131}{103261}I never said it was out.|I love basketball,|it just that I love football too.
+{103264}{103339}How's that possible?
+{103345}{103401}You can--
+{103528}{103591}You like this guy Patrick, Josh?
+{103683}{103776}|Doesn't mean you gotta|stop lovin' your father, you know.
+{103779}{103849}Your mom hasn't.
+{103852}{103995}Trainnumber nine for|San Francisco will be arriving|in five minutes on track one.
+{103998}{104093}That's me.
+{104096}{104204}Well, I guess this is|arrivederci, huh, Josh?
+{104210}{104268}Good luck, kid.
+{104271}{104414}Oh, um, I kinda overheard|you and Mrs. Salter talking.
+{104417}{104525}She said that they were gonna|get a new football coach.
+{104528}{104598}- I'm sorry.|- Ah, don't sweat it.
+{104601}{104670}I only coach|'cause I love the kids.
+{104673}{104807}If winning's all they're interested in,|I'm not the right guy anyway.
+{104856}{104938}Take care of your self, kid.
+{105026}{105103}Hey, Coach.
+{105148}{105205}Um,
+{105281}{105377}if it's not|too much trouble, um,
+{105424}{105484}can I get a ride home with you?
+{105487}{105581}Sure, kid. C'mon.
+{105659}{105796}[ Clears Throat ]|You don't mind if we stop|for a slice of pizza?
+{106390}{106449}Oh, my God, Josh.
+{106452}{106618}[ Sobbing ]|Josh! Oh, I was so worried about you!
+{106621}{106755}- I'm sorry.|- Promise me you'll never do that|again, Josh. Promise me.
+{106758}{106869}I promise. I'm sorry.|[ Sniffling ]
+{106872}{106940}I'm sorry.
+{107022}{107144}Um, where's Patrick?|I gotta talk to him.
+{107147}{107207}Patrick's gone, honey.
+{107210}{107291}Where's he gone?
+{107294}{107370}He's taken a job|in San Diego.
+{107373}{107450}He's leaving|on his boat tomorrow.
+{107453}{107531}[ Exhales ]|What about you guys--
+{107582}{107640}It was too soon.
+{107643}{107724}I'm sorry. I'm sorry.
+{107852}{107920}Where's Buddy?
+{107923}{107995}I thought he was with you.
+{108175}{108232}Buddy!
+{108395}{108452}Buddy!
+{108455}{108511}[ Gulls Cawing ]
+{108671}{108728}Buddy!
+{108820}{108918}He's never done this before.|He's never run away.
+{108921}{109011}- Buddy can take care|of him self, honey.|- Buddy!
+{109014}{109096}We gotta keep looking.
+{109099}{109197}Josh, the game starts|in an hour.
+{109230}{109317}[ Cheering, Shouting ]
+{109375}{109447}§§ [ Playing March ]
+{109572}{109657}- Let's rock!|- [ Shouting ]
+{109729}{109786}-[Fanelli]How we gonna play?|-[Team]Ruff, ruff, ruff!.
+{109789}{109860}- How we gonna play?|- [ All ] Ruff, ruff, ruff!.
+{109863}{109940}- Let's go kick some Giant--|- Yeah!
+{110085}{110172}[Coach]|Go, allright, come on.
+{110175}{110237}Allright.
+{110270}{110345}I need ya out there|today, Josh.
+{110567}{110642}[Engine Chugging]
+{110706}{110778}[ Whimpers ]
+{110837}{110909}- [ Whimpers ]|- [ Brays ]
+{111107}{111182}[ Chittering ]
+{111229}{111289}[ Snorts ]
+{111292}{111410}Houston, we have a problem.|We have a problem!
+{111413}{111470}[ Whimpers ]
+{111530}{111613}I'm going down to boat|to get things ready for loading.
+{111616}{111676}In the meantime, don't touch anything,|don't feed anything,
+{111679}{111782}don't do anything-- nothing!
+{111785}{111853}- [Chimp Chattering]|- Eh!
+{111996}{112056}[Door Slams]
+{112059}{112126}[Animals Fuss]
+{112459}{112605}[Announcer] The Fernfield Timberwolves|and the Tacoma Giants!
+{112608}{112705}It's play-offs time.|This is Fred Davis...
+{112708}{112822}with my good friend, Phil Phil,|35-yearveteran of color here...
+{112825}{112896}to bring you|this exciting game today.
+{112899}{112959}I would say that excitement|Is at fever pitch, Phil.
+{112961}{113051}This is it--|all the marbles on the table.
+{113102}{113262}Oh, no. Disappointing news here, Phil.|We just got word that AirBud,
+{113265}{113366}the canine wonder,|will not be playing today.
+{113369}{113439}- Not be playing. Yes.|- Oh, no.
+{113442}{113499}Have the checked the kennel?
+{113508}{113588}[Chimp Fussing]
+{113778}{113850}- [ Screeching ]|- [ Growling ]
+{113930}{114058}- [ Barks ]|- [ Laughs ]
+{114061}{114170}- Ready, Gus?|-[Popov]|Come on, Gus! You can do it!
+{114176}{114260}- Punch!|- [ Laughs ]
+{114433}{114491}Sh-Sh-Shh!
+{114724}{114794}[ Rumbling ]
+{114797}{114913}- [ Whimpers ]|- [ Chatters ]
+{114916}{115008}[ Shouting ln Russian ]
+{115104}{115213}-[Knocking At Door]|- I didn't touch a thing Natalya!
+{115216}{115294}- [ Whinnies ]|- [ Screams ]
+{115326}{115446}Gus! [ Screams ]
+{115449}{115561}[Popov Continues Screaming, Yelling]
+{115564}{115614}No!
+{115689}{115755}-[Whistle Blows]|-[Davis] Well,|the Giants will be kicking off,
+{115758}{115834}so the Timberwolves will be...
+{115837}{115941}- They'll be, uh, down there|on the field right with 'em.|- receiving.
+{115944}{116093}Coming to Goose! He's on the five,|he's on the ten, the fifteen--
+{116096}{116217}He's at the fifteen, he's at the ten,|he's back at the five.
+{116223}{116369}Ohh. All right, come on, offense.|Let's do it! Come on!
+{116372}{116490}Josh, open up red 45.|Come on, red 45. Let's go!
+{116493}{116550}[ Cheering ]
+{116622}{116711}He'll be here.|He wouldn't miss this for the world.
+{116714}{116796}- Hope you're right, Tom.|- It'll be fine!
+{116877}{116936}Prepare to eat dirt!
+{117002}{117088}Ready! Down!
+{117091}{117157}-Set! Hike!|- [ Yells ]
+{117160}{117305}[Davis Over Loudspeaker, Indistinct]
+{117308}{117445}- [ Groans ]|- And a fumble recovered|by the Giants!
+{117448}{117563}- [ Blows Whistle ]|- And into the end zone.|The Giants score!
+{117566}{117709}- Oh, this looks like|it's gonna be along day, Phil.|- Oh, we're dead. We're dead.
+{117712}{117863}Let's look at the scoreboard|and see how much time elapsed,|Phil, before that touchdown.
+{117866}{117922}- Where is the scoreboard?|- Huh?
+{117925}{118039}- [Whinnying]|- Stop!
+{118042}{118143}- Come on, piggies. Work with me!|- [ Quacking ]
+{118146}{118240}Ducks are my friend!|Comeback, please!
+{118243}{118324}- No! Dolly!|- [ Screeching ]
+{118327}{118452}- Listen to me! Listen tome, animals!|- [ Gasps ]
+{118455}{118525}[ Screams ]
+{118624}{118704}Natalya, you're back !Oooh!
+{118752}{118800}[ Screams ]
+{118803}{118876}[ Cheering ]
+{118877}{118965}[Davis] Well, it looks like|Coach Fanelli is going to try|to put some points on the board.
+{118968}{119114}They're going to go|For a field goal, Phil.|Looks like Vaughn kicking, and--
+{119117}{119262}- No, it hit Weeble's helmet|and it's way off to the left.|- [ Blows Whistle ]
+{119265}{119352}Well, I guess that wasn't|such a good decision after all,|was it, Phil?
+{119355}{119495}I'll tell you, that could|give you some kind of headache.|You know, you get hit with a--
+{119498}{119586}[ Screaming ]
+{119589}{119685}- Oh, God!|- Get out here, Popov!
+{119688}{119789}[ Yelling in Russian ]
+{119792}{119893}- [ Barking ]|- [Natalya]|I can't see anything!
+{119896}{120023}- I'll find you and then l-l--|- [Chimp Taunting]
+{120026}{120112}- You--|- [ Screeches ]
+{120115}{120199}I'm going to get you!
+{120338}{120424}[Davis]josh back to pass.|The ball is in the air--|it's intercepted!
+{120427}{120529}Nowhere near a receiver.|And here they come|back the other way.
+{120532}{120668}The Giants with-- No, josh has him.|Josh has him on the25.
+{120671}{120757}He has him on the20.|He has him on the 15.|He has him on the 10.
+{120760}{120823}He's-He's--|Ah, boy.
+{120826}{120930}Well, it looks like|another score for the Giants.|Oh, have you ever seen--
+{120933}{120991}[ Screams ]
+{121066}{121185}En garde!|Take that!
+{121288}{121417}- And that!|- Natalya! Take this! I've got a net!
+{121420}{121512}Not now, Popov! Can't you see I'm busy?|I'm fighting monkey!
+{121569}{121648}[Popov]|Musthurry! Musthurry!
+{121746}{121824}[ Screams ]|Natalya!
+{121889}{121976}[Screams]
+{121979}{122049}- Come down from there!|- Natalya!
+{122052}{122115}- Come get me!|- Getdown!
+{122118}{122195}[ Screams ]
+{122198}{122301}Why don't you get yourself down|and clean up this mess|that you have created?
+{122364}{122474}- [ Groans ]|- Popov?
+{122528}{122676}[Davis]Coach Fanelli|takes a heavy anchor|to the half time locker room.
+{122679}{122810}Down 24 to nothing.|Disappointed, downtrodden.
+{122813}{122870}[Davis Continues, Indistinct]
+{123235}{123323}Hey, Coach, are you gonna tell us|another one of your stories?
+{123326}{123443}- You better believe I am.|- [ All Groan ]
+{123446}{123502}This is the story|of a football team.
+{123505}{123629}From the beginning, this football team|had heart and ability.
+{123632}{123799}But there was one big problem:|they didn't believe|that they could win.
+{123802}{123921}And then this dog came along,|and this dog could do amazing things.
+{123924}{124036}And suddenly,|the team started winning.
+{124039}{124191}But the truth is, even without the dog,|They were winners--
+{124194}{124305}each and everyone of them.
+{124308}{124441}So if you believe|that a dog can play football,
+{124444}{124533}then you better believe|that we're gonna win this game.
+{124714}{124806}Now, right now,|let's get out there...
+{124809}{124896}and give them|some of that razzle-dazzle.
+{124898}{125070}[ All Chanting ]|Ruff, ruff, ruff, ruff,
+{125073}{125139}[ Louder]|ruff, ruff, ruff, ruff!.
+{125142}{125219}[ All Shouting ]|Ruff!. Ruff!. Ruff!.
+{125222}{125373}- [ Cheering ]|- You guys are the best!|Way to go, Marco!
+{125424}{125505}It worked, Pudge!|[ Chuckles ]
+{125552}{125651}[ Chanting ]|Timberwolves! Timberwolves!
+{125654}{125778}- Timberwolves!|- [Davis]|Giants on the attack again.
+{125781}{125932}Here's Martin back to pass,|he's lookin'--|Ooh, he gets hit at the last minute.
+{125935}{126046}They're gonna want that ball.|Goosesteps in--|he has it! it's an interception!
+{126049}{126149}- Goose! Go! Go!|- The 40, the35--
+{126152}{126215}Go!Go!|Go, Goose, go!
+{126250}{126307}[Whistle Blows]
+{126310}{126416}Well, that looks like|a little bit of inspiration|for the Timberwolves, doesn't it?
+{126419}{126524}- It just proves my theory.|- What is that, Phil?
+{126527}{126613}Score more points|than the other team,
+{126616}{126689}and by golly,|you're gonna win!
+{126731}{126803}All right, Brian!
+{126904}{126960}All right? Go. Go!
+{127207}{127281}[ Blows Whistle ]
+{127816}{127890}[Whistle Blows]
+{127988}{128081}- [ Cheering ]|- Yes! Yeah!
+{128202}{128262}- Popov!|- [ Gasps ] Mother?
+{128348}{128408}The animals!
+{128457}{128562}- [Natalya]|What is monkey's business?|- [ Barking ]
+{128612}{128684}[Popov]|"Fish Guts. "
+{128687}{128766}[ Screaming ]
+{128814}{128936}- [ Chittering ]|- [ Barking ]
+{128998}{129106}- Natalya--|- Get off!.
+{129221}{129322}[ Groaning, Sputtering ]
+{129325}{129415}To infinity-- and beyond!
+{129421}{129479}[ Engine Cranks, Starts ]
+{129485}{129545}[ Sighing ]
+{129827}{129904}- [ Horn Honks ]|- [ Screaming ]
+{130017}{130122}- [ Shouting ]|- [ Barking ]
+{130125}{130210}[ Engine Revs ]
+{130213}{130294}[ Shouting ]
+{130614}{130743}- [ Tires Screech ]|- [ Barks ]
+{131045}{131117}[Fireworks Exploding]
+{131193}{131280}-[Natalya] Where is monkey?|-[Popov]|I don't know, but there is dog.
+{131313}{131384}[ Together] Dog!
+{131963}{132035}[Natalya Yelling in Russian]
+{132118}{132212}- [Natalya Laughing]|- [Popov Yelling]
+{132257}{132370}Stop, stop!|Stop, stop! Stop!
+{132572}{132715}[ Yelling ]
+{132824}{132903}-[Natalya Gasps]|-[Popov Moans]
+{132906}{133030}[ Laughing ]|It's okay. It's okay.
+{133033}{133089}I'm glad to see you too.
+{133092}{133185}What are you doin' down at the docks?|Don't you have a game to play?
+{133191}{133261}- Huh? Come on.|- [ Whimpering ]
+{133404}{133491}[ Natalya ]|Do you have a plan " B"?
+{133494}{133648}We are Russian citizens!|We demand you take us|to the Russian imbecile!
+{133651}{133755}It's "embassy," imbecile!
+{133758}{133815}[ Screams ]
+{133858}{133932}[ Cheering ]
+{133935}{134007}[Davis]|Martin dropping back, Voss--
+{134010}{134076}Oh, is he in the clear!
+{134079}{134177}There isn't a Timberwolf|aroundfor20yards.
+{134180}{134304}Touchdown! Looks bad now|for the ol' Timberwolves.
+{134307}{134385}[ Buzzer Sounds ]
+{134387}{134453}Oooh.
+{134595}{134676}Now, come on, now. Forget about that--|ancient history.
+{134679}{134780}Josh, get in here.|Come here. All right.
+{134783}{134920}We're gonna get 'em|with a little "double trouble."|All right? Let's go.
+{134923}{135008}But Coach, we've never done|"double trouble" without Buddy.
+{135011}{135103}We're gonna have|to do it without Buddy.|Buddy's not here. Let's go.
+{135106}{135193}Come on, offense.|Use Goose, all right? Let's go!
+{135196}{135284}Come on, now!|Get out there!
+{135433}{135514}- [Crowd Cheers Wildly]|- [Buddy Barks]
+{135559}{135662}[Davis]Ladies and gentlemen,|listen to that audience!
+{135665}{135799}This is a sight to behold!|It's AirBud!
+{135802}{135951}Good boy! Yeah! Yeah!|Let's go get 'em, boy.
+{136009}{136122}- [ Gasps ]|- Phil, AirBud is back in the game!
+{136125}{136197}Yeah, well,|this dispels that rumor.
+{136200}{136263}- What's that, Phil?|- What's what?
+{136266}{136345}Buddy, where were you?
+{136566}{136666}- Patrick?|- [Crowd Chanting]Buddy! Buddy!
+{136913}{137022}Like I said-- double trouble!
+{137025}{137174}[Davis]Looking for that ball--|Handoff!. Double reverse!
+{137228}{137319}It's off to AirBud,|and he's off!.
+{137325}{137430}He's down the field!|The Giants a reall chasing him!
+{137436}{137492}It's AirBud in the clear!
+{137495}{137622}It's AirBud down on the30,|down on the25--
+{137709}{137777}-[Whistle Blows]|- Yeah!
+{137810}{137884}[ Chanting ]|Buddy! Buddy!
+{137986}{138056}[ Barking ]
+{138193}{138259}-[Whistle Blows]|- [ Cheering ]
+{138461}{138586}-[Whistle Blows]|-AirBud has put the timber|back in these Timberwolves.
+{138589}{138707}I'm telling you, they are|on a scoring rampage now!
+{138764}{138820}[ Cheering ]
+{139099}{139156}First down!
+{139548}{139638}-[Whistle Blows]|-[Davis]Another score!
+{139641}{139699}[Phil] That is just amazing.
+{139702}{139818}[Davis]It's New Year's Eve|in the end zone with AirBud!
+{139821}{139887}He's got fleas. You can't tell me|he doesn't have fleas.
+{139890}{139955}Yea, Buddy!
+{139958}{140073}AirBud has certainly|tightened up this game|for the Timberwolves,
+{140076}{140151}but they're gonna need|another touchdown in order to win.
+{140154}{140228}And now, this could be it!
+{140231}{140294}- Buddy!|- Ooh, no!
+{140300}{140427}- 1 84-pound crushing tackle by Tyler.|- Buddy's hurt!
+{140430}{140499}And AirBud is down.
+{140502}{140606}- Teammates rushing onto the field.|- Stay back. Give him room!
+{140609}{140739}- Air Bud-- We see movement.|- I'm all right. Get the dog!
+{140742}{140846}- Excuse me. Comin' through.|- [ Buddy Moaning ]
+{140849}{140920}- How is he?|- I don't know.
+{140923}{140983}- [Jackie ] Is he okay?|-Just hang on.
+{140986}{141043}He's not sure yet.
+{141046}{141158}- Buddy, are you okay?|- [ Whimpers ]
+{141215}{141289}He's gonna be all right, Josh.|Why don't you get out there|and finish the game?
+{141295}{141386}But what about Buddy?
+{141392}{141515}- It's okay. I'll take care of him.|-[Boy]Getup, Buddy.
+{141518}{141598}Come on, Josh.|He'll be okay.
+{141601}{141698}Josh, let's go.
+{141701}{141800}Well, this certainly is|a crushing blow.
+{141803}{141868}Poor AirBud--|out of this game.
+{141871}{142008}- Oh, I just--|- Well, let's hope these guys can|go on by themselves.
+{142053}{142141}Ready! Set! Hike! Hike!
+{142260}{142362}- [Whistle Blows]|- [ Gasps ]
+{142365}{142438}Third down coming up.|What do you think, Phil?
+{142441}{142578}- Well, I think--|- Third down.|He's back for another pass.
+{142626}{142692}[ Grunting ]
+{142732}{142786}[ Groaning ]
+{142849}{142959}If there's a miracle in the making,|it better show up now, Phil,
+{142961}{143021}because this is the last chance.
+{143024}{143087}- We got ten seconds left|in this game.|- [ Groaning ]
+{143090}{143247}- Well, tenis-is-is enough|if you play your cards right.|- Yeah, isn't it, Phil?
+{143250}{143339}- Sometimes you don't even have|to play cards, you know.|- Yeah.
+{143342}{143424}Come on, Tom. Get up.|We got a game to play.
+{143427}{143517}- I can't find my nose-spreader.|- Forget about your nose-spreader.
+{143520}{143642}- But I can't catch without it.|- Trust me, Tom. You don't need it.
+{143678}{143739}It's gonna be fine.
+{143802}{143858}This is our last shot, Josh.
+{143861}{144007}[ Sighs ] I know. All right, guys.|Let's do B-52, crossing pattern.
+{144010}{144085}Deep.
+{144088}{144233}- That's 60 yards.|You can't throw 60 yards.|- Are you sure you wanna do this?
+{144236}{144313}- I'm positive. You guys gotta trust me.|- We're with you, Josh.
+{144316}{144443}- You just run, all right?|- [ All ] Break!|- Let's rock.
+{144446}{144521}-[Bud Barking]|- Hey, guys, look!
+{144524}{144598}[ Barking ]
+{144773}{144845}Come on, guys.|Let's go! Come on!
+{144848}{144904}What about my nose-spreader?
+{145653}{145710}[ Exhales ]
+{145878}{145974}[ Barking ]
+{145977}{146051}All right! Ready!
+{146054}{146138}B! 52!
+{146141}{146223}Down! Set!|Hike! Hike!
+{146499}{146556}Get off!.
+{148071}{148158}-[Whistle Blows]|- Yes!
+{148161}{148225}[ Barking ]
+{148231}{148285}All right!
+{149274}{149396}[ Whooping ] All right!|Honey, I'm so proud of you!
+{149399}{149489}Congratulations, Josh!
+{149577}{149682}Tom, you know what?|You got potential.
+{149685}{149777}Did you hear that?|I got potential!
+{149780}{149837}I got potential!
+{150109}{150199}I got potential!
+{150389}{150445}It's a beautiful day!
+{150805}{150861}[Gulls Cawing]
+{151066}{151120}[Engine Chugging]
+{151536}{151600}Patrick!
+{151603}{151672}Patrick!
+{151675}{151732}Patrick!
+{151770}{151868}- Patrick!|- [ Barks ]
+{151940}{152019}[Continues Barking]
+{152852}{152923}What is it?
+{152926}{153001}Um--
+{153004}{153086}What?
+{153238}{153344}Don't go.|Please don't go.
+{153568}{153647}[ Barking ]
+{154011}{154087}[ Cheering ]
+{154335}{154399}Third and three.|What would you do here?
+{154402}{154486}Huh. Lemme see.|I think I'd go long to Joey Galloway.
+{154489}{154566}Blue thirty-eight!
+{154569}{154675}Good call.|They're not expecting that.
+{155127}{155210}- Oh, no!|- I don't believe it!
+{155255}{155312}[Whistle Blows]

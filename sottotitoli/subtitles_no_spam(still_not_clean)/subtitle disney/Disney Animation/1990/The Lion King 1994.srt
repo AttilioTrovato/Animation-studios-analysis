@@ -1,0 +1,5710 @@
+﻿1
+00:00:33,667 --> 00:00:35,101
+(JUNGLE SOUNDS)
+
+2
+00:00:35,135 --> 00:00:36,569
+(LION ROARS)
+
+3
+00:00:39,873 --> 00:00:44,071
+<i>Nants ingonyama</i>
+
+4
+00:00:44,111 --> 00:00:45,545
+<i>Bagithi baba</i>
+
+5
+00:00:45,579 --> 00:00:48,913
+<i>Sithi uhhmm ingonyama</i>
+
+6
+00:00:48,949 --> 00:00:51,543
+<i>Ingonyama</i>
+
+7
+00:00:51,585 --> 00:00:54,714
+<i>Nants ingonyama</i>
+
+8
+00:00:54,755 --> 00:00:56,587
+<i>Bagithi babe</i>
+
+9
+00:00:56,623 --> 00:00:59,923
+<i>Sithi uhhmm ingonyama</i>
+
+10
+00:00:59,960 --> 00:01:03,089
+<i>Ingonyama</i>
+
+11
+00:01:03,130 --> 00:01:04,495
+<i>Siyo nqoba</i>
+
+12
+00:01:04,565 --> 00:01:08,661
+<i>Ingonyama</i>
+
+13
+00:01:08,735 --> 00:01:11,796
+<i>Ingonyama inengw' enamabala</i>
+
+14
+00:01:11,872 --> 00:01:14,500
+<i>Ingonyama inengw' enamabala</i>
+
+15
+00:01:14,575 --> 00:01:17,476
+<i>Ingonyama inengw' enamabala</i>
+
+16
+00:01:17,544 --> 00:01:20,138
+<i>Ingonyama inengw' enamabala</i>
+
+17
+00:01:20,213 --> 00:01:22,113
+<i>Ingonyama inengw' enamabala</i>
+
+18
+00:01:22,149 --> 00:01:23,446
+<i>Se-to-kwa</i>
+
+19
+00:01:23,483 --> 00:01:24,848
+<i>Ingonyama inengw' enamabala</i>
+
+20
+00:01:24,918 --> 00:01:26,181
+<i>Asana</i>
+
+21
+00:01:26,253 --> 00:01:28,017
+<i>Ingonyama inengw' enamabala</i>
+
+22
+00:01:28,088 --> 00:01:29,351
+<i>Se-to-kwa</i>
+
+23
+00:01:29,423 --> 00:01:30,982
+<i>Ingonyama inengw' enamabala</i>
+
+24
+00:01:31,058 --> 00:01:33,459
+<i>From the day we arrive</i>
+
+25
+00:01:33,493 --> 00:01:36,622
+<i>On the planet</i>
+
+26
+00:01:36,663 --> 00:01:40,861
+<i>And, blinking, step into the sun</i>
+
+27
+00:01:42,502 --> 00:01:44,869
+<i>There's more to see</i>
+
+28
+00:01:44,938 --> 00:01:47,873
+<i>Than can ever be seen</i>
+
+29
+00:01:47,941 --> 00:01:49,875
+<i>More to do</i>
+
+30
+00:01:49,943 --> 00:01:52,969
+<i>Than can ever be done</i>
+
+31
+00:01:54,047 --> 00:01:55,776
+<i>There's far too much</i>
+
+32
+00:01:55,849 --> 00:01:58,648
+<i>To take in here</i>
+
+33
+00:01:59,219 --> 00:02:00,550
+<i>More to find</i>
+
+34
+00:02:00,587 --> 00:02:03,716
+<i>Than can ever be found</i>
+
+35
+00:02:04,124 --> 00:02:05,523
+(SQUAWKING)
+
+36
+00:02:05,559 --> 00:02:07,550
+<i>But the sun rolling high</i>
+
+37
+00:02:07,894 --> 00:02:10,295
+<i>Through the sapphire sky</i>
+
+38
+00:02:10,430 --> 00:02:12,023
+<i>Keeps great and small</i>
+
+39
+00:02:12,065 --> 00:02:15,330
+<i>On the endless round</i>
+
+40
+00:02:15,502 --> 00:02:20,736
+<i>It's the circle of life</i>
+
+41
+00:02:20,807 --> 00:02:26,769
+<i>And it moves us all</i>
+
+42
+00:02:26,847 --> 00:02:31,182
+<i>Through despair and hope</i>
+
+43
+00:02:32,686 --> 00:02:38,284
+<i>Through faith and love</i>
+
+44
+00:02:38,358 --> 00:02:43,296
+<i>Till we find our place</i>
+
+45
+00:02:43,363 --> 00:02:49,393
+<i>On the path unwinding</i>
+
+46
+00:02:50,704 --> 00:02:55,471
+<i>In the circle</i>
+
+47
+00:02:55,542 --> 00:03:00,571
+<i>The circle of life</i>
+
+48
+00:03:03,250 --> 00:03:05,082
+(PURRING)
+
+49
+00:03:47,160 --> 00:03:51,222
+<i>It's the circle of life</i>
+
+50
+00:03:52,566 --> 00:03:56,628
+<i>And it moves us all</i>
+
+51
+00:03:58,105 --> 00:04:03,009
+<i>Through despair and hope</i>
+
+52
+00:04:04,010 --> 00:04:09,608
+<i>Through faith and love</i>
+
+53
+00:04:09,649 --> 00:04:15,110
+<i>Till we find our place</i>
+
+54
+00:04:15,155 --> 00:04:21,686
+<i>On the path unwinding</i>
+
+55
+00:04:21,762 --> 00:04:26,825
+<i>In the circle</i>
+
+56
+00:04:26,867 --> 00:04:33,204
+<i>The circle of life</i>
+
+57
+00:04:55,128 --> 00:04:57,790
+Life's not fair, is it?
+
+58
+00:04:58,064 --> 00:05:02,262
+You see, l... Well, I shall never be king.
+
+59
+00:05:03,804 --> 00:05:07,707
+And you shall never see
+the light of another day.
+
+60
+00:05:08,742 --> 00:05:09,971
+Adieu.
+
+61
+00:05:10,844 --> 00:05:13,745
+Didn't your mother ever tell you
+not to play with your food?
+
+62
+00:05:14,314 --> 00:05:15,713
+What do you want?
+
+63
+00:05:15,749 --> 00:05:19,151
+I'm here to announce that
+King Mufasa's on his way,
+
+64
+00:05:19,186 --> 00:05:22,816
+so you'd better have a good excuse
+for missing this morning's ceremony.
+
+65
+00:05:23,089 --> 00:05:24,523
+Oh, look, Zazu.
+
+66
+00:05:24,558 --> 00:05:25,889
+You've made me lose my lunch.
+
+67
+00:05:25,926 --> 00:05:28,861
+You'll lose more than that
+when the king gets through with you.
+
+68
+00:05:28,929 --> 00:05:31,626
+He's as mad as a hippo with a hernia.
+
+69
+00:05:32,098 --> 00:05:35,159
+I quiver with fear!
+
+70
+00:05:35,202 --> 00:05:37,796
+Now, Scar, don't look at me that way.
+
+71
+00:05:38,071 --> 00:05:39,129
+Help!
+
+72
+00:05:39,472 --> 00:05:41,440
+- Scar?
+- Mm-hmm?
+
+73
+00:05:41,675 --> 00:05:42,733
+Drop him.
+
+74
+00:05:42,776 --> 00:05:46,041
+Impeccable timing, Your Majesty.
+
+75
+00:05:49,149 --> 00:05:53,279
+Why, if it isn't my big brother
+descending from on high
+
+76
+00:05:53,320 --> 00:05:55,379
+to mingle with the commoners.
+
+77
+00:05:55,488 --> 00:05:58,617
+Sarabi and I didn't see you
+at the presentation of Simba.
+
+78
+00:05:58,658 --> 00:06:00,820
+That was today?
+
+79
+00:06:01,294 --> 00:06:03,228
+I feel simply awful!
+
+80
+00:06:03,263 --> 00:06:04,355
+(SCREECHING)
+
+81
+00:06:05,165 --> 00:06:07,190
+Must've slipped my mind.
+
+82
+00:06:07,300 --> 00:06:10,497
+Yes, well, as slippery as your mind is,
+
+83
+00:06:10,570 --> 00:06:13,471
+as the king's brother,
+you should've been first in line!
+
+84
+00:06:14,708 --> 00:06:18,542
+Well, I was first in line,
+until the little hairball was born.
+
+85
+00:06:18,578 --> 00:06:23,607
+That hairball is my son
+and your future king.
+
+86
+00:06:23,683 --> 00:06:26,380
+I shall practice my curtsy!
+
+87
+00:06:26,720 --> 00:06:29,052
+Don't turn your back on me, Scar.
+
+88
+00:06:29,089 --> 00:06:30,488
+Oh, no, Mufasa.
+
+89
+00:06:30,523 --> 00:06:33,390
+Perhaps you shouldn't
+turn your back on me.
+
+90
+00:06:33,426 --> 00:06:34,552
+(ROARS)
+
+91
+00:06:34,594 --> 00:06:36,392
+Is that a challenge?
+
+92
+00:06:36,563 --> 00:06:37,962
+Temper, temper.
+
+93
+00:06:38,365 --> 00:06:41,232
+I wouldn't dream of challenging you.
+
+94
+00:06:41,268 --> 00:06:43,236
+Pity. Why not?
+
+95
+00:06:43,270 --> 00:06:46,638
+Well, as far as brains go,
+I got the lion's share.
+
+96
+00:06:46,706 --> 00:06:50,074
+But when it comes to brute strength,
+
+97
+00:06:50,110 --> 00:06:54,308
+I'm afraid I'm at the shallow end
+of the gene pool.
+
+98
+00:06:57,450 --> 00:06:59,680
+There's one in every family, sire.
+
+99
+00:06:59,986 --> 00:07:01,317
+Two in mine, actually,
+
+100
+00:07:01,788 --> 00:07:04,519
+and they always manage to
+ruin special occasions.
+
+101
+00:07:04,858 --> 00:07:06,587
+What am I going to do with him?
+
+102
+00:07:06,626 --> 00:07:08,424
+He'd make a very handsome throw rug.
+
+103
+00:07:08,461 --> 00:07:09,587
+Zazu!
+
+104
+00:07:09,629 --> 00:07:12,098
+And just think, whenever he gets dirty,
+
+105
+00:07:12,132 --> 00:07:14,260
+you could take him out and beat him.
+
+106
+00:07:14,301 --> 00:07:15,666
+(CHUCKLES)
+
+107
+00:07:47,033 --> 00:07:48,933
+(MUTTERING)
+
+108
+00:07:54,140 --> 00:07:55,301
+Hmm.
+
+109
+00:07:59,746 --> 00:08:01,441
+Simba.
+
+110
+00:08:02,449 --> 00:08:03,848
+(CHUCKLES)
+
+111
+00:08:15,061 --> 00:08:16,324
+Dad! Dad!
+
+112
+00:08:16,363 --> 00:08:18,798
+Come on, dad, we gotta go! Wake up!
+
+113
+00:08:19,499 --> 00:08:21,126
+- Uhh!
+- Sorry.
+
+114
+00:08:22,502 --> 00:08:24,630
+-(SNORING)
+- Dad! Dad!
+
+115
+00:08:24,671 --> 00:08:27,572
+Your son is awake.
+
+116
+00:08:27,640 --> 00:08:30,701
+Before sunrise, he's your son.
+
+117
+00:08:30,777 --> 00:08:32,905
+Dad! Come on, Dad.
+
+118
+00:08:37,283 --> 00:08:39,342
+You promised.
+
+119
+00:08:40,120 --> 00:08:42,054
+Okay, Okay. I'm up, I'm up.
+
+120
+00:08:42,122 --> 00:08:43,180
+Yeah!
+
+121
+00:08:59,472 --> 00:09:00,530
+MUFASA: Look, Simba.
+
+122
+00:09:01,174 --> 00:09:04,769
+Everything the light
+touches is our kingdom.
+
+123
+00:09:04,811 --> 00:09:06,575
+Wow.
+
+124
+00:09:06,646 --> 00:09:11,584
+A king's time as ruler
+rises and falls like the sun.
+
+125
+00:09:11,651 --> 00:09:15,610
+One day, Simba,
+the sun will set on my time here
+
+126
+00:09:15,688 --> 00:09:19,147
+and will rise with you as the new king.
+
+127
+00:09:19,192 --> 00:09:21,923
+- And this'll all be mine?
+- Everything.
+
+128
+00:09:21,961 --> 00:09:24,862
+Everything the light touches.
+
+129
+00:09:25,565 --> 00:09:27,124
+What about that shadowy place?
+
+130
+00:09:27,333 --> 00:09:29,324
+That's beyond our borders.
+
+131
+00:09:29,402 --> 00:09:30,801
+You must never go there, Simba.
+
+132
+00:09:30,837 --> 00:09:32,965
+But I thought a king
+can do whatever he wants.
+
+133
+00:09:33,006 --> 00:09:36,408
+Oh, there's more to being king
+than getting your way all the time.
+
+134
+00:09:36,443 --> 00:09:38,810
+- There's more?
+-(LAUGHS) Simba...
+
+135
+00:09:42,549 --> 00:09:46,986
+Everything you see exists together
+in a delicate balance.
+
+136
+00:09:47,020 --> 00:09:50,012
+As king, you need to
+understand that balance
+
+137
+00:09:50,056 --> 00:09:51,820
+and respect all the creatures,
+
+138
+00:09:51,858 --> 00:09:54,759
+from the crawling ant
+to the leaping antelope.
+
+139
+00:09:54,794 --> 00:09:56,694
+But, Dad, don't we eat the antelope?
+
+140
+00:09:56,729 --> 00:09:59,323
+Yes, Simba, but let me explain.
+
+141
+00:09:59,499 --> 00:10:02,366
+When we die, our bodies
+become the grass,
+
+142
+00:10:02,635 --> 00:10:05,161
+and the antelope eat the grass.
+
+143
+00:10:05,205 --> 00:10:10,541
+And so we are all connected
+in the great circle of life.
+
+144
+00:10:10,577 --> 00:10:12,841
+- Good morning, sire!
+- Good morning, Zazu.
+
+145
+00:10:12,879 --> 00:10:14,813
+Checking in with the morning report.
+
+146
+00:10:14,848 --> 00:10:15,906
+Fire away.
+
+147
+00:10:15,949 --> 00:10:17,678
+Well! The buzz from the bees
+
+148
+00:10:17,717 --> 00:10:19,651
+is that the leopards
+are in a bit of a spot.
+
+149
+00:10:19,686 --> 00:10:20,812
+Really?
+
+150
+00:10:21,688 --> 00:10:23,213
+What are you doing, son?
+
+151
+00:10:23,823 --> 00:10:24,881
+Pouncing.
+
+152
+00:10:24,924 --> 00:10:27,256
+Let an old pro show you how it's done.
+
+153
+00:10:27,494 --> 00:10:30,327
+I told the elephants to forget it,
+but they can't...
+
+154
+00:10:30,363 --> 00:10:32,297
+- Zazu, would you turn around?
+- Yes, sire.
+
+155
+00:10:32,332 --> 00:10:33,356
+The cheetahs are hard up, but...
+
+156
+00:10:33,399 --> 00:10:35,128
+Stay low to the ground.
+
+157
+00:10:35,201 --> 00:10:36,532
+Cheetahs never prosper...
+
+158
+00:10:36,569 --> 00:10:38,663
+(WHISPERING) Yeah, okay.
+Stay low to the ground, right? Yeah.
+
+159
+00:10:38,705 --> 00:10:39,968
+- What going on?
+- A pouncing lesson.
+
+160
+00:10:40,006 --> 00:10:42,236
+Very good. Pouncing.
+
+161
+00:10:42,308 --> 00:10:45,744
+Pouncing?
+No, sire, you can't be serious...
+
+162
+00:10:46,746 --> 00:10:48,578
+This is so humiliating.
+
+163
+00:10:48,615 --> 00:10:50,242
+Try not to make a sound.
+
+164
+00:10:50,283 --> 00:10:52,547
+What are you telling him, Mufasa?
+
+165
+00:10:53,186 --> 00:10:55,883
+Mufasa? Simba?
+
+166
+00:10:57,724 --> 00:10:59,317
+(MUFASA LAUGHS)
+
+167
+00:10:59,759 --> 00:11:00,988
+That's very good.
+
+168
+00:11:01,594 --> 00:11:02,925
+- Zazu!
+- Yes!
+
+169
+00:11:02,962 --> 00:11:05,624
+- News from the underground.
+- Now, this time...
+
+170
+00:11:05,665 --> 00:11:08,999
+Sire! Hyenas in the Pride Lands!
+
+171
+00:11:09,035 --> 00:11:10,560
+Zazu, take Simba home.
+
+172
+00:11:10,603 --> 00:11:11,798
+Aw, dad, can't I come?
+
+173
+00:11:11,838 --> 00:11:12,964
+No, son.
+
+174
+00:11:14,007 --> 00:11:16,237
+Pah! I never get to go anywhere.
+
+175
+00:11:16,276 --> 00:11:20,440
+Oh, young master,
+one day, you will be king.
+
+176
+00:11:20,480 --> 00:11:24,383
+Then you can chase those
+slobbering, mangy, stupid poachers
+
+177
+00:11:24,417 --> 00:11:26,476
+from dawn until dusk.
+
+178
+00:11:33,526 --> 00:11:35,961
+Hey, Uncle Scar! Guess what?
+
+179
+00:11:35,995 --> 00:11:39,124
+I despise guessing games.
+
+180
+00:11:39,165 --> 00:11:41,293
+I'm gonna be King of Pride Rock.
+
+181
+00:11:41,334 --> 00:11:43,564
+Oh, goody!
+
+182
+00:11:43,603 --> 00:11:45,469
+My dad just showed me
+the whole kingdom,
+
+183
+00:11:45,505 --> 00:11:48,531
+and I'm gonna rule it all!
+
+184
+00:11:48,575 --> 00:11:52,102
+Yes. Well, forgive me
+for not leaping for joy.
+
+185
+00:11:52,145 --> 00:11:54,477
+Bad back, you know.
+
+186
+00:11:55,515 --> 00:11:56,676
+Hey, Uncle Scar.
+
+187
+00:11:56,716 --> 00:11:59,151
+When I'm king, what'll that make you?
+
+188
+00:11:59,185 --> 00:12:01,483
+A monkey's uncle.
+
+189
+00:12:01,521 --> 00:12:05,355
+- You're so weird.
+- You have no idea.
+
+190
+00:12:05,391 --> 00:12:08,656
+So, your father showed you
+the whole kingdom, did he?
+
+191
+00:12:08,695 --> 00:12:09,753
+Everything.
+
+192
+00:12:09,829 --> 00:12:13,424
+He didn't show you what's beyond
+that rise at the northern border?
+
+193
+00:12:13,766 --> 00:12:16,963
+Well, no. He said I can't go there.
+
+194
+00:12:17,003 --> 00:12:19,062
+And he's absolutely right.
+
+195
+00:12:19,105 --> 00:12:20,504
+It's far too dangerous.
+
+196
+00:12:20,540 --> 00:12:23,009
+Only the bravest lions go there.
+
+197
+00:12:23,042 --> 00:12:25,739
+Well, I'm brave. What's out there?
+
+198
+00:12:25,778 --> 00:12:28,213
+I'm sorry, Simba, I just can't tell you.
+
+199
+00:12:28,248 --> 00:12:29,340
+Why not?
+
+200
+00:12:29,415 --> 00:12:33,852
+I'm only looking out for the
+well-being of my favorite nephew.
+
+201
+00:12:33,953 --> 00:12:36,820
+Yeah, right! I'm your only nephew.
+
+202
+00:12:36,889 --> 00:12:39,415
+All the more reason
+for me to be protective.
+
+203
+00:12:39,626 --> 00:12:43,688
+An elephant graveyard is no place
+for a young prince. Oops!
+
+204
+00:12:43,963 --> 00:12:46,432
+An elephant what? Whoa!
+
+205
+00:12:46,499 --> 00:12:49,628
+Oh, dear, I've said too much.
+
+206
+00:12:49,669 --> 00:12:52,536
+Well, I suppose you'd have
+found out sooner or later,
+
+207
+00:12:52,739 --> 00:12:55,640
+you being so clever and all.
+
+208
+00:12:55,675 --> 00:12:57,439
+Just do me one favor.
+
+209
+00:12:57,477 --> 00:13:02,108
+Promise me you'll never visit
+that dreadful place.
+
+210
+00:13:02,148 --> 00:13:03,616
+No problem.
+
+211
+00:13:03,650 --> 00:13:05,311
+There's a good lad.
+
+212
+00:13:05,351 --> 00:13:08,150
+You run along now and have fun.
+
+213
+00:13:08,187 --> 00:13:09,712
+And remember,
+
+214
+00:13:09,789 --> 00:13:12,315
+it's our little secret.
+
+215
+00:13:19,732 --> 00:13:21,461
+- Hey, Nala.
+- Hi, Simba.
+
+216
+00:13:21,501 --> 00:13:23,663
+Come on. I just heard
+about this great place.
+
+217
+00:13:23,703 --> 00:13:26,297
+Simba! I'm kind of
+in the middle of a bath.
+
+218
+00:13:26,339 --> 00:13:28,398
+SARABI: And it's time for yours.
+
+219
+00:13:29,709 --> 00:13:31,575
+Mom!
+
+220
+00:13:31,611 --> 00:13:34,512
+Mom, you're messing up my mane!
+
+221
+00:13:35,815 --> 00:13:38,375
+Okay, okay, I'm clean.
+Can we go now?
+
+222
+00:13:38,451 --> 00:13:39,782
+So, where are we going?
+
+223
+00:13:39,819 --> 00:13:41,378
+It better not be anyplace dumb.
+
+224
+00:13:41,421 --> 00:13:43,321
+No, it's really cool.
+
+225
+00:13:43,356 --> 00:13:45,916
+So, where is this really cool place?
+
+226
+00:13:45,958 --> 00:13:47,426
+Oh.
+
+227
+00:13:47,460 --> 00:13:50,157
+- Uh, around the water hole.
+- The water hole?
+
+228
+00:13:50,196 --> 00:13:52,028
+What's so great about the water hole?
+
+229
+00:13:52,065 --> 00:13:54,261
+I'll show you when we get there.
+
+230
+00:13:54,334 --> 00:13:55,529
+Oh.
+
+231
+00:13:55,568 --> 00:13:57,434
+Uh, mom, can I go with Simba?
+
+232
+00:13:57,837 --> 00:13:59,771
+Hmm, what do you think, Sarabi?
+
+233
+00:13:59,806 --> 00:14:00,864
+Well...
+
+234
+00:14:01,074 --> 00:14:02,405
+BOTH: Please?
+
+235
+00:14:02,442 --> 00:14:03,603
+It's all right with me.
+
+236
+00:14:03,643 --> 00:14:04,769
+- Yeah!
+- All right!
+
+237
+00:14:04,811 --> 00:14:06,802
+As long as Zazu goes with you.
+
+238
+00:14:06,846 --> 00:14:08,712
+No, not Zazu.
+
+239
+00:14:09,015 --> 00:14:10,039
+ZAZU: Step lively.
+
+240
+00:14:10,083 --> 00:14:14,111
+The sooner we get to the water hole,
+the sooner we can leave.
+
+241
+00:14:14,187 --> 00:14:16,087
+So, where are we really going?
+
+242
+00:14:16,155 --> 00:14:17,589
+An elephant graveyard.
+
+243
+00:14:17,657 --> 00:14:18,681
+Wow!
+
+244
+00:14:18,725 --> 00:14:20,250
+Shh! Zazu.
+
+245
+00:14:20,293 --> 00:14:23,024
+Right. So, how are we
+gonna ditch the dodo?
+
+246
+00:14:23,830 --> 00:14:25,958
+Oh, just look at you two.
+
+247
+00:14:25,998 --> 00:14:29,161
+Little seeds of romance
+blossoming in the savanna.
+
+248
+00:14:29,235 --> 00:14:31,465
+Your parents will be thrilled,
+
+249
+00:14:31,571 --> 00:14:33,938
+what with your being betrothed and all.
+
+250
+00:14:34,006 --> 00:14:35,030
+Be-what?
+
+251
+00:14:35,108 --> 00:14:36,837
+Betrothed. Intended.
+
+252
+00:14:36,976 --> 00:14:38,876
+Affianced.
+
+253
+00:14:38,911 --> 00:14:39,969
+Meaning...
+
+254
+00:14:40,113 --> 00:14:43,105
+One day, you two are
+going to be married.
+
+255
+00:14:43,149 --> 00:14:44,173
+- Yuck!
+- Eww!
+
+256
+00:14:44,217 --> 00:14:46,515
+I can't marry her. She's my friend.
+
+257
+00:14:46,552 --> 00:14:48,782
+Yeah, it'd be so weird.
+
+258
+00:14:48,821 --> 00:14:50,789
+Sorry to bust your bubble,
+
+259
+00:14:50,890 --> 00:14:53,518
+but you two turtle doves
+have no choice.
+
+260
+00:14:53,559 --> 00:14:56,051
+It's a tradition going back generations.
+
+261
+00:14:56,095 --> 00:14:58,689
+When I'm king,
+that'll be the first thing to go.
+
+262
+00:14:58,731 --> 00:15:01,598
+- Not so long as I'm around.
+- Well, in that case, you're fired.
+
+263
+00:15:01,667 --> 00:15:04,102
+Nice try, but only the king can do that.
+
+264
+00:15:04,137 --> 00:15:05,730
+Well, he's the future king.
+
+265
+00:15:05,838 --> 00:15:08,205
+Yeah, so you have to do what I tell you.
+
+266
+00:15:08,307 --> 00:15:09,775
+Not yet, I don't.
+
+267
+00:15:09,809 --> 00:15:11,299
+And with an attitude like that,
+
+268
+00:15:11,344 --> 00:15:15,178
+I'm afraid you're shaping up to be
+a pretty pathetic king, indeed.
+
+269
+00:15:15,248 --> 00:15:16,841
+Not the way I see it.
+
+270
+00:15:17,617 --> 00:15:20,052
+(SINGING) <i>I'm gonna be</i> a <i>mighty king</i>
+
+271
+00:15:20,086 --> 00:15:22,180
+<i>So enemies beware</i>
+
+272
+00:15:22,221 --> 00:15:24,883
+<i>Well, I've never seen</i>
+a <i>king of beasts</i>
+
+273
+00:15:24,924 --> 00:15:27,120
+<i>With quite so little hair</i>
+
+274
+00:15:27,193 --> 00:15:29,821
+<i>I'm gonna be the main event</i>
+
+275
+00:15:29,862 --> 00:15:31,956
+<i>Like no king was before</i>
+
+276
+00:15:32,265 --> 00:15:34,666
+<i>I'm brushin' up on lookin' down</i>
+
+277
+00:15:34,700 --> 00:15:36,862
+<i>I'm workin' on my roar</i>
+
+278
+00:15:36,903 --> 00:15:40,567
+<i>Thus far, a rather uninspiring thing</i>
+
+279
+00:15:41,140 --> 00:15:45,577
+<i>Oh, I just can't wait to be king</i>
+
+280
+00:15:45,611 --> 00:15:48,808
+You've rather along way to go,
+young master, if you think...
+
+281
+00:15:48,848 --> 00:15:51,249
+<i>- No one sayin', "Do this"
+- Now, when I said that...</i>
+
+282
+00:15:51,284 --> 00:15:53,753
+<i>- No one saying, "Be there"
+- What I meant was...</i>
+
+283
+00:15:53,786 --> 00:15:56,153
+<i>- No one sayin', "Stop that"
+- You don't realize...</i>
+
+284
+00:15:56,189 --> 00:15:59,056
+<i>- No one sayin', "See here"
+- Now, see here!</i>
+
+285
+00:15:59,091 --> 00:16:02,493
+<i>Free to run around all day</i>
+
+286
+00:16:02,528 --> 00:16:04,155
+Well, that's definitely out.
+
+287
+00:16:04,197 --> 00:16:08,225
+<i>Free to do it all my way</i>
+
+288
+00:16:11,070 --> 00:16:13,562
+<i>I think it's time that you and I</i>
+
+289
+00:16:13,606 --> 00:16:15,700
+<i>Arranged a heart-to-heart</i>
+
+290
+00:16:16,008 --> 00:16:17,567
+<i>Kings don't need advice</i>
+
+291
+00:16:17,643 --> 00:16:20,203
+<i>From little hornbills for a start</i>
+
+292
+00:16:20,847 --> 00:16:23,817
+<i>If this is where
+the monarchy is headed</i>
+
+293
+00:16:23,850 --> 00:16:25,045
+<i>Count me out</i>
+
+294
+00:16:25,284 --> 00:16:27,582
+<i>Out of service, out of Africa</i>
+
+295
+00:16:27,620 --> 00:16:30,214
+<i>I wouldn't hang about</i>
+
+296
+00:16:30,857 --> 00:16:34,623
+<i>This child is getting
+wildly out of wing</i>
+
+297
+00:16:34,694 --> 00:16:39,188
+<i>Oh, I just can't wait to be king</i>
+
+298
+00:16:51,711 --> 00:16:53,475
+<i>Everybody, look left</i>
+
+299
+00:16:54,380 --> 00:16:56,371
+<i>Everybody, look right</i>
+
+300
+00:16:56,716 --> 00:16:58,980
+<i>Everywhere you look, I'm</i>
+
+301
+00:16:59,018 --> 00:17:00,645
+<i>Standing in the spotlight</i>
+
+302
+00:17:00,720 --> 00:17:02,449
+Not yet!
+
+303
+00:17:02,522 --> 00:17:06,288
+<i>Let every creature
+go for broke and sing</i>
+
+304
+00:17:06,792 --> 00:17:10,251
+<i>Let's hear it in the herd
+and on the wing</i>
+
+305
+00:17:11,797 --> 00:17:15,961
+<i>It's gonna be
+King Simba's finest fling</i>
+
+306
+00:17:16,035 --> 00:17:20,973
+<i>Oh, I just can't wait to be king</i>
+
+307
+00:17:21,040 --> 00:17:25,910
+<i>Oh, I just can't wait to be king</i>
+
+308
+00:17:25,945 --> 00:17:30,815
+<i>Oh, I just can't wait</i>
+
+309
+00:17:32,051 --> 00:17:34,145
+<i>To be king</i>
+
+310
+00:17:40,359 --> 00:17:43,124
+ZAZU: (MUFFLED)
+I beg your pardon, madam, but
+
+311
+00:17:43,262 --> 00:17:45,196
+get off!
+
+312
+00:17:45,631 --> 00:17:46,860
+Simba?
+
+313
+00:17:47,300 --> 00:17:49,166
+Nala!
+
+314
+00:17:50,436 --> 00:17:51,528
+(LAUGHING)
+
+315
+00:17:51,571 --> 00:17:52,970
+All right! It worked!
+
+316
+00:17:53,005 --> 00:17:55,531
+- We lost him.
+- I am a genius.
+
+317
+00:17:55,875 --> 00:17:57,673
+Hey, genius, it was my idea.
+
+318
+00:17:57,710 --> 00:17:59,940
+Yeah, but I pulled it off.
+
+319
+00:17:59,979 --> 00:18:01,970
+- With me!
+- Oh, yeah?
+
+320
+00:18:05,117 --> 00:18:08,280
+- Pinned ya.
+- Hey, let me up!
+
+321
+00:18:09,655 --> 00:18:11,054
+(LAUGHING)
+
+322
+00:18:13,025 --> 00:18:15,153
+Pinned ya again.
+
+323
+00:18:27,406 --> 00:18:29,875
+This is it. We made it.
+
+324
+00:18:34,113 --> 00:18:35,672
+Whoa!
+
+325
+00:18:38,317 --> 00:18:40,115
+NALA: It's really creepy.
+
+326
+00:18:40,152 --> 00:18:41,244
+Yeah.
+
+327
+00:18:41,320 --> 00:18:42,583
+Isn't it great?
+
+328
+00:18:42,655 --> 00:18:45,818
+- We could get in big trouble.
+- I know!
+
+329
+00:18:46,225 --> 00:18:49,024
+I wonder if its brains are still in there.
+
+330
+00:18:49,061 --> 00:18:50,995
+There's only one way to know.
+
+331
+00:18:51,063 --> 00:18:52,861
+Come on, let's go check it out.
+
+332
+00:18:52,932 --> 00:18:56,630
+Wrong! The only checking out you
+will do will be to check out of here.
+
+333
+00:18:56,669 --> 00:18:57,966
+Oh, man!
+
+334
+00:18:58,004 --> 00:19:00,496
+We're way beyond the boundary
+of the Pride Lands.
+
+335
+00:19:00,606 --> 00:19:02,199
+Look, banana beak is scared.
+
+336
+00:19:02,241 --> 00:19:05,108
+It's Mr. banana beak to you, fuzzy,
+
+337
+00:19:05,144 --> 00:19:08,580
+and right now we are all
+in very real danger.
+
+338
+00:19:08,614 --> 00:19:10,082
+Danger? Ha!
+
+339
+00:19:10,116 --> 00:19:12,210
+I walk on the wild side.
+
+340
+00:19:12,284 --> 00:19:14,548
+I laugh in the face of danger.
+
+341
+00:19:14,787 --> 00:19:16,118
+Ha ha ha ha!
+
+342
+00:19:16,155 --> 00:19:17,554
+(CACKLING)
+
+343
+00:19:23,429 --> 00:19:26,694
+Well, well, well, Banzai,
+what have we got here?
+
+344
+00:19:26,766 --> 00:19:28,700
+I don't know, Shenzi.
+
+345
+00:19:29,435 --> 00:19:31,096
+What do you think, Ed?
+
+346
+00:19:31,137 --> 00:19:32,627
+(CRAZY LAUGHTER)
+
+347
+00:19:33,372 --> 00:19:35,136
+Just what I was thinking.
+
+348
+00:19:35,641 --> 00:19:37,234
+A trio of trespassers!
+
+349
+00:19:37,276 --> 00:19:39,540
+And quite by accident,
+let me assure you.
+
+350
+00:19:39,612 --> 00:19:41,478
+A simple navigational error.
+
+351
+00:19:41,514 --> 00:19:43,505
+Whoa, whoa, wait, wait, wait.
+
+352
+00:19:43,549 --> 00:19:47,577
+I know you.
+You're Mufasa's little stooge.
+
+353
+00:19:47,620 --> 00:19:49,952
+I, madam, am the king's major-domo.
+
+354
+00:19:49,989 --> 00:19:51,650
+And that would make you...
+
+355
+00:19:51,691 --> 00:19:53,022
+The future king.
+
+356
+00:19:53,059 --> 00:19:56,689
+Do you know what we do to kings
+who step out of their kingdom?
+
+357
+00:19:56,896 --> 00:19:59,524
+Huh! You can't do anything to me.
+
+358
+00:19:59,565 --> 00:20:01,863
+Technically, they can.
+We are on their land.
+
+359
+00:20:01,901 --> 00:20:06,168
+But you told me they're nothing but
+slobbering, mangy, stupid poachers.
+
+360
+00:20:06,205 --> 00:20:07,764
+Ix-nay on the upid-stay.
+
+361
+00:20:07,840 --> 00:20:11,003
+- Who are you callin' upid-stay?
+- My, my, my. Oh, look at the sun!
+
+362
+00:20:11,043 --> 00:20:13,239
+- It's time to go!
+- What's the hurry?
+
+363
+00:20:13,279 --> 00:20:15,179
+We'd love you to
+stick around for dinner.
+
+364
+00:20:15,214 --> 00:20:18,673
+Yeah, we could have
+whatever's lion around!
+
+365
+00:20:18,718 --> 00:20:20,686
+Wait, wait, wait, I got one, I got one!
+
+366
+00:20:20,720 --> 00:20:23,849
+Make mine a cub sandwich!
+Whaddaya think?
+
+367
+00:20:25,591 --> 00:20:28,026
+What, Ed? What is it?
+
+368
+00:20:28,094 --> 00:20:29,960
+Hey, did we order this dinner to go?
+
+369
+00:20:30,029 --> 00:20:31,121
+No, why?
+
+370
+00:20:31,197 --> 00:20:33,359
+'Cause there it goes!
+
+371
+00:20:33,933 --> 00:20:35,025
+(PANTING)
+
+372
+00:20:36,535 --> 00:20:37,866
+(SQUAWKS)
+
+373
+00:20:39,572 --> 00:20:42,303
+- Did we lose 'em?
+- I think so.
+
+374
+00:20:42,374 --> 00:20:43,808
+Where's Zazu?
+
+375
+00:20:43,876 --> 00:20:46,038
+The little major-domo bird
+hippety-hopped
+
+376
+00:20:46,078 --> 00:20:48,137
+all the way to the birdie-boiler.
+
+377
+00:20:48,547 --> 00:20:51,244
+Oh, no! Not the birdie-boiler!
+
+378
+00:20:51,350 --> 00:20:53,318
+Aaaah!
+
+379
+00:20:54,587 --> 00:20:57,887
+Hey, why don't you pick
+on somebody your own size?
+
+380
+00:20:58,090 --> 00:21:00,388
+- Like you?
+- Oops.
+
+381
+00:21:02,261 --> 00:21:04,559
+Boo!
+
+382
+00:21:16,609 --> 00:21:18,543
+NALA: Simba!
+
+383
+00:21:22,214 --> 00:21:24,649
+(SNARLS)
+
+384
+00:21:36,595 --> 00:21:40,054
+Here, kitty, kitty, kitty.
+
+385
+00:21:41,200 --> 00:21:43,191
+(WEAK ROAR)
+
+386
+00:21:44,537 --> 00:21:45,936
+That was it?
+
+387
+00:21:46,472 --> 00:21:48,304
+Do it again. Come on.
+
+388
+00:21:49,508 --> 00:21:50,942
+(DEEP ROAR)
+
+389
+00:21:52,812 --> 00:21:54,143
+(ROARING)
+
+390
+00:22:00,286 --> 00:22:02,778
+- Oh, please, please! Uncle, uncle!
+- Silence!
+
+391
+00:22:02,822 --> 00:22:06,087
+- We're gonna shut up right now!
+- Calm down. We're really sorry.
+
+392
+00:22:06,125 --> 00:22:09,288
+If you ever come near my son again...
+
+393
+00:22:09,495 --> 00:22:11,054
+Oh, this is... This is your son?
+
+394
+00:22:11,096 --> 00:22:13,622
+- Oh, your son.
+- Did you know that?
+
+395
+00:22:13,666 --> 00:22:16,158
+No. Me? I didn't know... No, did you?
+
+396
+00:22:16,202 --> 00:22:18,102
+- No, of course not.
+- No.
+
+397
+00:22:18,170 --> 00:22:19,228
+Ed?
+
+398
+00:22:20,906 --> 00:22:22,032
+(ROARS)
+
+399
+00:22:22,575 --> 00:22:23,940
+Toodles.
+
+400
+00:22:31,183 --> 00:22:33,948
+- Dad, I...
+- You deliberately disobeyed me.
+
+401
+00:22:35,254 --> 00:22:38,246
+- Dad, I'm... I'm sorry.
+- Let's go home.
+
+402
+00:22:41,260 --> 00:22:43,854
+I thought you were very brave.
+
+403
+00:23:00,579 --> 00:23:02,104
+MUFASA: Zazu.
+
+404
+00:23:04,149 --> 00:23:05,344
+Yes, sire?
+
+405
+00:23:05,384 --> 00:23:09,719
+Take Nala home.
+I've got to teach my son a lesson.
+
+406
+00:23:13,893 --> 00:23:15,827
+Come, Nala.
+
+407
+00:23:15,895 --> 00:23:19,331
+Simba, good luck.
+
+408
+00:23:24,970 --> 00:23:26,995
+Simba!
+
+409
+00:23:54,633 --> 00:23:56,601
+Simba, I'm very disappointed in you.
+
+410
+00:23:56,635 --> 00:23:59,104
+- I know.
+- You could've been killed.
+
+411
+00:23:59,138 --> 00:24:01,129
+You deliberately disobeyed me,
+
+412
+00:24:01,173 --> 00:24:04,939
+and what's worse,
+you put Nala in danger.
+
+413
+00:24:05,411 --> 00:24:07,607
+I was just trying to be brave, like you.
+
+414
+00:24:08,047 --> 00:24:11,073
+I'm only brave when I have to be.
+
+415
+00:24:11,116 --> 00:24:14,814
+Simba, being brave
+
+416
+00:24:14,853 --> 00:24:17,220
+doesn't mean you go looking for trouble.
+
+417
+00:24:17,289 --> 00:24:19,314
+But you're not scared of anything.
+
+418
+00:24:20,459 --> 00:24:21,654
+I was today.
+
+419
+00:24:21,694 --> 00:24:23,890
+- You were?
+- Yes.
+
+420
+00:24:23,963 --> 00:24:26,125
+I thought I might lose you.
+
+421
+00:24:26,165 --> 00:24:30,193
+I guess even kings get scared, huh?
+
+422
+00:24:30,235 --> 00:24:31,464
+Mm-hmm.
+
+423
+00:24:31,503 --> 00:24:33,801
+- But you know what?
+- What?
+
+424
+00:24:33,839 --> 00:24:36,399
+I think those hyenas
+were even scareder.
+
+425
+00:24:36,542 --> 00:24:37,839
+(LAUGHS)
+
+426
+00:24:38,010 --> 00:24:41,173
+'Cause nobody messes with your dad.
+
+427
+00:24:41,213 --> 00:24:43,682
+- Come here, you.
+- Oh, no! No!
+
+428
+00:24:43,849 --> 00:24:46,113
+- Aagh! Uhh!
+-(MUFASA CHUCKLES)
+
+429
+00:24:46,752 --> 00:24:48,413
+SIMBA: Come here!
+
+430
+00:24:48,454 --> 00:24:49,717
+(BOTH LAUGH)
+
+431
+00:24:49,755 --> 00:24:50,950
+Gotcha!
+
+432
+00:24:54,793 --> 00:24:56,158
+(PANTING)
+
+433
+00:24:56,195 --> 00:24:57,754
+-Dad?
+-Hmm?
+
+434
+00:24:57,830 --> 00:25:00,595
+- We're pals, right?
+- Right.
+
+435
+00:25:00,666 --> 00:25:03,431
+And we'll always be together, right?
+
+436
+00:25:04,670 --> 00:25:10,439
+Simba, let me tell you something
+that my father told me.
+
+437
+00:25:10,509 --> 00:25:12,443
+Look at the stars.
+
+438
+00:25:12,778 --> 00:25:17,614
+The great kings of the past
+look down on us from those stars.
+
+439
+00:25:18,050 --> 00:25:19,984
+- Really?
+- Yes.
+
+440
+00:25:20,019 --> 00:25:22,386
+So whenever you feel alone,
+
+441
+00:25:22,421 --> 00:25:27,188
+just remember that those kings
+will always be there to guide you.
+
+442
+00:25:28,627 --> 00:25:30,527
+And so will I.
+
+443
+00:25:37,269 --> 00:25:40,933
+BANZAI: Man, that lousy Mufasa.
+I won't be able to sit for a week.
+
+444
+00:25:40,973 --> 00:25:42,372
+(ED LAUGHS)
+
+445
+00:25:44,109 --> 00:25:45,770
+It's not funny, Ed.
+
+446
+00:25:46,145 --> 00:25:48,341
+(LAUGHS HYSTERICALLY)
+
+447
+00:25:49,548 --> 00:25:51,778
+Hey, shut up!
+
+448
+00:25:51,817 --> 00:25:53,080
+(SNARLS)
+
+449
+00:25:54,586 --> 00:25:56,213
+Will you knock it off?
+
+450
+00:25:57,389 --> 00:26:00,450
+- Well, he started it.
+- SHENZl: Look at you guys.
+
+451
+00:26:00,659 --> 00:26:03,128
+No wonder we're dangling
+at the bottom of the food chain.
+
+452
+00:26:03,195 --> 00:26:04,685
+Man, I hate dangling.
+
+453
+00:26:04,730 --> 00:26:08,633
+Yeah? If it weren't for those lions,
+we'd be runnin' the joint.
+
+454
+00:26:08,700 --> 00:26:10,134
+Man, I hate lions.
+
+455
+00:26:10,202 --> 00:26:11,863
+- So pushy.
+- And hairy.
+
+456
+00:26:11,904 --> 00:26:14,066
+- And stinky.
+- And, man, are they...
+
+457
+00:26:14,106 --> 00:26:16,131
+BOTH: ugly!
+
+458
+00:26:17,509 --> 00:26:21,309
+Oh, surely we lions are not all that bad.
+
+459
+00:26:21,647 --> 00:26:24,241
+- Oh.
+- Oh, Scar. It's just you.
+
+460
+00:26:24,283 --> 00:26:26,411
+We were afraid it was
+somebody important.
+
+461
+00:26:26,452 --> 00:26:27,920
+Yeah, you know, like Mufasa.
+
+462
+00:26:27,953 --> 00:26:29,512
+- SHENZl: Yeah.
+- I see.
+
+463
+00:26:29,555 --> 00:26:31,887
+- Now that's power!
+- Tell me about it.
+
+464
+00:26:31,924 --> 00:26:33,722
+I just hear that name and I shudder.
+
+465
+00:26:33,759 --> 00:26:36,387
+- Mufasa!
+- Ooh! Do it again.
+
+466
+00:26:36,428 --> 00:26:37,827
+- Mufasa!
+- Ooooh!
+
+467
+00:26:37,896 --> 00:26:40,490
+Mufasa! Mufasa! Mufasa!
+
+468
+00:26:41,166 --> 00:26:42,361
+SHENZI: Ooh, it tingles me.
+
+469
+00:26:42,401 --> 00:26:45,302
+I'm surrounded by idiots.
+
+470
+00:26:45,370 --> 00:26:48,499
+Now, you, Scar, I mean, you're
+one of us. I mean, you're our pal.
+
+471
+00:26:48,574 --> 00:26:49,735
+Charmed.
+
+472
+00:26:49,775 --> 00:26:53,973
+Oh, I like that. He's not king,
+but he's still so proper.
+
+473
+00:26:54,012 --> 00:26:55,912
+Yeah. Hey, did you
+bring us anything to eat,
+
+474
+00:26:55,948 --> 00:26:58,110
+Scar, old buddy, old pal?
+Huh? Did ya, did ya, did ya?
+
+475
+00:26:58,150 --> 00:27:00,517
+I don't think you really deserve this.
+
+476
+00:27:00,586 --> 00:27:03,681
+I practically gift-wrapped
+those cubs for you,
+
+477
+00:27:03,755 --> 00:27:07,191
+and you couldn't even dispose of them.
+
+478
+00:27:09,795 --> 00:27:13,925
+Well, you know, it wasn't exactly
+like they was alone, Scar.
+
+479
+00:27:13,966 --> 00:27:16,196
+Yeah. What were we supposed to do?
+
+480
+00:27:16,635 --> 00:27:18,160
+(GULP) Kill Mufasa?
+
+481
+00:27:18,504 --> 00:27:19,835
+(CHEWING)
+
+482
+00:27:19,905 --> 00:27:21,873
+Precisely.
+
+483
+00:27:32,251 --> 00:27:36,210
+(SINGING) <i>I know that your powers
+of retention</i>
+
+484
+00:27:36,288 --> 00:27:40,054
+<i>Are as wet as a warthog's backside</i>
+
+485
+00:27:40,125 --> 00:27:44,323
+<i>But thick as you are, pay attention</i>
+
+486
+00:27:44,363 --> 00:27:48,163
+<i>My words are a matter of pride</i>
+
+487
+00:27:48,200 --> 00:27:51,898
+<i>It's clear from your vacant expressions</i>
+
+488
+00:27:51,970 --> 00:27:55,907
+<i>The lights are not all on upstairs</i>
+
+489
+00:27:55,974 --> 00:27:59,410
+<i>But we're talking kings
+and successions</i>
+
+490
+00:27:59,478 --> 00:28:02,243
+<i>Even you can't be caught unawares</i>
+
+491
+00:28:03,615 --> 00:28:07,210
+<i>So prepare for the chance of a lifetime</i>
+
+492
+00:28:07,286 --> 00:28:11,689
+<i>Be prepared for sensational news</i>
+
+493
+00:28:11,723 --> 00:28:15,591
+<i>A shiny new era is tiptoeing nearer</i>
+
+494
+00:28:15,661 --> 00:28:17,254
+<i>And where do we feature?</i>
+
+495
+00:28:17,329 --> 00:28:19,559
+<i>Just listen to teacher</i>
+
+496
+00:28:19,631 --> 00:28:21,531
+<i>I know it sounds sordid</i>
+
+497
+00:28:21,567 --> 00:28:23,501
+<i>But you'll be rewarded</i>
+
+498
+00:28:23,535 --> 00:28:27,096
+<i>When at last I am given my dues</i>
+
+499
+00:28:27,172 --> 00:28:30,733
+<i>And injustice deliciously squared</i>
+
+500
+00:28:30,809 --> 00:28:34,040
+Be <i>prepared</i>
+
+501
+00:28:34,079 --> 00:28:38,209
+Yeah, be prepared.
+We'll be prepared. For what?
+
+502
+00:28:38,250 --> 00:28:39,615
+For the death of the king.
+
+503
+00:28:39,651 --> 00:28:42,143
+- Why, is he sick?
+- No, fool, we're going to kill him.
+
+504
+00:28:42,187 --> 00:28:45,589
+- And Simba, too.
+- Great idea. Who needs a king?
+
+505
+00:28:45,624 --> 00:28:48,457
+<i>(SINGING)
+No king, no king,</i> la-la la-la <i>la la</i>
+
+506
+00:28:48,493 --> 00:28:51,519
+- Idiots! There will be a king!
+- Hey, but you said...
+
+507
+00:28:51,563 --> 00:28:53,588
+I will be king!
+
+508
+00:28:53,665 --> 00:28:55,394
+Stick with me,
+
+509
+00:28:55,467 --> 00:28:59,426
+and you'll never go hungry again.
+
+510
+00:28:59,471 --> 00:29:01,838
+- Yeah! All right!
+- Long live the king!
+
+511
+00:29:01,907 --> 00:29:05,343
+Long live the king! Long live the king!
+
+512
+00:29:07,212 --> 00:29:10,477
+<i>It's great that we'll soon be connected</i>
+
+513
+00:29:10,549 --> 00:29:14,850
+<i>With a king who'll be all-time adored</i>
+
+514
+00:29:14,920 --> 00:29:18,447
+<i>Of course, quid pro quo
+you're expected</i>
+
+515
+00:29:18,490 --> 00:29:22,518
+<i>To take certain duties on board</i>
+
+516
+00:29:22,594 --> 00:29:26,360
+<i>The future is littered with prizes</i>
+
+517
+00:29:26,431 --> 00:29:30,834
+<i>And though I'm the main addressee</i>
+
+518
+00:29:30,902 --> 00:29:34,270
+<i>The point that I must emphasize is</i>
+
+519
+00:29:34,306 --> 00:29:37,276
+<i>You won't get a sniff without me!</i>
+
+520
+00:29:38,176 --> 00:29:41,806
+<i>So prepare for the coup of the century</i>
+
+521
+00:29:41,847 --> 00:29:46,216
+<i>Be prepared for the murkiest scam</i>
+
+522
+00:29:46,285 --> 00:29:47,980
+<i>Meticulous planning</i>
+
+523
+00:29:48,020 --> 00:29:49,988
+<i>Tenacity spanning</i>
+
+524
+00:29:50,022 --> 00:29:52,150
+<i>Decades of denial</i>
+
+525
+00:29:52,190 --> 00:29:55,854
+<i>ls simply why I'll be king undisputed</i>
+
+526
+00:29:55,927 --> 00:29:57,895
+<i>Respected, saluted</i>
+
+527
+00:29:57,963 --> 00:30:01,399
+<i>And seen for the wonder I am</i>
+
+528
+00:30:01,466 --> 00:30:05,232
+<i>Yes, my teeth and ambitions are bared</i>
+
+529
+00:30:05,304 --> 00:30:08,535
+<i>Be prepared</i>
+
+530
+00:30:09,708 --> 00:30:13,042
+<i>Yes, our teeth and ambitions are bared</i>
+
+531
+00:30:13,111 --> 00:30:17,048
+<i>Be prepared</i>
+
+532
+00:30:17,582 --> 00:30:19,914
+(ALL CACKLE)
+
+533
+00:30:29,494 --> 00:30:34,022
+SCAR: You wait here. Your father has
+a marvelous surprise for you.
+
+534
+00:30:34,066 --> 00:30:35,363
+Ooh, what is it?
+
+535
+00:30:35,400 --> 00:30:38,631
+If I told you, it wouldn't be
+a surprise now, would it?
+
+536
+00:30:38,704 --> 00:30:40,695
+If you tell me,
+I'll still act surprised.
+
+537
+00:30:41,039 --> 00:30:44,669
+Ho ho ho! You are such a naughty boy.
+
+538
+00:30:44,710 --> 00:30:47,907
+- Come on, Uncle Scar.
+- No, no, no, no, no, no, no.
+
+539
+00:30:47,946 --> 00:30:50,313
+This is just for you and your daddy.
+
+540
+00:30:50,382 --> 00:30:55,081
+You know, a sort of father-son thing.
+
+541
+00:30:55,120 --> 00:30:57,953
+Well, I'd better go get him.
+
+542
+00:30:58,023 --> 00:30:59,855
+<i>- I'll</i> go with you.
+- No.
+
+543
+00:31:01,293 --> 00:31:05,093
+No. Just stay on this rock.
+
+544
+00:31:05,130 --> 00:31:07,155
+You wouldn't want to end up
+in another mess
+
+545
+00:31:07,232 --> 00:31:08,961
+like you did with the hyenas.
+
+546
+00:31:09,067 --> 00:31:12,970
+- You know about that?
+- Simba, everybody knows about that.
+
+547
+00:31:13,004 --> 00:31:15,632
+- Really?
+- Oh, yes.
+
+548
+00:31:15,674 --> 00:31:19,440
+Lucky daddy was there
+to save you, eh?
+
+549
+00:31:19,478 --> 00:31:22,209
+Oh, and just between us,
+
+550
+00:31:22,280 --> 00:31:25,682
+you might want to work on
+that little roar of yours, hmm?
+
+551
+00:31:26,017 --> 00:31:27,712
+Oh. Okay.
+
+552
+00:31:30,355 --> 00:31:33,985
+Hey, Uncle Scar,
+will I like this surprise?
+
+553
+00:31:34,326 --> 00:31:38,354
+Simba, it's to die for.
+
+554
+00:31:59,584 --> 00:32:01,074
+-(STOMACH RUMBLES)
+- Shut up.
+
+555
+00:32:01,119 --> 00:32:04,555
+I can't help it. I'm so hungry.
+I got to have a wildebeest.
+
+556
+00:32:04,623 --> 00:32:06,091
+Stay put.
+
+557
+00:32:06,825 --> 00:32:08,418
+Can't I just pick off
+one of the little sick ones?
+
+558
+00:32:08,460 --> 00:32:12,419
+No. We wait for the signal from Scar.
+
+559
+00:32:14,399 --> 00:32:17,994
+There he is. Let's go.
+
+560
+00:32:18,437 --> 00:32:21,407
+"Little roar." Puh!
+
+561
+00:32:23,708 --> 00:32:24,869
+Rarr!
+
+562
+00:32:26,812 --> 00:32:28,075
+Rrrarr!
+
+563
+00:32:31,983 --> 00:32:34,247
+- Rarr!
+-(ROAR ECHOES)
+
+564
+00:32:37,889 --> 00:32:39,948
+(RUMBLING)
+
+565
+00:32:42,761 --> 00:32:44,195
+(BIRDS CAW)
+
+566
+00:33:22,734 --> 00:33:24,702
+Oh, look, sire, the herd is on the move.
+
+567
+00:33:24,769 --> 00:33:27,136
+- Odd.
+- Mufasa, quick.
+
+568
+00:33:27,172 --> 00:33:29,140
+Stampede in the gorge.
+
+569
+00:33:29,174 --> 00:33:31,871
+- Simba's down there!
+- Simba?
+
+570
+00:33:53,932 --> 00:33:55,422
+Zazu, help me!
+
+571
+00:33:55,467 --> 00:33:57,526
+Your father is on the way! Hold on!
+
+572
+00:33:57,602 --> 00:33:58,797
+Hurry!
+
+573
+00:34:02,207 --> 00:34:04,972
+There! There on that tree!
+
+574
+00:34:05,010 --> 00:34:06,375
+Hold on, Simba!
+
+575
+00:34:07,712 --> 00:34:09,237
+Dad!
+
+576
+00:34:13,285 --> 00:34:15,344
+ZAZU: Oh, Scar, this is awful!
+
+577
+00:34:15,387 --> 00:34:17,651
+What'll we do? What'll we do?
+
+578
+00:34:17,689 --> 00:34:20,386
+I'll go back for help, that's what I'll do.
+
+579
+00:34:56,261 --> 00:34:57,285
+Dad!
+
+580
+00:35:20,185 --> 00:35:21,914
+MUFASA: Scar!
+
+581
+00:35:22,587 --> 00:35:25,557
+- SCAR: Brother.
+- Brother, help me!
+
+582
+00:35:33,565 --> 00:35:37,058
+Long live the king.
+
+583
+00:35:42,040 --> 00:35:45,271
+No!
+
+584
+00:35:56,688 --> 00:35:58,019
+(COUGHS)
+
+585
+00:35:58,056 --> 00:35:59,455
+Dad!
+
+586
+00:36:10,635 --> 00:36:11,727
+(RUSTLING)
+
+587
+00:36:11,770 --> 00:36:12,794
+Dad?
+
+588
+00:36:50,275 --> 00:36:51,834
+Dad?
+
+589
+00:36:52,711 --> 00:36:55,578
+Dad, come on.
+
+590
+00:36:55,613 --> 00:36:58,514
+You got to get up.
+
+591
+00:36:58,583 --> 00:37:00,642
+Dad?
+
+592
+00:37:00,685 --> 00:37:02,619
+We got to go home.
+
+593
+00:37:13,765 --> 00:37:15,290
+Help! (ECHOES)
+
+594
+00:37:17,802 --> 00:37:20,294
+Somebody!
+
+595
+00:37:20,739 --> 00:37:22,229
+Anybody.
+
+596
+00:37:23,908 --> 00:37:25,103
+Help.
+
+597
+00:37:44,262 --> 00:37:45,661
+(SNIFFLES)
+
+598
+00:37:56,107 --> 00:37:59,805
+Simba. What have you done?
+
+599
+00:38:01,346 --> 00:38:04,008
+There were wildebeests,
+and he tried to save me.
+
+600
+00:38:04,482 --> 00:38:07,349
+It was an accident.
+I didn't mean for it to happen.
+
+601
+00:38:07,385 --> 00:38:11,618
+Of course. Of course you didn't.
+
+602
+00:38:12,223 --> 00:38:17,161
+No one ever means for
+these things to happen.
+
+603
+00:38:17,262 --> 00:38:19,321
+But the king is dead.
+
+604
+00:38:20,899 --> 00:38:23,925
+And if it weren't for you,
+he'd still be alive.
+
+605
+00:38:28,807 --> 00:38:31,242
+Oh, what will your mother think?
+
+606
+00:38:31,576 --> 00:38:33,840
+(SNIFFLES) What am I going to do?
+
+607
+00:38:33,878 --> 00:38:35,243
+Run away, Simba.
+
+608
+00:38:36,581 --> 00:38:41,678
+Run. Run away and never return.
+
+609
+00:38:48,359 --> 00:38:49,758
+Kill him.
+
+610
+00:39:02,140 --> 00:39:03,301
+(SNARLS)
+
+611
+00:39:27,198 --> 00:39:28,927
+Whoa!
+
+612
+00:39:34,639 --> 00:39:36,767
+- Yow!
+-(LAUGHING)
+
+613
+00:39:37,809 --> 00:39:39,436
+Aah! Ohh! Yeow!
+
+614
+00:39:42,780 --> 00:39:44,874
+Hey, there he goes. There he goes.
+
+615
+00:39:45,450 --> 00:39:46,576
+So go get him.
+
+616
+00:39:46,618 --> 00:39:48,518
+There ain't no way I'm going in there.
+
+617
+00:39:48,553 --> 00:39:52,456
+What, you want me to come out
+looking like you, cactus butt?
+
+618
+00:39:53,524 --> 00:39:54,889
+But we got to finish the job.
+
+619
+00:39:54,926 --> 00:39:58,021
+Well, he's as good as
+dead out there anyway.
+
+620
+00:39:58,062 --> 00:40:00,360
+And if he comes back, we'll kill him.
+
+621
+00:40:00,798 --> 00:40:02,527
+Yeah! You hear that?
+
+622
+00:40:03,268 --> 00:40:06,568
+If you ever come back, we'll kill you!
+
+623
+00:40:06,604 --> 00:40:07,969
+(LAUGHING)
+
+624
+00:40:14,946 --> 00:40:19,008
+Mufasa's death is a terrible tragedy.
+
+625
+00:40:19,651 --> 00:40:23,485
+But to lose Simba,
+who had barely begun to live...
+
+626
+00:40:24,455 --> 00:40:29,325
+For me, it is a deep, personal loss.
+
+627
+00:40:29,394 --> 00:40:33,388
+So it is with a heavy heart
+that I assume the throne.
+
+628
+00:40:33,431 --> 00:40:37,732
+Yet out of the ashes of this tragedy
+we shall rise
+
+629
+00:40:37,769 --> 00:40:40,761
+to greet the dawning of a new era
+
+630
+00:40:40,805 --> 00:40:44,639
+in which lion and hyena come together
+
+631
+00:40:44,676 --> 00:40:49,011
+in a great and glorious future.
+
+632
+00:40:49,714 --> 00:40:51,978
+(HYENAS WHOOP)
+
+633
+00:40:54,118 --> 00:40:55,381
+(SIGHS)
+
+634
+00:41:20,011 --> 00:41:21,945
+(CAWING)
+
+635
+00:41:31,556 --> 00:41:33,615
+Yaaaah!
+
+636
+00:41:36,227 --> 00:41:38,491
+Get out! Get out! Get out of here!
+
+637
+00:41:38,529 --> 00:41:40,896
+I love this! Bowling for buzzards.
+
+638
+00:41:41,099 --> 00:41:44,558
+Hee hee hee! Gets 'em every time.
+
+639
+00:41:44,769 --> 00:41:48,706
+Uh-oh.
+Hey, Timon, you better come look.
+
+640
+00:41:48,740 --> 00:41:50,834
+I think it's still alive.
+
+641
+00:41:50,975 --> 00:41:52,204
+Eeeuw.
+
+642
+00:41:52,477 --> 00:41:55,674
+All righty, what have we got here?
+
+643
+00:41:55,747 --> 00:41:57,044
+(SNIFFS)
+
+644
+00:42:00,184 --> 00:42:01,515
+(GRUNTS)
+
+645
+00:42:01,552 --> 00:42:04,920
+Jeez, it's a lion! Run, Pumbaa, move it!
+
+646
+00:42:04,956 --> 00:42:08,324
+Hey, Timon, it's just a little lion.
+
+647
+00:42:08,359 --> 00:42:12,990
+Look at him. He's so cute and all alone.
+
+648
+00:42:13,264 --> 00:42:15,494
+- Can we keep him?
+- Pumbaa, are you nuts?
+
+649
+00:42:15,533 --> 00:42:18,833
+You're talking about a lion.
+Lions eat guys like us.
+
+650
+00:42:18,870 --> 00:42:21,362
+- But he's so little.
+- He's going to get bigger.
+
+651
+00:42:21,439 --> 00:42:23,635
+Maybe he'll be on our side.
+
+652
+00:42:23,674 --> 00:42:26,735
+That's the stupidest thing
+I ever heard. Maybe he'll...
+
+653
+00:42:26,778 --> 00:42:30,146
+Hey, I've got it.
+What if he's on our side?
+
+654
+00:42:30,181 --> 00:42:33,515
+You know, having a lion around
+might not be such a bad idea.
+
+655
+00:42:33,551 --> 00:42:34,677
+So we're keeping him?
+
+656
+00:42:34,719 --> 00:42:37,017
+Of course.
+Who's the brains of this outfit?
+
+657
+00:42:37,055 --> 00:42:38,716
+- Uh...
+- My point exactly.
+
+658
+00:42:38,790 --> 00:42:42,090
+Jeez, I'm fried. Let's get out
+of here and find some shade.
+
+659
+00:42:50,635 --> 00:42:52,899
+- You okay, kid?
+- I guess so.
+
+660
+00:42:52,970 --> 00:42:54,233
+You nearly died.
+
+661
+00:42:54,305 --> 00:42:55,932
+- I saved you.
+-(SNORTS)
+
+662
+00:42:56,007 --> 00:42:58,203
+Well, Pumbaa helped. A little.
+
+663
+00:42:58,242 --> 00:43:00,108
+Thanks for your help.
+
+664
+00:43:01,245 --> 00:43:02,576
+Hey, where you going?
+
+665
+00:43:02,647 --> 00:43:04,877
+Nowhere.
+
+666
+00:43:04,916 --> 00:43:06,281
+Gee, he looks blue.
+
+667
+00:43:06,350 --> 00:43:10,651
+- I'd say brownish gold.
+- No, no, no. I mean he's depressed.
+
+668
+00:43:12,323 --> 00:43:13,347
+Kid, what's eating you?
+
+669
+00:43:13,391 --> 00:43:16,486
+Nothing.
+He's at the top of the food chain.
+
+670
+00:43:18,930 --> 00:43:20,420
+The food chain!
+
+671
+00:43:22,266 --> 00:43:23,427
+Ahem.
+
+672
+00:43:24,535 --> 00:43:26,003
+So, where you from?
+
+673
+00:43:26,037 --> 00:43:28,062
+Who cares? I can't go back.
+
+674
+00:43:28,272 --> 00:43:31,606
+Ah, you're an outcast.
+That's great. So are we.
+
+675
+00:43:31,642 --> 00:43:34,077
+- What'd you do, kid?
+- Something terrible.
+
+676
+00:43:34,112 --> 00:43:37,138
+- But I don't want to talk about it.
+- We don't want to hear about it.
+
+677
+00:43:37,215 --> 00:43:39,411
+Come on, Timon. Anything we can do?
+
+678
+00:43:39,484 --> 00:43:42,146
+Not unless you can change the past.
+
+679
+00:43:42,220 --> 00:43:45,520
+You know, kid, in times like this,
+my buddy Timon here says,
+
+680
+00:43:45,590 --> 00:43:48,116
+"You got to put your
+behind in your past."
+
+681
+00:43:48,159 --> 00:43:49,786
+No, no, no.
+
+682
+00:43:49,827 --> 00:43:51,226
+- I mean...
+- Amateur.
+
+683
+00:43:51,262 --> 00:43:53,458
+Lie down before you hurt yourself.
+
+684
+00:43:53,931 --> 00:43:56,662
+It's,
+"You got to put your past behind you."
+
+685
+00:43:56,701 --> 00:44:00,797
+Look, kid, bad things happen, and you
+can't do anything about it, right?
+
+686
+00:44:00,838 --> 00:44:01,896
+- Right.
+- Wrong!
+
+687
+00:44:01,939 --> 00:44:04,567
+When the world turns its back on you,
+
+688
+00:44:04,642 --> 00:44:07,373
+You turn your back on the world.
+
+689
+00:44:07,445 --> 00:44:09,345
+Well, that's not what I was taught.
+
+690
+00:44:09,447 --> 00:44:11,643
+Then maybe you need a new lesson.
+
+691
+00:44:11,716 --> 00:44:14,083
+Repeat after me. Ahem.
+
+692
+00:44:14,118 --> 00:44:16,018
+- <i>Hakuna matata.</i>
+- What'?
+
+693
+00:44:16,320 --> 00:44:18,948
+<i>Hakuna matata.</i>
+
+694
+00:44:19,023 --> 00:44:20,252
+It means "no worries".
+
+695
+00:44:20,725 --> 00:44:23,319
+<i>Hakuna matata.</i>
+
+696
+00:44:23,361 --> 00:44:26,558
+What a wonderful phrase.
+
+697
+00:44:26,597 --> 00:44:28,964
+<i>Hakuna matata.</i>
+
+698
+00:44:29,033 --> 00:44:32,333
+(SINGING) <i>Ain't no passing craze</i>
+
+699
+00:44:32,370 --> 00:44:34,771
+<i>It means no worries</i>
+
+700
+00:44:34,805 --> 00:44:38,935
+<i>For the rest of your days</i>
+
+701
+00:44:38,976 --> 00:44:43,971
+<i>It's our problem-free philosophy</i>
+
+702
+00:44:44,048 --> 00:44:46,574
+<i>Hakuna matata</i>
+
+703
+00:44:46,617 --> 00:44:48,449
+<i>Hakuna matata?</i>
+
+704
+00:44:48,486 --> 00:44:51,080
+- Yeah. It's our motto.
+- What's a motto?
+
+705
+00:44:51,122 --> 00:44:53,454
+Nothin'. What's-a-motto with you?
+
+706
+00:44:54,559 --> 00:44:58,462
+You know, kid, these two words
+will solve all your problems.
+
+707
+00:44:58,496 --> 00:45:01,830
+That's right.
+Take Pumbaa, for example. Why...
+
+708
+00:45:01,899 --> 00:45:04,698
+(SINGING) <i>When he was
+a young warthog</i>
+
+709
+00:45:05,002 --> 00:45:08,597
+<i>When I was a young warthog</i>
+
+710
+00:45:08,639 --> 00:45:10,505
+- Very nice.
+- Thanks.
+
+711
+00:45:10,908 --> 00:45:13,536
+<i>He found his aroma
+lacked a certain appeal</i>
+
+712
+00:45:13,578 --> 00:45:15,876
+<i>He could clear the savanna
+after every meal</i>
+
+713
+00:45:15,913 --> 00:45:18,041
+<i>I'm a sensitive soul</i>
+
+714
+00:45:18,082 --> 00:45:20,608
+<i>Though I seem thick-skinned</i>
+
+715
+00:45:20,651 --> 00:45:21,777
+(BREAKS WIND)
+
+716
+00:45:21,819 --> 00:45:27,019
+<i>And it hurt that my friends
+never stood downwind</i>
+
+717
+00:45:27,058 --> 00:45:30,688
+<i>- And, oh, the shame
+- He was ashamed</i>
+
+718
+00:45:30,728 --> 00:45:33,197
+- <i>Thought of changing my name
+- Oh, what's in a name?</i>
+
+719
+00:45:33,264 --> 00:45:34,857
+<i>And I got downhearted</i>
+
+720
+00:45:34,899 --> 00:45:36,890
+<i>- How did you feel?
+- Every time that l...</i>
+
+721
+00:45:36,934 --> 00:45:39,733
+- Hey, not in front of the kids.
+- Oh, sorry.
+
+722
+00:45:40,605 --> 00:45:42,733
+<i>Hakuna matata</i>
+
+723
+00:45:42,773 --> 00:45:46,073
+<i>What a wonderful phrase</i>
+
+724
+00:45:46,110 --> 00:45:47,942
+<i>Hakuna matata</i>
+
+725
+00:45:48,012 --> 00:45:51,243
+<i>Ain't no passing craze</i>
+
+726
+00:45:51,282 --> 00:45:53,546
+<i>It means no worries</i>
+
+727
+00:45:53,584 --> 00:45:55,484
+<i>For the rest of your days</i>
+
+728
+00:45:55,553 --> 00:45:57,248
+Yeah, sing it, kid.
+
+729
+00:45:57,288 --> 00:46:00,258
+<i>It's our problem-free</i>
+
+730
+00:46:00,791 --> 00:46:02,953
+<i>Philosophy</i>
+
+731
+00:46:02,994 --> 00:46:06,328
+<i>Hakuna matata</i>
+
+732
+00:46:07,031 --> 00:46:09,022
+Welcome to our humble home.
+
+733
+00:46:09,066 --> 00:46:11,660
+- You live here?
+- We live wherever we want.
+
+734
+00:46:11,736 --> 00:46:14,171
+Yep. Home is where your rump rests.
+
+735
+00:46:14,272 --> 00:46:16,001
+It's beautiful.
+
+736
+00:46:16,340 --> 00:46:18,240
+(BELCHES) I'm starved.
+
+737
+00:46:18,276 --> 00:46:20,608
+I'm so hungry I could eat a whole zebra.
+
+738
+00:46:21,178 --> 00:46:23,408
+Ah. We're fresh out of zebra.
+
+739
+00:46:23,447 --> 00:46:25,176
+- Any antelope?
+- Nuh-uh.
+
+740
+00:46:25,249 --> 00:46:26,842
+- Hippo?
+- Nope.
+
+741
+00:46:26,917 --> 00:46:30,046
+Listen, kid, if you live with us,
+you have to eat like us.
+
+742
+00:46:30,121 --> 00:46:32,681
+Hey, this looks like a good spot
+to rustle up some grub.
+
+743
+00:46:33,924 --> 00:46:35,289
+Eugh, what's that?
+
+744
+00:46:35,326 --> 00:46:37,158
+A grub. What's it look like?
+
+745
+00:46:37,194 --> 00:46:39,185
+Eugh! Gross.
+
+746
+00:46:39,397 --> 00:46:41,764
+Mmm. Tastes like chicken.
+
+747
+00:46:42,900 --> 00:46:45,597
+Slimy yet satisfying.
+
+748
+00:46:45,636 --> 00:46:48,333
+These are rare delicacies. Mmm.
+
+749
+00:46:49,140 --> 00:46:52,235
+Piquant, with a very pleasant crunch.
+
+750
+00:46:52,410 --> 00:46:54,003
+You'll learn to love them.
+
+751
+00:46:54,045 --> 00:46:56,480
+I'm telling you, kid, this is the great life,
+
+752
+00:46:56,514 --> 00:46:58,846
+no rules, no responsibilities.
+
+753
+00:46:58,883 --> 00:47:01,580
+Ooh, the little cream-filled kind.
+
+754
+00:47:01,652 --> 00:47:04,349
+And best of all, no worries.
+
+755
+00:47:04,388 --> 00:47:06,356
+Well, kid?
+
+756
+00:47:06,390 --> 00:47:09,257
+Oh, well. <i>Hakuna matata.</i>
+
+757
+00:47:13,931 --> 00:47:16,696
+Slimy, yet satisfying.
+
+758
+00:47:16,734 --> 00:47:18,259
+That's it.
+
+759
+00:47:30,681 --> 00:47:31,807
+<i>Hakuna matata</i>
+
+760
+00:47:31,849 --> 00:47:33,248
+<i>Hakuna matata</i>
+
+761
+00:47:33,317 --> 00:47:34,910
+<i>Hakuna matata</i>
+
+762
+00:47:34,952 --> 00:47:37,614
+- <i>Hakuna.</i> ..
+- <i>It means no worries</i>
+
+763
+00:47:37,688 --> 00:47:40,817
+<i>For the rest of your days</i>
+
+764
+00:47:41,292 --> 00:47:44,057
+<i>It's our problem-free</i>
+
+765
+00:47:44,095 --> 00:47:46,427
+<i>Philosophy</i>
+
+766
+00:47:46,464 --> 00:47:48,592
+<i>Hakuna matata</i>
+
+767
+00:47:49,900 --> 00:47:51,299
+<i>Hakuna matata</i>
+
+768
+00:47:52,803 --> 00:47:54,771
+<i>Hakuna matata</i>
+
+769
+00:47:55,906 --> 00:47:57,840
+<i>Hakuna matata</i>
+
+770
+00:47:57,908 --> 00:48:00,605
+<i>Hakuna matata</i>
+
+771
+00:48:00,644 --> 00:48:02,339
+<i>Hakuna matata</i>
+
+772
+00:48:02,480 --> 00:48:03,914
+Brrrrrr!
+
+773
+00:48:04,081 --> 00:48:08,177
+<i>Hakuna matata</i>
+
+774
+00:48:08,252 --> 00:48:11,984
+<i>Hakuna matata</i>
+
+775
+00:48:12,056 --> 00:48:13,649
+<i>Yeah</i>
+
+776
+00:48:13,724 --> 00:48:15,317
+Ta-ta!
+
+777
+00:48:15,526 --> 00:48:17,255
+Ha ha ha!
+
+778
+00:48:23,100 --> 00:48:26,434
+(SINGING) <i>Nobody knows</i>
+
+779
+00:48:26,470 --> 00:48:29,963
+<i>The trouble I've seen</i>
+
+780
+00:48:30,007 --> 00:48:33,807
+<i>Nobody knows</i>
+
+781
+00:48:33,878 --> 00:48:35,778
+<i>My sorrow</i>
+
+782
+00:48:35,880 --> 00:48:38,008
+Oh, Zazu, do lighten up.
+
+783
+00:48:38,416 --> 00:48:41,408
+Sing something with a little bounce in it.
+
+784
+00:48:42,586 --> 00:48:45,180
+(SINGING) <i>It's a small world after all</i>
+
+785
+00:48:45,256 --> 00:48:48,487
+No, no! Anything but that!
+
+786
+00:48:49,960 --> 00:48:52,395
+(SINGING) <i>I've got
+a lovely bunch of coconuts</i>
+
+787
+00:48:52,430 --> 00:48:53,829
+<i>Deedle dee dee</i>
+
+788
+00:48:53,864 --> 00:48:57,266
+<i>There they are a-standing in a row</i>
+
+789
+00:48:57,334 --> 00:49:00,463
+<i>Big ones, small ones,
+some as big as your head</i>
+
+790
+00:49:00,604 --> 00:49:03,539
+I would never have had
+to do this with Mufasa.
+
+791
+00:49:03,607 --> 00:49:05,666
+What? What did you say?
+
+792
+00:49:05,743 --> 00:49:07,973
+- Nothing.
+- You know the law.
+
+793
+00:49:08,012 --> 00:49:12,472
+Never, ever mention that name
+in my presence. I am the king!
+
+794
+00:49:13,017 --> 00:49:15,076
+Yes, sire, you are the king.
+
+795
+00:49:15,119 --> 00:49:18,180
+I... I only mentioned it
+to illustrate the differences
+
+796
+00:49:18,255 --> 00:49:20,690
+in your royal managerial approaches.
+
+797
+00:49:20,758 --> 00:49:24,023
+- BANZAI: Hey, boss.
+- Oh, what is it this time?
+
+798
+00:49:24,094 --> 00:49:26,358
+- We got a bone to pick with you.
+- I'll handle this.
+
+799
+00:49:26,430 --> 00:49:28,899
+Scar, there's no food, no water.
+
+800
+00:49:28,966 --> 00:49:32,903
+Yeah. It's dinner time
+and we ain't got no stinking entrées.
+
+801
+00:49:33,037 --> 00:49:37,474
+It's the lionesses' job to do the hunting.
+
+802
+00:49:37,541 --> 00:49:39,703
+- Yeah, but they won't go hunt.
+- Oh...
+
+803
+00:49:39,743 --> 00:49:42,713
+- Eat Zazu.
+- Oh, you wouldn't want me.
+
+804
+00:49:42,746 --> 00:49:45,579
+I'd be so tough and gamey and...
+
+805
+00:49:45,616 --> 00:49:49,052
+Oh, Zazu, don't be ridiculous.
+All you need is a little garlic.
+
+806
+00:49:49,086 --> 00:49:51,214
+(SOFTLY) I thought things
+were bad under Mufasa.
+
+807
+00:49:51,255 --> 00:49:53,781
+- What did you say?
+- I said Muf...
+
+808
+00:49:53,858 --> 00:49:55,485
+I said <i>qué pasa?</i>
+
+809
+00:49:55,559 --> 00:49:57,960
+Good. Now get out.
+
+810
+00:50:00,297 --> 00:50:01,560
+But we're still hungry.
+
+811
+00:50:01,599 --> 00:50:03,624
+- Out!
+-(WHIMPERING)
+
+812
+00:50:08,072 --> 00:50:09,665
+(SIMBA BELCHES)
+
+813
+00:50:10,341 --> 00:50:13,538
+- Whoa! Nice one, Simba.
+- Thanks.
+
+814
+00:50:13,577 --> 00:50:16,569
+- Man, I'm stuffed.
+- Me, too.
+
+815
+00:50:16,647 --> 00:50:18,877
+I ate like a pig.
+
+816
+00:50:18,916 --> 00:50:21,044
+Pumbaa, you are a pig.
+
+817
+00:50:21,085 --> 00:50:23,110
+Oh. Right.
+
+818
+00:50:25,256 --> 00:50:26,917
+(ALL SIGH)
+
+819
+00:50:34,098 --> 00:50:36,931
+- Timon?
+- Yeah?
+
+820
+00:50:37,001 --> 00:50:41,131
+Ever wonder what those
+sparkling dots are up there?
+
+821
+00:50:41,171 --> 00:50:44,163
+Pumbaa, I don't wonder, I know.
+
+822
+00:50:44,375 --> 00:50:47,276
+Oh? What are they?
+
+823
+00:50:47,311 --> 00:50:49,109
+They're fireflies.
+
+824
+00:50:49,146 --> 00:50:53,606
+Fireflies that got stuck
+up in that big blueish-black thing.
+
+825
+00:50:53,651 --> 00:50:55,676
+Oh, gee.
+
+826
+00:50:56,086 --> 00:50:58,987
+I always thought they were balls of gas
+
+827
+00:50:59,023 --> 00:51:02,516
+burning billions of miles away.
+
+828
+00:51:03,193 --> 00:51:06,254
+Pumbaa, with you, everything's gas.
+
+829
+00:51:06,297 --> 00:51:08,322
+Simba, what do you think?
+
+830
+00:51:08,732 --> 00:51:10,427
+Well, I don't know.
+
+831
+00:51:10,467 --> 00:51:12,526
+Oh, come on. Give, give, give, give.
+
+832
+00:51:12,603 --> 00:51:15,629
+Come on. We told you ours. Please?
+
+833
+00:51:15,673 --> 00:51:17,141
+Well...
+
+834
+00:51:17,708 --> 00:51:19,870
+Somebody once told me
+
+835
+00:51:20,077 --> 00:51:24,480
+that the great kings of the past
+are up there watching over us.
+
+836
+00:51:24,515 --> 00:51:25,676
+Really?
+
+837
+00:51:25,716 --> 00:51:29,084
+You mean a bunch of royal dead guys
+are watching us?
+
+838
+00:51:29,353 --> 00:51:30,582
+Pffff!
+
+839
+00:51:34,391 --> 00:51:37,292
+- Who told you something like that?
+- Yeah, yeah.
+
+840
+00:51:37,328 --> 00:51:42,061
+- What mook made that up?
+- Yeah. Pretty dumb, huh?
+
+841
+00:51:42,099 --> 00:51:45,194
+- Aw, you're killing me.
+- Yeah.
+
+842
+00:51:46,303 --> 00:51:48,237
+(LAUGHTER SUBSIDES)
+
+843
+00:51:55,646 --> 00:51:57,740
+Was it something I said?
+
+844
+00:52:03,253 --> 00:52:04,516
+(SIGHS)
+
+845
+00:52:22,640 --> 00:52:23,937
+(SNIFFS)
+
+846
+00:52:24,508 --> 00:52:25,634
+Hmm.
+
+847
+00:52:36,754 --> 00:52:39,052
+(HUMS)
+
+848
+00:52:48,165 --> 00:52:49,257
+Hmm.
+
+849
+00:52:49,933 --> 00:52:51,799
+Simba?
+
+850
+00:52:51,835 --> 00:52:54,566
+He's... He's alive? He's alive!
+
+851
+00:52:55,072 --> 00:52:57,166
+(LAUGHS)
+
+852
+00:53:09,887 --> 00:53:11,480
+It is time.
+
+853
+00:53:16,226 --> 00:53:18,217
+(SINGING) <i>A-wimoweh, a-wimoweh</i>
+
+854
+00:53:18,262 --> 00:53:20,230
+<i>A-wimoweh, a-wimoweh</i>
+
+855
+00:53:20,264 --> 00:53:24,428
+<i>In the jungle, the mighty jungle</i>
+
+856
+00:53:24,468 --> 00:53:28,496
+<i>The lion sleeps tonight</i>
+
+857
+00:53:28,539 --> 00:53:32,476
+<i>In the jungle, the mighty jungle</i>
+
+858
+00:53:32,543 --> 00:53:34,409
+<i>The lion sleeps to...</i>
+
+859
+00:53:34,445 --> 00:53:36,641
+I can't hear you, buddy. Back me up.
+
+860
+00:53:36,914 --> 00:53:39,178
+<i>A-wiiiiii</i>
+
+861
+00:53:39,216 --> 00:53:40,342
+<i>Iiiiii-iiiiii-iiii</i>
+
+862
+00:53:40,384 --> 00:53:44,048
+<i>A-Pumbaa-bum-baa-weh</i>
+
+863
+00:53:44,354 --> 00:53:45,378
+Pumbaa? Pumbaa?
+
+864
+00:53:47,424 --> 00:53:49,188
+(HUMS)
+
+865
+00:53:50,160 --> 00:53:51,252
+Hmm?
+
+866
+00:53:57,768 --> 00:53:59,065
+(SLURPS)
+
+867
+00:54:02,406 --> 00:54:03,430
+Timon?
+
+868
+00:54:16,587 --> 00:54:17,782
+(GROWLS)
+
+869
+00:54:18,055 --> 00:54:19,181
+Aaggghh!
+
+870
+00:54:26,730 --> 00:54:28,926
+-(ROARS)
+- Pumbaa?
+
+871
+00:54:32,035 --> 00:54:33,867
+Pumbaa! Pumbaa!
+
+872
+00:54:35,072 --> 00:54:37,370
+Pumbaa, Pumbaa!
+Hey, what's going on?
+
+873
+00:54:37,441 --> 00:54:39,910
+- She's going to eat me!
+- Huh?
+
+874
+00:54:40,878 --> 00:54:45,577
+Whoa! Jeez, why do I always
+have to save your...
+
+875
+00:54:51,388 --> 00:54:55,450
+Don't worry, buddy. I'm here for you.
+Everything's going to be okay.
+
+876
+00:54:55,526 --> 00:54:58,757
+Get her! Bite her head!
+
+877
+00:54:58,796 --> 00:55:01,663
+Go for the jugular! The jugular!
+
+878
+00:55:01,732 --> 00:55:03,962
+See, I told you he'd come in handy.
+
+879
+00:55:06,303 --> 00:55:07,828
+(GROWLS)
+
+880
+00:55:08,172 --> 00:55:09,833
+Nala?
+
+881
+00:55:13,544 --> 00:55:15,273
+Is it really you?
+
+882
+00:55:15,479 --> 00:55:19,507
+- Who are you?
+- It's me. Simba.
+
+883
+00:55:20,417 --> 00:55:22,613
+Simba?
+
+884
+00:55:24,154 --> 00:55:27,419
+Whoa! How did you...
+
+885
+00:55:28,792 --> 00:55:30,624
+- Wow!
+- Where did you come from?
+
+886
+00:55:30,661 --> 00:55:32,686
+This is gr... It's great to see you!
+
+887
+00:55:32,763 --> 00:55:35,755
+- Hey, what's goin' on here?
+- What are you doing here?
+
+888
+00:55:35,799 --> 00:55:37,961
+What am I doing here?
+What are you doing here?
+
+889
+00:55:38,001 --> 00:55:41,335
+Hey! What's goin' on here?
+
+890
+00:55:41,371 --> 00:55:44,432
+Timon, this is Nala.
+She's my best friend.
+
+891
+00:55:44,474 --> 00:55:48,468
+- Friend?
+- Yeah. Hey, Pumbaa, come over here.
+
+892
+00:55:48,545 --> 00:55:49,637
+Huh?
+
+893
+00:55:49,680 --> 00:55:52,047
+Nala, this is Pumbaa. Pumbaa, Nala.
+
+894
+00:55:52,115 --> 00:55:54,812
+- Pleased to make your acquaintance.
+- The pleasure is all mine.
+
+895
+00:55:54,852 --> 00:55:59,016
+How do you... Whoa, whoa!
+Time out! Let me get this straight.
+
+896
+00:55:59,323 --> 00:56:01,052
+You know her, she knows you.
+
+897
+00:56:01,091 --> 00:56:05,722
+But she wants to eat him,
+and everybody's okay with this?
+
+898
+00:56:05,796 --> 00:56:08,458
+- Did I miss something?
+- Relax, Timon.
+
+899
+00:56:08,498 --> 00:56:11,490
+Wait till everyone finds out
+you've been here all this time.
+
+900
+00:56:12,102 --> 00:56:15,072
+And your mother, what will she think?
+
+901
+00:56:15,105 --> 00:56:18,507
+She doesn't have to know.
+Nobody has to know.
+
+902
+00:56:18,575 --> 00:56:20,873
+Of course they do.
+Everyone thinks you're dead.
+
+903
+00:56:20,978 --> 00:56:22,139
+They do?
+
+904
+00:56:22,179 --> 00:56:25,410
+Yeah. Scar told us about the stampede.
+
+905
+00:56:25,549 --> 00:56:29,008
+He did? What else did he tell you?
+
+906
+00:56:29,119 --> 00:56:34,455
+What else matters? You're alive.
+And that means, you're the king.
+
+907
+00:56:34,558 --> 00:56:39,826
+King? Lady, have you got
+your lions crossed!
+
+908
+00:56:39,897 --> 00:56:41,092
+King?
+
+909
+00:56:41,131 --> 00:56:45,261
+Your Majesty, I gravel at your feet.
+Mwah! Mwah! Mwah!
+
+910
+00:56:45,335 --> 00:56:48,270
+- Stop it.
+- It's not gravel, it's grovel.
+
+911
+00:56:48,305 --> 00:56:51,866
+And don't! He's not the king. Are you?
+
+912
+00:56:51,942 --> 00:56:53,501
+- No.
+- Simba!
+
+913
+00:56:53,543 --> 00:56:56,103
+No, I'm not the king.
+Maybe I was gonna be,
+
+914
+00:56:56,146 --> 00:56:58,478
+but that was a long time ago.
+
+915
+00:56:58,515 --> 00:57:02,315
+Let me get this straight.
+You're the king? And never told us?
+
+916
+00:57:02,352 --> 00:57:05,151
+- Look, I'm still the same guy.
+- But with power.
+
+917
+00:57:05,188 --> 00:57:08,123
+Could you guys excuse us
+for a few minutes?
+
+918
+00:57:08,325 --> 00:57:10,089
+Hey, whatever she has to say,
+
+919
+00:57:10,127 --> 00:57:12,323
+she can say in front of us, right, Simba?
+
+920
+00:57:12,930 --> 00:57:14,091
+Mm...
+
+921
+00:57:14,498 --> 00:57:16,125
+Maybe you'd better go.
+
+922
+00:57:17,200 --> 00:57:20,397
+It starts. You think you know a guy.
+
+923
+00:57:20,437 --> 00:57:22,132
+(GROANS)
+
+924
+00:57:23,707 --> 00:57:27,302
+Timon and Pumbaa,
+you learn to love 'em.
+
+925
+00:57:29,613 --> 00:57:31,047
+What?
+
+926
+00:57:32,749 --> 00:57:33,841
+What is it?
+
+927
+00:57:34,985 --> 00:57:37,317
+It's like you're back from the dead.
+
+928
+00:57:37,821 --> 00:57:41,348
+You don't know how much
+this will mean to everyone.
+
+929
+00:57:41,692 --> 00:57:43,319
+What it means to me.
+
+930
+00:57:43,360 --> 00:57:47,194
+- Hey, it's okay.
+- I've really missed you.
+
+931
+00:57:47,230 --> 00:57:49,995
+I've missed you, too.
+
+932
+00:57:51,535 --> 00:57:55,165
+(SNORTS) I tell you, Pumbaa.
+This stinks.
+
+933
+00:57:55,472 --> 00:57:56,997
+Oh, sorry.
+
+934
+00:57:57,040 --> 00:57:59,236
+Not you! Them!
+
+935
+00:57:59,776 --> 00:58:03,076
+Him, her, alone.
+
+936
+00:58:03,113 --> 00:58:04,444
+What's wrong with that?
+
+937
+00:58:04,514 --> 00:58:06,983
+-(SINGING) <i>I can see what's happening</i>
+- What?
+
+938
+00:58:07,017 --> 00:58:09,645
+- <i>And they don't have a clue</i>
+- Who?
+
+939
+00:58:09,686 --> 00:58:13,247
+<i>They'll fall in love
+and here's the bottom line</i>
+
+940
+00:58:13,290 --> 00:58:16,225
+- <i>Our trio's down to two</i>
+- Oh.
+
+941
+00:58:16,360 --> 00:58:19,421
+(FRENCH ACCENT)
+<i>The sweet caress of twilight</i>
+
+942
+00:58:19,496 --> 00:58:22,488
+<i>There's magic everywhere</i>
+
+943
+00:58:22,532 --> 00:58:28,062
+<i>And with all this
+romantic atmosphere</i>
+
+944
+00:58:28,138 --> 00:58:32,405
+<i>Disaster's in the air</i>
+
+945
+00:58:37,214 --> 00:58:43,677
+<i>Can you feel the love tonight?</i>
+
+946
+00:58:43,887 --> 00:58:49,348
+<i>The peace the evening brings</i>
+
+947
+00:58:49,393 --> 00:58:52,522
+<i>The world for once</i>
+
+948
+00:58:52,562 --> 00:58:55,759
+<i>In perfect harmony</i>
+
+949
+00:58:55,832 --> 00:59:01,100
+<i>With all its living things</i>
+
+950
+00:59:02,205 --> 00:59:04,833
+<i>So many things to tell her</i>
+
+951
+00:59:05,242 --> 00:59:08,405
+<i>But how to make her see</i>
+
+952
+00:59:08,445 --> 00:59:11,073
+<i>The truth about my past?</i>
+
+953
+00:59:11,114 --> 00:59:14,778
+<i>Impossible, she'd turn away from me</i>
+
+954
+00:59:14,851 --> 00:59:17,946
+<i>He's holding back, he's hiding</i>
+
+955
+00:59:18,155 --> 00:59:21,386
+<i>But what, I can't decide</i>
+
+956
+00:59:21,425 --> 00:59:24,759
+<i>Why won't he be
+the king I know he is?</i>
+
+957
+00:59:24,795 --> 00:59:28,595
+<i>The king I see inside?</i>
+
+958
+00:59:29,566 --> 00:59:35,403
+<i>Can you feel the love tonight?</i>
+
+959
+00:59:36,406 --> 00:59:40,843
+<i>The peace the evening brings</i>
+
+960
+00:59:41,945 --> 00:59:44,710
+<i>The world for once</i>
+
+961
+00:59:44,748 --> 00:59:47,979
+<i>In perfect harmony</i>
+
+962
+00:59:48,051 --> 00:59:53,012
+<i>With all its living things</i>
+
+963
+00:59:54,991 --> 01:00:00,589
+<i>Can you feel the love tonight?</i>
+
+964
+01:00:01,665 --> 01:00:06,535
+<i>You needn't look too far</i>
+
+965
+01:00:07,904 --> 01:00:10,271
+<i>Stealing through</i>
+
+966
+01:00:10,307 --> 01:00:13,607
+<i>The night's uncertainties</i>
+
+967
+01:00:13,844 --> 01:00:18,748
+<i>Love is where they are</i>
+
+968
+01:00:19,916 --> 01:00:25,719
+<i>And if he falls in love tonight</i>
+
+969
+01:00:25,789 --> 01:00:27,086
+(SNIFFLES)
+
+970
+01:00:27,124 --> 01:00:31,823
+<i>It can be assumed</i>
+
+971
+01:00:33,029 --> 01:00:35,657
+<i>His carefree days</i>
+
+972
+01:00:35,699 --> 01:00:39,135
+<i>With us are history</i>
+
+973
+01:00:39,169 --> 01:00:43,163
+<i>In short, our pal</i>
+
+974
+01:00:43,240 --> 01:00:48,041
+<i>ls doomed</i>
+
+975
+01:00:57,787 --> 01:00:59,482
+Isn't this a great place?
+
+976
+01:00:59,523 --> 01:01:01,548
+It is beautiful.
+
+977
+01:01:01,858 --> 01:01:04,520
+But I don't understand something.
+
+978
+01:01:04,561 --> 01:01:06,996
+You've been alive all this time.
+
+979
+01:01:07,264 --> 01:01:09,426
+Why didn't you
+come back to Pride Rock?
+
+980
+01:01:09,466 --> 01:01:14,336
+Well, I just needed to get out
+on my own, live my own life.
+
+981
+01:01:14,371 --> 01:01:16,271
+And I did, and it's great.
+
+982
+01:01:16,873 --> 01:01:18,432
+We've really needed you at home.
+
+983
+01:01:18,875 --> 01:01:22,743
+- No one needs me.
+- Yes, we do. You're the king.
+
+984
+01:01:22,779 --> 01:01:25,874
+Nala, we've been through this.
+I'm not the king. Scar is.
+
+985
+01:01:26,550 --> 01:01:29,815
+Simba, he let the hyenas
+take over the Pride Lands.
+
+986
+01:01:29,853 --> 01:01:31,878
+- What?
+- Everything's destroyed.
+
+987
+01:01:31,955 --> 01:01:33,650
+There's no food, no water.
+
+988
+01:01:33,690 --> 01:01:36,387
+Simba, if you don't do something
+soon, everyone will starve.
+
+989
+01:01:36,459 --> 01:01:37,756
+- I can't go back.
+- Why?
+
+990
+01:01:37,827 --> 01:01:40,057
+- You wouldn't understand.
+- What?
+
+991
+01:01:40,130 --> 01:01:42,724
+No, no, no. It doesn't matter.
+<i>Hakuna matata.</i>
+
+992
+01:01:42,832 --> 01:01:44,527
+- What?
+- <i>Hakuna matata.</i>
+
+993
+01:01:44,668 --> 01:01:48,263
+It's something I learned out here.
+Sometimes bad things happen...
+
+994
+01:01:48,305 --> 01:01:49,431
+Simba...
+
+995
+01:01:49,472 --> 01:01:52,772
+...and there's nothing you can do
+about it. So why worry?
+
+996
+01:01:52,809 --> 01:01:57,371
+- Because it's your responsibility.
+- Well, what about you? You left.
+
+997
+01:01:57,447 --> 01:02:00,314
+I left to find help, and I found you.
+
+998
+01:02:00,517 --> 01:02:04,852
+Don't you understand?
+You're our only hope.
+
+999
+01:02:04,888 --> 01:02:07,755
+- Sorry.
+- What's happened to you?
+
+1000
+01:02:08,225 --> 01:02:11,786
+- You're not the Simba I remember.
+- You're right. I'm not.
+
+1001
+01:02:11,828 --> 01:02:15,458
+- Now are you satisfied?
+- No. Just disappointed.
+
+1002
+01:02:15,498 --> 01:02:18,365
+You know, you're starting
+to sound like my father.
+
+1003
+01:02:18,401 --> 01:02:20,392
+Good. At least one of us does.
+
+1004
+01:02:21,571 --> 01:02:24,802
+You think you can just show
+up and tell me how to live my life?
+
+1005
+01:02:24,841 --> 01:02:26,900
+You don't even know
+what I've been through.
+
+1006
+01:02:26,943 --> 01:02:28,342
+I would if you'd just tell me.
+
+1007
+01:02:28,378 --> 01:02:30,244
+- Forget it!
+- Fine!
+
+1008
+01:02:34,050 --> 01:02:36,917
+She's wrong. I can't go back.
+
+1009
+01:02:37,320 --> 01:02:41,086
+What would it prove, anyway?
+It won't change anything.
+
+1010
+01:02:41,291 --> 01:02:43,157
+You can't change the past.
+
+1011
+01:02:46,296 --> 01:02:49,357
+You said you'd always be there for me!
+
+1012
+01:02:49,933 --> 01:02:51,799
+But you're not.
+
+1013
+01:02:53,837 --> 01:02:56,169
+And it's because of me.
+
+1014
+01:02:56,673 --> 01:02:59,233
+It's my fault.
+
+1015
+01:02:59,476 --> 01:03:01,740
+It's my fault.
+
+1016
+01:03:02,212 --> 01:03:03,873
+(CRIES)
+
+1017
+01:03:05,382 --> 01:03:07,441
+(SINGING) <i>Asante sana,
+squash banana</i>
+
+1018
+01:03:07,484 --> 01:03:08,883
+<i>We we nugu, imi mi apana</i>
+
+1019
+01:03:08,918 --> 01:03:10,750
+<i>Asante sana, squash banana</i>
+
+1020
+01:03:10,787 --> 01:03:12,516
+<i>We we nugu, imi mi apana</i>
+
+1021
+01:03:12,555 --> 01:03:14,546
+<i>Asante sana, squash banana</i>
+
+1022
+01:03:14,591 --> 01:03:16,685
+<i>We we nugu, imi mi apana</i>
+
+1023
+01:03:19,129 --> 01:03:20,927
+(CHUCKLES)
+
+1024
+01:03:39,482 --> 01:03:40,745
+(SIGHS)
+
+1025
+01:03:40,784 --> 01:03:44,721
+<i>Asante sana, squash banana
+We we nugu, imi mi apana</i>
+
+1026
+01:03:46,356 --> 01:03:48,017
+Come on, will you cut it out?
+
+1027
+01:03:48,091 --> 01:03:51,026
+Can't cut it out. It'll grow right back!
+(LAUGHS)
+
+1028
+01:03:51,094 --> 01:03:54,189
+Creepy little monkey.
+Will you stop following me?
+
+1029
+01:03:54,264 --> 01:03:58,132
+- Who are you?
+- The question is, who are you?
+
+1030
+01:04:01,137 --> 01:04:04,368
+I thought I knew. Now I'm not so sure.
+
+1031
+01:04:04,407 --> 01:04:08,241
+Well, I know who you are.
+Shh. Come here. It's a secret.
+
+1032
+01:04:08,278 --> 01:04:11,737
+<i>Asante sana, squash banana</i>
+
+1033
+01:04:11,815 --> 01:04:14,284
+Grrr! Enough!
+What is that supposed to mean?
+
+1034
+01:04:14,317 --> 01:04:17,651
+It means you are a baboon, and I'm not.
+
+1035
+01:04:19,322 --> 01:04:21,586
+I think you're a little confused.
+
+1036
+01:04:21,658 --> 01:04:24,559
+Wrong! I'm not the one who's confused.
+
+1037
+01:04:24,627 --> 01:04:28,086
+- You don't even know who you are.
+- Oh, and I suppose you know.
+
+1038
+01:04:28,164 --> 01:04:31,156
+Sure do. You're Mufasa's boy.
+
+1039
+01:04:32,669 --> 01:04:35,400
+- Bye.
+- Hey, wait!
+
+1040
+01:04:44,381 --> 01:04:45,405
+You knew my father?
+
+1041
+01:04:45,448 --> 01:04:48,713
+Correction, I know your father.
+
+1042
+01:04:50,920 --> 01:04:52,786
+I hate to tell you this,
+
+1043
+01:04:52,822 --> 01:04:55,951
+but he died a long time ago.
+
+1044
+01:04:56,025 --> 01:04:58,187
+Nope. Wrong again!
+
+1045
+01:04:58,228 --> 01:04:59,525
+Ha ha ha!
+
+1046
+01:04:59,696 --> 01:05:02,461
+He's alive, and I'll show him to you.
+
+1047
+01:05:02,499 --> 01:05:05,525
+You follow old Rafiki.
+He knows the way. Come on!
+
+1048
+01:05:15,445 --> 01:05:17,641
+Don't dawdle. Hurry up!
+
+1049
+01:05:17,680 --> 01:05:21,173
+- Hey, whoa, wait, wait.
+- Come on. Come on!
+
+1050
+01:05:22,886 --> 01:05:25,048
+Would you slow down?
+
+1051
+01:05:25,955 --> 01:05:28,014
+(RAFIKI LAUGHS)
+
+1052
+01:05:36,232 --> 01:05:38,428
+Stop!
+
+1053
+01:05:43,239 --> 01:05:44,764
+(WHISPERS) Look down there.
+
+1054
+01:06:09,899 --> 01:06:12,925
+That's not my father.
+That's just my reflection.
+
+1055
+01:06:12,969 --> 01:06:14,664
+No.
+
+1056
+01:06:15,738 --> 01:06:18,605
+Look harder.
+
+1057
+01:06:24,814 --> 01:06:26,179
+You see?
+
+1058
+01:06:27,450 --> 01:06:29,976
+He lives in you.
+
+1059
+01:06:34,123 --> 01:06:36,820
+MUFASA: Simba.
+
+1060
+01:06:36,860 --> 01:06:38,521
+Father?
+
+1061
+01:06:46,402 --> 01:06:49,201
+Simba, you have forgotten me.
+
+1062
+01:06:49,272 --> 01:06:51,400
+No. How could I?
+
+1063
+01:06:51,474 --> 01:06:56,241
+You have forgotten who you are,
+and so have forgotten me.
+
+1064
+01:06:56,312 --> 01:06:58,576
+Look inside yourself, Simba.
+
+1065
+01:06:58,948 --> 01:07:02,782
+You are more than
+what you have become.
+
+1066
+01:07:02,819 --> 01:07:06,153
+You must take your place
+in the circle of life.
+
+1067
+01:07:06,222 --> 01:07:10,181
+How can I go back?
+I'm not who I used to be.
+
+1068
+01:07:10,293 --> 01:07:14,161
+Remember who you are.
+
+1069
+01:07:14,230 --> 01:07:18,167
+You are my son and the one true king.
+
+1070
+01:07:20,036 --> 01:07:23,700
+Remember who you are.
+
+1071
+01:07:23,740 --> 01:07:26,641
+No! Please, don't leave me!
+
+1072
+01:07:26,676 --> 01:07:27,871
+MUFASA: Remember.
+
+1073
+01:07:27,911 --> 01:07:29,504
+- Father!
+- Remember!
+
+1074
+01:07:29,579 --> 01:07:31,570
+Don't leave me.
+
+1075
+01:07:31,614 --> 01:07:33,582
+Remember.
+
+1076
+01:07:42,125 --> 01:07:44,219
+What was that? Ha ha!
+
+1077
+01:07:44,260 --> 01:07:45,989
+The weather. (SPLUTTERS)
+
+1078
+01:07:46,062 --> 01:07:49,760
+- Very peculiar, don't you think?
+- Yeah.
+
+1079
+01:07:50,300 --> 01:07:51,859
+Looks like the winds are changing.
+
+1080
+01:07:51,901 --> 01:07:54,461
+Ahh, change is good.
+
+1081
+01:07:54,837 --> 01:07:56,737
+Yeah, but it's not easy.
+
+1082
+01:07:56,773 --> 01:08:01,802
+I know what I have to do, but going
+back means I'll have to face my past.
+
+1083
+01:08:02,845 --> 01:08:04,973
+I've been running from it
+for so long.
+
+1084
+01:08:05,882 --> 01:08:08,249
+Ow! Jeez! What was that for?
+
+1085
+01:08:08,284 --> 01:08:11,185
+It doesn't matter. It's in the past.
+
+1086
+01:08:11,254 --> 01:08:13,279
+Yeah, but it still hurts.
+
+1087
+01:08:13,323 --> 01:08:15,655
+Oh, yes, the past can hurt.
+
+1088
+01:08:15,692 --> 01:08:19,322
+But the way I see it
+you can either run from it
+
+1089
+01:08:19,362 --> 01:08:22,229
+or learn from it.
+
+1090
+01:08:22,298 --> 01:08:25,131
+Ah! You see?
+So what are you going to do?
+
+1091
+01:08:25,301 --> 01:08:27,793
+First, I'm gonna take your stick.
+
+1092
+01:08:27,837 --> 01:08:30,135
+No, no, no, no! Not the stick!
+
+1093
+01:08:30,173 --> 01:08:33,803
+- Hey! Where are you going?
+- I'm going back!
+
+1094
+01:08:33,843 --> 01:08:36,813
+Good! Go on! Get out of here!
+
+1095
+01:08:36,946 --> 01:08:38,277
+(LAUGHS)
+
+1096
+01:08:39,415 --> 01:08:41,747
+Whoo! Ha ha ha!
+
+1097
+01:08:41,818 --> 01:08:45,846
+Whoooo! Whoooo!
+
+1098
+01:08:49,125 --> 01:08:50,593
+(SNORES)
+
+1099
+01:08:53,663 --> 01:08:54,858
+Grubs! Grubs!
+
+1100
+01:09:00,370 --> 01:09:02,361
+Hey. Hey, wake up.
+
+1101
+01:09:06,342 --> 01:09:09,801
+It's okay! Whoa, whoa!
+It's okay! It's me!
+
+1102
+01:09:10,847 --> 01:09:13,339
+Don't ever do that again.
+
+1103
+01:09:13,583 --> 01:09:15,347
+Carnivores! Oy!
+
+1104
+01:09:15,385 --> 01:09:18,082
+- Have you guys seen Simba?
+- I thought he was with you.
+
+1105
+01:09:18,121 --> 01:09:20,783
+He was, but now I can't find him.
+Where is he?
+
+1106
+01:09:20,857 --> 01:09:22,848
+Ho ho! You won't find him here!
+
+1107
+01:09:23,092 --> 01:09:26,255
+Ha ha! The king has returned.
+
+1108
+01:09:26,362 --> 01:09:29,559
+I can't believe it. He's gone back!
+
+1109
+01:09:29,599 --> 01:09:31,465
+Gone back? What do you mean?
+
+1110
+01:09:31,634 --> 01:09:34,569
+Hey, what's goin' on here?
+
+1111
+01:09:34,604 --> 01:09:37,073
+- Who's the monkey?
+- Simba went back to challenge Scar.
+
+1112
+01:09:37,106 --> 01:09:38,164
+- Who?
+- Scar.
+
+1113
+01:09:38,207 --> 01:09:40,107
+- Who's got a scar?
+- No, it's his uncle.
+
+1114
+01:09:40,143 --> 01:09:41,907
+- The monkey's his uncle?
+- No!
+
+1115
+01:09:41,944 --> 01:09:45,574
+Simba's gone back to challenge
+his uncle to take his place as king.
+
+1116
+01:09:45,615 --> 01:09:46,946
+BOTH: Oh.
+
+1117
+01:10:44,207 --> 01:10:46,232
+NALA: Simba, wait up!
+
+1118
+01:10:49,779 --> 01:10:54,114
+- It's awful, isn't it?
+- I didn't want to believe you.
+
+1119
+01:10:54,317 --> 01:10:56,115
+What made you come back?
+
+1120
+01:10:56,519 --> 01:10:59,079
+I finally got some sense
+knocked into me,
+
+1121
+01:10:59,355 --> 01:11:01,449
+and I've got the bump to prove it.
+
+1122
+01:11:01,791 --> 01:11:04,226
+Besides, this is my kingdom.
+
+1123
+01:11:04,527 --> 01:11:07,360
+If I don't fight for it, who will?
+
+1124
+01:11:07,630 --> 01:11:10,463
+- I will.
+- It's gonna be dangerous.
+
+1125
+01:11:10,500 --> 01:11:14,994
+Danger? Ha!
+I laugh in the face of danger. Ha ha ha!
+
+1126
+01:11:15,037 --> 01:11:16,869
+I see nothing funny about this.
+
+1127
+01:11:16,906 --> 01:11:19,932
+Timon! Pumbaa!
+What are you doing here?
+
+1128
+01:11:20,009 --> 01:11:22,205
+At your service, my liege.
+
+1129
+01:11:22,245 --> 01:11:25,909
+Aww! We're gonna fight your uncle
+for this?
+
+1130
+01:11:26,349 --> 01:11:29,717
+Yes, Timon. This is my home.
+
+1131
+01:11:29,752 --> 01:11:32,119
+Oh. Talk about your fixer-upper!
+
+1132
+01:11:32,421 --> 01:11:36,688
+Well, Simba, if it's important to
+you, we're with you to the end.
+
+1133
+01:11:55,411 --> 01:11:59,348
+Hyenas. I hate hyenas.
+
+1134
+01:11:59,382 --> 01:12:01,874
+So what's your plan
+for getting past those guys?
+
+1135
+01:12:02,218 --> 01:12:05,347
+- Live bait.
+- Good idea. Hey!
+
+1136
+01:12:05,388 --> 01:12:08,221
+Come on, Timon. You guys
+have to create a diversion.
+
+1137
+01:12:08,424 --> 01:12:10,916
+What do you want me to do,
+dress in drag and do the hula?
+
+1138
+01:12:11,127 --> 01:12:13,118
+-(DRUMS)
+- Luau!
+
+1139
+01:12:13,162 --> 01:12:14,926
+(SINGING) <i>If you're hungry for a hunk
+of fat and juicy meat</i>
+
+1140
+01:12:14,964 --> 01:12:16,728
+<i>Eat my buddy Pumbaa here
+because he is a treat</i>
+
+1141
+01:12:16,799 --> 01:12:18,790
+<i>Come on down and dine
+on this tasty swine</i>
+
+1142
+01:12:18,835 --> 01:12:20,860
+<i>All you have to do is get in line</i>
+
+1143
+01:12:20,937 --> 01:12:22,803
+- <i>Are you achin'</i>
+- Yep, yep, yep.
+
+1144
+01:12:22,839 --> 01:12:24,739
+- <i>For some bacon?</i>
+- Yep, yep, yep.
+
+1145
+01:12:24,774 --> 01:12:26,435
+- <i>He's a big pig</i>
+- Yep, yep.
+
+1146
+01:12:26,475 --> 01:12:28,569
+<i>You could be a big pig, too! Oi!</i>
+
+1147
+01:12:33,549 --> 01:12:36,917
+Nala, you find my mother
+and rally the lionesses.
+
+1148
+01:12:36,986 --> 01:12:40,081
+I'll look for Scar.
+
+1149
+01:12:40,790 --> 01:12:42,121
+(THUNDER)
+
+1150
+01:12:42,325 --> 01:12:44,054
+Sarabi!
+
+1151
+01:12:55,238 --> 01:12:56,569
+(THUNDER)
+
+1152
+01:12:58,708 --> 01:12:59,937
+Yes, Scar?
+
+1153
+01:13:00,009 --> 01:13:03,502
+Where is your hunting party?
+They're not doing their job.
+
+1154
+01:13:03,546 --> 01:13:06,447
+Scar, there is no food.
+The herds have moved on.
+
+1155
+01:13:06,682 --> 01:13:09,208
+No, you're just not
+looking hard enough.
+
+1156
+01:13:09,252 --> 01:13:13,280
+It's over. There is nothing left.
+
+1157
+01:13:13,356 --> 01:13:17,259
+We have only one choice.
+We must leave Pride Rock.
+
+1158
+01:13:17,326 --> 01:13:20,785
+- We're not going anywhere.
+- You have sentenced us to death.
+
+1159
+01:13:20,863 --> 01:13:23,059
+- Then so be it.
+- You can't do that.
+
+1160
+01:13:23,099 --> 01:13:25,431
+I am the king. I can do whatever I want.
+
+1161
+01:13:25,468 --> 01:13:27,937
+If you were half the king Mufasa was...
+
+1162
+01:13:27,970 --> 01:13:30,598
+I'm ten times the king Mufasa was!
+
+1163
+01:13:31,207 --> 01:13:32,538
+(ROARS)
+
+1164
+01:13:33,576 --> 01:13:36,011
+Mufasa? No, you're dead.
+
+1165
+01:13:40,416 --> 01:13:41,713
+(GROANS)
+
+1166
+01:13:43,286 --> 01:13:44,947
+Mufasa?
+
+1167
+01:13:46,222 --> 01:13:48,350
+No. It's me.
+
+1168
+01:13:49,091 --> 01:13:54,120
+Simba! You're alive? How can that be?
+
+1169
+01:13:54,163 --> 01:13:57,997
+It doesn't matter. I'm home.
+
+1170
+01:13:58,067 --> 01:13:59,432
+Simba?
+
+1171
+01:13:59,468 --> 01:14:04,065
+Simba! Oh, I'm a little surprised
+to see you
+
+1172
+01:14:04,140 --> 01:14:05,630
+alive.
+
+1173
+01:14:07,209 --> 01:14:10,804
+Give me one good reason
+why I shouldn't rip you apart.
+
+1174
+01:14:10,846 --> 01:14:12,837
+Oh, Simba, you must understand.
+
+1175
+01:14:12,882 --> 01:14:15,317
+The pressures of ruling a kingdom...
+
+1176
+01:14:15,351 --> 01:14:18,651
+Are no longer yours. Step down, Scar.
+
+1177
+01:14:18,688 --> 01:14:21,157
+Oh, well, I would, naturally.
+
+1178
+01:14:21,223 --> 01:14:24,193
+However, there is one little problem.
+
+1179
+01:14:24,560 --> 01:14:26,050
+You see them?
+
+1180
+01:14:27,730 --> 01:14:30,062
+They think I'm king.
+
+1181
+01:14:30,132 --> 01:14:33,898
+Well, we don't.
+Simba's the rightful king.
+
+1182
+01:14:33,970 --> 01:14:35,904
+The choice is yours, Scar.
+
+1183
+01:14:36,272 --> 01:14:38,502
+Either step down or fight.
+
+1184
+01:14:38,541 --> 01:14:41,010
+Oh, must this all end in violence?
+
+1185
+01:14:41,477 --> 01:14:45,311
+I'd hate to be responsible
+for the death of a family member.
+
+1186
+01:14:45,348 --> 01:14:48,648
+- Wouldn't you agree, Simba?
+- That's not gonna work, Scar.
+
+1187
+01:14:49,085 --> 01:14:50,280
+I've put it behind me.
+
+1188
+01:14:50,319 --> 01:14:52,185
+But what about your faithful subjects?
+
+1189
+01:14:52,221 --> 01:14:54,246
+Have they put it behind them?
+
+1190
+01:14:54,290 --> 01:14:56,384
+Simba, what is he talking about?
+
+1191
+01:14:56,425 --> 01:15:00,726
+Ah, so you haven't told them
+your little secret.
+
+1192
+01:15:00,763 --> 01:15:04,199
+Well, Simba,
+now's your chance to tell them.
+
+1193
+01:15:04,233 --> 01:15:08,431
+Tell them who is responsible
+for Mufasa's death.
+
+1194
+01:15:11,440 --> 01:15:12,669
+I am.
+
+1195
+01:15:17,013 --> 01:15:19,573
+It's not true.
+
+1196
+01:15:19,949 --> 01:15:22,350
+Tell me it's not true.
+
+1197
+01:15:23,853 --> 01:15:27,050
+- It's true.
+- You see? He admits it!
+
+1198
+01:15:27,089 --> 01:15:30,115
+- Murderer!
+- No! It was an accident.
+
+1199
+01:15:30,192 --> 01:15:33,924
+If it weren't for you, Mufasa would
+be alive. It's your fault he's dead!
+
+1200
+01:15:33,963 --> 01:15:35,624
+- Do you deny it?
+- No.
+
+1201
+01:15:35,664 --> 01:15:39,794
+- Then you're guilty.
+- No, I'm not a murderer!
+
+1202
+01:15:39,902 --> 01:15:42,234
+Oh, Simba, you're in trouble again,
+
+1203
+01:15:42,304 --> 01:15:45,330
+but this time
+daddy isn't here to save you,
+
+1204
+01:15:45,374 --> 01:15:48,674
+and now everyone knows why!
+
+1205
+01:15:49,745 --> 01:15:50,871
+Simba!
+
+1206
+01:15:56,419 --> 01:15:59,286
+Now, this looks familiar.
+
+1207
+01:15:59,622 --> 01:16:01,056
+Hmm.
+
+1208
+01:16:01,090 --> 01:16:05,084
+Where have I seen this before?
+Let me think. Hmm.
+
+1209
+01:16:05,127 --> 01:16:07,789
+Oh, yes. I remember.
+
+1210
+01:16:08,330 --> 01:16:12,028
+This is just the way
+your father looked before he died.
+
+1211
+01:16:13,903 --> 01:16:17,635
+And here's my little secret.
+
+1212
+01:16:18,074 --> 01:16:21,203
+(WHISPERING) I killed Mufasa.
+
+1213
+01:16:22,812 --> 01:16:25,941
+No! Murderer!
+
+1214
+01:16:26,682 --> 01:16:29,208
+- No, Simba, please.
+- Tell them the truth.
+
+1215
+01:16:29,251 --> 01:16:32,983
+Truth? But truth is in
+the eye of the behold...
+
+1216
+01:16:33,422 --> 01:16:34,480
+All right.
+
+1217
+01:16:34,857 --> 01:16:36,791
+(GAGS) All right.
+
+1218
+01:16:37,793 --> 01:16:39,318
+I did it.
+
+1219
+01:16:39,361 --> 01:16:41,455
+So they can hear you.
+
+1220
+01:16:42,331 --> 01:16:45,528
+I killed Mufasa!
+
+1221
+01:16:55,578 --> 01:16:57,637
+Hee-yah!
+
+1222
+01:16:57,680 --> 01:17:00,945
+Excuse me. Pardon me.
+Comin' through. Hot stuff. Whoo!
+
+1223
+01:17:10,526 --> 01:17:11,960
+(SCREECHES)
+
+1224
+01:17:16,098 --> 01:17:18,999
+(NINJA FIGHTING NOISES)
+
+1225
+01:17:27,209 --> 01:17:28,734
+Aagghh!
+
+1226
+01:17:30,212 --> 01:17:32,738
+- Let me out! Let me out!
+- Let me in! Let me in!
+
+1227
+01:17:33,983 --> 01:17:36,475
+-(HYENA LAUGHS)
+- Please, don't eat me.
+
+1228
+01:17:36,519 --> 01:17:38,146
+Drop 'em!
+
+1229
+01:17:38,187 --> 01:17:40,554
+- Hey, who's the pig?
+- Are you talkin' to me?
+
+1230
+01:17:40,589 --> 01:17:42,614
+- Uh-oh. He called him a pig.
+- To me?
+
+1231
+01:17:42,658 --> 01:17:44,524
+- Shouldn't have done that.
+- To me?
+
+1232
+01:17:44,560 --> 01:17:50,294
+- Now they're in for it.
+- They call me Mr. Pig!
+
+1233
+01:17:50,533 --> 01:17:53,434
+Aaaaggghhh!
+
+1234
+01:17:53,536 --> 01:17:56,233
+Take that, you stupid...
+
+1235
+01:17:56,272 --> 01:17:58,297
+Take that and that!
+
+1236
+01:18:01,877 --> 01:18:03,936
+Run, you yellow-belly!
+
+1237
+01:18:04,079 --> 01:18:05,672
+Whoo! Whoo! Whoo! Whoo!
+
+1238
+01:18:08,817 --> 01:18:11,309
+-(THUNDERCLAP)
+-(ROARS)
+
+1239
+01:18:23,999 --> 01:18:26,866
+- Murderer.
+- Simba. Simba, please.
+
+1240
+01:18:26,936 --> 01:18:30,839
+- Please, have mercy. I beg you.
+- You don't deserve to live.
+
+1241
+01:18:30,906 --> 01:18:36,345
+But Simba, I am family.
+
+1242
+01:18:36,645 --> 01:18:39,910
+It's the hyenas who are the real enemy.
+
+1243
+01:18:40,382 --> 01:18:42,578
+It was their fault. It was their idea.
+
+1244
+01:18:42,618 --> 01:18:44,712
+Why should I believe you?
+
+1245
+01:18:45,221 --> 01:18:47,918
+Everything you ever told me was a lie.
+
+1246
+01:18:47,957 --> 01:18:49,948
+What are you going to do?
+
+1247
+01:18:50,025 --> 01:18:53,620
+You wouldn't kill your own uncle.
+
+1248
+01:18:54,029 --> 01:18:56,157
+No, Scar.
+
+1249
+01:18:56,465 --> 01:18:58,058
+I'm not like you.
+
+1250
+01:18:58,100 --> 01:19:01,400
+Oh, Simba, thank you.
+You are truly noble.
+
+1251
+01:19:01,437 --> 01:19:05,271
+I'll make it up to you, I promise.
+And how can I prove myself to you?
+
+1252
+01:19:05,307 --> 01:19:06,968
+Tell me. I mean, anything.
+
+1253
+01:19:07,409 --> 01:19:08,535
+Run.
+
+1254
+01:19:09,044 --> 01:19:11,172
+Run away, Scar,
+
+1255
+01:19:11,280 --> 01:19:13,510
+and never return.
+
+1256
+01:19:14,416 --> 01:19:16,441
+Er... Yes.
+
+1257
+01:19:16,485 --> 01:19:18,681
+Of course.
+
+1258
+01:19:18,721 --> 01:19:21,418
+As you wish,
+
+1259
+01:19:21,490 --> 01:19:23,584
+Your Majesty!
+
+1260
+01:19:23,759 --> 01:19:25,557
+(CRIES OUT IN PAIN)
+
+1261
+01:20:16,779 --> 01:20:20,306
+Ah, my friends!
+
+1262
+01:20:20,349 --> 01:20:24,217
+Friends? I thought he said
+we were the enemy.
+
+1263
+01:20:24,253 --> 01:20:27,052
+Yeah. That's what I heard.
+
+1264
+01:20:27,256 --> 01:20:28,621
+Ed?
+
+1265
+01:20:32,661 --> 01:20:37,223
+No. Let me explain.
+No, you don't understand!
+
+1266
+01:20:37,299 --> 01:20:39,734
+No, I didn't mean... No! No!
+
+1267
+01:21:46,101 --> 01:21:47,796
+It is time.
+
+1268
+01:22:12,728 --> 01:22:15,959
+MUFASA: <i>Remember.</i>
+
+1269
+01:22:21,036 --> 01:22:23,437
+(ROARS)
+
+1270
+01:22:25,107 --> 01:22:26,700
+(ALL ROAR)
+
+1271
+01:22:29,311 --> 01:22:31,279
+<i>Se-fi-le</i>
+
+1272
+01:22:31,313 --> 01:22:33,145
+<i>Baba ti-tabo</i>
+
+1273
+01:22:33,215 --> 01:22:36,082
+<i>Maye babo busa ilomhlaba</i>
+
+1274
+01:22:42,291 --> 01:22:44,259
+<i>Ubuse ngo xolo</i>
+
+1275
+01:22:44,293 --> 01:22:45,954
+<i>Ubuse ngo thando</i>
+
+1276
+01:22:46,028 --> 01:22:47,723
+<i>Ubuse ngo xolo</i>
+
+1277
+01:22:47,763 --> 01:22:49,731
+<i>Ubuse ngo thando</i>
+
+1278
+01:22:49,765 --> 01:22:52,097
+<i>Ubuse ngo xolo</i>
+
+1279
+01:22:52,134 --> 01:22:54,296
+<i>Ingonyama inengw' enamabala</i>
+
+1280
+01:22:54,336 --> 01:22:57,431
+<i>Ingonyama nengw' enamabala</i>
+
+1281
+01:22:57,473 --> 01:23:02,343
+<i>Till we find our place</i>
+
+1282
+01:23:02,411 --> 01:23:07,212
+<i>On the path unwinding</i>
+
+1283
+01:23:08,617 --> 01:23:13,612
+<i>In the circle</i>
+
+1284
+01:23:13,655 --> 01:23:18,855
+<i>The circle of life</i>
+
+1285
+01:23:18,927 --> 01:23:20,656
+<i>Circle of</i>
+
+1286
+01:23:20,696 --> 01:23:23,028
+<i>Life</i>
+
+1287
+01:23:28,036 --> 01:23:30,903
+(AFRICAN CHOIR SINGS)
+
+1288
+01:24:24,593 --> 01:24:28,359
+<i>There's a calm surrender</i>
+
+1289
+01:24:28,397 --> 01:24:32,459
+<i>To the rush of day</i>
+
+1290
+01:24:32,501 --> 01:24:36,404
+<i>When the heat of a rolling wind</i>
+
+1291
+01:24:36,438 --> 01:24:40,602
+<i>Can be turned away</i>
+
+1292
+01:24:40,642 --> 01:24:44,601
+<i>An enchanted moment</i>
+
+1293
+01:24:44,646 --> 01:24:48,640
+<i>And it sees me through</i>
+
+1294
+01:24:48,684 --> 01:24:52,587
+<i>It's enough for this restless warrior</i>
+
+1295
+01:24:52,621 --> 01:24:56,353
+<i>Just to be with you</i>
+
+1296
+01:24:56,391 --> 01:24:59,588
+<i>And can you feel</i>
+
+1297
+01:24:59,628 --> 01:25:03,258
+<i>The love tonight?</i>
+
+1298
+01:25:05,200 --> 01:25:09,000
+<i>It is where we are</i>
+
+1299
+01:25:12,708 --> 01:25:14,802
+<i>It's enough</i>
+
+1300
+01:25:14,843 --> 01:25:19,371
+<i>For this wide-eyed wanderer</i>
+
+1301
+01:25:19,414 --> 01:25:23,942
+<i>That we got this far</i>
+
+1302
+01:25:26,555 --> 01:25:29,752
+<i>And can you feel</i>
+
+1303
+01:25:29,791 --> 01:25:33,523
+<i>The love tonight?</i>
+
+1304
+01:25:35,397 --> 01:25:39,630
+<i>How it's laid to rest?</i>
+
+1305
+01:25:42,938 --> 01:25:45,134
+<i>It's enough</i>
+
+1306
+01:25:45,173 --> 01:25:49,508
+<i>To make kings and vagabonds</i>
+
+1307
+01:25:49,544 --> 01:25:54,607
+<i>Believe the very best</i>
+
+1308
+01:26:12,501 --> 01:26:16,460
+<i>There's a time for everyone</i>
+
+1309
+01:26:16,505 --> 01:26:20,408
+<i>If they only learn</i>
+
+1310
+01:26:20,442 --> 01:26:24,276
+<i>That the twisting kaleidoscope</i>
+
+1311
+01:26:24,312 --> 01:26:28,476
+<i>Moves us all in turn</i>
+
+1312
+01:26:28,517 --> 01:26:32,476
+<i>There's a rhyme and reason</i>
+
+1313
+01:26:32,521 --> 01:26:36,458
+<i>To the wild outdoors</i>
+
+1314
+01:26:36,491 --> 01:26:40,428
+<i>When the heart
+of this star-crossed voyager</i>
+
+1315
+01:26:40,462 --> 01:26:45,923
+<i>Beats in time with yours</i>
+
+1316
+01:26:45,967 --> 01:26:49,369
+<i>And can you feel</i>
+
+1317
+01:26:49,404 --> 01:26:52,965
+<i>The love tonight?</i>
+
+1318
+01:26:54,976 --> 01:26:58,708
+<i>It is where we are</i>
+
+1319
+01:27:02,451 --> 01:27:04,579
+<i>It's enough</i>
+
+1320
+01:27:04,619 --> 01:27:09,079
+<i>For this wide-eyed wanderer</i>
+
+1321
+01:27:09,124 --> 01:27:13,857
+<i>That we got this far</i>
+
+1322
+01:27:16,364 --> 01:27:19,390
+<i>And can you feel</i>
+
+1323
+01:27:19,434 --> 01:27:23,268
+<i>The love tonight?</i>
+
+1324
+01:27:24,973 --> 01:27:29,467
+<i>How it's laid to rest?</i>
+
+1325
+01:27:32,347 --> 01:27:34,315
+<i>It's enough</i>
+
+1326
+01:27:34,349 --> 01:27:38,718
+<i>To make kings and vagabonds</i>
+
+1327
+01:27:38,754 --> 01:27:43,624
+<i>Believe the very best</i>
+
+1328
+01:27:47,329 --> 01:27:49,320
+<i>It's enough</i>
+
+1329
+01:27:49,364 --> 01:27:53,665
+<i>To make kings and vagabonds</i>
+
+1330
+01:27:53,702 --> 01:28:00,301
+<i>Believe the very best</i>

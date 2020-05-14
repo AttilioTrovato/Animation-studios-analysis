@@ -1,0 +1,6020 @@
+﻿1
+00:01:47,789 --> 00:01:49,590
+Hello, everybody.
+
+2
+00:01:49,658 --> 00:01:53,261
+My name is Sylvester, Sylvester J. Goose.
+
+3
+00:01:53,329 --> 00:01:57,099
+My friends call me Syl, or sometimes Silly.
+
+4
+00:01:58,836 --> 00:02:02,205
+At this time, it is with unmitigated pleasure...
+
+5
+00:02:02,273 --> 00:02:03,841
+Sylvester, talk faster.
+
+6
+00:02:03,909 --> 00:02:05,342
+Talk faster?
+
+7
+00:02:05,410 --> 00:02:08,046
+You're lucky to find a goose who can talk at all.
+
+8
+00:02:08,113 --> 00:02:12,316
+As I was saying, it is my pleasure to present
+
+9
+00:02:12,384 --> 00:02:17,023
+your hostess for this occasion, weighing 189 pounds...
+
+10
+00:02:17,090 --> 00:02:18,491
+Sylvester!
+
+11
+00:02:19,794 --> 00:02:23,730
+I present the one and only Mother Goose.
+
+12
+00:02:27,903 --> 00:02:29,638
+Thank you, Sylvester.
+
+13
+00:02:29,706 --> 00:02:31,941
+Blabbermouth.
+
+14
+00:02:32,008 --> 00:02:35,946
+I'm here to invite you to a celebration in our village.
+
+15
+00:02:36,013 --> 00:02:39,349
+Tomorrow is the wedding of Tom and Mary.
+
+16
+00:02:39,417 --> 00:02:41,185
+2 of my closest friends.
+
+17
+00:02:41,253 --> 00:02:42,553
+I know.
+
+18
+00:02:42,620 --> 00:02:47,492
+So put on your best smile, set free your imagination,
+
+19
+00:02:47,560 --> 00:02:50,962
+and come with us to Mother Goose Village.
+
+20
+00:02:51,030 --> 00:02:52,332
+Sylvester?
+
+21
+00:02:52,399 --> 00:02:55,418
+All right, boys, open the curtains!
+
+22
+00:03:03,095 --> 00:03:04,862
+♪ Down in the square ♪
+
+23
+00:03:04,930 --> 00:03:06,364
+♪ in the Mother Goose Village Square ♪
+
+24
+00:03:06,432 --> 00:03:07,899
+♪ all the people gather ♪
+
+25
+00:03:07,967 --> 00:03:10,269
+♪ when there's some excitement in the air ♪
+
+26
+00:03:10,337 --> 00:03:11,971
+♪ see how they run ♪
+
+27
+00:03:12,039 --> 00:03:14,007
+♪ for they always have lots of fun ♪
+
+28
+00:03:14,075 --> 00:03:15,542
+♪ exchanging bits of gossip ♪
+
+29
+00:03:15,609 --> 00:03:17,644
+♪ and the news of everyone ♪
+
+30
+00:03:17,711 --> 00:03:19,447
+♪ come join the crowd ♪
+
+31
+00:03:19,514 --> 00:03:21,449
+♪ you'll be happy and mighty proud ♪
+
+32
+00:03:21,516 --> 00:03:23,351
+♪ to be welcome where so few outsiders ♪
+
+33
+00:03:23,419 --> 00:03:24,785
+♪ ever are allowed ♪
+
+34
+00:03:24,854 --> 00:03:26,821
+♪ you'll mingle with the people ♪
+
+35
+00:03:26,889 --> 00:03:28,757
+♪ you'll meet everybody there ♪
+
+36
+00:03:28,824 --> 00:03:32,662
+♪ down at the village square ♪
+
+37
+00:03:32,729 --> 00:03:35,498
+♪ here comes bo-peep ♪
+
+38
+00:03:35,566 --> 00:03:39,136
+♪ who is never without her sheep ♪
+
+39
+00:03:41,707 --> 00:03:44,842
+♪ there's Jack and Jill ♪
+
+40
+00:03:44,910 --> 00:03:47,981
+♪ who have tumbled down the hill ♪
+
+41
+00:03:51,051 --> 00:03:54,488
+♪ come and meet the people and see what's in the air ♪
+
+42
+00:03:54,555 --> 00:03:58,159
+♪ down at the Village Square ♪
+
+43
+00:05:02,419 --> 00:05:04,236
+♪ Jack be nimble, Jack be quick ♪
+
+44
+00:05:04,304 --> 00:05:06,489
+♪ do your trick with a candlestick ♪
+
+45
+00:05:40,730 --> 00:05:42,664
+♪ Simple Simon met a pie-man ♪
+
+46
+00:05:42,732 --> 00:05:44,184
+♪ going to the fair ♪
+
+47
+00:05:44,251 --> 00:05:46,203
+♪ show us, Simon, what the pie-man ♪
+
+48
+00:05:46,271 --> 00:05:47,604
+♪ demonstrated there ♪
+
+49
+00:06:30,673 --> 00:06:32,023
+♪ lemonade ♪
+
+50
+00:06:32,091 --> 00:06:33,776
+♪ let's have a lemonade ♪
+
+51
+00:06:33,844 --> 00:06:35,678
+♪ fill your cup and join us ♪
+
+52
+00:06:35,746 --> 00:06:37,647
+♪ in the grand parade ♪
+
+53
+00:06:37,714 --> 00:06:39,399
+♪ be aware ♪
+
+54
+00:06:39,484 --> 00:06:41,334
+♪ tomorrow's big affair ♪
+
+55
+00:06:41,402 --> 00:06:44,405
+♪ is the wedding in the garden glade ♪
+
+56
+00:06:44,473 --> 00:06:46,991
+♪ good neighbors, soon we'll see ♪
+
+57
+00:06:47,059 --> 00:06:48,993
+♪ man and wife to be ♪
+
+58
+00:06:49,061 --> 00:06:52,381
+♪ dancing with each other so contentedly ♪
+
+59
+00:06:52,449 --> 00:06:54,049
+♪ to youth and love ♪
+
+60
+00:06:54,117 --> 00:06:55,885
+♪ may neither ever fade ♪
+
+61
+00:06:55,970 --> 00:06:57,971
+♪ to Tom and Mary ♪
+
+62
+00:06:58,038 --> 00:07:00,006
+♪ drink a lemonade ♪
+
+63
+00:07:01,660 --> 00:07:03,243
+Tom!
+
+64
+00:07:03,311 --> 00:07:04,545
+Mary!
+
+65
+00:08:08,889 --> 00:08:10,306
+♪ Lemonade ♪
+
+66
+00:08:10,374 --> 00:08:12,125
+♪ let's have a lemonade ♪
+
+67
+00:08:12,176 --> 00:08:15,446
+♪ here's to all the bright and lovely plans they've made ♪
+
+68
+00:08:15,513 --> 00:08:16,981
+♪ drink to life ♪
+
+69
+00:08:17,048 --> 00:08:19,050
+♪ their long and happy life ♪
+
+70
+00:08:19,118 --> 00:08:21,586
+♪ while they face the future unafraid ♪
+
+71
+00:08:21,654 --> 00:08:23,688
+♪ good neighbors, here we see ♪
+
+72
+00:08:23,806 --> 00:08:25,591
+♪ groom and bride-to-be ♪
+
+73
+00:08:25,659 --> 00:08:28,778
+♪ beaming at each other oh, so trustingly ♪
+
+74
+00:08:28,845 --> 00:08:32,015
+♪ may all their dreams come true and never fade ♪
+
+75
+00:08:32,083 --> 00:08:34,818
+♪ to Tom and Mary ♪
+
+76
+00:08:34,886 --> 00:08:40,241
+♪ drink a lemonade ♪
+
+77
+00:09:04,605 --> 00:09:07,323
+fie on you, you frivolous fools.
+
+78
+00:09:07,391 --> 00:09:09,292
+Your tide is at the surge.
+
+79
+00:09:09,310 --> 00:09:11,661
+Today you sing a happy song.
+
+80
+00:09:11,730 --> 00:09:14,732
+Tomorrow... A dirge!
+
+81
+00:09:14,800 --> 00:09:15,917
+Fah!
+
+82
+00:09:17,686 --> 00:09:22,057
+You see, unbeknownst to Mary, she inherits scads of money
+
+83
+00:09:22,125 --> 00:09:23,342
+when she marries.
+
+84
+00:09:23,409 --> 00:09:26,914
+Thus it carries, that if I'm to get my hands on Mary's money,
+
+85
+00:09:26,981 --> 00:09:30,566
+the person Mary marries must be me.
+Not Tom, me.
+
+86
+00:09:30,634 --> 00:09:33,237
+I must do away with Tom.
+
+87
+00:09:33,305 --> 00:09:34,689
+Gonzorgo!
+
+88
+00:09:34,757 --> 00:09:36,190
+Rodrigo!
+
+89
+00:09:36,259 --> 00:09:38,928
+Come, let us plot.
+
+90
+00:09:38,995 --> 00:09:41,013
+Ow!
+
+91
+00:09:41,080 --> 00:09:42,282
+Idiots!
+
+92
+00:10:02,673 --> 00:10:06,677
+Now, gentlemen, it is said you'll do anything for money.
+
+93
+00:10:06,745 --> 00:10:09,312
+You see, your infamous reputation is widespread.
+
+94
+00:10:09,314 --> 00:10:11,132
+Oh, thank you, Mr. Barnaby.
+
+95
+00:10:11,200 --> 00:10:14,269
+Now make note while I plan this little caper.
+
+96
+00:10:16,539 --> 00:10:17,706
+Mark this down.
+
+97
+00:10:17,774 --> 00:10:19,374
+Mark this down.
+
+98
+00:10:19,442 --> 00:10:23,146
+Item one... item one... Kidnap Tom.
+
+99
+00:10:23,214 --> 00:10:26,049
+Kidnap Tom.
+
+100
+00:10:26,117 --> 00:10:29,720
+No, no, kidnap him.
+
+101
+00:10:29,788 --> 00:10:32,925
+Item 2... Item 2...
+
+102
+00:10:34,327 --> 00:10:35,727
+Throw him in the sea.
+
+103
+00:10:35,795 --> 00:10:38,264
+Throw him in the sea.
+
+104
+00:10:38,332 --> 00:10:41,600
+No, no, just throw him in the sea.
+
+105
+00:10:41,668 --> 00:10:47,574
+Item 3... item 3... Mary's sheep. Hmm.
+
+106
+00:10:47,642 --> 00:10:49,144
+These sheep support her.
+
+107
+00:10:49,212 --> 00:10:51,213
+Somehow I must thwart her.
+
+108
+00:10:51,280 --> 00:10:53,181
+She's much too independent with them.
+
+109
+00:10:53,249 --> 00:10:55,017
+Therefore, she must be without them.
+
+110
+00:10:58,438 --> 00:11:00,106
+Steal the sheep.
+
+111
+00:11:00,174 --> 00:11:01,875
+Steal the sheep.
+
+112
+00:11:06,482 --> 00:11:09,183
+No, steal them.
+
+113
+00:11:09,251 --> 00:11:12,321
+A-a-anything else, Mr. Barnaby?
+
+114
+00:11:12,389 --> 00:11:14,256
+That's all for now, gentlemen, and, uh,
+
+115
+00:11:14,324 --> 00:11:18,961
+when this deed is through, this tidy stipend is for you.
+
+116
+00:11:20,431 --> 00:11:22,633
+A pittance. Preposterous.
+
+117
+00:11:22,701 --> 00:11:24,769
+This experience should make us wiser.
+
+118
+00:11:24,836 --> 00:11:27,104
+We do not do business with a miser.
+
+119
+00:11:32,345 --> 00:11:33,646
+Come, Rodrigo.
+
+120
+00:11:33,714 --> 00:11:35,581
+We are wasting our time.
+
+121
+00:11:59,644 --> 00:12:02,246
+Behold, my mercenary friends.
+
+122
+00:12:02,314 --> 00:12:04,349
+Does this satisfy your greed?
+
+123
+00:12:04,416 --> 00:12:05,916
+Oh, indeed it does.
+
+124
+00:12:05,986 --> 00:12:07,752
+Indeed it does.
+
+125
+00:12:12,943 --> 00:12:16,913
+Gonzorgo, Rodrigo, let us scheme.
+
+126
+00:12:25,558 --> 00:12:27,726
+♪ I embezzle and I swindle ♪
+
+127
+00:12:27,794 --> 00:12:29,762
+♪ and I keep 2 sets of books ♪
+
+128
+00:12:29,830 --> 00:12:31,698
+♪ and the income tax collector ♪
+
+129
+00:12:31,765 --> 00:12:33,566
+♪ always gives me dirty looks ♪
+
+130
+00:12:33,634 --> 00:12:35,603
+♪ now the thought of Mary's money ♪
+
+131
+00:12:35,670 --> 00:12:37,721
+♪ has a very strong appeal ♪
+
+132
+00:12:37,789 --> 00:12:39,758
+♪ so underhandedly I've planned ♪
+
+133
+00:12:39,825 --> 00:12:41,392
+♪ another shady deal ♪
+
+134
+00:12:41,460 --> 00:12:43,494
+♪ and I won't be happy ♪
+
+135
+00:12:43,563 --> 00:12:45,698
+♪ till I get it ♪
+
+136
+00:12:45,766 --> 00:12:49,334
+♪ unwittingly some papers she will sign ♪
+
+137
+00:12:49,402 --> 00:12:51,337
+♪ she will never have a hint ♪
+
+138
+00:12:51,405 --> 00:12:53,206
+♪ that in the finer print ♪
+
+139
+00:12:53,274 --> 00:12:55,877
+♪ her inheritance is mine, all mine ♪
+
+140
+00:13:04,971 --> 00:13:07,073
+♪ we enjoy committing mayhem ♪
+
+141
+00:13:07,141 --> 00:13:08,891
+♪ for a monetary gain ♪
+
+142
+00:13:08,959 --> 00:13:10,977
+♪ and we specialize in crimes ♪
+
+143
+00:13:11,045 --> 00:13:13,047
+♪ which are completely inhumane ♪
+
+144
+00:13:13,098 --> 00:13:15,199
+♪ now we're on our way to steal some sheep ♪
+
+145
+00:13:15,267 --> 00:13:17,067
+♪ and drown the boy at sea ♪
+
+146
+00:13:17,135 --> 00:13:19,070
+♪ and then directly we'll collect ♪
+
+147
+00:13:19,138 --> 00:13:20,872
+♪ a very handsome fee ♪
+
+148
+00:13:20,940 --> 00:13:24,911
+♪ and we won't be happy till we get it ♪
+
+149
+00:13:24,978 --> 00:13:27,679
+♪ in some lagoon, a body soon will splash ♪
+
+150
+00:13:28,815 --> 00:13:30,667
+♪ we're eager to proceed ♪
+
+151
+00:13:30,735 --> 00:13:32,336
+♪ to do this evil deed ♪
+
+152
+00:13:32,403 --> 00:13:35,390
+♪ just as long as we are paid in cash ♪
+
+153
+00:13:43,600 --> 00:13:46,203
+♪ we're an awful gruesome threesome ♪
+
+154
+00:13:46,270 --> 00:13:48,171
+♪ and we're rotten to the core ♪
+
+155
+00:13:48,239 --> 00:13:50,207
+♪ of the jobs we pull, you'll see some ♪
+
+156
+00:13:50,274 --> 00:13:52,110
+♪ that will make you hate us more ♪
+
+157
+00:13:52,177 --> 00:13:54,078
+♪ whether larceny or murder ♪
+
+158
+00:13:54,146 --> 00:13:56,214
+♪ makes no difference what the crime ♪
+
+159
+00:13:56,281 --> 00:13:58,350
+♪ we'll forge a check or cut your neck ♪
+
+160
+00:13:58,418 --> 00:13:59,884
+♪ if we can make a dime ♪
+
+161
+00:13:59,952 --> 00:14:03,756
+♪ and we won't be happy till we get it ♪
+
+162
+00:14:03,824 --> 00:14:05,125
+♪ oh, what a shame ♪
+
+163
+00:14:05,192 --> 00:14:07,928
+♪ they'll hate our name in town ♪
+
+164
+00:14:07,996 --> 00:14:09,796
+♪ but what are we to do? ♪
+
+165
+00:14:09,864 --> 00:14:11,665
+♪ unhappily, it's true ♪
+
+166
+00:14:11,733 --> 00:14:15,470
+♪ we'll take anything that's not nailed down ♪
+
+167
+00:14:15,538 --> 00:14:20,376
+♪ and we won't be happy till we get it ♪
+
+168
+00:14:27,285 --> 00:14:30,204
+♪ Mary, Mary ♪
+
+169
+00:14:30,222 --> 00:14:33,525
+♪ quite contrary ♪
+
+170
+00:14:33,592 --> 00:14:40,266
+♪ how does your garden grow? ♪
+
+171
+00:14:40,333 --> 00:14:44,538
+♪ with silver bells ♪
+
+172
+00:14:44,605 --> 00:14:49,026
+♪ and cockle shells ♪
+
+173
+00:14:49,094 --> 00:14:53,615
+♪ and pretty little maids ♪
+
+174
+00:14:53,683 --> 00:15:00,206
+♪ in a row ♪
+
+175
+00:15:04,813 --> 00:15:06,013
+shh.
+
+176
+00:15:19,797 --> 00:15:21,331
+Did you bring the mallet?
+
+177
+00:15:23,467 --> 00:15:27,071
+Good. Now remember, you hit him on the head with the mallet,
+
+178
+00:15:27,139 --> 00:15:30,008
+and I'll put him in the sack. Is that clear?
+
+179
+00:15:37,952 --> 00:15:39,652
+Not now.
+
+180
+00:15:39,720 --> 00:15:41,054
+He isn't even here yet.
+
+181
+00:15:43,458 --> 00:15:44,959
+Now, we'll wait until they...
+
+182
+00:16:17,999 --> 00:16:19,733
+Get ready. Get ready!
+
+183
+00:16:26,074 --> 00:16:28,310
+Shh. Here they come.
+
+184
+00:16:28,378 --> 00:16:31,447
+I wonder if he'll try to kiss her.
+
+185
+00:16:33,851 --> 00:16:38,455
+♪ I've been dreaming ♪
+
+186
+00:16:38,523 --> 00:16:44,463
+♪ through the long, lonely past ♪
+
+187
+00:16:44,514 --> 00:16:47,415
+♪ dreaming ♪
+
+188
+00:16:47,483 --> 00:16:53,690
+♪ I would find you at last ♪
+
+189
+00:16:53,757 --> 00:16:58,095
+♪ locked in my arms ♪
+
+190
+00:16:58,163 --> 00:17:03,000
+♪ ever to stay ♪
+
+191
+00:17:03,068 --> 00:17:10,242
+♪ just a whisper away ♪
+
+192
+00:17:10,309 --> 00:17:15,582
+♪ now we're here, love ♪
+
+193
+00:17:15,650 --> 00:17:18,403
+♪ with that moment ♪
+
+194
+00:17:18,471 --> 00:17:21,706
+♪ in view ♪
+
+195
+00:17:21,773 --> 00:17:24,959
+♪ here, love ♪
+
+196
+00:17:25,027 --> 00:17:30,616
+♪ and it's all coming true ♪
+
+197
+00:17:30,684 --> 00:17:34,805
+♪ all that I've dreamed ♪
+
+198
+00:17:34,873 --> 00:17:40,779
+♪ day after day ♪
+
+199
+00:17:40,846 --> 00:17:44,851
+♪ just a whisper ♪
+
+200
+00:17:44,919 --> 00:17:48,304
+♪ away ♪
+
+201
+00:17:48,372 --> 00:17:53,477
+♪ all my love dreams ♪
+
+202
+00:17:53,544 --> 00:17:59,167
+♪ are at last coming true ♪
+
+203
+00:17:59,235 --> 00:18:02,388
+♪ love dreams ♪
+
+204
+00:18:02,455 --> 00:18:07,995
+♪ binding me close to you ♪
+
+205
+00:18:08,062 --> 00:18:12,734
+♪ locked in your arms ♪
+
+206
+00:18:12,801 --> 00:18:17,706
+♪ ever to stay ♪
+
+207
+00:18:17,774 --> 00:18:22,628
+♪ just a whisper away ♪
+
+208
+00:18:24,498 --> 00:18:29,269
+♪ time is near, love ♪
+
+209
+00:18:29,337 --> 00:18:35,026
+♪ when our lives will entwine ♪
+
+210
+00:18:35,094 --> 00:18:38,013
+♪ dear love ♪
+
+211
+00:18:38,080 --> 00:18:43,519
+♪ soon you'll vow to be mine ♪
+
+212
+00:18:43,587 --> 00:18:48,525
+♪ all that I've dreamed ♪
+
+213
+00:18:48,593 --> 00:18:53,397
+♪ day after day ♪
+
+214
+00:18:53,465 --> 00:19:01,257
+♪ just a whisper away ♪
+
+215
+00:19:03,461 --> 00:19:06,412
+he's just trying to bite her.
+
+216
+00:19:12,287 --> 00:19:14,990
+Come now, it isn't nice to eavesdrop.
+
+217
+00:19:19,697 --> 00:19:25,102
+♪ Time is near, love ♪
+
+218
+00:19:25,170 --> 00:19:32,010
+♪ when our lives will entwine ♪
+
+219
+00:19:32,045 --> 00:19:35,648
+♪ dear love ♪
+
+220
+00:19:35,715 --> 00:19:41,988
+♪ soon you'll vow to be mine ♪
+
+221
+00:19:42,056 --> 00:19:47,294
+♪ all that I've dreamed ♪
+
+222
+00:19:47,362 --> 00:19:52,567
+♪ day after day ♪
+
+223
+00:19:54,655 --> 00:19:57,655
+♪ just a whisper away ♪
+
+224
+00:20:59,331 --> 00:21:01,298
+♪ double-dealing, double-crossing ♪
+
+225
+00:21:01,366 --> 00:21:03,300
+♪ this are things that we adore ♪
+
+226
+00:21:03,368 --> 00:21:05,537
+♪ there are many types of treachery ♪
+
+227
+00:21:05,605 --> 00:21:07,172
+♪ within our repertoire ♪
+
+228
+00:21:07,240 --> 00:21:09,642
+♪ now we're on our way to take young Tom ♪
+
+229
+00:21:09,710 --> 00:21:11,611
+♪ and throw him in the sea ♪
+
+230
+00:21:11,678 --> 00:21:13,546
+♪ and then directly we'll collect ♪
+
+231
+00:21:13,614 --> 00:21:15,216
+♪ a very handsome fee ♪
+
+232
+00:21:15,283 --> 00:21:18,052
+♪ and we won't be happy till we get... ♪
+
+233
+00:21:18,120 --> 00:21:21,923
+Look, Rodrigo, a gypsy camp.
+
+234
+00:21:25,661 --> 00:21:26,829
+Gypsies, eh?
+
+235
+00:21:26,897 --> 00:21:29,298
+I've heard it said that gypsies buy babies.
+
+236
+00:21:29,366 --> 00:21:30,850
+I wonder if they'd be interested
+
+237
+00:21:30,917 --> 00:21:32,819
+in purchasing this fine, strapping youth.
+
+238
+00:21:39,294 --> 00:21:40,995
+Rodrigo, I have an idea.
+
+239
+00:21:41,063 --> 00:21:42,931
+Why don't we sell Tom to the gypsies,
+
+240
+00:21:42,999 --> 00:21:45,701
+and that way, collect for him twice, understand?
+
+241
+00:21:48,773 --> 00:21:52,408
+Listen, Barnaby is paying us to get rid of Tom.
+
+242
+00:21:52,476 --> 00:21:55,012
+But if, instead of throwing Tom into the sea,
+
+243
+00:21:55,080 --> 00:21:58,348
+we sell him to the gypsies, we'll be paid for him again.
+
+244
+00:21:58,416 --> 00:22:02,788
+Once by Barnaby and once by the gypsies.
+
+245
+00:22:02,855 --> 00:22:04,724
+Can't you see that?
+
+246
+00:22:08,162 --> 00:22:09,862
+Right!
+
+247
+00:22:09,930 --> 00:22:13,817
+♪ Now, this young man could fetch a fancy price ♪
+
+248
+00:22:13,885 --> 00:22:15,920
+♪ why throw him in the sea? ♪
+
+249
+00:22:15,988 --> 00:22:17,655
+♪ we'll trick old Barnaby ♪
+
+250
+00:22:17,723 --> 00:22:20,692
+♪ and we'll find ourselves collecting twice ♪
+
+251
+00:22:20,759 --> 00:22:22,127
+to the gypsies!
+
+252
+00:22:22,195 --> 00:22:25,397
+♪ We won't be happy till we get it ♪
+
+253
+00:22:25,465 --> 00:22:27,834
+♪ no, we won't be happy till we get it ♪
+
+254
+00:22:29,436 --> 00:22:33,407
+♪ yes, we won't be happy till we get it ♪
+
+255
+00:22:33,475 --> 00:22:37,344
+♪ no, we won't be happy till we get it ♪
+
+256
+00:22:50,445 --> 00:22:53,214
+Mother Goose, will Tom admire me in this gown?
+
+257
+00:22:53,282 --> 00:22:55,517
+Land sakes, child, he'll just adore you.
+
+258
+00:22:55,584 --> 00:22:57,953
+I think it's beau-tiful!
+
+259
+00:23:00,991 --> 00:23:02,558
+What if it rains?
+
+260
+00:23:02,626 --> 00:23:06,196
+But it's a bright, sunny day!
+
+261
+00:23:06,264 --> 00:23:08,399
+Suppose Tom forgets the ring.
+
+262
+00:23:08,466 --> 00:23:10,234
+Oh, now Mary, don't be funny.
+
+263
+00:23:10,302 --> 00:23:11,903
+Well, it could happen, you know.
+
+264
+00:23:11,971 --> 00:23:14,472
+A friend of mine was get... Hush, Sylvester.
+
+265
+00:23:14,540 --> 00:23:15,974
+I hadn't finished.
+
+266
+00:23:16,042 --> 00:23:17,176
+Sorry.
+
+267
+00:23:17,244 --> 00:23:18,744
+Hand me a pin, Sylvester.
+
+268
+00:23:21,881 --> 00:23:23,450
+Thank you.
+
+269
+00:23:23,517 --> 00:23:25,785
+Now, let's see.
+
+270
+00:23:25,853 --> 00:23:29,057
+There's something borrowed, something blue.
+
+271
+00:23:29,124 --> 00:23:30,058
+Uh-oh.
+
+272
+00:23:30,125 --> 00:23:32,760
+Good day, friends.
+
+273
+00:23:32,828 --> 00:23:35,197
+And here's something old and ugly, too.
+
+274
+00:23:35,265 --> 00:23:38,969
+Ah, what a charming bride.
+
+275
+00:23:39,036 --> 00:23:41,771
+The sweetest and the loveliest I have ever seen.
+
+276
+00:23:41,839 --> 00:23:45,276
+Why, that oily... Hush, Sylvester.
+
+277
+00:23:45,344 --> 00:23:47,345
+Thank you, Mr. Barnaby.
+
+278
+00:23:47,412 --> 00:23:49,413
+May I offer you my best wishes
+
+279
+00:23:49,481 --> 00:23:51,249
+for your future happiness and joy?
+
+280
+00:23:51,317 --> 00:23:53,685
+You miserable, miserly... Sylvester, no.
+
+281
+00:23:56,656 --> 00:23:59,993
+For lunch, I had roast goose!
+
+282
+00:24:00,060 --> 00:24:00,960
+Aah!
+
+283
+00:24:02,998 --> 00:24:05,132
+That's the way we lost mother.
+
+284
+00:24:08,871 --> 00:24:10,472
+Would you please excuse us?
+
+285
+00:24:10,539 --> 00:24:12,073
+We have so much to do.
+
+286
+00:24:12,141 --> 00:24:13,376
+Ah, yes, of course.
+
+287
+00:24:13,443 --> 00:24:16,612
+The preparations for the wedding, and... Oh, what's that?
+
+288
+00:24:16,679 --> 00:24:18,515
+Come on!
+
+289
+00:24:18,582 --> 00:24:20,384
+Some small excitement.
+
+290
+00:24:27,792 --> 00:24:29,861
+This is Mary's cottage, sir.
+
+291
+00:24:29,896 --> 00:24:32,163
+Oh, thank you, my dear fellow.
+
+292
+00:24:32,232 --> 00:24:34,684
+Rodrigo, take care of this lad.
+
+293
+00:24:37,471 --> 00:24:41,342
+No, no, don't hit him, tip him.
+
+294
+00:24:45,882 --> 00:24:47,498
+Oh, thank you.
+
+295
+00:24:50,886 --> 00:24:53,489
+My word, 2 shipwrecked sailors.
+
+296
+00:24:53,557 --> 00:24:55,224
+Sailors?
+
+297
+00:24:55,292 --> 00:24:57,728
+Whatever are they doing here?
+
+298
+00:24:57,796 --> 00:25:00,664
+I... I can't imagine.
+
+299
+00:25:00,732 --> 00:25:02,333
+Now remember, we are sup...
+
+300
+00:25:09,659 --> 00:25:11,727
+My friend and I would like to know,
+
+301
+00:25:11,778 --> 00:25:14,414
+are you Miss Mary quite contrary?
+
+302
+00:25:14,482 --> 00:25:16,516
+Yes, sir, I am she.
+
+303
+00:25:16,584 --> 00:25:17,951
+Well, uh...
+
+304
+00:25:19,955 --> 00:25:23,624
+We don't know how to tell you this, Miss Mary.
+
+305
+00:25:23,692 --> 00:25:27,846
+No, we don't know how to tell you this at all.
+
+306
+00:25:27,913 --> 00:25:30,216
+We were 20 leagues at sea.
+
+307
+00:25:30,283 --> 00:25:33,886
+It was calm as it could be, when out of the north,
+
+308
+00:25:33,954 --> 00:25:35,505
+there came a sudden squall.
+
+309
+00:25:36,808 --> 00:25:40,061
+He was standing at the wheel, he was, Miss Mary,
+
+310
+00:25:40,128 --> 00:25:44,382
+and across the deck, the mighty ocean roared.
+
+311
+00:25:44,450 --> 00:25:48,420
+Then the mizzen broke and fell, and we heard the fellow yell
+
+312
+00:25:48,488 --> 00:25:52,626
+as it bashed him down and swept him overboard.
+
+313
+00:25:52,711 --> 00:25:54,978
+♪ Slowly, slowly ♪
+
+314
+00:25:55,046 --> 00:25:57,014
+♪ he sank into the sea ♪
+
+315
+00:25:57,082 --> 00:25:59,200
+♪ though we tried to save him ♪
+
+316
+00:25:59,268 --> 00:26:01,302
+♪ he sank into the sea ♪
+
+317
+00:26:04,290 --> 00:26:06,775
+but who, sir?
+
+318
+00:26:06,843 --> 00:26:08,094
+Who sank?
+
+319
+00:26:08,161 --> 00:26:11,047
+Oh, it was Tom, ma'am.
+
+320
+00:26:11,115 --> 00:26:13,200
+Tom sank.
+
+321
+00:26:13,267 --> 00:26:14,935
+Tom sank?
+
+322
+00:26:15,003 --> 00:26:16,137
+Tom sank?
+
+323
+00:26:16,205 --> 00:26:18,606
+Who's Tom sank?
+
+324
+00:26:18,673 --> 00:26:21,643
+What preposterous rumor are you spreading, sailor?
+
+325
+00:26:21,711 --> 00:26:22,777
+Go on your way!
+
+326
+00:26:22,845 --> 00:26:26,483
+Unless... You have some evidence?
+
+327
+00:26:26,550 --> 00:26:29,252
+Some proof of what you say?
+
+328
+00:26:29,320 --> 00:26:31,355
+Oh, yes, sir.
+
+329
+00:26:40,266 --> 00:26:41,766
+What proof do you have?
+
+330
+00:26:43,587 --> 00:26:47,874
+We are bringing you his personal belongings,
+
+331
+00:26:47,975 --> 00:26:51,728
+and in his hat we found this soggy note.
+
+332
+00:26:51,796 --> 00:26:56,050
+Though the salty ocean spray somehow washed the words away,
+
+333
+00:26:56,118 --> 00:26:58,971
+I'll see if I can't decipher what he wrote.
+
+334
+00:27:00,439 --> 00:27:04,477
+"Darling Mary", he begins, or is that "dearest"?
+
+335
+00:27:04,544 --> 00:27:08,882
+Yes, that's the term he uses, we agree.
+
+336
+00:27:08,949 --> 00:27:11,185
+Now, the boy goes on to tell
+
+337
+00:27:11,253 --> 00:27:13,653
+how he hopes this finds you well.
+
+338
+00:27:13,721 --> 00:27:17,325
+It's too bad he slowly sank into the sea.
+
+339
+00:27:19,495 --> 00:27:21,197
+♪ Slowly, slowly ♪
+
+340
+00:27:21,264 --> 00:27:23,199
+♪ he sank into the sea ♪
+
+341
+00:27:23,266 --> 00:27:25,334
+♪ with no life preserver ♪
+
+342
+00:27:25,402 --> 00:27:27,754
+♪ he sank into the sea ♪
+
+343
+00:27:27,822 --> 00:27:31,007
+but this was to be our wedding day.
+
+344
+00:27:31,075 --> 00:27:33,043
+Why would Tom be at sea?
+
+345
+00:27:33,111 --> 00:27:35,713
+Does this letter offer some explanation?
+
+346
+00:27:35,781 --> 00:27:38,250
+I presume he's written more.
+
+347
+00:27:38,318 --> 00:27:40,185
+Oh, yes, sir.
+
+348
+00:27:43,291 --> 00:27:47,360
+"I am poor", the letter reads, "and can't support you,
+
+349
+00:27:47,428 --> 00:27:51,365
+"and it's best I sail away "and set you free.
+
+350
+00:27:51,433 --> 00:27:55,870
+"Noble lady that you are, "you'd be better off by far,
+
+351
+00:27:55,939 --> 00:27:58,407
+if you were to marry wealthy Barnaby."
+
+352
+00:28:00,677 --> 00:28:04,246
+We advise you to forget him now, Miss Mary.
+
+353
+00:28:04,282 --> 00:28:07,467
+Our condolences to you, we do extend.
+
+354
+00:28:07,535 --> 00:28:10,671
+But we'll blame you not, my dear,
+
+355
+00:28:10,739 --> 00:28:13,124
+if you care to shed a tear,
+
+356
+00:28:13,192 --> 00:28:17,729
+for the way he met his most untimely end.
+
+357
+00:28:17,797 --> 00:28:19,983
+♪ Slowly, slowly ♪
+
+358
+00:28:20,050 --> 00:28:22,086
+♪ he sank into the sea ♪
+
+359
+00:28:22,153 --> 00:28:24,121
+♪ to the very bottom ♪
+
+360
+00:28:24,189 --> 00:28:28,510
+♪ he sank into the sea ♪
+
+361
+00:28:38,423 --> 00:28:40,773
+how about that?
+
+362
+00:28:46,281 --> 00:28:49,485
+Oh, my poor, brave Tom.
+
+363
+00:28:49,552 --> 00:28:54,256
+Sacrificing his life for my welfare.
+
+364
+00:28:54,324 --> 00:28:55,758
+Ohh!
+
+365
+00:28:55,826 --> 00:28:57,760
+Oh, poor Mary.
+
+366
+00:28:57,828 --> 00:28:59,329
+Come, children, in the house.
+
+367
+00:29:00,865 --> 00:29:03,234
+There's something fishy about this!
+
+368
+00:29:03,301 --> 00:29:04,502
+Hush, Sylvester.
+
+369
+00:29:04,569 --> 00:29:06,571
+Well, I wouldn't trust either one of them.
+
+370
+00:29:06,639 --> 00:29:08,473
+The fat one or the idiot.
+
+371
+00:29:08,541 --> 00:29:09,907
+Well done, boys.
+
+372
+00:29:09,975 --> 00:29:11,744
+Now for item 3.
+
+373
+00:29:11,811 --> 00:29:13,546
+Item 3, steal the sheep.
+
+374
+00:29:13,614 --> 00:29:15,148
+On your way.
+
+375
+00:29:21,155 --> 00:29:25,160
+Gentle Mary, so grief-stricken and remorseful.
+
+376
+00:29:25,227 --> 00:29:28,280
+Oh, to see you thus is more than I can bear.
+
+377
+00:29:28,348 --> 00:29:30,232
+Erase your sorrow now.
+
+378
+00:29:30,300 --> 00:29:32,885
+Be resourceful for yourself
+
+379
+00:29:32,952 --> 00:29:35,154
+and those poor children in your care.
+
+380
+00:29:36,323 --> 00:29:39,293
+Take advantage, my dear, of my infatuation!
+
+381
+00:29:39,361 --> 00:29:43,748
+May I point out you are deeply in my debt?
+
+382
+00:29:43,815 --> 00:29:47,052
+I could seize your home through legal confiscation!
+
+383
+00:29:47,120 --> 00:29:50,739
+Oh, I do hope you don't take that as a threat.
+
+384
+00:29:50,807 --> 00:29:54,143
+Feast your eyes upon my mansion, tall and stately,
+
+385
+00:29:54,210 --> 00:29:57,347
+and imagine it a castle, dear, in Spain.
+
+386
+00:29:57,415 --> 00:29:59,316
+Come, my love.
+
+387
+00:29:59,384 --> 00:30:01,285
+For I'd admire it greatly
+
+388
+00:30:01,319 --> 00:30:05,056
+that you be my queen and live in my domain!
+
+389
+00:30:05,124 --> 00:30:06,257
+No!
+
+390
+00:30:08,394 --> 00:30:12,431
+♪ In our castle in Spain ♪
+
+391
+00:30:12,516 --> 00:30:16,336
+♪ you'll be living rent-free ♪
+
+392
+00:30:16,404 --> 00:30:19,824
+♪ every capital gain ♪
+
+393
+00:30:19,892 --> 00:30:22,110
+♪ you'll share with me ♪
+
+394
+00:30:25,064 --> 00:30:28,367
+♪ from this village below ♪
+
+395
+00:30:28,435 --> 00:30:32,439
+♪ every cent we will drain ♪
+
+396
+00:30:32,490 --> 00:30:35,693
+♪ and our fortune will grow ♪
+
+397
+00:30:35,761 --> 00:30:38,478
+♪ in our castle in Spain ♪
+
+398
+00:30:40,616 --> 00:30:44,536
+♪ every mortgage and lease ♪
+
+399
+00:30:44,604 --> 00:30:46,889
+♪ I will re-valuate ♪
+
+400
+00:30:48,625 --> 00:30:52,078
+♪ and for you I'll increase ♪
+
+401
+00:30:52,146 --> 00:30:53,680
+♪ their interest rate ♪
+
+402
+00:30:57,085 --> 00:30:59,988
+♪ you'll eat nothing but cake ♪
+
+403
+00:31:00,055 --> 00:31:04,477
+♪ you'll drink naught but champagne ♪
+
+404
+00:31:04,544 --> 00:31:08,031
+♪ you'll be in on the take ♪
+
+405
+00:31:08,099 --> 00:31:10,417
+♪ in our castle in Spain ♪
+
+406
+00:34:03,789 --> 00:34:07,159
+♪ surely you must agree ♪
+
+407
+00:34:07,210 --> 00:34:11,213
+♪ that it makes your head whirl ♪
+
+408
+00:34:11,281 --> 00:34:14,817
+♪ to be marrying me ♪
+
+409
+00:34:14,885 --> 00:34:17,087
+♪ you lucky girl ♪
+
+410
+00:34:19,424 --> 00:34:23,227
+♪ you have caught me today ♪
+
+411
+00:34:23,295 --> 00:34:27,265
+♪ in a generous vein ♪
+
+412
+00:34:27,332 --> 00:34:31,136
+♪ come now, what do you say ♪
+
+413
+00:34:31,204 --> 00:34:36,076
+♪ to our castle in... ♪
+
+414
+00:34:42,017 --> 00:34:43,033
+Spain?
+
+415
+00:34:44,470 --> 00:34:46,205
+No.
+
+416
+00:34:46,272 --> 00:34:47,472
+No?
+
+417
+00:34:47,540 --> 00:34:50,944
+No, thank you, Mr. Barnaby.
+
+418
+00:34:51,012 --> 00:34:52,946
+I don't want your castle.
+
+419
+00:34:53,014 --> 00:34:55,583
+I'd never marry just for wealth alone.
+
+420
+00:34:57,586 --> 00:35:01,423
+And even though Tom may be gone, his memory I'll keep.
+
+421
+00:35:01,490 --> 00:35:05,293
+I'm sure that we can carry on with the income from our sheep.
+
+422
+00:35:05,361 --> 00:35:07,613
+Your sheep?
+
+423
+00:35:07,681 --> 00:35:09,448
+Yes, of course.
+
+424
+00:35:09,516 --> 00:35:10,783
+Our sheep.
+
+425
+00:35:12,053 --> 00:35:14,088
+My sheep! My sheep!
+
+426
+00:35:14,155 --> 00:35:16,406
+Our sheep!
+
+427
+00:35:16,474 --> 00:35:18,843
+Bo-peep, what's the matter, darling?
+
+428
+00:35:18,911 --> 00:35:20,745
+Our sheep, they're lost.
+
+429
+00:35:20,812 --> 00:35:23,649
+Oh, no. They can't be lost.
+
+430
+00:35:23,717 --> 00:35:25,384
+Have you looked in the fields?
+
+431
+00:35:25,452 --> 00:35:26,618
+Did you search the hills?
+
+432
+00:35:26,686 --> 00:35:28,354
+Yes, I've searched everywhere.
+
+433
+00:35:30,625 --> 00:35:34,596
+♪ My sheep are gone ♪
+
+434
+00:35:34,663 --> 00:35:37,699
+♪ for good ♪
+
+435
+00:35:37,767 --> 00:35:39,434
+♪ there goes ♪
+
+436
+00:35:39,502 --> 00:35:44,089
+♪ our livelihood ♪
+
+437
+00:35:44,157 --> 00:35:47,810
+♪ I'm sure my poor ♪
+
+438
+00:35:47,878 --> 00:35:51,282
+♪ sweet fleecy things ♪
+
+439
+00:35:51,349 --> 00:35:54,085
+♪ would come home ♪
+
+440
+00:35:54,152 --> 00:35:58,323
+♪ if they could ♪
+
+441
+00:35:58,391 --> 00:36:01,743
+♪ but they are lost ♪
+
+442
+00:36:01,812 --> 00:36:04,730
+♪ you see ♪
+
+443
+00:36:04,798 --> 00:36:06,532
+♪ as lost ♪
+
+444
+00:36:06,600 --> 00:36:11,739
+♪ as lost can be ♪
+
+445
+00:36:11,807 --> 00:36:15,076
+♪ and I must weep ♪
+
+446
+00:36:15,143 --> 00:36:18,764
+♪ because my sheep ♪
+
+447
+00:36:18,832 --> 00:36:22,051
+♪ cannot return ♪
+
+448
+00:36:22,118 --> 00:36:25,838
+♪ to me ♪
+
+449
+00:36:25,906 --> 00:36:29,493
+♪ no, oh, no, they're not gone for good ♪
+
+450
+00:36:29,561 --> 00:36:33,231
+♪ yes, oh, yes, they are gone for good ♪
+
+451
+00:36:33,298 --> 00:36:34,849
+Oh, no. Oh, yes.
+
+452
+00:36:34,917 --> 00:36:36,051
+♪ Oh, no ♪
+
+453
+00:36:36,136 --> 00:36:37,052
+Oh, yes!
+
+454
+00:36:37,120 --> 00:36:38,820
+♪ Never mind, Bo-peep ♪
+
+455
+00:36:38,888 --> 00:36:40,623
+♪ we will find your sheep ♪
+
+456
+00:36:40,691 --> 00:36:43,826
+♪ wherever they may roam ♪
+
+457
+00:36:43,894 --> 00:36:45,828
+♪ dry your tears, Bo-peep ♪
+
+458
+00:36:45,896 --> 00:36:47,998
+♪ have no fears, Bo-peep ♪
+
+459
+00:36:48,066 --> 00:36:51,920
+♪ very soon, your sheep will be home ♪
+
+460
+00:36:51,988 --> 00:36:55,140
+♪ for a while, Bo-peep, try to smile, Bo-peep ♪
+
+461
+00:36:55,207 --> 00:36:58,694
+♪ and keep this fact in mind ♪
+
+462
+00:36:58,762 --> 00:37:00,663
+♪ when they're ready to ♪
+
+463
+00:37:00,731 --> 00:37:02,632
+♪ they'll come home to you ♪
+
+464
+00:37:02,699 --> 00:37:06,320
+♪ wagging their tails behind ♪
+
+465
+00:37:06,387 --> 00:37:08,623
+Bo-peep!
+
+466
+00:37:08,690 --> 00:37:10,392
+Bo-peep!
+
+467
+00:37:12,027 --> 00:37:12,961
+Bo-peep!
+
+468
+00:37:13,028 --> 00:37:14,363
+What is it, Bobby?
+
+469
+00:37:14,431 --> 00:37:15,931
+I know where the sheep are.
+
+470
+00:37:15,999 --> 00:37:17,517
+You do?
+
+471
+00:37:17,584 --> 00:37:21,638
+Yes. I followed their tracks, and you know where they led to?
+
+472
+00:37:21,672 --> 00:37:22,638
+Where?
+
+473
+00:37:22,706 --> 00:37:24,323
+To The Forest Of No Return.
+
+474
+00:37:24,391 --> 00:37:27,161
+The Forest Of No Return?
+
+475
+00:37:27,229 --> 00:37:30,397
+The Forest Of No Return?
+
+476
+00:37:30,465 --> 00:37:31,750
+Oh!
+
+477
+00:37:34,671 --> 00:37:37,090
+Well, thank you anyway, Bobby.
+
+478
+00:37:44,983 --> 00:37:47,919
+I think it's a slick trick, a rotten plot!
+
+479
+00:37:51,090 --> 00:37:52,691
+Miss Mary.
+
+480
+00:37:55,996 --> 00:37:57,864
+Yes, Mr. Barnaby?
+
+481
+00:37:57,931 --> 00:37:58,866
+Remember my offer.
+
+482
+00:37:58,933 --> 00:38:02,836
+I'll be awaiting your decision... My dear.
+
+483
+00:38:02,904 --> 00:38:05,073
+Oh!
+
+484
+00:38:10,113 --> 00:38:14,466
+Now she'll have to reconsider... Yes, even this very night.
+
+485
+00:38:14,534 --> 00:38:17,420
+Well done, gentlemen.
+
+486
+00:38:17,488 --> 00:38:19,122
+Not now!
+
+487
+00:38:20,375 --> 00:38:23,327
+Tomorrow, when the swelling goes down.
+
+488
+00:38:23,395 --> 00:38:25,730
+Be in my attic when the bank opens.
+
+489
+00:38:29,836 --> 00:38:31,003
+Don't worry about anything.
+
+490
+00:38:31,070 --> 00:38:33,006
+Just try to get some sleep.
+
+491
+00:38:33,073 --> 00:38:35,574
+Everything's going to be all right.
+
+492
+00:38:35,642 --> 00:38:38,012
+Come on. Get into bed now.
+
+493
+00:38:46,522 --> 00:38:49,091
+What's the matter, darling?
+
+494
+00:38:49,159 --> 00:38:54,031
+I'm so sorry I lost the sheep, and I know it's my fault.
+
+495
+00:38:54,098 --> 00:38:55,682
+Don't worry about the sheep.
+
+496
+00:38:55,750 --> 00:38:57,851
+They'll find their way home.
+
+497
+00:38:57,919 --> 00:39:01,289
+You'll see. Come on... Get under the covers.
+
+498
+00:39:04,326 --> 00:39:06,095
+Good night, children.
+
+499
+00:39:06,162 --> 00:39:08,029
+Good night, Mary.
+
+500
+00:39:19,628 --> 00:39:21,195
+Shh.
+
+501
+00:39:23,299 --> 00:39:27,069
+Bills, bills, bills.
+
+502
+00:39:27,137 --> 00:39:29,739
+♪ The price of milk and eggs and bread ♪
+
+503
+00:39:29,807 --> 00:39:32,274
+♪ is rising every day ♪
+
+504
+00:39:32,343 --> 00:39:34,745
+♪ now with our bankbook in the red ♪
+
+505
+00:39:34,813 --> 00:39:38,282
+♪ these bills are hard to pay ♪
+
+506
+00:39:38,351 --> 00:39:41,118
+♪ if we stop buying chocolate cake ♪
+
+507
+00:39:41,186 --> 00:39:44,223
+♪ and lived on green string beans ♪
+
+508
+00:39:44,290 --> 00:39:47,192
+♪ exactly how much would it take ♪
+
+509
+00:39:47,260 --> 00:39:51,264
+♪ to live within our means? ♪
+
+510
+00:39:59,641 --> 00:40:02,627
+♪ put down beans and cross out cake ♪
+
+511
+00:40:02,695 --> 00:40:04,963
+♪ let me see, oh, dear me ♪
+
+512
+00:40:05,031 --> 00:40:07,400
+♪ what a job to undertake ♪
+
+513
+00:40:07,467 --> 00:40:09,936
+♪ milk plus bread, oh, my head ♪
+
+514
+00:40:10,004 --> 00:40:12,139
+♪ add, subtract, and multiply ♪
+
+515
+00:40:12,207 --> 00:40:14,608
+♪ till you're overcome ♪
+
+516
+00:40:14,676 --> 00:40:16,644
+♪ this is much too hard for us ♪
+
+517
+00:40:16,712 --> 00:40:19,147
+♪ we can't do the sum ♪
+
+518
+00:40:27,190 --> 00:40:30,043
+♪ the stove and rugs and furniture ♪
+
+519
+00:40:30,111 --> 00:40:33,330
+♪ will soon be repossessed ♪
+
+520
+00:40:33,398 --> 00:40:36,234
+♪ this makes me feel quite insecure ♪
+
+521
+00:40:36,302 --> 00:40:38,970
+♪ and mentally depressed ♪
+
+522
+00:40:39,039 --> 00:40:41,974
+♪ would we be better off somehow ♪
+
+523
+00:40:42,042 --> 00:40:44,944
+♪ by living in a tent? ♪
+
+524
+00:40:45,012 --> 00:40:48,215
+♪ how can I pay the mortgage now ♪
+
+525
+00:40:48,283 --> 00:40:52,587
+♪ and save the 6 percent? ♪
+
+526
+00:41:00,830 --> 00:41:03,132
+♪ picture us inside a tent ♪
+
+527
+00:41:03,134 --> 00:41:05,585
+♪ beastly poor, insecure ♪
+
+528
+00:41:05,653 --> 00:41:07,855
+♪ we must save the 6 percent ♪
+
+529
+00:41:07,923 --> 00:41:10,124
+♪ 6 times X, how complex ♪
+
+530
+00:41:10,191 --> 00:41:12,628
+♪ numbers always stick our brain ♪
+
+531
+00:41:12,695 --> 00:41:14,696
+♪ why are we so dumb? ♪
+
+532
+00:41:14,764 --> 00:41:17,132
+♪ this is much too hard for us ♪
+
+533
+00:41:17,199 --> 00:41:19,636
+♪ we can't do the sum ♪
+
+534
+00:41:19,703 --> 00:41:22,188
+♪ I'm not a great financial whiz ♪
+
+535
+00:41:22,256 --> 00:41:25,159
+♪ of that there is no doubt ♪
+
+536
+00:41:25,226 --> 00:41:27,994
+♪ the outcome of our income is ♪
+
+537
+00:41:28,063 --> 00:41:31,332
+♪ our income's all gone out ♪
+
+538
+00:41:31,400 --> 00:41:34,001
+♪ if we walk on our hands with care ♪
+
+539
+00:41:34,070 --> 00:41:37,206
+♪ instead of on our feet ♪
+
+540
+00:41:37,274 --> 00:41:39,841
+♪ would what we save on shoe repair ♪
+
+541
+00:41:39,909 --> 00:41:42,779
+♪ suffice to make ends meet? ♪
+
+542
+00:41:53,226 --> 00:41:55,561
+♪ walking on our hands with care ♪
+
+543
+00:41:55,628 --> 00:41:57,863
+♪ off our feet, make ends meet ♪
+
+544
+00:41:57,931 --> 00:42:00,066
+♪ saving on our shoe repair ♪
+
+545
+00:42:00,134 --> 00:42:02,536
+♪ leaving holes in our soles ♪
+
+546
+00:42:02,604 --> 00:42:04,738
+♪ what should we be adding to ♪
+
+547
+00:42:04,806 --> 00:42:07,141
+♪ or subtracting from? ♪
+
+548
+00:42:07,209 --> 00:42:08,977
+♪ this is much too hard for me ♪
+
+549
+00:42:09,044 --> 00:42:11,313
+♪ I can't do the sum ♪
+
+550
+00:42:12,915 --> 00:42:16,319
+♪ looks like there's no hope for me ♪
+
+551
+00:42:16,386 --> 00:42:18,654
+♪ I can't get ♪
+
+552
+00:42:18,722 --> 00:42:20,724
+♪ out of debt ♪
+
+553
+00:42:20,791 --> 00:42:25,096
+♪ if I marry Barnaby ♪
+
+554
+00:42:25,164 --> 00:42:29,150
+♪ that's the end, why pretend? ♪
+
+555
+00:42:29,217 --> 00:42:33,923
+♪ am I doing right or wrong? ♪
+
+556
+00:42:33,990 --> 00:42:37,326
+♪ my heart feels so numb ♪
+
+557
+00:42:39,063 --> 00:42:44,835
+♪ no use trying anymore ♪
+
+558
+00:42:44,903 --> 00:42:47,906
+♪ I can't ♪
+
+559
+00:42:47,974 --> 00:42:50,241
+♪ do ♪
+
+560
+00:42:50,309 --> 00:42:52,411
+♪ the sum ♪
+
+561
+00:43:17,608 --> 00:43:21,179
+she just can't marry that nasty old Barnaby!
+
+562
+00:43:21,247 --> 00:43:23,314
+She mustn't! She can't!
+
+563
+00:43:23,382 --> 00:43:26,819
+Say, if we go and find the sheep and bring them home,
+
+564
+00:43:26,887 --> 00:43:28,821
+then she won't have to marry Barnaby.
+
+565
+00:43:28,889 --> 00:43:32,125
+But the sheep are in the forest of no return!
+
+566
+00:43:32,193 --> 00:43:34,161
+What's the matter? You scared?
+
+567
+00:43:34,228 --> 00:43:35,495
+No! No!
+
+568
+00:43:35,562 --> 00:43:37,165
+All right, then let's go!
+
+569
+00:43:40,235 --> 00:43:42,171
+Hear ye, hear ye.
+
+570
+00:43:42,238 --> 00:43:44,890
+A meeting of the town!
+
+571
+00:43:44,958 --> 00:43:48,477
+Hear ye, hear ye!
+
+572
+00:43:48,545 --> 00:43:50,963
+All assemble!
+
+573
+00:43:52,516 --> 00:43:54,935
+All assemble!
+
+574
+00:43:56,521 --> 00:43:58,739
+An important announcement!
+
+575
+00:43:58,807 --> 00:44:03,294
+Hear ye, hear ye!
+
+576
+00:44:03,362 --> 00:44:06,798
+A meeting of the town.
+
+577
+00:44:06,866 --> 00:44:10,671
+Hear ye, hear ye!
+
+578
+00:44:10,739 --> 00:44:13,690
+All assemble.
+
+579
+00:44:21,384 --> 00:44:23,219
+Friends.
+
+580
+00:44:23,286 --> 00:44:26,956
+You are gazing at a happy man.
+
+581
+00:44:28,025 --> 00:44:29,959
+If he's happy, I'm a chicken.
+
+582
+00:44:30,027 --> 00:44:31,060
+Shh!
+
+583
+00:44:31,128 --> 00:44:32,963
+I'm about to take a bride.
+
+584
+00:44:33,031 --> 00:44:38,103
+Tomorrow, this little lady will become Mrs. Barnaby!
+
+585
+00:44:43,110 --> 00:44:44,344
+Mary?!
+
+586
+00:44:45,946 --> 00:44:48,013
+I'm sure we'll both be happy.
+
+587
+00:44:48,081 --> 00:44:50,517
+Will we not, my sweet?
+
+588
+00:44:50,585 --> 00:44:52,720
+Oh!
+
+589
+00:44:52,787 --> 00:44:54,322
+Poor Mary.
+
+590
+00:44:54,390 --> 00:44:55,690
+Ooh, I'd like to belt him!
+
+591
+00:44:55,758 --> 00:44:56,758
+Shh, Sylvester!
+
+592
+00:44:58,093 --> 00:45:00,263
+To sing and dance and entertain you,
+
+593
+00:45:00,330 --> 00:45:02,598
+I have hired a band of gypsies.
+
+594
+00:45:02,666 --> 00:45:06,637
+I'm sure they'll brighten up this happy occasion.
+
+595
+00:45:06,704 --> 00:45:07,638
+And...
+
+596
+00:45:09,039 --> 00:45:10,941
+Ah, here they come!
+
+597
+00:46:01,669 --> 00:46:04,187
+♪ Gypsies, we are the gypsies ♪
+
+598
+00:46:04,254 --> 00:46:07,891
+♪ and we are here today and gone tomorrow ♪
+
+599
+00:46:07,959 --> 00:46:10,545
+♪ cheerful, we're always cheerful ♪
+
+600
+00:46:10,613 --> 00:46:13,915
+♪ our life is nothing but a happy song ♪
+
+601
+00:46:53,012 --> 00:46:57,834
+Rodrigo, you realize these are the same gypsies we sold Tom to?
+
+602
+00:47:09,632 --> 00:47:12,719
+Shouldn't you be smiling, my dear?
+
+603
+00:48:46,680 --> 00:48:50,800
+♪ A wandering vagrant am I ♪
+
+604
+00:48:50,868 --> 00:48:53,187
+♪ a product of sheriffs' ♪
+
+605
+00:48:53,254 --> 00:48:56,006
+♪ evictions ♪
+
+606
+00:48:56,074 --> 00:48:58,009
+♪ a gypsy by birth ♪
+
+607
+00:48:58,077 --> 00:49:00,395
+♪ I have roamed half the earth ♪
+
+608
+00:49:00,462 --> 00:49:01,946
+♪ telling fortunes ♪
+
+609
+00:49:02,014 --> 00:49:05,552
+♪ and making predictions ♪
+
+610
+00:49:10,491 --> 00:49:11,975
+♪ my skill ♪
+
+611
+00:49:12,043 --> 00:49:15,296
+♪ is a magical art ♪
+
+612
+00:49:15,364 --> 00:49:16,631
+♪ I'm not just ♪
+
+613
+00:49:16,698 --> 00:49:20,253
+♪ the usual Swami ♪
+
+614
+00:49:20,320 --> 00:49:23,422
+♪ I don't entertain ♪
+
+615
+00:49:23,424 --> 00:49:26,059
+♪ with fake Legerdemain ♪
+
+616
+00:49:26,127 --> 00:49:28,828
+♪ and my breath doesn't reek ♪
+
+617
+00:49:28,913 --> 00:49:33,634
+♪ of salami ♪
+
+618
+00:49:33,753 --> 00:49:35,336
+♪ Floretta, Floretta ♪
+
+619
+00:49:35,370 --> 00:49:37,038
+♪ the gypsy is here ♪
+
+620
+00:49:37,106 --> 00:49:38,557
+♪ in telling your fortune ♪
+
+621
+00:49:38,624 --> 00:49:40,442
+♪ she's made a career ♪
+
+622
+00:49:40,510 --> 00:49:42,061
+♪ your past and your future ♪
+
+623
+00:49:42,129 --> 00:49:43,646
+♪ she quickly can see ♪
+
+624
+00:49:43,765 --> 00:49:45,414
+♪ she knows all that has been ♪
+
+625
+00:49:45,482 --> 00:49:46,699
+♪ and what is to be ♪
+
+626
+00:49:48,420 --> 00:49:50,388
+♪ Floretta, Floretta of brilliant renown ♪
+
+627
+00:49:50,455 --> 00:49:54,076
+♪ it is your good fortune that she is in town ♪
+
+628
+00:49:54,244 --> 00:49:57,029
+♪ the past and the future ♪
+
+629
+00:49:57,096 --> 00:49:59,965
+♪ I quickly can see ♪
+
+630
+00:50:00,033 --> 00:50:02,635
+♪ one glance at your palm ♪
+
+631
+00:50:02,702 --> 00:50:06,690
+♪ and it's all known to me ♪
+
+632
+00:50:08,793 --> 00:50:10,729
+ah!
+
+633
+00:50:10,796 --> 00:50:14,548
+♪ Come forward, my lovely young maid ♪
+
+634
+00:50:14,616 --> 00:50:16,702
+♪ your name, as I make out ♪
+
+635
+00:50:16,770 --> 00:50:19,071
+♪ is Mary ♪
+
+636
+00:50:19,139 --> 00:50:21,291
+♪ I see in your palm ♪
+
+637
+00:50:21,359 --> 00:50:23,826
+♪ you are lonesome for Tom ♪
+
+638
+00:50:23,894 --> 00:50:29,450
+♪ crying over his o-bit-u-ary ♪
+
+639
+00:50:31,253 --> 00:50:33,738
+but your darling Tom is alive!
+
+640
+00:50:33,806 --> 00:50:34,806
+What?
+
+641
+00:50:34,825 --> 00:50:35,991
+What?!
+
+642
+00:50:36,059 --> 00:50:37,342
+Yes!
+
+643
+00:50:37,410 --> 00:50:39,812
+♪ And I can see much love ♪
+
+644
+00:50:39,880 --> 00:50:42,031
+♪ and laughter ♪
+
+645
+00:50:42,099 --> 00:50:44,167
+♪ this line of your life ♪
+
+646
+00:50:44,235 --> 00:50:46,136
+♪ shows that you'll be Tom's wife ♪
+
+647
+00:50:46,204 --> 00:50:48,873
+♪ and forever live happily ♪
+
+648
+00:50:48,941 --> 00:50:53,712
+♪ aaaaaaf-ter ♪
+
+649
+00:50:55,449 --> 00:50:57,350
+♪ Floretta, Floretta of brilliant renown ♪
+
+650
+00:50:57,417 --> 00:50:59,001
+♪ it's Mary's good fortune ♪
+
+651
+00:50:59,069 --> 00:51:00,704
+♪ that she is in town ♪
+
+652
+00:51:00,772 --> 00:51:02,539
+♪ her past and her future ♪
+
+653
+00:51:02,607 --> 00:51:03,974
+♪ she quickly can see ♪
+
+654
+00:51:04,042 --> 00:51:05,526
+♪ she knows all that has been ♪
+
+655
+00:51:05,594 --> 00:51:07,595
+♪ and what is to be ♪
+
+656
+00:51:11,301 --> 00:51:14,937
+♪ now, this is the palm of a cad ♪
+
+657
+00:51:15,005 --> 00:51:19,676
+♪ a sly reprobate and a mean one ♪
+
+658
+00:51:21,145 --> 00:51:23,081
+♪ corrupt and malicious ♪
+
+659
+00:51:23,148 --> 00:51:25,083
+♪ conniving and vicious ♪
+
+660
+00:51:25,150 --> 00:51:26,517
+♪ a scoundrel ♪
+
+661
+00:51:26,585 --> 00:51:29,354
+♪ if ever I seen one ♪
+
+662
+00:51:30,890 --> 00:51:35,311
+♪ he seeks a young maid for his wife ♪
+
+663
+00:51:35,379 --> 00:51:38,114
+♪ while plotting her sweetheart's ♪
+
+664
+00:51:38,181 --> 00:51:40,985
+♪ abduuuuc-tion ♪
+
+665
+00:51:41,053 --> 00:51:42,719
+♪ the crimes he's involved in ♪
+
+666
+00:51:42,787 --> 00:51:44,288
+♪ will one day be solved ♪
+
+667
+00:51:44,356 --> 00:51:45,624
+♪ and result in his ♪
+
+668
+00:51:45,691 --> 00:51:48,727
+♪ utter destruction ♪
+
+669
+00:51:48,794 --> 00:51:51,047
+♪ Floretta, Floretta ♪
+
+670
+00:51:51,115 --> 00:51:52,965
+♪ of brilliant renown ♪
+
+671
+00:51:53,033 --> 00:51:54,666
+♪ old Barnaby's sorry ♪
+
+672
+00:51:54,734 --> 00:51:56,503
+♪ that she came to town ♪
+
+673
+00:51:56,570 --> 00:51:59,673
+♪ observe now, dear friends ♪
+
+674
+00:51:59,740 --> 00:52:03,060
+♪ and please try to stay calm ♪
+
+675
+00:52:03,128 --> 00:52:06,815
+♪ good-bye to Floretta ♪
+
+676
+00:52:06,900 --> 00:52:10,519
+♪ and hello ♪
+
+677
+00:52:10,586 --> 00:52:12,622
+♪ to Tom ♪
+
+678
+00:52:12,689 --> 00:52:14,590
+Tom!
+
+679
+00:52:14,658 --> 00:52:16,626
+♪... Tom ♪
+
+680
+00:52:23,452 --> 00:52:24,319
+hide!
+
+681
+00:52:26,622 --> 00:52:27,990
+Come on, come on!
+
+682
+00:52:31,262 --> 00:52:32,595
+Come on!
+
+683
+00:52:41,974 --> 00:52:44,175
+Going somewhere, boys?
+
+684
+00:52:44,226 --> 00:52:45,344
+No.
+
+685
+00:52:47,197 --> 00:52:48,498
+No.
+
+686
+00:53:24,941 --> 00:53:26,441
+Where are you, sheep?
+
+687
+00:53:26,508 --> 00:53:27,442
+Here, sheep.
+
+688
+00:53:27,509 --> 00:53:29,311
+Where are you, sheep?
+
+689
+00:53:29,378 --> 00:53:32,448
+Here, sheep. Here, sheep.
+
+690
+00:53:32,515 --> 00:53:33,883
+Here, sheep! Come on, sheep.
+
+691
+00:53:33,951 --> 00:53:35,352
+Where are ya?
+
+692
+00:53:35,419 --> 00:53:37,721
+Here, sheep. Come on, sheep.
+
+693
+00:53:37,788 --> 00:53:39,256
+Come on, sheep.
+
+694
+00:53:39,324 --> 00:53:41,159
+Come on, sheep.
+
+695
+00:53:41,227 --> 00:53:42,693
+We're lookin' for ya.
+
+696
+00:53:42,761 --> 00:53:45,063
+Here, sheep. Where are you?
+
+697
+00:53:45,130 --> 00:53:46,398
+Here, sheep. Come on.
+
+698
+00:53:46,466 --> 00:53:48,067
+Here, sheep. Where are you?
+
+699
+00:53:48,134 --> 00:53:51,270
+Here, sheep. Where are you, sheep?
+
+700
+00:53:58,347 --> 00:53:59,613
+Look, Mary.
+
+701
+00:53:59,681 --> 00:54:00,698
+A note.
+
+702
+00:54:02,734 --> 00:54:05,003
+"Dear sister Mary, please do not marry.
+
+703
+00:54:05,070 --> 00:54:06,955
+"Let that old Barnaby burn.
+
+704
+00:54:07,022 --> 00:54:09,475
+"We've gone with Bo-peep to look for the sheep
+
+705
+00:54:09,543 --> 00:54:11,477
+in The Forest Of No Return"!
+
+706
+00:54:11,545 --> 00:54:12,845
+Forest Of No Return?
+
+707
+00:54:12,913 --> 00:54:15,082
+Oh, those poor children in that dreadful forest!
+
+708
+00:54:15,150 --> 00:54:16,850
+We must go after them at once.
+
+709
+00:54:16,918 --> 00:54:18,802
+I hope we're still in time!
+
+710
+00:54:24,377 --> 00:54:27,880
+Now, gentlemen, you insidious idiots!
+
+711
+00:54:27,948 --> 00:54:29,548
+You stumbling fumblers!
+
+712
+00:54:29,616 --> 00:54:32,419
+I don't mind a double-cross and I don't mind a triple-cross,
+
+713
+00:54:32,486 --> 00:54:35,155
+but see that you execute no quadruple-cross,
+
+714
+00:54:35,223 --> 00:54:37,292
+for this, to me, is insincerity.
+
+715
+00:54:37,326 --> 00:54:39,877
+Now... this time I want no mistakes.
+
+716
+00:54:39,945 --> 00:54:41,880
+I want Tom disposed of!
+
+717
+00:54:41,948 --> 00:54:45,884
+As for Mary... Leave her fate to me.
+
+718
+00:54:45,952 --> 00:54:48,221
+Come, let us pussyfoot.
+
+719
+00:54:54,896 --> 00:54:56,997
+Here, sheep.
+
+720
+00:54:57,065 --> 00:54:58,517
+Please come home.
+
+721
+00:54:58,584 --> 00:55:00,018
+Here, sheep.
+
+722
+00:55:00,085 --> 00:55:02,053
+Here, sheep. Where are you?
+
+723
+00:55:02,121 --> 00:55:04,524
+Please, sheep, come here.
+
+724
+00:55:04,591 --> 00:55:06,526
+Please come home. Here, sheep.
+
+725
+00:55:06,593 --> 00:55:08,594
+Here, sheep.
+
+726
+00:55:08,662 --> 00:55:11,998
+Sheep... sheep... Here, sheep!
+
+727
+00:55:13,901 --> 00:55:14,868
+Hey!
+
+728
+00:55:18,440 --> 00:55:19,591
+Say!
+
+729
+00:55:25,581 --> 00:55:27,917
+♪ Can't you read, can't you see? ♪
+
+730
+00:55:27,985 --> 00:55:30,220
+♪ this is private property ♪
+
+731
+00:55:30,287 --> 00:55:32,674
+♪ aren't the signs plain and clear? ♪
+
+732
+00:55:32,741 --> 00:55:34,809
+♪ no one is allowed in here ♪
+
+733
+00:55:34,877 --> 00:55:37,295
+♪ but since you're here, you should know ♪
+
+734
+00:55:37,363 --> 00:55:39,564
+♪ we will never let you go ♪
+
+735
+00:55:39,632 --> 00:55:42,084
+♪ you can cry, you can shout ♪
+
+736
+00:55:42,152 --> 00:55:44,471
+♪ but you can't get out ♪
+
+737
+00:55:44,538 --> 00:55:48,609
+♪ this is The Forest Of No Return ♪
+
+738
+00:55:48,677 --> 00:55:53,514
+♪ this is The Forest Of No Return ♪
+
+739
+00:55:53,582 --> 00:55:55,917
+♪ those who stumble in ♪
+
+740
+00:55:55,985 --> 00:55:58,152
+♪ those who fumble in ♪
+
+741
+00:55:58,220 --> 00:56:01,323
+♪ never can get out ♪
+
+742
+00:56:07,732 --> 00:56:10,066
+♪ we have come seeking sheep ♪
+
+743
+00:56:10,134 --> 00:56:12,437
+♪ now, alas, you're in too deep ♪
+
+744
+00:56:12,505 --> 00:56:14,639
+♪ we don't mean any harm ♪
+
+745
+00:56:14,707 --> 00:56:16,642
+♪ you have caused us great alarm ♪
+
+746
+00:56:16,710 --> 00:56:19,412
+♪ then we'll be off, on our way ♪
+
+747
+00:56:19,479 --> 00:56:21,246
+♪ sorry, but you'll have to stay ♪
+
+748
+00:56:21,314 --> 00:56:23,983
+♪ we will cry, we will shout ♪
+
+749
+00:56:24,051 --> 00:56:26,185
+♪ still, you can't get out ♪
+
+750
+00:56:26,253 --> 00:56:30,958
+♪ this is The Forest Of No Return ♪
+
+751
+00:56:31,026 --> 00:56:35,547
+♪ this is The Forest Of No Return ¶
+
+752
+00:56:35,615 --> 00:56:37,850
+♪ you have stumbled in ♪
+
+753
+00:56:37,917 --> 00:56:40,186
+♪ you have fumbled in ♪
+
+754
+00:56:40,253 --> 00:56:44,758
+♪ now you can't get out ♪
+
+755
+00:56:44,826 --> 00:56:46,527
+Help! Help!
+
+756
+00:56:46,595 --> 00:56:48,428
+Help! Help!
+
+757
+00:56:48,497 --> 00:56:50,599
+Tom, quick, this way!
+
+758
+00:56:50,666 --> 00:56:52,333
+Help! Help!
+
+759
+00:56:52,401 --> 00:56:55,471
+Help! Help!
+
+760
+00:56:55,539 --> 00:56:57,974
+Help! Help!
+
+761
+00:56:58,042 --> 00:57:00,727
+Mary! Mary!
+
+762
+00:57:00,794 --> 00:57:02,429
+Thank goodness you're safe!
+
+763
+00:57:02,497 --> 00:57:05,265
+We were so worried about you.
+
+764
+00:57:05,333 --> 00:57:07,268
+And look who's here.
+
+765
+00:57:07,336 --> 00:57:08,519
+Tom!
+
+766
+00:57:08,587 --> 00:57:10,020
+Hello, Willie.
+
+767
+00:57:10,088 --> 00:57:11,657
+Tom, you're back!
+
+768
+00:57:11,725 --> 00:57:14,292
+Tom! Tom, you're back!
+
+769
+00:57:14,361 --> 00:57:16,628
+Tom, you didn't drown!
+
+770
+00:57:16,696 --> 00:57:18,631
+No, no, I'm fine, just fine.
+
+771
+00:57:18,699 --> 00:57:20,533
+But how are you? Are you all right?
+
+772
+00:57:20,601 --> 00:57:22,470
+Yes, we're all right.
+
+773
+00:57:22,537 --> 00:57:24,304
+But we didn't find the sheep.
+
+774
+00:57:24,373 --> 00:57:26,206
+We'll find the sheep later.
+
+775
+00:57:26,274 --> 00:57:29,143
+But right now we're going to take you home.
+
+776
+00:57:29,211 --> 00:57:32,381
+No, Mary, I think it's too dark to travel any more tonight.
+
+777
+00:57:32,448 --> 00:57:34,717
+I think we should settle down right here for the evening,
+
+778
+00:57:34,785 --> 00:57:37,520
+till morning, anyway, then we'll look for the sheep.
+
+779
+00:57:37,588 --> 00:57:39,723
+Oh, we can't leave anyway. We're captured.
+
+780
+00:57:41,092 --> 00:57:42,626
+You're what?
+
+781
+00:57:42,694 --> 00:57:43,727
+We're captured.
+
+782
+00:57:43,795 --> 00:57:44,729
+Yeah.
+
+783
+00:57:44,797 --> 00:57:46,230
+The trees captured us.
+
+784
+00:57:46,298 --> 00:57:47,999
+The trees captured you?
+
+785
+00:57:48,066 --> 00:57:49,267
+What trees?
+
+786
+00:57:49,334 --> 00:57:50,903
+All these trees.
+
+787
+00:57:50,970 --> 00:57:53,773
+Oh, they're all right. They're just a little tired.
+
+788
+00:57:53,840 --> 00:57:56,009
+Oh, yes. Yes, of course.
+
+789
+00:57:56,076 --> 00:57:58,445
+The trees captured you.
+
+790
+00:57:58,513 --> 00:58:00,947
+All right. Let's look for a nice spot to settle down
+
+791
+00:58:01,015 --> 00:58:03,084
+until morning. How 'bout here?
+
+792
+00:58:06,171 --> 00:58:08,507
+Come on, settle down.
+
+793
+00:58:12,813 --> 00:58:14,914
+♪ We saw trees that walk ♪
+
+794
+00:58:14,982 --> 00:58:16,783
+♪ try to get some sleep ♪
+
+795
+00:58:16,850 --> 00:58:19,220
+♪ they could even talk ♪
+
+796
+00:58:19,254 --> 00:58:21,905
+♪ not another peep ♪
+
+797
+00:58:21,973 --> 00:58:24,810
+♪ and they sang a song ♪
+
+798
+00:58:24,861 --> 00:58:27,462
+♪ while they danced along ♪
+
+799
+00:58:27,530 --> 00:58:31,000
+♪ children, quiet, please ♪
+
+800
+00:58:31,068 --> 00:58:36,089
+♪ let's forget the trees ♪
+
+801
+00:58:36,157 --> 00:58:38,091
+♪ we're not telling lies ♪
+
+802
+00:58:38,159 --> 00:58:39,810
+♪ I will take your word ♪
+
+803
+00:58:39,878 --> 00:58:42,413
+♪ they had evil eyes ♪
+
+804
+00:58:42,481 --> 00:58:44,548
+♪ darlings, that's absurd ♪
+
+805
+00:58:44,616 --> 00:58:47,136
+♪ and they raised a fuss ♪
+
+806
+00:58:47,203 --> 00:58:50,355
+♪ and they threatened us ♪
+
+807
+00:58:50,423 --> 00:58:53,293
+♪ children, we suggest ♪
+
+808
+00:58:53,361 --> 00:58:56,781
+♪ that you get some rest ♪
+
+809
+00:58:58,366 --> 00:59:02,053
+♪ go to sleep ♪
+
+810
+00:59:03,690 --> 00:59:07,576
+♪ slumber deep ♪
+
+811
+00:59:07,694 --> 00:59:09,796
+♪ drift away ♪
+
+812
+00:59:09,863 --> 00:59:13,216
+♪ on fleecy clouds ♪
+
+813
+00:59:13,284 --> 00:59:15,486
+♪ above ♪
+
+814
+00:59:15,553 --> 00:59:18,606
+♪ you ♪
+
+815
+00:59:20,143 --> 00:59:23,212
+♪ close your eyes ♪
+
+816
+00:59:25,615 --> 00:59:29,819
+♪ sail the skies ♪
+
+817
+00:59:29,887 --> 00:59:32,756
+♪ nestle gently ♪
+
+818
+00:59:32,824 --> 00:59:35,392
+♪ near the ones ♪
+
+819
+00:59:35,459 --> 00:59:38,997
+♪ who love you ♪
+
+820
+00:59:41,968 --> 00:59:44,820
+♪ go ♪
+
+821
+00:59:44,854 --> 00:59:50,109
+♪ to sleep ♪
+
+822
+00:59:50,177 --> 00:59:53,414
+♪ go ♪
+
+823
+00:59:53,482 --> 00:59:55,850
+♪ to sleep ♪
+
+824
+00:59:57,253 --> 00:59:58,854
+all right, boys.
+
+825
+00:59:58,922 --> 01:00:01,390
+Let's go. We'll sneak up...
+
+826
+01:00:02,592 --> 01:00:03,459
+Shh!
+
+827
+01:00:09,934 --> 01:00:13,487
+Wake up, wake up, wake up, wake up!
+
+828
+01:00:13,605 --> 01:00:16,474
+Wake up, everyone! Come on, wake up!
+
+829
+01:00:16,542 --> 01:00:19,394
+Wake up! Come on, wake up!
+
+830
+01:00:19,461 --> 01:00:21,497
+Wait a minute! What's going on?
+
+831
+01:00:21,615 --> 01:00:23,816
+See? We told you about these trees.
+
+832
+01:00:23,883 --> 01:00:26,453
+What's the meaning of this? Explain yourselves!
+
+833
+01:00:26,521 --> 01:00:28,655
+Well, he wants an explanation!
+
+834
+01:00:28,723 --> 01:00:32,493
+The explanation is... That you are out of bounds.
+
+835
+01:00:32,561 --> 01:00:34,378
+These are restricted grounds.
+
+836
+01:00:34,463 --> 01:00:36,213
+You're not supposed to be here!
+
+837
+01:00:36,281 --> 01:00:38,533
+Didn't you read the signs?
+
+838
+01:00:38,601 --> 01:00:41,470
+But... but what are you going to do with us?
+
+839
+01:00:41,537 --> 01:00:45,141
+What will be done with you the toy maker will decide.
+
+840
+01:00:45,209 --> 01:00:47,762
+The Toy Maker?
+
+841
+01:00:47,829 --> 01:00:49,480
+Naturally!
+
+842
+01:00:49,548 --> 01:00:52,600
+You are on Toyland Property!
+
+843
+01:00:52,667 --> 01:00:54,753
+Toyland?
+
+844
+01:00:54,820 --> 01:00:56,572
+Toyland!
+
+845
+01:00:56,639 --> 01:00:58,357
+Toyland!
+
+846
+01:00:58,408 --> 01:01:00,844
+Settle down! Quiet! Quiet!
+
+847
+01:01:00,911 --> 01:01:03,046
+♪ 'Twill do no good to fight ♪
+
+848
+01:01:03,164 --> 01:01:05,766
+♪ we warned you not to fuss ♪
+
+849
+01:01:05,833 --> 01:01:08,418
+♪ we firmly and emphatically ♪
+
+850
+01:01:08,486 --> 01:01:11,005
+♪ demand you come with us ♪
+
+851
+01:01:11,073 --> 01:01:16,495
+♪ yes, we demand you come with us ♪
+
+852
+01:01:16,563 --> 01:01:17,680
+♪ you'll have to take us in ♪
+
+853
+01:01:17,747 --> 01:01:18,947
+♪ straight in ♪
+
+854
+01:01:19,015 --> 01:01:19,965
+♪ to Toyland, must we go? ♪
+
+855
+01:01:20,033 --> 01:01:21,518
+♪ quite so ♪
+
+856
+01:01:21,586 --> 01:01:22,786
+♪ are you inclined to change your mind? ♪
+
+857
+01:01:22,853 --> 01:01:24,688
+♪ unanimously, no! ♪
+
+858
+01:01:28,727 --> 01:01:30,344
+fall in. Line up.
+
+859
+01:01:30,412 --> 01:01:32,347
+Forward march!
+
+860
+01:01:32,415 --> 01:01:36,485
+♪ Toyland, Toyland ♪
+
+861
+01:01:36,552 --> 01:01:40,423
+♪ beautiful girl and boy land ♪
+
+862
+01:01:40,491 --> 01:01:44,011
+♪ while you dwell within it ♪
+
+863
+01:01:44,079 --> 01:01:48,583
+♪ you are ever happy there ♪
+
+864
+01:01:48,651 --> 01:01:52,571
+♪ childhood's toyland ♪
+
+865
+01:01:52,639 --> 01:01:56,609
+♪ wonderful world of joyland ♪
+
+866
+01:01:56,677 --> 01:02:00,064
+♪ wouldn't it be fine if we ♪
+
+867
+01:02:00,132 --> 01:02:04,668
+♪ could stay there for evermore? ♪
+
+868
+01:02:04,736 --> 01:02:08,456
+♪ Toyland, Toyland ♪
+
+869
+01:02:08,541 --> 01:02:12,378
+♪ we're on our way to Toyland ♪
+
+870
+01:02:12,446 --> 01:02:16,048
+♪ don't know when we'll get there ♪
+
+871
+01:02:16,116 --> 01:02:20,754
+♪ but we know there's fun in store ♪
+
+872
+01:02:20,872 --> 01:02:24,491
+♪ Toyland, Toyland ♪
+
+873
+01:02:24,559 --> 01:02:28,496
+♪ wonderful girl and boy land ♪
+
+874
+01:02:28,564 --> 01:02:31,600
+♪ once you leave its borders ♪
+
+875
+01:02:31,668 --> 01:02:36,606
+♪ you can never return again ♪
+
+876
+01:02:36,657 --> 01:02:38,324
+♪ this is as far as we go ♪
+
+877
+01:02:38,392 --> 01:02:40,427
+♪ here's where your troubles begin ♪
+
+878
+01:02:40,496 --> 01:02:42,496
+♪ go down to the Ridge and over the bridge ♪
+
+879
+01:02:42,564 --> 01:02:44,799
+♪ and all of you turn yourselves in ♪
+
+880
+01:02:58,900 --> 01:03:00,500
+not yet, boys.
+
+881
+01:03:00,568 --> 01:03:02,654
+The odds will be better when they're sleeping.
+
+882
+01:03:02,671 --> 01:03:04,606
+We will wait till nightfall.
+
+883
+01:03:04,673 --> 01:03:06,926
+Come... let us lurk.
+
+884
+01:03:11,498 --> 01:03:14,734
+Come on, come on! Hurry up!
+
+885
+01:03:14,802 --> 01:03:17,421
+Mr. Toy Maker, Mr. Toy Maker, open the door!
+
+886
+01:03:17,489 --> 01:03:20,058
+Open the door! Please!
+
+887
+01:03:20,125 --> 01:03:21,675
+Kids, kids.
+
+888
+01:03:21,743 --> 01:03:23,061
+They must be closed.
+
+889
+01:03:23,112 --> 01:03:23,996
+Yes, look.
+
+890
+01:03:25,381 --> 01:03:26,799
+"Closed for alterations."
+
+891
+01:03:27,951 --> 01:03:29,285
+What's over here?
+
+892
+01:03:29,370 --> 01:03:30,487
+Come on!
+
+893
+01:03:35,276 --> 01:03:37,511
+Gee, I wonder what's inside.
+
+894
+01:03:40,650 --> 01:03:44,052
+Hmm. Looks like Toyland has been deserted.
+
+895
+01:03:44,119 --> 01:03:45,454
+Mr. Toy Maker.
+
+896
+01:03:45,522 --> 01:03:46,889
+It came from over there.
+
+897
+01:03:46,957 --> 01:03:49,792
+Oh, Mr. Toy Maker, it's all ready, sir.
+
+898
+01:03:49,860 --> 01:03:52,462
+For goodness sake, Grumio, you know I'm busy!
+
+899
+01:03:52,530 --> 01:03:53,797
+But there's something I...
+
+900
+01:03:53,865 --> 01:03:55,933
+Listen, I'm working on a new invention.
+
+901
+01:03:56,000 --> 01:03:58,436
+This is fantastic.
+
+902
+01:04:01,206 --> 01:04:02,557
+What... what is it?
+
+903
+01:04:02,625 --> 01:04:04,460
+What is it?
+
+904
+01:04:04,527 --> 01:04:06,261
+I'll tell you what it is.
+
+905
+01:04:06,329 --> 01:04:10,467
+What is the first thing a boy does when he gets a new toy?
+
+906
+01:04:10,534 --> 01:04:11,701
+Well, I... I'll tell ya.
+
+907
+01:04:11,768 --> 01:04:13,770
+He takes it apart to see how it works.
+
+908
+01:04:13,838 --> 01:04:16,007
+But with my invention, he doesn't have to do that.
+
+909
+01:04:16,074 --> 01:04:17,475
+The toy is already broken.
+
+910
+01:04:17,542 --> 01:04:20,812
+I made that up myself, you know, in the other room there.
+
+911
+01:04:20,880 --> 01:04:23,465
+Mr. Toy Maker... Oh, was there something you wanted?
+
+912
+01:04:23,533 --> 01:04:25,468
+Yes, there's something I want to show you, sir.
+
+913
+01:04:25,536 --> 01:04:27,069
+Please, please come with me. Please.
+
+914
+01:04:33,361 --> 01:04:35,463
+This is my new invention.
+
+915
+01:04:50,732 --> 01:04:52,166
+This is your invention?
+
+916
+01:04:52,234 --> 01:04:53,968
+Yes, sir.
+
+917
+01:04:58,424 --> 01:05:00,342
+How do you like it, sir?
+
+918
+01:05:00,410 --> 01:05:02,344
+Oh, fine, fine. It's awful nice.
+
+919
+01:05:02,412 --> 01:05:04,947
+Very nice. You do very good work, Grumio.
+
+920
+01:05:05,015 --> 01:05:06,549
+Very good. Beautiful.
+
+921
+01:05:06,617 --> 01:05:07,950
+Oh, just a minute, sir.
+
+922
+01:05:08,018 --> 01:05:09,953
+Don't you want to see how it works?
+
+923
+01:05:10,021 --> 01:05:11,389
+How what works?
+
+924
+01:05:11,456 --> 01:05:12,956
+My invention!
+
+925
+01:05:13,024 --> 01:05:14,459
+This does something?
+
+926
+01:05:14,527 --> 01:05:16,645
+Oh, yes, sir. It certainly does!
+
+927
+01:05:16,696 --> 01:05:18,013
+It makes toys.
+
+928
+01:05:18,080 --> 01:05:19,398
+It does?
+
+929
+01:05:19,466 --> 01:05:21,134
+This is my new toy making machine.
+
+930
+01:05:21,202 --> 01:05:23,419
+You'll never ever need these hand tools again, sir.
+
+931
+01:05:23,487 --> 01:05:25,973
+This is the latest concept in automation!
+
+932
+01:05:26,041 --> 01:05:27,842
+Here, let me explain.
+
+933
+01:05:27,909 --> 01:05:29,676
+Let's say we wanna make a doll.
+
+934
+01:05:29,744 --> 01:05:31,479
+Let's.
+
+935
+01:05:31,547 --> 01:05:33,565
+Now, first we have to diagram the problem
+
+936
+01:05:33,632 --> 01:05:36,685
+for the machine on the occiligraph, you understand?
+
+937
+01:05:36,753 --> 01:05:38,420
+Just make a doll. That's all.
+
+938
+01:05:38,488 --> 01:05:40,039
+Make a doll. Yes, sir.
+
+939
+01:05:40,106 --> 01:05:41,708
+Now we select the ingredients.
+
+940
+01:05:41,776 --> 01:05:47,532
+Uh... blue eyes, blonde hair, smiling lips.
+
+941
+01:05:47,583 --> 01:05:50,601
+Oh, and suppose you want to make it a girl doll...
+
+942
+01:05:50,669 --> 01:05:54,923
+Um... sugar... and spice... Everything nice.
+
+943
+01:05:56,859 --> 01:06:01,214
+One doll, demonstration purposes at slow speed.
+
+944
+01:06:01,282 --> 01:06:03,383
+And now, automation takes over!
+
+945
+01:06:03,450 --> 01:06:05,219
+Is that so?
+
+946
+01:06:05,287 --> 01:06:06,270
+Look!
+
+947
+01:06:06,388 --> 01:06:08,488
+Oh, that's wonderful!
+
+948
+01:06:31,100 --> 01:06:34,036
+This is astonishing!
+
+949
+01:06:34,104 --> 01:06:36,506
+Simply astonishing!
+
+950
+01:06:36,573 --> 01:06:38,759
+A real doll!
+
+951
+01:06:38,826 --> 01:06:41,744
+Grumio, this is amazing!
+
+952
+01:06:41,813 --> 01:06:44,748
+Oh... thank you, sir.
+
+953
+01:06:44,817 --> 01:06:46,750
+Can this machine make a toy boat, too?
+
+954
+01:06:46,819 --> 01:06:48,620
+Toy boat coming up, sir.
+
+955
+01:06:50,974 --> 01:06:53,392
+Now I'll make a boat.
+
+956
+01:06:55,046 --> 01:07:00,868
+Uh... hull, decks, smoke stacks, lifeboats...
+
+957
+01:07:03,121 --> 01:07:06,542
+And we'll need, uh... There's a mast and a poop deck...
+
+958
+01:07:06,576 --> 01:07:07,709
+Stop mumbling.
+
+959
+01:07:07,794 --> 01:07:09,227
+Make the boat. Make the boat.
+
+960
+01:07:09,295 --> 01:07:12,348
+We'll run this one at, uh... medium speed,
+
+961
+01:07:12,416 --> 01:07:15,485
+and once more, automation reigns supreme!
+
+962
+01:07:35,276 --> 01:07:37,727
+This is overwhelming!
+
+963
+01:07:37,796 --> 01:07:39,597
+A doll! A boat!
+
+964
+01:07:39,664 --> 01:07:41,916
+Oh, my machine can make anything, sir!
+
+965
+01:07:41,983 --> 01:07:44,753
+Grumio... You are a genius.
+
+966
+01:07:44,821 --> 01:07:46,922
+Thank you, sir.
+
+967
+01:07:46,989 --> 01:07:49,258
+And now, to work.
+
+968
+01:07:51,779 --> 01:07:53,880
+And now, as we have a deadline to meet,
+
+969
+01:07:53,947 --> 01:07:56,333
+I will start the machine at full production.
+
+970
+01:07:56,401 --> 01:07:57,685
+Uh, just a moment, Grumio.
+
+971
+01:07:57,752 --> 01:07:58,952
+You'll start the machine?
+
+972
+01:07:59,021 --> 01:08:00,455
+Oh, no, you won't.
+
+973
+01:08:00,523 --> 01:08:02,524
+I'm the head toy maker here.
+
+974
+01:08:02,592 --> 01:08:04,375
+I'll start the machine in full production.
+
+975
+01:08:04,444 --> 01:08:06,195
+You're just my assistant.
+
+976
+01:08:06,263 --> 01:08:07,730
+Will you please step aside?
+
+977
+01:08:07,781 --> 01:08:09,732
+If I need any help, I'll call you.
+
+978
+01:08:09,783 --> 01:08:11,401
+Here. Hold these, please.
+
+979
+01:08:11,469 --> 01:08:13,470
+If I want you, I'll call you, Grumio,
+
+980
+01:08:13,537 --> 01:08:15,088
+or I'll call you assistant.
+
+981
+01:08:15,156 --> 01:08:17,375
+It depends entirely on the mood I'm in.
+
+982
+01:08:17,442 --> 01:08:19,377
+Now, let me see. We need some wagons,
+
+983
+01:08:19,444 --> 01:08:20,895
+we need marbles, we need dolls.
+
+984
+01:08:20,963 --> 01:08:22,414
+We could use some roller skates.
+
+985
+01:08:22,482 --> 01:08:24,065
+Children love roller skates, you know.
+
+986
+01:08:24,133 --> 01:08:28,222
+Some parcheesi sets... I think you're overloading it, sir.
+
+987
+01:08:28,289 --> 01:08:30,990
+I think about 4 million each to start with.
+
+988
+01:08:31,058 --> 01:08:32,792
+4 million?!
+
+989
+01:08:32,860 --> 01:08:35,129
+And I think we'll start at super speed!
+
+990
+01:08:37,182 --> 01:08:38,382
+Pick that up, assistant.
+
+991
+01:08:38,450 --> 01:08:40,235
+Hoo hoo hoo!
+
+992
+01:08:40,303 --> 01:08:42,154
+Oh, that's just remarkable!
+
+993
+01:08:42,221 --> 01:08:44,590
+Ho ho ho, hoo hoo! My!
+
+994
+01:08:48,228 --> 01:08:49,395
+Oh, my!
+
+995
+01:08:49,463 --> 01:08:50,681
+What's this thing here?
+
+996
+01:08:50,748 --> 01:08:54,501
+No, Mr. Toy Maker, please, get out of there, sir, please!
+
+997
+01:08:54,569 --> 01:08:55,971
+Really remarkable.
+
+998
+01:08:56,038 --> 01:08:57,738
+You're making it very difficult, sir.
+
+999
+01:08:57,806 --> 01:08:59,657
+Please don't touch anything else!
+
+1000
+01:08:59,725 --> 01:09:01,593
+Oh! This is wonderful!
+
+1001
+01:09:01,661 --> 01:09:05,064
+Hoo hoo hoo! Hoo hoo... Stop that, Grumio!
+
+1002
+01:09:10,689 --> 01:09:12,440
+It's real!
+
+1003
+01:09:12,508 --> 01:09:14,759
+Oh! Hoo hoo hoo!
+
+1004
+01:09:16,345 --> 01:09:18,247
+Oh, Grumio! This one's broken!
+
+1005
+01:09:18,315 --> 01:09:20,933
+Get a little glue.
+
+1006
+01:09:21,001 --> 01:09:22,702
+Hurry up! Oh...
+
+1007
+01:09:34,316 --> 01:09:36,768
+There's something wrong, Grumio!
+
+1008
+01:09:36,836 --> 01:09:37,819
+Grumio!
+
+1009
+01:09:39,722 --> 01:09:41,724
+Do something fast!
+
+1010
+01:09:41,792 --> 01:09:44,110
+There's something wrong here, Grumio.
+
+1011
+01:09:44,177 --> 01:09:46,113
+Look!
+
+1012
+01:09:58,295 --> 01:09:59,912
+I think something's wrong!
+
+1013
+01:10:04,385 --> 01:10:06,503
+Stop that thing! Grumio!
+
+1014
+01:10:06,570 --> 01:10:08,022
+Grumio, come here!
+
+1015
+01:10:08,089 --> 01:10:10,091
+Grumio, look out!
+
+1016
+01:10:10,159 --> 01:10:11,492
+Look out, Grumio!
+
+1017
+01:10:11,560 --> 01:10:13,462
+Look ooooout!
+
+1018
+01:10:18,117 --> 01:10:19,819
+You know something?
+
+1019
+01:10:19,887 --> 01:10:21,754
+I think we should go to lunch.
+
+1020
+01:10:50,807 --> 01:10:53,142
+This is catastrophic!
+
+1021
+01:10:53,210 --> 01:10:54,811
+My goodness!
+
+1022
+01:10:59,968 --> 01:11:01,851
+I'm ruined!
+
+1023
+01:11:01,919 --> 01:11:03,721
+Absolutely ruined!
+
+1024
+01:11:05,624 --> 01:11:06,858
+Grumio.
+
+1025
+01:11:06,925 --> 01:11:08,309
+Grumio!
+
+1026
+01:11:08,377 --> 01:11:10,245
+Grumio!
+
+1027
+01:11:10,313 --> 01:11:12,865
+Grumio!
+
+1028
+01:11:12,882 --> 01:11:17,337
+Oh, there you are. You are alone responsible for everything...
+
+1029
+01:11:17,405 --> 01:11:19,556
+Just you and you alone!
+
+1030
+01:11:19,608 --> 01:11:21,559
+Did you say that your invention
+
+1031
+01:11:21,610 --> 01:11:24,912
+was to make toys or to make noise?
+
+1032
+01:11:24,980 --> 01:11:27,098
+Go! Get outta here!
+
+1033
+01:11:27,166 --> 01:11:29,117
+Go on! Go to your room
+
+1034
+01:11:29,184 --> 01:11:31,487
+and invent something to destroy yourself!
+
+1035
+01:11:31,554 --> 01:11:33,707
+This is horrible!
+
+1036
+01:11:41,082 --> 01:11:43,852
+I'll never make that Christmas deadline now.
+
+1037
+01:12:01,423 --> 01:12:04,910
+My, my, this is... This is terrible!
+
+1038
+01:12:04,978 --> 01:12:06,311
+Just awful.
+
+1039
+01:12:06,379 --> 01:12:08,280
+I, uh, I beg your pardon, sir.
+
+1040
+01:12:08,347 --> 01:12:10,500
+Why, who are you?
+
+1041
+01:12:12,503 --> 01:12:15,773
+Well, my name's Tom Piper, and... What are you doing here?
+
+1042
+01:12:15,840 --> 01:12:17,341
+We came to see you.
+
+1043
+01:12:22,231 --> 01:12:23,581
+Who are you?
+
+1044
+01:12:23,649 --> 01:12:25,100
+She's my sister.
+
+1045
+01:12:26,820 --> 01:12:28,437
+Well, you shouldn't be here!
+
+1046
+01:12:28,505 --> 01:12:30,272
+Don't you know that it isn't right
+
+1047
+01:12:30,340 --> 01:12:33,727
+for children to see these toys until Christmas day?
+
+1048
+01:12:33,795 --> 01:12:38,566
+These... we... well, we... We had a lot of toys around here.
+
+1049
+01:12:38,634 --> 01:12:42,420
+But you can see... Well...
+
+1050
+01:12:47,594 --> 01:12:52,633
+This is the only toy in the whole factory that isn't broken.
+
+1051
+01:12:55,521 --> 01:12:57,972
+We're really very sorry, Mr. Toy Maker.
+
+1052
+01:12:58,023 --> 01:12:59,808
+Yeah, thank you.
+
+1053
+01:12:59,875 --> 01:13:02,127
+But what are you doing here?
+
+1054
+01:13:02,194 --> 01:13:04,229
+We're arrested!
+
+1055
+01:13:04,296 --> 01:13:07,234
+The trees said for us to report to you.
+
+1056
+01:13:07,301 --> 01:13:10,103
+Well, naturally, you have to report to me.
+
+1057
+01:13:10,170 --> 01:13:14,742
+I'm not only the head toy maker, I'm also the Mayor of Toyland
+
+1058
+01:13:14,809 --> 01:13:16,745
+and the chief of police.
+
+1059
+01:13:16,812 --> 01:13:19,414
+We noticed you have quite a problem, sir.
+
+1060
+01:13:22,052 --> 01:13:23,569
+Yes. Quite a problem. Yes.
+
+1061
+01:13:23,637 --> 01:13:26,406
+Well, is there anything we can do to help?
+
+1062
+01:13:36,585 --> 01:13:38,687
+Half-past October.
+
+1063
+01:13:38,755 --> 01:13:40,589
+The deadline near.
+
+1064
+01:13:40,657 --> 01:13:42,925
+The children will have no Merry Christmas.
+
+1065
+01:13:42,993 --> 01:13:46,096
+Mr. Toy Maker, we're strong, and we're willing to work.
+
+1066
+01:13:46,164 --> 01:13:48,098
+I think we'd make a fine assembly line.
+
+1067
+01:13:48,166 --> 01:13:50,618
+And we'd work day and night, wouldn't we, children?
+
+1068
+01:13:50,686 --> 01:13:51,552
+Yes! Yes, sure!
+
+1069
+01:13:51,620 --> 01:13:54,121
+Please, please let us help you.
+
+1070
+01:13:54,189 --> 01:13:56,342
+You wanna work?
+
+1071
+01:13:56,409 --> 01:13:58,443
+Nobody wants to work these days.
+
+1072
+01:13:58,511 --> 01:14:02,832
+It's not automation, sir, but we've got our hands to use.
+
+1073
+01:14:02,899 --> 01:14:06,754
+Well... Maybe I could try it. Ha.
+
+1074
+01:14:06,838 --> 01:14:09,106
+What have I got to lose?
+
+1075
+01:14:09,224 --> 01:14:11,593
+All right, folks. I'll put you to work.
+
+1076
+01:14:11,644 --> 01:14:13,911
+I've been such a dope.
+
+1077
+01:14:13,980 --> 01:14:18,317
+As long as there are people, we should never give up hope!
+
+1078
+01:14:18,385 --> 01:14:19,736
+Yay! Yay!
+
+1079
+01:14:19,787 --> 01:14:22,673
+First we have to clean up that assembly room.
+
+1080
+01:14:22,740 --> 01:14:25,225
+Come on. We haven't got a moment to lose.
+
+1081
+01:14:38,191 --> 01:14:39,809
+♪ Painting eyes on funny faces ♪
+
+1082
+01:14:39,928 --> 01:14:42,296
+♪ putting on a smile or frown ♪
+
+1083
+01:14:42,347 --> 01:14:45,649
+♪ come now, there's lots of orders coming in ♪
+
+1084
+01:14:45,717 --> 01:14:47,651
+♪ bolting wheels on axle braces ♪
+
+1085
+01:14:47,719 --> 01:14:49,319
+♪ so they never will break down ♪
+
+1086
+01:14:49,387 --> 01:14:50,839
+♪ children ♪
+
+1087
+01:14:50,906 --> 01:14:53,508
+♪ we need 600 more of these, you know ♪
+
+1088
+01:14:53,576 --> 01:14:55,510
+♪ cutting, sewing, pressing dresses ♪
+
+1089
+01:14:55,578 --> 01:14:57,413
+♪ every little doll gets one ♪
+
+1090
+01:14:57,481 --> 01:14:59,165
+♪ putting curls in all their tresses ♪
+
+1091
+01:14:59,283 --> 01:15:00,933
+♪ isn't it a lot of fun? ♪
+
+1092
+01:15:01,001 --> 01:15:03,103
+♪ Christmas coming ♪ ♪ things are humming ♪
+
+1093
+01:15:03,171 --> 01:15:05,322
+♪ busy, busy ♪ ♪ in a tizzy ♪
+
+1094
+01:15:05,390 --> 01:15:06,490
+♪ hurry, hurry, hurry ♪
+
+1095
+01:15:06,541 --> 01:15:08,643
+♪ till we're done ♪
+
+1096
+01:15:08,711 --> 01:15:12,615
+♪ hurry, hurry, hurry till we're done ♪
+
+1097
+01:15:20,257 --> 01:15:22,159
+♪ gluing legs on chairs and tables ♪
+
+1098
+01:15:22,227 --> 01:15:23,962
+♪ never any less than four ♪
+
+1099
+01:15:24,029 --> 01:15:27,515
+Say, you! Please pay attention to your job!
+
+1100
+01:15:27,583 --> 01:15:29,685
+♪ Cows and goats for tiny stables ♪
+
+1101
+01:15:29,753 --> 01:15:31,336
+♪ put a dozen in or more ♪
+
+1102
+01:15:31,404 --> 01:15:35,575
+Willie! This is no time for foolishness!
+
+1103
+01:15:35,626 --> 01:15:37,661
+♪ Packing, pounding, fitting, nailing ♪
+
+1104
+01:15:37,728 --> 01:15:39,379
+♪ every little thing must run ♪
+
+1105
+01:15:39,464 --> 01:15:41,332
+♪ some for flying ♪ ♪ some for sailing ♪
+
+1106
+01:15:41,399 --> 01:15:43,000
+♪ isn't it a lot of fun? ♪
+
+1107
+01:15:43,068 --> 01:15:45,202
+♪ Christmas coming ♪ ♪ things are humming ♪
+
+1108
+01:15:45,270 --> 01:15:47,405
+♪ busy, busy ♪ ♪ in a tizzy ♪
+
+1109
+01:15:47,473 --> 01:15:49,057
+♪ hurry, hurry, hurry till we're done ♪
+
+1110
+01:15:49,142 --> 01:15:51,176
+♪ we must not waste an instant ♪
+
+1111
+01:15:51,245 --> 01:15:54,647
+♪ hurry, hurry, hurry till we're done ♪
+
+1112
+01:16:02,190 --> 01:16:04,041
+♪ quack, quack, quack, quack, chick, chick, chick, chick ♪
+
+1113
+01:16:04,109 --> 01:16:05,810
+♪ teedle-iddle lum tum tum ♪
+
+1114
+01:16:05,878 --> 01:16:07,211
+Oh, that's good!
+
+1115
+01:16:07,279 --> 01:16:09,248
+♪ We should be happy when we work ♪
+
+1116
+01:16:09,366 --> 01:16:11,433
+♪ boom, boom, boom, boom, tick, tick, tick, tick ♪
+
+1117
+01:16:11,501 --> 01:16:12,885
+♪ teedle-iddle lum tum tum ♪
+
+1118
+01:16:12,953 --> 01:16:16,623
+careful! You're gonna shoot him in the head!
+
+1119
+01:16:16,691 --> 01:16:18,658
+♪ Oink, oink, oink, oink, ding, ding, ding, ding ♪
+
+1120
+01:16:18,726 --> 01:16:20,628
+♪ teedle-iddle lum tum tum ♪
+
+1121
+01:16:20,696 --> 01:16:22,029
+♪ bang, bang, bang, bang, bing, bing, bing, bing ♪
+
+1122
+01:16:22,097 --> 01:16:23,381
+♪ teedle-iddle lum tum tum ♪
+
+1123
+01:16:23,448 --> 01:16:24,633
+♪ quack, quack ♪ ♪ chick, chick ♪
+
+1124
+01:16:24,701 --> 01:16:25,867
+♪ boom, boom ♪ ♪ tick, tick ♪
+
+1125
+01:16:25,935 --> 01:16:27,185
+♪ oink, oink ♪ ♪ ding, ding ♪
+
+1126
+01:16:27,253 --> 01:16:28,337
+♪ bang, bang ♪ ♪ bing, bing ♪
+
+1127
+01:16:28,405 --> 01:16:29,738
+♪ tum tum tum tum tum ♪
+
+1128
+01:16:29,805 --> 01:16:31,641
+♪ teedle lum tum la la la la la la ♪
+
+1129
+01:16:31,725 --> 01:16:33,093
+♪ tum tum tum tum tum ♪
+
+1130
+01:16:33,160 --> 01:16:35,228
+♪ teedle lum tum la la la la la la la la ♪
+
+1131
+01:16:35,296 --> 01:16:36,481
+♪ tum tum tum tum tum ♪
+
+1132
+01:16:36,515 --> 01:16:38,900
+♪ teedle lum tum la la la la la la la la ♪
+
+1133
+01:16:38,967 --> 01:16:40,100
+♪ tum tum tum tum tum ♪
+
+1134
+01:16:46,559 --> 01:16:49,529
+children, this was a magnificent day's work.
+
+1135
+01:16:49,596 --> 01:16:51,281
+Magnificent.
+
+1136
+01:16:51,332 --> 01:16:53,950
+Let's all wash up, and we'll have supper.
+
+1137
+01:16:54,018 --> 01:16:56,237
+Then early to bed, kids, so we'll be
+
+1138
+01:16:56,304 --> 01:16:57,822
+nice and fresh in the morning.
+
+1139
+01:16:59,375 --> 01:17:01,892
+My goodness! You're all so industrious!
+
+1140
+01:17:03,145 --> 01:17:04,613
+You know something?
+
+1141
+01:17:04,681 --> 01:17:07,833
+I think we're gonna make the deadline after all...
+
+1142
+01:17:07,884 --> 01:17:10,654
+Thanks to you children.
+
+1143
+01:17:10,721 --> 01:17:11,671
+Good night.
+
+1144
+01:17:11,739 --> 01:17:13,289
+Good night, Mr. Toy Maker!
+
+1145
+01:17:13,357 --> 01:17:14,959
+Come on, kids. Wash up now.
+
+1146
+01:17:15,027 --> 01:17:16,344
+Aw! I'm not tired!
+
+1147
+01:17:16,411 --> 01:17:17,711
+Up, up, up.
+
+1148
+01:17:18,797 --> 01:17:22,101
+Night is about to fall.
+
+1149
+01:17:22,168 --> 01:17:24,803
+5, 4, 3, 2, 1.
+
+1150
+01:17:27,742 --> 01:17:28,742
+Come.
+
+1151
+01:17:28,809 --> 01:17:30,660
+Let us pussyfoot.
+
+1152
+01:17:41,090 --> 01:17:43,042
+Shh!
+
+1153
+01:17:51,870 --> 01:17:53,555
+Come on, now. Into bed.
+
+1154
+01:17:53,622 --> 01:17:55,139
+I like making toys.
+
+1155
+01:17:55,207 --> 01:17:58,109
+You can make them, but you mustn't keep them.
+
+1156
+01:17:58,177 --> 01:17:59,979
+Aw... Good night.
+
+1157
+01:18:00,046 --> 01:18:00,996
+Good night, children.
+
+1158
+01:18:01,064 --> 01:18:02,698
+Good night, Mary.
+
+1159
+01:18:04,869 --> 01:18:06,936
+Go to sleep.
+
+1160
+01:18:11,576 --> 01:18:12,676
+Shh...
+
+1161
+01:18:30,014 --> 01:18:33,619
+♪ Smiling eyes, golden hair ♪
+
+1162
+01:18:33,686 --> 01:18:37,557
+♪ made with such loving care ♪
+
+1163
+01:18:37,625 --> 01:18:43,464
+♪ she's just a toy ♪
+
+1164
+01:18:43,531 --> 01:18:47,033
+♪ what a thrill it will be ♪
+
+1165
+01:18:47,101 --> 01:18:50,305
+♪ when she's found 'neath the tree ♪
+
+1166
+01:18:50,373 --> 01:18:53,908
+♪ by some little girl ♪
+
+1167
+01:18:53,976 --> 01:18:57,513
+♪ Christmas morning ♪
+
+1168
+01:18:57,581 --> 01:19:00,984
+♪ and her true life will start ♪
+
+1169
+01:19:01,051 --> 01:19:05,088
+♪ when she's taken to heart ♪
+
+1170
+01:19:05,156 --> 01:19:11,062
+♪ with childhood joy ♪
+
+1171
+01:19:11,130 --> 01:19:15,033
+♪ and you'll never believe ♪
+
+1172
+01:19:15,101 --> 01:19:18,905
+♪ all the love she'll receive ♪
+
+1173
+01:19:18,972 --> 01:19:22,510
+♪ though just... ♪
+
+1174
+01:19:22,577 --> 01:19:26,830
+♪ a toy ♪
+
+1175
+01:19:26,881 --> 01:19:29,384
+♪ I'd love to see ♪
+
+1176
+01:19:29,452 --> 01:19:32,787
+♪ 'neath my Christmas tree ♪
+
+1177
+01:19:32,855 --> 01:19:35,808
+♪ one special doll ♪
+
+1178
+01:19:35,876 --> 01:19:40,013
+♪ meant for me ♪
+
+1179
+01:19:40,081 --> 01:19:44,518
+♪ smiling eyes, silken hair ♪
+
+1180
+01:19:44,586 --> 01:19:48,756
+♪ you'll need such loving care ♪
+
+1181
+01:19:48,824 --> 01:19:50,993
+♪ you're just ♪
+
+1182
+01:19:51,061 --> 01:19:56,232
+♪ a toy ♪
+
+1183
+01:19:56,300 --> 01:20:00,938
+♪ you were planned and designed ♪
+
+1184
+01:20:01,006 --> 01:20:05,042
+♪ with one person in mind ♪
+
+1185
+01:20:05,110 --> 01:20:09,063
+♪ to hold you and keep you ♪
+
+1186
+01:20:09,131 --> 01:20:12,919
+♪ forever ♪
+
+1187
+01:20:12,986 --> 01:20:17,056
+♪ and you'll live for the love ♪
+
+1188
+01:20:17,124 --> 01:20:21,529
+♪ and the happiness of ♪
+
+1189
+01:20:21,596 --> 01:20:29,071
+♪ this lonely boy ♪
+
+1190
+01:20:29,139 --> 01:20:33,509
+♪ and each night he will say ♪
+
+1191
+01:20:33,577 --> 01:20:39,850
+♪ in a whimsical way ♪
+
+1192
+01:20:39,918 --> 01:20:43,621
+♪ you're just ♪
+
+1193
+01:20:43,689 --> 01:20:46,289
+♪ a toy ♪
+
+1194
+01:20:57,772 --> 01:21:00,674
+quickly, now's our chance.
+
+1195
+01:21:00,742 --> 01:21:03,745
+I got it! I got it! I got it!
+
+1196
+01:21:05,381 --> 01:21:07,250
+Mr. Toymaker! Where's Mr. Toymaker?!
+
+1197
+01:21:07,317 --> 01:21:08,651
+He's in his room asleep.
+
+1198
+01:21:08,718 --> 01:21:09,885
+I've got to show him something.
+
+1199
+01:21:09,953 --> 01:21:12,688
+I've got to show him my new invention!
+
+1200
+01:21:17,078 --> 01:21:19,780
+Mr. Toymaker, Mr. Toymaker, please, wake up, sir.
+
+1201
+01:21:21,984 --> 01:21:23,684
+Don't shoot me! Don't shoot me!
+
+1202
+01:21:23,752 --> 01:21:25,387
+Just a minute, sir. Please, wake up.
+
+1203
+01:21:25,455 --> 01:21:27,023
+This is my new invention.
+
+1204
+01:21:27,090 --> 01:21:28,124
+What?
+
+1205
+01:21:28,191 --> 01:21:30,093
+My new invention.
+
+1206
+01:21:30,161 --> 01:21:32,695
+This is another one of your inventions?
+
+1207
+01:21:32,763 --> 01:21:34,264
+Yes. Shoot me.
+
+1208
+01:21:34,332 --> 01:21:35,899
+Oh, please, sir. Wait a minute.
+
+1209
+01:21:35,967 --> 01:21:38,136
+This is my... this is a scientific triumph.
+
+1210
+01:21:38,203 --> 01:21:39,720
+It's a biochemical breakthrough.
+
+1211
+01:21:39,788 --> 01:21:41,990
+Sir, please, my new formula for toy-making
+
+1212
+01:21:42,058 --> 01:21:43,758
+is even better than automation!
+
+1213
+01:21:43,826 --> 01:21:45,427
+It's better? Yes.
+
+1214
+01:21:45,495 --> 01:21:46,529
+Good night.
+
+1215
+01:21:46,597 --> 01:21:47,830
+Oh, please, sir, please, please.
+
+1216
+01:21:47,898 --> 01:21:49,732
+Let me demonstrate this. This really works.
+
+1217
+01:21:49,800 --> 01:21:52,169
+Get back, get back. Please, get back.
+
+1218
+01:21:52,237 --> 01:21:54,171
+This is very, very dangerous.
+
+1219
+01:21:54,239 --> 01:21:55,639
+Watch closely, sir.
+
+1220
+01:21:55,707 --> 01:21:57,676
+Big chair...
+
+1221
+01:22:07,521 --> 01:22:08,522
+Toy chair.
+
+1222
+01:22:10,291 --> 01:22:11,992
+Poof. Just like that?
+
+1223
+01:22:12,060 --> 01:22:13,560
+Just like that.
+
+1224
+01:22:16,031 --> 01:22:17,431
+A big table...
+
+1225
+01:22:26,727 --> 01:22:27,727
+Toy table.
+
+1226
+01:22:27,762 --> 01:22:30,029
+This is provocative! Give me that thing.
+
+1227
+01:22:30,097 --> 01:22:32,633
+Oh, careful, sir. This is a very dangerous compound.
+
+1228
+01:22:32,701 --> 01:22:37,289
+2 molecular discharges will result in complete obliteration.
+
+1229
+01:22:37,357 --> 01:22:38,907
+Observe.
+
+1230
+01:22:46,767 --> 01:22:49,403
+Very interesting.
+
+1231
+01:22:49,471 --> 01:22:50,737
+Oh, I see.
+
+1232
+01:22:50,805 --> 01:22:52,574
+Poof, but not poof poof.
+
+1233
+01:22:52,642 --> 01:22:53,708
+That's correct.
+
+1234
+01:22:53,776 --> 01:22:55,243
+Let me poof that thing.
+
+1235
+01:22:55,311 --> 01:22:57,345
+Oh, no, sir, no, no, you mustn't, sir.
+
+1236
+01:22:57,413 --> 01:23:00,083
+One thing you must and should remember:
+
+1237
+01:23:00,150 --> 01:23:01,784
+I am the head Toymaker.
+
+1238
+01:23:01,852 --> 01:23:03,286
+You're just my assistant.
+
+1239
+01:23:03,353 --> 01:23:04,754
+Mr. Toymaker, maybe you shouldn't.
+
+1240
+01:23:04,822 --> 01:23:07,324
+That's a very dangerous... Have you seen our new invention?
+
+1241
+01:23:07,392 --> 01:23:08,659
+Don't aim it at them, sir.
+
+1242
+01:23:08,726 --> 01:23:10,095
+Oh, wait'll you see it make toys.
+
+1243
+01:23:10,162 --> 01:23:11,963
+It makes wonderful... But it's very dangerous.
+
+1244
+01:23:12,031 --> 01:23:14,332
+You'll have to stand back, please. Stand back there.
+
+1245
+01:23:14,400 --> 01:23:15,902
+Stand back a little.
+
+1246
+01:23:15,969 --> 01:23:17,636
+Big desk...
+
+1247
+01:23:23,511 --> 01:23:24,711
+Toy desk.
+
+1248
+01:23:25,881 --> 01:23:28,882
+Now I'm gonna show you... Oh, please, don't point that, sir.
+
+1249
+01:23:28,950 --> 01:23:31,319
+Well, wait till you see what I'm gonna do now.
+
+1250
+01:23:31,387 --> 01:23:32,921
+Big bed...
+
+1251
+01:23:37,194 --> 01:23:38,261
+Toy bed.
+
+1252
+01:23:38,329 --> 01:23:39,829
+Oh!
+
+1253
+01:23:39,897 --> 01:23:42,181
+This is simply wonderful!
+
+1254
+01:23:42,249 --> 01:23:45,586
+Now I can make thousands of toys at one time.
+
+1255
+01:23:45,654 --> 01:23:49,274
+Grumio, you are a genius.
+
+1256
+01:23:49,342 --> 01:23:50,925
+Tommy!
+
+1257
+01:23:50,993 --> 01:23:53,730
+Mr. Toymaker... Listen to me, Tommy.
+
+1258
+01:23:53,797 --> 01:23:55,765
+Isn't this a wonderful way to make toys?
+
+1259
+01:23:55,833 --> 01:23:56,899
+Yes, sir, it is.
+
+1260
+01:23:56,967 --> 01:23:59,336
+It's a wonderful invention, sir, but...
+
+1261
+01:23:59,403 --> 01:24:02,272
+Where are you going to get the big things
+
+1262
+01:24:02,340 --> 01:24:04,591
+to reduce to small things?
+
+1263
+01:24:10,917 --> 01:24:13,151
+Where are we gonna get the big things
+
+1264
+01:24:13,219 --> 01:24:15,371
+to reduce to small things?
+
+1265
+01:24:15,438 --> 01:24:16,573
+Good question, sir.
+
+1266
+01:24:16,640 --> 01:24:17,674
+I think so.
+
+1267
+01:24:17,725 --> 01:24:20,026
+Well, I think we could always, uh...
+
+1268
+01:24:24,716 --> 01:24:26,484
+I don't know.
+
+1269
+01:24:26,551 --> 01:24:29,488
+You are a nutwit.
+
+1270
+01:24:29,555 --> 01:24:31,423
+You and your stupid inventions.
+
+1271
+01:24:31,491 --> 01:24:33,943
+Go! Go to your room!
+
+1272
+01:24:34,011 --> 01:24:35,561
+Instantly!
+
+1273
+01:24:40,218 --> 01:24:42,052
+Silly invention.
+
+1274
+01:24:42,087 --> 01:24:44,539
+I knew it wouldn't be any good the moment I saw it.
+
+1275
+01:24:44,607 --> 01:24:47,992
+Whoever called you a genius?
+
+1276
+01:24:48,060 --> 01:24:49,895
+Poof on this poof gun!
+
+1277
+01:24:52,466 --> 01:24:55,019
+I think I can use this poof gun.
+
+1278
+01:25:00,226 --> 01:25:02,794
+You and your nutty ideas.
+
+1279
+01:25:02,862 --> 01:25:04,896
+Waking me up in the middle of the night
+
+1280
+01:25:04,964 --> 01:25:06,799
+when all I wanted was a little sleep.
+
+1281
+01:25:10,704 --> 01:25:12,673
+My goodness.
+
+1282
+01:25:12,740 --> 01:25:15,341
+This is only good if my foot's asleep.
+
+1283
+01:25:24,320 --> 01:25:26,087
+What happened here?
+
+1284
+01:25:26,156 --> 01:25:28,307
+I'll show you what happened.
+
+1285
+01:25:42,958 --> 01:25:44,827
+Must be me.
+
+1286
+01:25:44,894 --> 01:25:48,614
+That grumio's got me so confused.
+
+1287
+01:25:48,681 --> 01:25:49,798
+It's terrible.
+
+1288
+01:25:49,866 --> 01:25:52,035
+I need sleep so much.
+
+1289
+01:25:52,103 --> 01:25:54,971
+My goodness. Grumio.
+
+1290
+01:26:05,918 --> 01:26:06,986
+Who are you?!
+
+1291
+01:26:09,423 --> 01:26:11,390
+Tom! Mary!
+
+1292
+01:26:11,458 --> 01:26:13,310
+Who are you?!
+
+1293
+01:26:13,361 --> 01:26:14,529
+Get out of here!
+
+1294
+01:26:14,596 --> 01:26:17,014
+Come, little one.
+
+1295
+01:26:17,082 --> 01:26:21,436
+Do you realize that gun has reduced a human being?
+
+1296
+01:26:21,504 --> 01:26:23,656
+Tom! Mary!
+
+1297
+01:26:23,724 --> 01:26:25,007
+Get out of here!
+
+1298
+01:26:25,075 --> 01:26:27,026
+What's going on here?! Put me down!
+
+1299
+01:26:27,094 --> 01:26:29,563
+Let me down, you monster, you ogre!
+
+1300
+01:26:29,631 --> 01:26:31,098
+There, there, little fellow.
+
+1301
+01:26:31,165 --> 01:26:32,766
+No harm will befall you.
+
+1302
+01:26:32,834 --> 01:26:35,971
+Fact is, I'm going to need you.
+
+1303
+01:26:36,038 --> 01:26:37,806
+I want to go to sleep!
+
+1304
+01:26:37,873 --> 01:26:40,226
+What's going on here? Let me down!
+
+1305
+01:26:40,294 --> 01:26:43,012
+Put me down, you monster, you ogre!
+
+1306
+01:26:43,080 --> 01:26:45,181
+I just want to go to sleep!
+
+1307
+01:26:45,248 --> 01:26:49,052
+Ah, yes.
+
+1308
+01:26:49,120 --> 01:26:51,388
+There, little fella.
+
+1309
+01:26:51,456 --> 01:26:54,158
+There's a safe place to keep you till I need you.
+
+1310
+01:26:54,226 --> 01:26:57,462
+This gun will make our job much easier.
+
+1311
+01:26:57,531 --> 01:27:00,465
+Now for our next victim... Tom.
+
+1312
+01:27:00,533 --> 01:27:02,068
+Follow me, boys.
+
+1313
+01:27:04,939 --> 01:27:08,459
+Please, please, don't let him do that to Tom.
+
+1314
+01:27:17,136 --> 01:27:18,487
+Stop!
+
+1315
+01:27:18,554 --> 01:27:19,605
+I beg your pardon?
+
+1316
+01:27:21,992 --> 01:27:24,244
+After talking things over, we have decided
+
+1317
+01:27:24,312 --> 01:27:26,863
+not to take part in your diabolical plan.
+
+1318
+01:27:26,931 --> 01:27:29,115
+Consider us no longer in cahoots.
+
+1319
+01:27:29,183 --> 01:27:32,837
+Furthermore, we are going to expose you to everybody.
+
+1320
+01:27:35,726 --> 01:27:37,910
+Won't you reconsider?
+
+1321
+01:27:37,978 --> 01:27:39,462
+Not a chance.
+
+1322
+01:27:39,529 --> 01:27:40,981
+Gentlemen.
+
+1323
+01:27:41,049 --> 01:27:42,949
+Now, there's no use in talking about it.
+
+1324
+01:27:43,017 --> 01:27:45,085
+We want nothing more to do with...
+
+1325
+01:27:45,136 --> 01:27:48,089
+Ohh, Mr. Barnaby! Please, Mr. Barnaby!
+
+1326
+01:27:48,156 --> 01:27:49,957
+You wouldn't shoot us, would you?
+
+1327
+01:27:50,025 --> 01:27:51,175
+Oh, Mr. Barnaby! Please, sir!
+
+1328
+01:28:01,055 --> 01:28:02,488
+Peekaboo.
+
+1329
+01:28:33,026 --> 01:28:35,861
+Please, please, go away, Mr. Barnaby!
+
+1330
+01:28:35,929 --> 01:28:37,230
+Go away!
+
+1331
+01:28:37,298 --> 01:28:39,966
+Please, leave us alone!
+
+1332
+01:28:40,034 --> 01:28:43,538
+Good evening.
+
+1333
+01:28:43,572 --> 01:28:45,840
+Mr. Barnaby.
+
+1334
+01:28:45,908 --> 01:28:47,659
+What are you doing here?
+
+1335
+01:28:47,727 --> 01:28:50,062
+I've come for you, my dear.
+
+1336
+01:28:50,129 --> 01:28:53,166
+How dare you come into my room?
+
+1337
+01:28:53,233 --> 01:28:55,334
+Tom! Tom!
+
+1338
+01:28:55,402 --> 01:28:57,070
+No need to scream.
+
+1339
+01:28:57,138 --> 01:29:01,375
+Your little Tom is quite close-by,
+
+1340
+01:29:01,442 --> 01:29:04,846
+and I do mean your very little Tom.
+
+1341
+01:29:08,217 --> 01:29:09,351
+Oh, no.
+
+1342
+01:29:09,418 --> 01:29:10,820
+No.
+
+1343
+01:29:10,887 --> 01:29:14,874
+I will now at last have your hand in marriage.
+
+1344
+01:29:14,942 --> 01:29:16,710
+Never. Never!
+
+1345
+01:29:16,777 --> 01:29:18,262
+Never!
+
+1346
+01:29:18,329 --> 01:29:20,748
+May I remind you that just a little overdose of this...
+
+1347
+01:29:20,816 --> 01:29:23,634
+Stop, stop!
+
+1348
+01:29:23,702 --> 01:29:25,403
+I'll do anything you say.
+
+1349
+01:29:27,540 --> 01:29:29,991
+Of course you will.
+
+1350
+01:29:30,059 --> 01:29:32,179
+Come, my dear.
+
+1351
+01:29:41,790 --> 01:29:44,359
+Now, if you folks are ready.
+
+1352
+01:29:44,427 --> 01:29:46,995
+Are you ready, dear?
+
+1353
+01:29:51,402 --> 01:29:54,070
+Are the witnesses ready?
+
+1354
+01:29:54,138 --> 01:29:57,307
+And the best man?
+
+1355
+01:30:01,347 --> 01:30:05,651
+Now, by the power vested in you as the Mayor of Toyland,
+
+1356
+01:30:05,719 --> 01:30:08,453
+proceed with the marriage ceremony.
+
+1357
+01:30:08,521 --> 01:30:11,975
+We are gathered here to witness this young lady
+
+1358
+01:30:12,043 --> 01:30:15,829
+making her first step toward unhappiness.
+
+1359
+01:30:15,897 --> 01:30:17,348
+She's gonna marry you.
+
+1360
+01:30:17,416 --> 01:30:19,417
+What?
+
+1361
+01:30:19,484 --> 01:30:22,687
+I was just trying to liven things up with a little humor.
+
+1362
+01:30:22,755 --> 01:30:25,624
+Never mind the humor. Perform the ceremony.
+
+1363
+01:30:28,179 --> 01:30:31,981
+We are gathered here to unite this man
+
+1364
+01:30:32,049 --> 01:30:36,336
+with this poor, unfortunate girl n marriage.
+
+1365
+01:30:36,404 --> 01:30:40,541
+Do you, Barnaby, take Mary to be your wedded wife,
+
+1366
+01:30:40,609 --> 01:30:46,582
+to keep her in sickness, in adversity, in poverty, in tragedy,
+
+1367
+01:30:46,667 --> 01:30:49,285
+in disaster... What are you doing?
+
+1368
+01:30:49,353 --> 01:30:51,688
+Well, I was just trying to talk you out of it.
+
+1369
+01:30:51,756 --> 01:30:53,457
+I'm warning you.
+
+1370
+01:30:53,525 --> 01:30:56,694
+Do you, Barnaby, take Mary to be your wedded wife?
+
+1371
+01:30:56,762 --> 01:30:57,929
+I do.
+
+1372
+01:30:57,997 --> 01:31:00,215
+Are you sure you don't want to think this over?
+
+1373
+01:31:00,282 --> 01:31:01,867
+I do not!
+
+1374
+01:31:01,885 --> 01:31:04,070
+No, I can see that you don't.
+
+1375
+01:31:04,137 --> 01:31:06,840
+Now, do you, uh, uh...
+
+1376
+01:31:13,149 --> 01:31:17,903
+Do you, Mary, take this man to be your wedded husband?
+
+1377
+01:31:21,974 --> 01:31:23,743
+I do.
+
+1378
+01:31:23,810 --> 01:31:26,295
+That's funny, I take him to be your grandfather.
+
+1379
+01:31:27,347 --> 01:31:29,517
+Would you stop this infernal stalling?
+
+1380
+01:31:29,584 --> 01:31:31,551
+On with it! On with it!
+
+1381
+01:31:31,619 --> 01:31:34,923
+Oh, for heaven's sake. Such a dreadful temper.
+
+1382
+01:31:34,991 --> 01:31:37,242
+I'm glad I'm not marrying you.
+
+1383
+01:31:37,310 --> 01:31:40,146
+Oh, I am marrying you, but I'm marrying you to her.
+
+1384
+01:31:40,181 --> 01:31:42,015
+Now, where was I?
+
+1385
+01:31:42,082 --> 01:31:43,599
+will you hurry up?
+
+1386
+01:31:43,666 --> 01:31:45,668
+I want to get married.
+
+1387
+01:31:45,736 --> 01:31:48,255
+All right, all right.
+
+1388
+01:31:48,323 --> 01:31:50,976
+Now, uh, let me see now.
+
+1389
+01:31:51,027 --> 01:31:52,777
+Yes, there it is.
+
+1390
+01:31:52,845 --> 01:31:56,132
+Will you please tell me what the trouble is now?!
+
+1391
+01:31:56,200 --> 01:31:58,284
+Oh, all right. Just a minute.
+
+1392
+01:31:58,351 --> 01:31:59,418
+It won't be a minute.
+
+1393
+01:32:06,010 --> 01:32:09,513
+Uh, we are gathered here...
+
+1394
+01:32:47,777 --> 01:32:49,043
+Come on!
+
+1395
+01:32:54,184 --> 01:32:55,884
+Drummers, forward!
+
+1396
+01:33:56,056 --> 01:34:00,477
+Now, let me see... Where was I?
+
+1397
+01:34:00,512 --> 01:34:02,146
+You were right here!
+
+1398
+01:34:02,213 --> 01:34:04,149
+Oh, oh, heh, yes. Thank you.
+
+1399
+01:34:04,184 --> 01:34:06,118
+Thank you very much. Thank you.
+
+1400
+01:34:06,186 --> 01:34:09,188
+What's that?
+
+1401
+01:34:09,256 --> 01:34:11,608
+They're playing the wrong music.
+
+1402
+01:34:11,675 --> 01:34:13,860
+Well, get on with it anyway.
+
+1403
+01:34:13,927 --> 01:34:15,045
+On with it!
+
+1404
+01:34:15,113 --> 01:34:16,480
+All right.
+
+1405
+01:34:22,054 --> 01:34:24,923
+Forward march!
+
+1406
+01:35:07,924 --> 01:35:10,310
+Eyes right!
+
+1407
+01:35:44,285 --> 01:35:45,952
+Where are my glasses?
+
+1408
+01:35:46,020 --> 01:35:48,305
+They are on your head!
+
+1409
+01:35:48,307 --> 01:35:50,874
+Oh, so they are.
+
+1410
+01:35:50,942 --> 01:35:53,010
+Thank you. Thank you very much.
+
+1411
+01:35:53,077 --> 01:35:56,781
+And let's have no more of these delays.
+
+1412
+01:35:56,816 --> 01:35:59,051
+Now take her hand.
+
+1413
+01:36:05,427 --> 01:36:08,011
+Now comes the good part.
+
+1414
+01:36:08,079 --> 01:36:10,614
+If there is anyone... Any man,
+
+1415
+01:36:10,682 --> 01:36:12,651
+or any woman, for that matter...
+
+1416
+01:36:12,718 --> 01:36:15,337
+Who has good reason why this marriage
+
+1417
+01:36:15,371 --> 01:36:17,039
+should not take place,
+
+1418
+01:36:17,107 --> 01:36:21,995
+let him... or her if, you know... Whichever it is,
+
+1419
+01:36:22,062 --> 01:36:26,433
+let them speak or... Stop!
+
+1420
+01:36:26,500 --> 01:36:29,019
+Barnaby, you scoundrel, unhand that girl!
+
+1421
+01:36:29,087 --> 01:36:33,124
+Look. Look who's run away to become a toy soldier.
+
+1422
+01:36:33,192 --> 01:36:34,059
+Take cover, Mary.
+
+1423
+01:36:36,162 --> 01:36:37,262
+Buglers!
+
+1424
+01:36:42,086 --> 01:36:44,053
+Fire!
+
+1425
+01:36:47,759 --> 01:36:49,343
+Fire!
+
+1426
+01:36:56,970 --> 01:36:58,338
+All right!
+
+1427
+01:37:01,826 --> 01:37:03,143
+Fire!
+
+1428
+01:37:04,979 --> 01:37:07,315
+Fire!
+
+1429
+01:37:14,741 --> 01:37:16,341
+Fire!
+
+1430
+01:37:22,483 --> 01:37:24,586
+Give 'em a broadside!
+
+1431
+01:37:32,345 --> 01:37:33,962
+Fire!
+
+1432
+01:37:36,984 --> 01:37:38,984
+Fire!
+
+1433
+01:37:39,052 --> 01:37:40,738
+Ohh!
+
+1434
+01:38:06,318 --> 01:38:07,870
+Sound the charge!
+
+1435
+01:38:10,606 --> 01:38:11,489
+Fire!
+
+1436
+01:38:15,012 --> 01:38:16,779
+Infantry, attack!
+
+1437
+01:38:24,340 --> 01:38:25,691
+Give 'im a broadside!
+
+1438
+01:38:36,888 --> 01:38:38,255
+Fire!
+
+1439
+01:39:12,597 --> 01:39:13,998
+Oh, my toys!
+
+1440
+01:39:14,065 --> 01:39:15,416
+My toys!
+
+1441
+01:39:19,906 --> 01:39:21,356
+Now for the toy general.
+
+1442
+01:39:21,391 --> 01:39:23,591
+Watch out, Tom!
+
+1443
+01:39:28,632 --> 01:39:30,066
+Fire!
+
+1444
+01:39:32,386 --> 01:39:33,453
+Oh!
+
+1445
+01:39:37,025 --> 01:39:38,526
+Bombs away!
+
+1446
+01:39:55,130 --> 01:39:57,715
+That's enough of this horseplay.
+
+1447
+01:39:59,652 --> 01:40:02,270
+Tom, look out!
+
+1448
+01:40:02,355 --> 01:40:03,940
+This is better.
+
+1449
+01:40:10,966 --> 01:40:13,250
+Mr. Barnaby!
+
+1450
+01:40:21,662 --> 01:40:23,196
+Stop him!
+
+1451
+01:40:23,263 --> 01:40:24,814
+Don't let him get away!
+
+1452
+01:40:24,882 --> 01:40:26,300
+Barnaby!
+
+1453
+01:41:02,509 --> 01:41:04,995
+Come on, Barnaby. Fight like a man.
+
+1454
+01:41:34,998 --> 01:41:36,765
+Look out, Tom!
+
+1455
+01:41:45,377 --> 01:41:47,411
+Tom!
+
+1456
+01:42:29,463 --> 01:42:31,397
+I've got it! Oh, I've got it!
+
+1457
+01:42:31,465 --> 01:42:32,565
+Mr. Toymaker!
+
+1458
+01:42:32,632 --> 01:42:33,767
+Here I am.
+
+1459
+01:42:33,834 --> 01:42:35,769
+Grumio, I'm down here!
+
+1460
+01:42:35,836 --> 01:42:38,104
+Well, sir, it appears that you need a shot
+
+1461
+01:42:38,172 --> 01:42:40,441
+of my new invention, my restoring formula.
+
+1462
+01:42:47,967 --> 01:42:49,367
+Grumio.
+
+1463
+01:42:49,435 --> 01:42:50,537
+Yes, sir?
+
+1464
+01:42:50,604 --> 01:42:52,271
+You are a genius.
+
+1465
+01:42:52,340 --> 01:42:54,240
+Oh, thank you, sir.
+
+1466
+01:42:54,308 --> 01:42:55,876
+Hey, Grumio!
+
+1467
+01:42:55,944 --> 01:42:57,912
+How about us?
+
+1468
+01:42:57,979 --> 01:43:00,330
+Take care of my friends.
+
+1469
+01:43:10,260 --> 01:43:12,296
+My friend and I would like to thank you.
+
+1470
+01:43:12,414 --> 01:43:15,315
+Grumio, please, help Tom.
+
+1471
+01:43:15,417 --> 01:43:17,584
+Anything you say, Mary. Where is he?
+
+1472
+01:43:17,651 --> 01:43:19,153
+Here I am.
+
+1473
+01:43:23,025 --> 01:43:27,262
+You can't seem to get it through your thick skull that I...
+
+1474
+01:43:27,330 --> 01:43:31,401
+Am the head toymaker, and you are just my assistant.
+
+1475
+01:43:31,469 --> 01:43:33,403
+Now you got it. Heh heh.
+
+1476
+01:43:33,471 --> 01:43:35,139
+Step aside.
+
+1477
+01:43:35,207 --> 01:43:36,924
+Allow me.
+
+1478
+01:43:48,655 --> 01:43:50,823
+Darling, you were so brave.
+
+1479
+01:43:50,891 --> 01:43:53,059
+I'm so proud of you.
+
+1480
+01:43:53,127 --> 01:43:54,611
+What's going on?
+
+1481
+01:43:54,679 --> 01:43:56,614
+What's all the noise?
+
+1482
+01:43:56,682 --> 01:43:59,867
+Oh, you've been playing with the toys.
+
+1483
+01:43:59,935 --> 01:44:01,202
+That's right, children.
+
+1484
+01:44:01,253 --> 01:44:02,971
+We've been playing with the toys.
+
+1485
+01:44:03,039 --> 01:44:04,123
+That's right.
+
+1486
+01:44:04,190 --> 01:44:05,941
+We were just playing with the toys.
+
+1487
+01:44:10,598 --> 01:44:13,367
+♪ Tom and Mary ♪
+
+1488
+01:44:13,435 --> 01:44:15,286
+♪ Tom and Mary ♪
+
+1489
+01:44:15,354 --> 01:44:18,406
+♪ good-bye, good luck to you ♪
+
+1490
+01:44:18,474 --> 01:44:22,027
+♪ Tom and Mary, Tom and Mary ♪
+
+1491
+01:44:22,095 --> 01:44:25,081
+♪ your beautiful dream has come true ♪
+
+1492
+01:44:25,166 --> 01:44:28,518
+♪ two lives blended, as intended ♪
+
+1493
+01:44:28,586 --> 01:44:31,505
+♪ while all the world in tune ♪
+
+1494
+01:44:31,573 --> 01:44:35,477
+♪ smiles divinely, for you're finally ♪
+
+1495
+01:44:35,545 --> 01:44:38,246
+♪ on your honeymoon ♪
+
+1496
+01:44:54,650 --> 01:44:58,554
+♪ Tom and Mary ♪
+
+1497
+01:44:58,622 --> 01:45:01,240
+♪ Tom and Mary ♪
+
+1498
+01:45:01,308 --> 01:45:05,412
+♪ good-bye, good luck to you ♪
+
+1499
+01:45:05,479 --> 01:45:10,051
+♪ Tom and Mary, Tom and Mary ♪
+
+1500
+01:45:10,119 --> 01:45:13,454
+♪ your beautiful dream has come true ♪
+
+1501
+01:45:13,522 --> 01:45:16,191
+♪ two lives blended ♪
+
+1502
+01:45:16,259 --> 01:45:18,610
+♪ as intended ♪
+
+1503
+01:45:18,678 --> 01:45:22,649
+♪ while all the world in tune ♪
+
+1504
+01:45:22,716 --> 01:45:27,955
+♪ smiles divinely, for you're finally ♪
+
+1505
+01:45:28,040 --> 01:45:31,040
+♪ on your honeymoon ♪

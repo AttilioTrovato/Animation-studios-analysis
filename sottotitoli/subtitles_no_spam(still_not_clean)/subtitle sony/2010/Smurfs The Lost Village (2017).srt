@@ -1,0 +1,7509 @@
+﻿1
+00:00:01,050 --> 00:00:20,050
+
+2
+00:00:55,600 --> 00:00:57,637
+<b><font color="#808000">(♪♪♪)</font></b>
+
+3
+00:01:08,640 --> 00:01:11,519
+<b><font color="#808000">(STRAINED GRUNTING)</font></b>
+
+4
+00:01:13,320 --> 00:01:14,674
+Ha-ha!
+
+5
+00:01:14,800 --> 00:01:15,790
+Whee!
+
+6
+00:01:26,400 --> 00:01:29,916
+<b><font color="#408080">PAPA SMURF:</font></b>
+<i>This story begins in a secret place</i>
+
+7
+00:01:30,000 --> 00:01:32,151
+<i>hidden deep in a forest.</i>
+
+8
+00:01:32,240 --> 00:01:33,913
+<b><font color="#808000">(WHISTLING A TUNE)</font></b>
+
+9
+00:01:35,160 --> 00:01:37,038
+Whoa, whoa!
+
+10
+00:01:37,120 --> 00:01:38,873
+<b><font color="#408080">PAPA SMURF:</font></b> <i>That is a Smurf.</i>
+
+11
+00:01:38,960 --> 00:01:40,758
+<i>We call him Clumsy.</i>
+
+12
+00:01:41,600 --> 00:01:43,876
+<i>And this is our village,</i>
+
+13
+00:01:43,960 --> 00:01:47,397
+<i>where there's a Smurf</i>
+<i>for just about everything.</i>
+
+14
+00:01:47,480 --> 00:01:48,914
+- <b><font color="#808000">(YELLS)</font></b>
+- <i>Like Jokey.</i>
+
+15
+00:01:49,000 --> 00:01:50,480
+Hey, here's a present for you.
+
+16
+00:01:50,560 --> 00:01:52,677
+- Ah!
+- <b><font color="#808000">(LAUGHING)</font></b>
+
+17
+00:01:52,760 --> 00:01:55,958
+Oh, Gullible Smurf, you're so gullible.
+
+18
+00:01:56,040 --> 00:01:57,952
+Actually, I meant to give you this one.
+
+19
+00:01:58,040 --> 00:01:59,076
+Wow! Thanks!
+
+20
+00:01:59,160 --> 00:02:00,150
+- <b><font color="#808000">(GRUNTS)</font></b>
+- <b><font color="#808000">(LAUGHING)</font></b>
+
+21
+00:02:00,240 --> 00:02:03,870
+- ...96, 97, 98, 99, 100.
+- <b><font color="#408080">PAPA SMURF:</font></b> <i>Here's Hefty.</i>
+
+22
+00:02:04,000 --> 00:02:05,150
+<b><font color="#808000">(GRUNTS)</font></b>
+
+23
+00:02:05,240 --> 00:02:06,356
+<i>And over here is...</i>
+
+24
+00:02:06,440 --> 00:02:07,954
+Now, for the one-fingered pushup.
+
+25
+00:02:08,040 --> 00:02:09,633
+One, two, three...
+
+26
+00:02:09,720 --> 00:02:11,473
+<i>Meet Nerdy Smurf.</i>
+
+27
+00:02:11,560 --> 00:02:14,519
+- Excuse me?
+- <i>Sorry, Brainy. Just kidding.</i>
+
+28
+00:02:14,600 --> 00:02:15,875
+<i>Nosey.</i>
+
+29
+00:02:15,960 --> 00:02:18,429
+Hmm. Well, what's going on over there?
+
+30
+00:02:19,720 --> 00:02:21,074
+<i>Paranoid Smurf.</i>
+
+31
+00:02:21,200 --> 00:02:23,431
+- <i>Winner.</i>
+- Hmm.
+
+32
+00:02:23,520 --> 00:02:24,556
+- <b><font color="#808000">(GRUNTS)</font></b>
+- <i>Loser.</i>
+
+33
+00:02:24,640 --> 00:02:25,835
+<i>Karate Smurf.</i>
+
+34
+00:02:25,920 --> 00:02:27,354
+Hyah!
+
+35
+00:02:27,440 --> 00:02:30,000
+<i>Handy. Vanity. Farmer. Painter. Baker.</i>
+
+36
+00:02:30,080 --> 00:02:32,311
+<i>Magician. Scuba. Policeman. Therapist.</i>
+
+37
+00:02:32,400 --> 00:02:33,800
+Sometimes I just feel blue.
+
+38
+00:02:33,920 --> 00:02:35,877
+<i>There's even Table-Eating Smurf.</i>
+
+39
+00:02:35,960 --> 00:02:37,030
+Oh, hi.
+
+40
+00:02:37,120 --> 00:02:39,999
+- <i>Yeah, we're not too sure about him, either.</i>
+- <b><font color="#808000">(GROANS)</font></b>
+
+41
+00:02:40,080 --> 00:02:42,515
+<i>And then there's me, Papa Smurf.</i>
+
+42
+00:02:42,640 --> 00:02:44,359
+<i>I sort of run this place.</i>
+
+43
+00:02:44,440 --> 00:02:46,716
+<i>But this isn't a story about me.</i>
+
+44
+00:02:46,800 --> 00:02:48,678
+Whoa... <b><font color="#808000">(GRUNTS)</font></b>
+
+45
+00:02:48,760 --> 00:02:49,910
+<i>Or Clumsy.</i>
+
+46
+00:02:50,000 --> 00:02:52,151
+<i>Or any of them.</i>
+
+47
+00:02:52,240 --> 00:02:55,074
+<i>It's about the only girl in our village.</i>
+
+48
+00:02:55,920 --> 00:02:57,479
+- <i>Smurfette.</i>
+- <b><font color="#808000">(SNIFFS)</font></b>
+
+49
+00:02:57,560 --> 00:02:58,755
+Hi, Laundry Smurf.
+
+50
+00:02:58,840 --> 00:03:00,718
+- Howdy-do, Smurfette.
+- Hey, guys.
+
+51
+00:03:00,800 --> 00:03:03,838
+<b><font color="#408080">PAPA SMURF:</font></b> <i>But that's not the only thing</i>
+<i>that's different about Smurfette.</i>
+
+52
+00:03:03,920 --> 00:03:04,956
+<b><font color="#808000">(WHOOPING)</font></b>
+
+53
+00:03:05,040 --> 00:03:09,990
+<i>She was created by the evil wizard, Gargamel.</i>
+
+54
+00:03:10,080 --> 00:03:11,639
+<i>Using dark magic...</i>
+
+55
+00:03:11,960 --> 00:03:13,394
+<b><font color="#808000">(LAUGHING)</font></b>
+
+56
+00:03:13,480 --> 00:03:15,597
+<i>...he made her from a lump of clay.</i>
+
+57
+00:03:15,680 --> 00:03:20,038
+Now, go and find Smurf Village.
+
+58
+00:03:21,440 --> 00:03:22,430
+<b><font color="#808000">(SMURFS GASPING)</font></b>
+
+59
+00:03:22,520 --> 00:03:25,752
+<i>Luckily, I knew a little magic of my own.</i>
+
+60
+00:03:26,040 --> 00:03:27,235
+<b><font color="#808000">(♪♪♪)</font></b>
+
+61
+00:03:34,120 --> 00:03:36,032
+<i>But there was still one problem.</i>
+
+62
+00:03:36,120 --> 00:03:39,352
+<i>Smurfette's name doesn't tell us</i>
+<i>anything about her.</i>
+
+63
+00:03:39,440 --> 00:03:40,954
+Okay, the physics are...
+
+64
+00:03:41,040 --> 00:03:42,110
+<b><font color="#808000">(SCREAMS)</font></b>
+
+65
+00:03:42,240 --> 00:03:44,277
+- <b><font color="#408080">PAPA SMURF:</font></b> <i>It doesn't tell us who she is.</i>
+- Hyah!
+
+66
+00:03:44,360 --> 00:03:46,317
+- <b><font color="#808000">(YELPS)</font></b> High heels.
+- <i>Or what she does.</i>
+
+67
+00:03:46,960 --> 00:03:51,000
+<i>So, what exactly is a Smurfette?</i>
+
+68
+00:03:51,640 --> 00:03:54,917
+Well, let me be frank.
+She's a rubbish baker.
+
+69
+00:03:55,000 --> 00:03:56,912
+Let's see. Smurfette.
+
+70
+00:03:57,000 --> 00:03:59,071
+Smurfette, Smurfette, Smurfette.
+
+71
+00:03:59,160 --> 00:04:00,594
+Huh. It's not here.
+
+72
+00:04:00,680 --> 00:04:04,356
+Well, Smurfette is a combination
+of a Smurf and an Ette.
+
+73
+00:04:04,440 --> 00:04:06,033
+But what's an Ette?
+
+74
+00:04:08,000 --> 00:04:12,153
+Oh, uh, yeah. <b><font color="#808000">(CHUCKLES)</font></b>
+Smurfette, well, she's...
+
+75
+00:04:12,240 --> 00:04:13,833
+She's the greatest.
+
+76
+00:04:14,680 --> 00:04:16,000
+<b><font color="#808000">(MUFFLED, INDISTINCT TALKING)</font></b>
+
+77
+00:04:16,080 --> 00:04:20,313
+The most wondrous creature on Earth.
+
+78
+00:04:20,400 --> 00:04:22,357
+Yes, you are.
+
+79
+00:04:22,440 --> 00:04:23,920
+Smurfette...
+
+80
+00:04:24,720 --> 00:04:26,074
+Um...
+
+81
+00:04:26,680 --> 00:04:28,194
+Oh! I got it.
+
+82
+00:04:28,280 --> 00:04:32,593
+This is one of those eternal questions
+that we'll never, ever know the answer to.
+
+83
+00:04:34,840 --> 00:04:37,150
+Huh? Wait, she is?
+
+84
+00:04:37,240 --> 00:04:38,515
+Do you think she heard me?
+
+85
+00:04:38,600 --> 00:04:41,798
+<b><font color="#408080">PAPA SMURF:</font></b> <i>So, what is a Smurfette?</i>
+
+86
+00:04:41,880 --> 00:04:46,159
+<i>No one wanted that answer</i>
+<i>more than Smurfette herself.</i>
+
+87
+00:04:46,880 --> 00:04:47,870
+<b><font color="#808000">(SIGHS)</font></b>
+
+88
+00:04:47,960 --> 00:04:50,998
+<b><font color="#808000">(SAXOPHONE PLAYING CARELESS WHISPER)</font></b>
+
+89
+00:04:56,720 --> 00:04:57,710
+<b><font color="#808000">(SIGHS)</font></b>
+
+90
+00:04:58,280 --> 00:04:59,634
+What are you doing?
+
+91
+00:04:59,720 --> 00:05:00,836
+- <b><font color="#808000">(CLEARS THROAT)</font></b>
+- Oh.
+
+92
+00:05:00,920 --> 00:05:02,559
+Hey, Grouchy, I was just...
+
+93
+00:05:02,640 --> 00:05:04,472
+Leaving? <b><font color="#808000">(GRUNTS)</font></b>
+
+94
+00:05:04,560 --> 00:05:06,950
+- Um...
+- This is my bench.
+
+95
+00:05:07,040 --> 00:05:09,475
+I come here same time every day, and I...
+
+96
+00:05:09,560 --> 00:05:11,791
+Ooh. Let me guess. "And grouch."
+
+97
+00:05:11,880 --> 00:05:13,314
+Exactly.
+
+98
+00:05:14,880 --> 00:05:17,315
+I can do that. <b><font color="#808000">(GRUMBLING)</font></b> I can grouch.
+
+99
+00:05:17,840 --> 00:05:20,594
+Hi, Grouchy. Hi, Smurfette. Nice day, huh?
+
+100
+00:05:20,680 --> 00:05:21,875
+No, it's not.
+
+101
+00:05:21,960 --> 00:05:23,872
+It's gonna rain!
+
+102
+00:05:26,080 --> 00:05:28,675
+<b><font color="#808000">(GRUNTS)</font></b> Which actually helps
+the plants grow.
+
+103
+00:05:28,760 --> 00:05:34,631
+But also means it's gonna be cloudy,
+so, chew on that.
+
+104
+00:05:34,720 --> 00:05:36,837
+Then again, there might be a rainbow.
+
+105
+00:05:36,920 --> 00:05:39,037
+But rainbows are dumb.
+
+106
+00:05:39,120 --> 00:05:42,079
+Just kidding. I love rainbows.
+
+107
+00:05:42,680 --> 00:05:43,716
+Ugh.
+
+108
+00:05:43,800 --> 00:05:45,712
+You're not very good at this, are ya?
+
+109
+00:05:45,800 --> 00:05:48,235
+Uh, no, I'm not.
+
+110
+00:05:48,320 --> 00:05:50,915
+In fact, you're actually kind of bad at it.
+
+111
+00:05:51,760 --> 00:05:52,876
+Yup.
+
+112
+00:05:54,600 --> 00:05:56,353
+But you're also bad at it.
+
+113
+00:05:56,440 --> 00:05:57,760
+That's a lie.
+
+114
+00:05:57,840 --> 00:05:59,672
+You're really, really good at it.
+
+115
+00:06:00,080 --> 00:06:01,116
+<b><font color="#808000">(GROANS)</font></b>
+
+116
+00:06:03,440 --> 00:06:04,669
+<b><font color="#408080">SMURFETTE:</font></b> Hi, Brainy.
+
+117
+00:06:04,800 --> 00:06:06,553
+Ah. Smurfette. Thank goodness you're here.
+
+118
+00:06:06,640 --> 00:06:07,960
+I was... Whoa!
+
+119
+00:06:09,160 --> 00:06:11,880
+- Whoa.
+- We're running trials on my new invention.
+
+120
+00:06:11,960 --> 00:06:14,475
+The Smurfy Thing Finder.
+
+121
+00:06:14,600 --> 00:06:16,557
+Test subject, Hefty Smurf.
+
+122
+00:06:16,640 --> 00:06:18,040
+Oh, hey, Smurfette!
+
+123
+00:06:18,120 --> 00:06:19,713
+<b><font color="#808000">(CLEARS THROAT)</font></b> I mean, uh...
+
+124
+00:06:19,800 --> 00:06:22,634
+- Hey, Smurfette.
+- Oh, hey.
+
+125
+00:06:23,480 --> 00:06:24,994
+That thing's safe, right?
+
+126
+00:06:25,080 --> 00:06:27,879
+Is it safe? <b><font color="#808000">(SCOFFS)</font></b> Of course.
+
+127
+00:06:27,960 --> 00:06:29,030
+<b><font color="#808000">(BRAINY LAUGHS)</font></b>
+
+128
+00:06:29,120 --> 00:06:30,679
+I'd get back here if I were you.
+
+129
+00:06:32,840 --> 00:06:33,990
+Snappy Bug.
+
+130
+00:06:34,120 --> 00:06:35,110
+<b><font color="#808000">(CHITTERING)</font></b>
+
+131
+00:06:38,480 --> 00:06:42,190
+Take this down.
+Smurfy Thing Finder trial 1.03.
+
+132
+00:06:42,280 --> 00:06:44,556
+- Ready, Hefty?
+- Roger that.
+
+133
+00:06:48,440 --> 00:06:49,396
+<b><font color="#808000">(BELL DINGS)</font></b>
+
+134
+00:06:49,480 --> 00:06:51,597
+- Whoa!
+- <b><font color="#808000">(LAUGHS)</font></b> It works!
+
+135
+00:06:51,720 --> 00:06:53,120
+<b><font color="#808000">(CHITTERING)</font></b>
+
+136
+00:06:53,200 --> 00:06:54,919
+Wow. This thing really gets me.
+
+137
+00:06:55,000 --> 00:06:57,071
+It's able to hone in
+on Hefty's dominant trait.
+
+138
+00:06:57,160 --> 00:06:58,560
+Super strength.
+
+139
+00:06:58,640 --> 00:07:01,075
+Which I distill into this.
+
+140
+00:07:01,160 --> 00:07:04,198
+I call it Brainy's Super Smurfy Power Fuel.
+
+141
+00:07:04,280 --> 00:07:06,078
+Here, you can try it first.
+
+142
+00:07:07,440 --> 00:07:09,272
+All clear!
+
+143
+00:07:09,360 --> 00:07:13,274
+Yeah, you see, when you say things
+like "all clear," it makes me not want to...
+
+144
+00:07:13,360 --> 00:07:14,510
+- Whoa!
+- Hey, guys.
+
+145
+00:07:19,320 --> 00:07:20,390
+<b><font color="#408080">ALL:</font></b> Hi, Clumsy.
+
+146
+00:07:20,480 --> 00:07:23,314
+<b><font color="#808000">(CHUCKLES)</font></b> You're just in time
+to witness scientific history.
+
+147
+00:07:23,400 --> 00:07:24,436
+<b><font color="#808000">(NOSEY SMURF WHISTLING A TUNE)</font></b>
+
+148
+00:07:24,520 --> 00:07:25,795
+Oh. What's going on in here?
+
+149
+00:07:25,920 --> 00:07:28,196
+<b><font color="#408080">ALL:</font></b> None of your business, Nosey.
+
+150
+00:07:28,880 --> 00:07:31,031
+Hmm. Well, all right.
+
+151
+00:07:32,080 --> 00:07:35,960
+Hey! If that vegetable hat
+can tell us that Hefty is strong,
+
+152
+00:07:36,040 --> 00:07:38,760
+maybe it can tell me what an Ette is.
+
+153
+00:07:38,840 --> 00:07:40,035
+Power it up, Brainy.
+
+154
+00:07:42,200 --> 00:07:43,759
+<b><font color="#808000">(WHIRRING)</font></b>
+
+155
+00:07:49,200 --> 00:07:51,032
+<b><font color="#808000">(RUMBLING, OBJECTS CLATTERING)</font></b>
+
+156
+00:07:51,120 --> 00:07:52,474
+<b><font color="#808000">(WIND WHISTLING)</font></b>
+
+157
+00:07:58,800 --> 00:08:00,439
+<b><font color="#808000">(FRIGHTENED MURMURING)</font></b>
+
+158
+00:08:10,200 --> 00:08:11,429
+Whoa.
+
+159
+00:08:11,520 --> 00:08:12,749
+Fascinating.
+
+160
+00:08:12,840 --> 00:08:14,718
+What happened?
+
+161
+00:08:14,800 --> 00:08:18,396
+Somehow, instead of sending energy out,
+you absorbed it.
+
+162
+00:08:18,480 --> 00:08:22,235
+Probably something to do with the fact
+that you're not a real... <b><font color="#808000">(GROANS)</font></b>
+
+163
+00:08:22,320 --> 00:08:25,950
+A real Smurf?
+Go ahead, you can say it.
+
+164
+00:08:26,040 --> 00:08:27,759
+No, no, I just meant that
+
+165
+00:08:27,840 --> 00:08:33,154
+this machine wasn't built
+for a Smurf of your, well, origins.
+
+166
+00:08:33,280 --> 00:08:35,749
+Yeah, it's okay. I get it.
+
+167
+00:08:36,880 --> 00:08:37,996
+Brainy.
+
+168
+00:08:39,120 --> 00:08:42,352
+Hey, you know what?
+Let's all go have some fun.
+
+169
+00:08:42,440 --> 00:08:43,794
+Yeah!
+
+170
+00:08:43,880 --> 00:08:45,837
+- Pizza!
+- <b><font color="#408080">OTHERS:</font></b> Smurfboarding!
+
+171
+00:08:45,960 --> 00:08:47,189
+Smurfboarding!
+
+172
+00:08:48,560 --> 00:08:49,994
+<b><font color="#808000">(♪♪♪)</font></b>
+
+173
+00:08:50,080 --> 00:08:51,355
+<b><font color="#808000">(BIRD CAWING)</font></b>
+
+174
+00:08:53,120 --> 00:08:55,954
+<b><font color="#408080">GARGAMEL:</font></b> It's almost ready, Azrael.
+
+175
+00:08:56,600 --> 00:08:57,670
+<b><font color="#808000">(AZRAEL YOWLS)</font></b>
+
+176
+00:08:57,760 --> 00:08:59,956
+A pinch of newt poo.
+
+177
+00:09:00,040 --> 00:09:04,193
+A gram of calcified fungus
+from between the toes of a yak.
+
+178
+00:09:04,280 --> 00:09:07,034
+And a piece of cheese
+I left in my underpants last week.
+
+179
+00:09:07,120 --> 00:09:08,110
+<b><font color="#808000">(AZRAEL GASPS)</font></b>
+
+180
+00:09:09,640 --> 00:09:11,518
+<b><font color="#808000">(SNIFFS, SIGHS)</font></b>
+
+181
+00:09:11,880 --> 00:09:12,996
+<b><font color="#808000">(AZRAEL GROANS)</font></b>
+
+182
+00:09:13,080 --> 00:09:14,150
+That ought to do it.
+
+183
+00:09:14,320 --> 00:09:15,720
+<b><font color="#808000">(BURBLING)</font></b>
+
+184
+00:09:17,200 --> 00:09:18,236
+Presto!
+
+185
+00:09:18,320 --> 00:09:21,870
+Twelve spherical petrification modules.
+
+186
+00:09:21,960 --> 00:09:25,317
+Or, as I like to call 'em, freeze balls.
+
+187
+00:09:26,120 --> 00:09:27,190
+- <b><font color="#808000">(MOUSE SQUEAKS)</font></b>
+- <b><font color="#808000">(LAUGHS)</font></b>
+
+188
+00:09:27,280 --> 00:09:30,956
+You're welcome, Azrael. Dinner is served.
+
+189
+00:09:31,320 --> 00:09:32,720
+<b><font color="#808000">(BLOWS RASPBERRY)</font></b>
+
+190
+00:09:32,840 --> 00:09:34,399
+Ingrate.
+
+191
+00:09:34,480 --> 00:09:37,871
+Besides, these freeze balls
+aren't for catching mice.
+
+192
+00:09:37,960 --> 00:09:41,954
+They're for capturing those elusive Smurfs.
+
+193
+00:09:42,040 --> 00:09:43,360
+My holy grail.
+
+194
+00:09:43,440 --> 00:09:45,909
+The gold at the end of my rainbow.
+
+195
+00:09:46,000 --> 00:09:49,596
+The most potent magical ingredient
+in the world.
+
+196
+00:09:49,680 --> 00:09:50,909
+Next slide.
+
+197
+00:09:51,440 --> 00:09:55,150
+Imagine the power in 100 of them combined.
+
+198
+00:09:55,880 --> 00:09:56,996
+<b><font color="#808000">(MEOWS MOCKINGLY)</font></b>
+
+199
+00:09:57,080 --> 00:10:01,279
+How I've searched high and low,
+under every rock, it seems,
+
+200
+00:10:01,360 --> 00:10:03,113
+- with no sign of them anywhere.
+- <b><font color="#808000">(GASPS, BABBLES)</font></b>
+
+201
+00:10:03,200 --> 00:10:06,272
+Not now, Azrael.
+I'm in the middle of a lecture.
+
+202
+00:10:07,200 --> 00:10:08,873
+My plan is simple.
+
+203
+00:10:09,000 --> 00:10:13,119
+Find Smurf Village, capture all the Smurfs,
+drain them of their magic
+
+204
+00:10:13,200 --> 00:10:18,832
+and, finally, use that magic to become
+the most powerful wizard in the world!
+
+205
+00:10:19,200 --> 00:10:21,192
+<b><font color="#808000">(EVIL LAUGHTER)</font></b>
+
+206
+00:10:22,120 --> 00:10:23,600
+Oh, look at me with hair.
+
+207
+00:10:23,720 --> 00:10:25,632
+- <b><font color="#808000">(AZRAEL MEOWS, CHATTERS)</font></b>
+- What?
+
+208
+00:10:25,720 --> 00:10:28,155
+Why didn't you say so in the first place?
+
+209
+00:10:28,240 --> 00:10:30,755
+- <b><font color="#808000">(AZRAEL YOWLS)</font></b>
+- Blue blazes!
+
+210
+00:10:30,840 --> 00:10:32,559
+I've spotted Smurfs in the forest!
+
+211
+00:10:32,880 --> 00:10:33,950
+<b><font color="#808000">(MEOWS)</font></b>
+
+212
+00:10:34,040 --> 00:10:36,077
+Well, it's my telescope. Monty!
+
+213
+00:10:37,800 --> 00:10:39,996
+Come, my majestic eagle.
+
+214
+00:10:40,080 --> 00:10:41,400
+<b><font color="#808000">(GROWLS)</font></b>
+
+215
+00:10:42,200 --> 00:10:43,839
+<b><font color="#808000">(SQUAWKING)</font></b>
+
+216
+00:10:46,080 --> 00:10:47,036
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+217
+00:10:47,120 --> 00:10:48,554
+<b><font color="#808000">(GROANING IN PAIN)</font></b>
+
+218
+00:10:48,640 --> 00:10:51,155
+Your talons are digging into my shoulders.
+Ow!
+
+219
+00:10:51,240 --> 00:10:52,230
+Oh, that's better.
+
+220
+00:10:52,320 --> 00:10:54,312
+- Now, fly.
+- <b><font color="#808000">(SQUAWKING)</font></b>
+
+221
+00:10:54,400 --> 00:10:57,154
+Go capture me some Smurfs.
+
+222
+00:10:57,240 --> 00:10:58,799
+No, no!
+
+223
+00:10:58,880 --> 00:11:01,395
+No, you're going the wrong way!
+
+224
+00:11:03,400 --> 00:11:04,390
+<b><font color="#808000">(♪♪♪)</font></b>
+
+225
+00:11:04,480 --> 00:11:05,470
+Ha-ha!
+
+226
+00:11:05,600 --> 00:11:08,991
+Ooh! Whoo!
+
+227
+00:11:09,400 --> 00:11:10,675
+Whoa! Huh!
+
+228
+00:11:10,760 --> 00:11:12,513
+Hyah! Yeah!
+
+229
+00:11:13,080 --> 00:11:14,753
+Ooh! Whoa.
+
+230
+00:11:15,600 --> 00:11:17,557
+<b><font color="#808000">(GRUNTS)</font></b> Whoa!
+
+231
+00:11:18,440 --> 00:11:19,510
+Yeah!
+
+232
+00:11:19,760 --> 00:11:22,275
+Whoo-hoo!
+
+233
+00:11:25,160 --> 00:11:27,595
+<b><font color="#808000">(HUMMING A TUNE)</font></b>
+
+234
+00:11:27,680 --> 00:11:29,911
+Oh, no. <b><font color="#808000">(SCREAMS)</font></b>
+
+235
+00:11:30,040 --> 00:11:32,111
+- <b><font color="#808000">(GRUNTS)</font></b>
+- <b><font color="#408080">CLUMSY:</font></b> My turn!
+
+236
+00:11:32,200 --> 00:11:33,839
+Safety third.
+
+237
+00:11:33,960 --> 00:11:35,235
+<b><font color="#408080">BOTH:</font></b> Oh, boy.
+
+238
+00:11:35,680 --> 00:11:37,114
+Whoa!
+
+239
+00:11:37,240 --> 00:11:38,913
+Whoa-whoa-whoa-whoa! <b><font color="#808000">(GRUNTS)</font></b>
+
+240
+00:11:39,360 --> 00:11:40,350
+Whoa!
+
+241
+00:11:40,640 --> 00:11:43,030
+<b><font color="#808000">(SCREAMING)</font></b>
+
+242
+00:11:45,000 --> 00:11:45,990
+<b><font color="#808000">(GRUNTS)</font></b>
+
+243
+00:11:47,680 --> 00:11:48,716
+<b><font color="#808000">(GRUNTS)</font></b>
+
+244
+00:11:48,800 --> 00:11:50,075
+<b><font color="#408080">SMURFETTE:</font></b> Whoa, whoa, whoa!
+
+245
+00:11:50,160 --> 00:11:53,153
+<b><font color="#808000">(LAUGHING)</font></b> Whoa! Yeah!
+
+246
+00:11:53,240 --> 00:11:54,230
+Wow!
+
+247
+00:11:54,320 --> 00:11:56,516
+Really takes your breath away, doesn't she?
+
+248
+00:11:57,280 --> 00:11:59,317
+This is incredible!
+
+249
+00:11:59,400 --> 00:12:01,710
+Whoa. Oh... Uh-oh.
+
+250
+00:12:01,800 --> 00:12:06,397
+Huh? Oh, no! She's getting way too close
+to the Forbidden Forest.
+
+251
+00:12:06,480 --> 00:12:08,392
+She can't go over that wall. Come on.
+
+252
+00:12:10,320 --> 00:12:12,118
+<b><font color="#808000">(WIND WHISTLING)</font></b>
+
+253
+00:12:13,800 --> 00:12:14,836
+Whoa! Oh!
+
+254
+00:12:14,960 --> 00:12:15,996
+- <b><font color="#808000">(THUD)</font></b>
+- <b><font color="#808000">(GRUNTS)</font></b>
+
+255
+00:12:16,160 --> 00:12:17,435
+<b><font color="#808000">(GROANING)</font></b>
+
+256
+00:12:17,520 --> 00:12:18,510
+<b><font color="#808000">(GASPS)</font></b>
+
+257
+00:12:23,600 --> 00:12:25,592
+No, no, no, wait. Don't go.
+
+258
+00:12:25,720 --> 00:12:28,679
+Wait. Wait, who are you? Don't be afraid.
+
+259
+00:12:29,720 --> 00:12:31,234
+Hey, you can't go in there.
+
+260
+00:12:37,920 --> 00:12:39,639
+<b><font color="#408080">CLUMSY:</font></b> Smurfette!
+<b><font color="#408080">BRAINY:</font></b> Smurfette!
+
+261
+00:12:39,720 --> 00:12:42,110
+- Smurfette, you okay?
+- What happened? What happened?
+
+262
+00:12:42,200 --> 00:12:45,079
+I saw a Smurf.
+
+263
+00:12:45,200 --> 00:12:46,395
+- What?
+- Who was it?
+
+264
+00:12:46,480 --> 00:12:49,154
+I don't know, but he was wearing this.
+
+265
+00:12:49,360 --> 00:12:50,794
+- <b><font color="#808000">(MONTY SCREECHING)</font></b>
+- <b><font color="#808000">(GASPS)</font></b>
+
+266
+00:12:50,880 --> 00:12:52,712
+Smurfette! Code blue!
+
+267
+00:12:52,800 --> 00:12:53,836
+Guys, come on.
+
+268
+00:12:54,640 --> 00:12:56,791
+<b><font color="#808000">(GRUNTING)</font></b>
+
+269
+00:12:56,920 --> 00:12:58,639
+We've gotta get her.
+
+270
+00:12:58,720 --> 00:13:00,951
+<b><font color="#408080">CLUMSY:</font></b> I have a bad feeling about this.
+
+271
+00:13:01,040 --> 00:13:02,190
+<b><font color="#408080">BRAINY:</font></b> Oh, do you?
+
+272
+00:13:02,280 --> 00:13:06,354
+Does it have to do with the giant vulture
+carrying our friend off to Gargamel's lair?
+
+273
+00:13:10,320 --> 00:13:11,310
+<b><font color="#808000">(SQUAWKING)</font></b>
+
+274
+00:13:12,040 --> 00:13:13,110
+<b><font color="#808000">(MONTY SQUEALS)</font></b>
+
+275
+00:13:14,320 --> 00:13:16,630
+Monty, my regal raptor.
+
+276
+00:13:16,720 --> 00:13:18,598
+You've done it, you've caught a Smurf.
+
+277
+00:13:18,680 --> 00:13:19,796
+Give me a kiss.
+
+278
+00:13:19,880 --> 00:13:21,792
+<b><font color="#808000">(SMOOCHING LOUDLY)</font></b>
+
+279
+00:13:22,360 --> 00:13:23,635
+<b><font color="#808000">(SCOFFS AND GROANS)</font></b>
+
+280
+00:13:23,720 --> 00:13:26,474
+Finally, you bring me
+what I've been asking for.
+
+281
+00:13:26,560 --> 00:13:29,155
+A tiny, blue-skinned, shirtless... You!
+
+282
+00:13:29,240 --> 00:13:33,120
+Let me out of here,
+you Smurf-obsessed wannabe wizard.
+
+283
+00:13:33,200 --> 00:13:37,797
+Oh, is that any way to talk to the man
+who brought you into this world?
+
+284
+00:13:37,880 --> 00:13:42,079
+I'd prefer it if you just called me "Papa."
+
+285
+00:13:43,880 --> 00:13:46,634
+- I would never call you that.
+- Your loss.
+
+286
+00:13:47,080 --> 00:13:48,309
+<b><font color="#808000">(SMURFETTE GASPS)</font></b>
+
+287
+00:13:48,400 --> 00:13:50,551
+What's this? What are you hiding?
+
+288
+00:13:51,240 --> 00:13:54,836
+- Hand it over, you pseudo-Smurf.
+- <b><font color="#808000">(SMURFETTE WHIMPERS, GRUNTS)</font></b>
+
+289
+00:13:55,000 --> 00:13:55,990
+- <b><font color="#808000">(AZRAEL SNARLS)</font></b>
+- <b><font color="#808000">(SMURFETTE GASPS)</font></b>
+
+290
+00:13:56,080 --> 00:13:58,515
+- Thank you, Azrael.
+- <b><font color="#808000">(AZRAEL GRUNTS)</font></b>
+
+291
+00:13:58,600 --> 00:14:00,876
+- Hmm. <b><font color="#808000">(GROANS)</font></b>
+- <b><font color="#808000">(AZRAEL YOWLS)</font></b>
+
+292
+00:14:00,960 --> 00:14:03,316
+What do we have here? Hmm...
+
+293
+00:14:03,400 --> 00:14:04,516
+<b><font color="#808000">(AZRAEL CHATTERING)</font></b>
+
+294
+00:14:04,600 --> 00:14:08,310
+A different design?
+Yes, of course, I noticed that right away.
+
+295
+00:14:08,400 --> 00:14:10,073
+Slightly before you did, in fact.
+
+296
+00:14:10,280 --> 00:14:11,270
+<b><font color="#808000">(AZRAEL MEOWS)</font></b>
+
+297
+00:14:11,360 --> 00:14:14,398
+- Where did you get it?
+- I'm not telling you anything.
+
+298
+00:14:14,480 --> 00:14:16,392
+- Tell me.
+- No.
+
+299
+00:14:16,480 --> 00:14:17,675
+- Tell me!
+- No!
+
+300
+00:14:17,760 --> 00:14:19,160
+- You better tell me.
+- No!
+
+301
+00:14:19,240 --> 00:14:22,199
+- Fine. Don't tell me.
+- I won't.
+
+302
+00:14:22,920 --> 00:14:25,594
+<b><font color="#808000">(GROANS)</font></b> Stupid reverse psychology
+never works.
+
+303
+00:14:25,680 --> 00:14:28,752
+Who cares?
+You've already given me what I need.
+
+304
+00:14:28,840 --> 00:14:30,513
+- Come along, Azrael.
+- <b><font color="#808000">(SMURFETTE GRUNTING)</font></b>
+
+305
+00:14:31,640 --> 00:14:32,835
+<b><font color="#808000">(AZRAEL MEOWING)</font></b>
+
+306
+00:14:35,360 --> 00:14:37,431
+<b><font color="#408080">GARGAMEL:</font></b> Ah, where on earth
+did I put those ingredients?
+
+307
+00:14:38,120 --> 00:14:39,110
+<b><font color="#808000">(GRUNTS)</font></b>
+
+308
+00:14:39,960 --> 00:14:44,716
+Oh, I know this. Go left, then right,
+back handspring, stick the landing.
+
+309
+00:14:44,880 --> 00:14:45,916
+<b><font color="#808000">(GROANS)</font></b>
+
+310
+00:14:46,720 --> 00:14:48,712
+Is it a person, book or movie?
+
+311
+00:14:48,800 --> 00:14:51,634
+No one ever understands
+your hand signals, Hefty.
+
+312
+00:14:51,720 --> 00:14:55,316
+Ah, never mind.
+Just follow me and stay close.
+
+313
+00:14:58,120 --> 00:15:02,114
+<b><font color="#408080">GARGAMEL:</font></b> 
+Wart of worm and hair of cat.
+
+314
+00:15:02,560 --> 00:15:03,710
+<b><font color="#808000">(YOWLS)</font></b>
+
+315
+00:15:03,800 --> 00:15:09,319
+Show me the home of this Smurf hat.
+
+316
+00:15:09,600 --> 00:15:11,159
+<b><font color="#808000">(WHOOSHING)</font></b>
+
+317
+00:15:19,080 --> 00:15:22,676
+<b><font color="#408080">MALE VOICE:</font></b> <i>Long have you searched</i>
+<i>for these creatures of blue.</i>
+
+318
+00:15:22,760 --> 00:15:25,912
+<i>But this hat comes from somewhere new.</i>
+
+319
+00:15:26,000 --> 00:15:28,071
+Yes. Where? Where does it come from?
+
+320
+00:15:28,160 --> 00:15:32,279
+<i>A village of Smurfs, where enchantment grows.</i>
+
+321
+00:15:32,360 --> 00:15:35,592
+Oh. An entire village. Good. Go on. Go on.
+
+322
+00:15:35,680 --> 00:15:37,194
+<i>The location of which...</i>
+
+323
+00:15:37,280 --> 00:15:39,670
+- Yes?
+- <i>...nobody knows.</i>
+
+324
+00:15:39,760 --> 00:15:44,232
+No! Just start with that.
+Start with "I don't know."
+
+325
+00:15:44,320 --> 00:15:45,800
+Lousy cheap-o cauldron.
+
+326
+00:15:46,000 --> 00:15:47,480
+- Ow! <b><font color="#808000">(GROANING)</font></b>
+- <b><font color="#808000">(AZRAEL LAUGHS)</font></b>
+
+327
+00:15:47,560 --> 00:15:49,472
+<b><font color="#408080">MALE VOICE:</font></b> <i>But here is a clue.</i>
+
+328
+00:15:51,640 --> 00:15:55,429
+Fascinating. But what is it?
+
+329
+00:15:56,440 --> 00:15:58,033
+<b><font color="#808000">(AZRAEL YOWLS)</font></b>
+
+330
+00:15:58,320 --> 00:15:59,549
+Trees?
+
+331
+00:16:00,520 --> 00:16:02,989
+Must be a symbol for something, or a code.
+
+332
+00:16:03,080 --> 00:16:06,790
+Trees, trees, breeze, knees.
+Babies crawl on their knees.
+
+333
+00:16:06,880 --> 00:16:08,553
+Check all the nurseries in the area!
+
+334
+00:16:08,880 --> 00:16:10,280
+<b><font color="#808000">(YOWLS, CHATTERS)</font></b>
+
+335
+00:16:10,360 --> 00:16:12,397
+We're going to need to
+disguise ourselves as babies.
+
+336
+00:16:12,480 --> 00:16:15,314
+Now, where can I get a giant diaper?
+
+337
+00:16:15,520 --> 00:16:16,636
+<b><font color="#808000">(AZRAEL CHATTERING)</font></b>
+
+338
+00:16:16,720 --> 00:16:18,359
+Azrael, it's not your map.
+
+339
+00:16:18,440 --> 00:16:21,911
+You want your own map,
+we'll get you your own map, but this is my...
+
+340
+00:16:22,040 --> 00:16:24,794
+Wait a minute. Look what I found.
+
+341
+00:16:24,920 --> 00:16:30,075
+Three tall trees, in the Forbidden Forest.
+
+342
+00:16:30,160 --> 00:16:31,150
+<b><font color="#808000">(AZRAEL GROANS)</font></b>
+
+343
+00:16:31,240 --> 00:16:33,118
+We've never searched there before.
+
+344
+00:16:33,400 --> 00:16:35,790
+<b><font color="#808000">(CHUCKLES)</font></b> I'm a genius.
+
+345
+00:16:36,080 --> 00:16:37,230
+- <b><font color="#808000">(AZRAEL MEOWS)</font></b>
+- <b><font color="#408080">BRAINY:</font></b> Psst.
+
+346
+00:16:37,320 --> 00:16:40,199
+Azrael, it's time to take a road trip.
+
+347
+00:16:40,840 --> 00:16:41,830
+- <b><font color="#808000">(SMURFETTE GASPS)</font></b>
+- <b><font color="#408080">BRAINY:</font></b> Shh.
+
+348
+00:16:41,920 --> 00:16:43,195
+<b><font color="#408080">GARGAMEL:</font></b> Prepare my trail mix.
+
+349
+00:16:43,280 --> 00:16:47,115
+- Oh, Smurfette, congratulations.
+- <b><font color="#808000">(GASPS)</font></b>
+
+350
+00:16:47,200 --> 00:16:52,594
+You've just led me
+to an undiscovered population of Smurfs.
+
+351
+00:16:53,440 --> 00:16:55,750
+They have no idea we even exist.
+
+352
+00:16:55,840 --> 00:16:57,991
+I'll be like... <b><font color="#808000">(GROWLS, GRUNTS)</font></b>
+
+353
+00:16:58,080 --> 00:16:59,799
+They'll be all like, "Oh, no!" <b><font color="#808000">(BABBLES)</font></b>
+
+354
+00:16:59,880 --> 00:17:01,360
+And I'll be like... <b><font color="#808000">(MAKES EXPLOSION SOUNDS)</font></b>
+
+355
+00:17:01,440 --> 00:17:04,512
+And they'll be like...
+<b><font color="#808000">(SCREAMS)</font></b> "Run! No! Run, run, run!"
+
+356
+00:17:05,280 --> 00:17:08,159
+You evil little genius.
+
+357
+00:17:08,240 --> 00:17:12,120
+The rotten apple doesn't fall
+too far from the tree after all.
+
+358
+00:17:12,200 --> 00:17:13,680
+Does it?
+
+359
+00:17:15,480 --> 00:17:19,520
+Get your fur and feathers in gear, boys.
+We leave at first light.
+
+360
+00:17:19,640 --> 00:17:23,077
+Right after breakfast, say 8:00, 8:30.
+9:00 at the latest.
+
+361
+00:17:23,160 --> 00:17:25,959
+- Wait, Brainy, the map.
+- I'm on it.
+
+362
+00:17:26,120 --> 00:17:27,520
+<b><font color="#808000">(SNAPPY BUG CHITTERS)</font></b>
+
+363
+00:17:27,600 --> 00:17:31,116
+Fine, maybe 9:30.
+Absolutely no later than 10:00, though.
+
+364
+00:17:31,200 --> 00:17:32,190
+- What the...
+- <b><font color="#808000">(AZRAEL GASPS)</font></b>
+
+365
+00:17:32,320 --> 00:17:33,356
+- It's a jailbreak!
+- Go, go, go!
+
+366
+00:17:33,440 --> 00:17:36,319
+They know my plans. They'll ruin everything!
+
+367
+00:17:36,840 --> 00:17:38,320
+Is this safe?
+
+368
+00:17:38,400 --> 00:17:41,837
+Well, it's a giant crossbow,
+so I'm gonna go with "no."
+
+369
+00:17:41,920 --> 00:17:43,639
+<b><font color="#408080">GARGAMEL:</font></b> Don't let them escape.
+
+370
+00:17:44,920 --> 00:17:45,910
+<b><font color="#808000">(MOUSE SQUEALS)</font></b>
+
+371
+00:17:46,320 --> 00:17:47,993
+Aah! <b><font color="#808000">(GRUNTS)</font></b>
+
+372
+00:17:48,080 --> 00:17:51,232
+- <b><font color="#408080">SMURFETTE:</font></b> Where are the seat belts?
+- Get them! Get those Smurfs!
+
+373
+00:17:52,000 --> 00:17:53,639
+Fire in the hole!
+
+374
+00:17:53,960 --> 00:17:55,917
+<b><font color="#808000">(ALL SCREAMING)</font></b>
+
+375
+00:17:57,360 --> 00:17:58,510
+<b><font color="#808000">(ALL GRUNTING)</font></b>
+
+376
+00:17:59,120 --> 00:18:00,395
+<b><font color="#808000">(SCREECHES)</font></b>
+
+377
+00:18:00,480 --> 00:18:02,153
+Get those Smurfs!
+
+378
+00:18:02,640 --> 00:18:03,630
+<b><font color="#808000">(GASPS)</font></b>
+
+379
+00:18:04,080 --> 00:18:05,434
+<b><font color="#808000">(YOWLS, SNARLS)</font></b>
+
+380
+00:18:05,560 --> 00:18:07,040
+Azrael's gaining on us.
+
+381
+00:18:08,160 --> 00:18:09,230
+<b><font color="#808000">(YOWLS)</font></b>
+
+382
+00:18:09,320 --> 00:18:10,993
+<b><font color="#808000">(SCREECHING)</font></b>
+
+383
+00:18:12,120 --> 00:18:13,793
+Incoming bird!
+
+384
+00:18:15,600 --> 00:18:16,590
+<b><font color="#808000">(HISSING)</font></b>
+
+385
+00:18:17,640 --> 00:18:20,235
+- This might hurt.
+- No!
+
+386
+00:18:20,880 --> 00:18:21,870
+<b><font color="#808000">(YOWLS)</font></b>
+
+387
+00:18:23,360 --> 00:18:24,953
+<b><font color="#808000">(ALL SCREAMING)</font></b>
+
+388
+00:18:27,840 --> 00:18:28,830
+<b><font color="#808000">(YELLS)</font></b>
+
+389
+00:18:28,960 --> 00:18:30,519
+<b><font color="#808000">(SCREAMING)</font></b>
+
+390
+00:18:32,680 --> 00:18:33,670
+Huh?
+
+391
+00:18:34,360 --> 00:18:36,272
+Come on. Smurf this way.
+
+392
+00:18:41,320 --> 00:18:42,754
+<b><font color="#808000">(GRUMBLES)</font></b>
+
+393
+00:18:42,840 --> 00:18:44,035
+<b><font color="#808000">(YOWLS)</font></b>
+
+394
+00:18:44,120 --> 00:18:45,713
+<b><font color="#808000">(SQUAWKING)</font></b>
+
+395
+00:18:46,040 --> 00:18:47,838
+<b><font color="#808000">(ALL GRUNTING)</font></b>
+
+396
+00:18:48,280 --> 00:18:49,714
+<b><font color="#808000">(MONTY SCREECHES)</font></b>
+
+397
+00:18:51,640 --> 00:18:52,630
+<b><font color="#808000">(SCREECHES)</font></b>
+
+398
+00:18:59,600 --> 00:19:00,875
+<b><font color="#808000">(GRUNTING, WHIMPERING)</font></b>
+
+399
+00:19:02,720 --> 00:19:03,836
+<b><font color="#808000">(ROARS)</font></b>
+
+400
+00:19:03,920 --> 00:19:05,240
+Run faster! Run faster!
+
+401
+00:19:05,320 --> 00:19:07,471
+Why are our legs so short?
+
+402
+00:19:07,560 --> 00:19:09,631
+Why are our feet so big?
+
+403
+00:19:09,720 --> 00:19:13,157
+- Why are my muscles so big?
+- Really, man?
+
+404
+00:19:13,400 --> 00:19:15,198
+<b><font color="#808000">(SCREECHES)</font></b>
+
+405
+00:19:15,400 --> 00:19:17,073
+<b><font color="#808000">(PANTING, GRUNTING)</font></b>
+
+406
+00:19:19,800 --> 00:19:20,836
+<b><font color="#808000">(GRUNTING)</font></b>
+
+407
+00:19:20,920 --> 00:19:23,640
+<b><font color="#408080">CLUMSY:</font></b> Guys! Guys! A little help here.
+
+408
+00:19:23,760 --> 00:19:24,989
+- <b><font color="#808000">(MONTY SCREECHES)</font></b>
+- <b><font color="#808000">(SMURFETTE AND HEFTY GASP)</font></b>
+
+409
+00:19:25,080 --> 00:19:26,309
+It's coming.
+
+410
+00:19:26,720 --> 00:19:27,756
+<b><font color="#808000">(SCREECHES)</font></b>
+
+411
+00:19:27,840 --> 00:19:29,513
+<b><font color="#808000">(GASPING)</font></b>
+
+412
+00:19:29,600 --> 00:19:31,000
+<b><font color="#808000">(BIRDS TWITTERING)</font></b>
+
+413
+00:19:36,440 --> 00:19:37,635
+<b><font color="#808000">(SQUAWKS)</font></b>
+
+414
+00:19:38,720 --> 00:19:39,676
+<b><font color="#808000">(WHOOPING, CHEERING)</font></b>
+
+415
+00:19:39,760 --> 00:19:40,796
+- Yes!
+- All right!
+
+416
+00:19:40,880 --> 00:19:41,870
+<b><font color="#808000">(ALL GASP)</font></b>
+
+417
+00:19:41,960 --> 00:19:46,512
+Well, I know four Smurfs
+who have some explaining to do.
+
+418
+00:19:46,600 --> 00:19:48,273
+- Oh, boy.
+- Hi.
+
+419
+00:19:48,360 --> 00:19:51,194
+- Oh, my gosh. Papa, you will not believe it.
+- We ran into the Forbidden Forest.
+
+420
+00:19:51,280 --> 00:19:53,272
+- <b><font color="#808000">(OVERLAPPING CHATTER)</font></b>
+- <b><font color="#408080">PAPA SMURF:</font></b> One at a time. One at a time.
+
+421
+00:19:53,360 --> 00:19:55,955
+Please. Please.
+
+422
+00:19:56,040 --> 00:19:58,600
+- Smurfette sees this mystery Smurf.
+- We have to go to the Forbidden Forest.
+
+423
+00:19:58,680 --> 00:19:59,875
+<b><font color="#808000">(WHISTLES)</font></b>
+
+424
+00:19:59,960 --> 00:20:03,749
+I've told you time and again,
+the Forbidden Forest is forbidden.
+
+425
+00:20:03,840 --> 00:20:08,039
+And now you're talking about maps
+and mystery Smurfs and Gargamel's lair.
+
+426
+00:20:08,120 --> 00:20:09,713
+None of this makes any sense,
+
+427
+00:20:09,800 --> 00:20:12,872
+and I really don't understand
+why you can't follow simple rules.
+
+428
+00:20:12,960 --> 00:20:15,270
+You snuck out and it put you all in danger.
+
+429
+00:20:15,400 --> 00:20:18,040
+Seems to me the only way
+I can keep you safe is if...
+
+430
+00:20:19,040 --> 00:20:20,554
+You're grounded.
+
+431
+00:20:20,640 --> 00:20:21,756
+- Grounded? No, not grounded!
+- What? No way!
+
+432
+00:20:21,840 --> 00:20:23,399
+- But, Papa, but...
+- Come on!
+
+433
+00:20:23,480 --> 00:20:24,550
+No "buts."
+
+434
+00:20:24,640 --> 00:20:26,359
+None of you are to take one step
+out of your mushrooms
+
+435
+00:20:26,440 --> 00:20:28,318
+without telling me where you're going.
+Do you understand that?
+
+436
+00:20:28,400 --> 00:20:30,278
+- You're right, Papa.
+- Huh? What?
+
+437
+00:20:30,360 --> 00:20:32,192
+- Huh?
+- You're right.
+
+438
+00:20:32,280 --> 00:20:33,396
+I don't know what we were thinking.
+
+439
+00:20:34,000 --> 00:20:40,076
+Uh, good. Because, as I was saying,
+you behaved completely irresponsibly.
+
+440
+00:20:40,160 --> 00:20:43,551
+Yes. Right. Exactly.
+I couldn't agree more. Right, guys?
+
+441
+00:20:43,640 --> 00:20:45,154
+- Uh... Yeah, right.
+- Oh, yeah. Yeah, yeah.
+
+442
+00:20:45,240 --> 00:20:46,799
+- What are you talking about, Smurfette?
+- Okay.
+
+443
+00:20:46,880 --> 00:20:48,951
+Yes, so... And furthermore...
+
+444
+00:20:49,040 --> 00:20:51,635
+In fact, I think we should all
+go to our rooms right now
+
+445
+00:20:51,720 --> 00:20:53,074
+and think about what we've done.
+
+446
+00:20:53,160 --> 00:20:55,197
+- Well, I think that's...
+- Tough, but fair.
+
+447
+00:20:55,280 --> 00:20:56,430
+- Come on, guys.
+- Okay, okay.
+
+448
+00:20:56,520 --> 00:20:57,715
+- Okay, I'm moving.
+- What's your endgame here?
+
+449
+00:20:57,800 --> 00:20:59,075
+<b><font color="#408080">HEFTY:</font></b> Did you get pecked
+on the noggin, Smurfette?
+
+450
+00:20:59,160 --> 00:21:01,072
+- Actually, Smurfette...
+- Don't worry, Papa.
+
+451
+00:21:01,160 --> 00:21:04,039
+We are certainly going to do
+some thinking about what we did.
+
+452
+00:21:04,120 --> 00:21:05,270
+- And so forth.
+- <b><font color="#808000">(BRAINY GRUNTS)</font></b>
+
+453
+00:21:05,360 --> 00:21:07,431
+But we will definitely not be
+leaving our rooms
+
+454
+00:21:07,520 --> 00:21:09,273
+until we've thought this whole thing out.
+
+455
+00:21:09,360 --> 00:21:12,114
+And then, just for good measure,
+we'll think about it some more.
+
+456
+00:21:12,200 --> 00:21:13,634
+Yes, but...
+
+457
+00:21:13,720 --> 00:21:14,915
+Great talk, Papa.
+
+458
+00:21:16,560 --> 00:21:17,596
+Huh.
+
+459
+00:21:17,680 --> 00:21:20,400
+I have no idea what I'm doing.
+
+460
+00:21:21,200 --> 00:21:23,351
+<b><font color="#808000">(♪♪♪)</font></b>
+
+461
+00:21:32,400 --> 00:21:33,390
+<b><font color="#808000">(SIGHS)</font></b>
+
+462
+00:21:37,200 --> 00:21:40,796
+<b><font color="#808000">(SINGING)</font></b> <i>We go hide away in daylight</i>
+
+463
+00:21:41,040 --> 00:21:44,636
+<i>We go undercover, wait out the sun</i>
+
+464
+00:21:44,720 --> 00:21:48,509
+<i>Got a secret side in plain sight</i>
+
+465
+00:21:48,600 --> 00:21:51,638
+<i>Where the streets are empty,</i>
+<i>that's where we run</i>
+
+466
+00:21:51,720 --> 00:21:54,952
+<i>Everyday people do everyday things</i>
+
+467
+00:21:55,080 --> 00:21:58,391
+<i>But I can't be one of them</i>
+
+468
+00:21:59,280 --> 00:22:00,680
+<i>I know you hear me now</i>
+
+469
+00:22:00,760 --> 00:22:03,116
+<i>We are a different kind</i>
+
+470
+00:22:03,200 --> 00:22:05,920
+<i>We can do anything</i>
+
+471
+00:22:06,000 --> 00:22:10,040
+<i>We could be heroes</i>
+
+472
+00:22:13,480 --> 00:22:15,756
+<i>We could be</i>
+
+473
+00:22:19,080 --> 00:22:20,753
+<b><font color="#808000">(♪♪♪)</font></b>
+
+474
+00:22:35,880 --> 00:22:36,916
+<b><font color="#808000">(SIGHS)</font></b>
+
+475
+00:22:37,680 --> 00:22:39,273
+- <b><font color="#808000">(RUSTLING NEARBY)</font></b>
+- <b><font color="#808000">(GASPS)</font></b>
+
+476
+00:22:45,960 --> 00:22:47,952
+Hefty, I know that's you.
+
+477
+00:22:48,400 --> 00:22:49,436
+<b><font color="#808000">(QUIET SIGH)</font></b>
+
+478
+00:22:51,040 --> 00:22:52,315
+'Sup, Smurfette?
+
+479
+00:22:52,400 --> 00:22:53,595
+<b><font color="#408080">SMURFETTE:</font></b> Brainy.
+
+480
+00:22:53,680 --> 00:22:54,955
+How did you do that?
+
+481
+00:22:55,040 --> 00:22:56,872
+And, I assume, Clumsy.
+
+482
+00:22:57,600 --> 00:22:58,670
+Whoa-oh!
+
+483
+00:22:58,760 --> 00:23:00,877
+- All good.
+- What are you guys doing out here?
+
+484
+00:23:00,960 --> 00:23:02,872
+We knew you were up to something.
+
+485
+00:23:02,960 --> 00:23:04,872
+This is all my fault, Hefty.
+
+486
+00:23:04,960 --> 00:23:09,034
+But, Smurfette, the Forbidden Forest?
+It's too dangerous.
+
+487
+00:23:09,120 --> 00:23:11,874
+I have to at least warn that lost village.
+
+488
+00:23:11,960 --> 00:23:14,873
+Well, we're Team Smurf,
+and we stick together.
+
+489
+00:23:14,960 --> 00:23:17,077
+So, we're coming with you.
+
+490
+00:23:17,160 --> 00:23:18,560
+I can't ask you to do that.
+
+491
+00:23:18,640 --> 00:23:21,200
+- You didn't ask.
+- We volunteered.
+
+492
+00:23:22,520 --> 00:23:25,240
+- Thanks, guys.
+- First things first.
+
+493
+00:23:27,520 --> 00:23:28,636
+<b><font color="#808000">(SNAPPY BUG MURMURING)</font></b>
+
+494
+00:23:33,440 --> 00:23:36,399
+Wow! Bug technology. Cool.
+
+495
+00:23:36,480 --> 00:23:38,437
+According to my map, we should be standing
+
+496
+00:23:38,560 --> 00:23:41,951
+right in front of this
+very large, tall stone wall.
+
+497
+00:23:43,000 --> 00:23:44,320
+<b><font color="#408080">ALL:</font></b> Check.
+
+498
+00:23:48,840 --> 00:23:49,830
+<b><font color="#808000">(QUIET SIGH)</font></b>
+
+499
+00:23:55,920 --> 00:23:57,149
+<b><font color="#808000">(♪♪♪)</font></b>
+
+500
+00:24:01,680 --> 00:24:05,356
+One small step for four small Smurfs...
+
+501
+00:24:06,200 --> 00:24:09,352
+<b><font color="#808000">(GROANS, SPITS)</font></b>
+
+502
+00:24:09,440 --> 00:24:11,591
+Okay. <b><font color="#808000">(GROANS)</font></b> Let us proceed.
+
+503
+00:24:16,640 --> 00:24:17,994
+<b><font color="#808000">(DISTANT BIRDCALLS)</font></b>
+
+504
+00:24:28,560 --> 00:24:29,994
+<b><font color="#408080">SMURFETTE:</font></b> Wow.
+
+505
+00:24:30,480 --> 00:24:32,312
+Wow, wow, wow.
+
+506
+00:24:36,840 --> 00:24:38,911
+Wow, wow, wow.
+
+507
+00:24:39,000 --> 00:24:40,195
+Wow.
+
+508
+00:24:40,480 --> 00:24:41,675
+<b><font color="#808000">(ALL SCREAM)</font></b>
+
+509
+00:24:41,760 --> 00:24:44,480
+Smurfette! You okay, Smurfette?
+
+510
+00:24:45,640 --> 00:24:49,475
+Nice flowers. Nice flowers.
+
+511
+00:24:49,560 --> 00:24:51,711
+Not nice flowers!
+
+512
+00:24:52,240 --> 00:24:53,435
+<b><font color="#808000">(SINGING)</font></b> <i>Out till the sunup</i>
+
+513
+00:24:53,520 --> 00:24:54,510
+Oh! Whoa, whoa, whoa!
+
+514
+00:24:54,600 --> 00:24:56,956
+<i>Twisted and burn up, can't nobody stop us</i>
+
+515
+00:24:57,040 --> 00:24:58,076
+<b><font color="#808000">(SCREAMING)</font></b>
+
+516
+00:24:58,160 --> 00:24:59,594
+<i>We gone delirious</i>
+
+517
+00:24:59,880 --> 00:25:01,234
+<i>La la la la la</i>
+
+518
+00:25:01,320 --> 00:25:03,277
+<i>La la la la la la, gimme some of that</i>
+
+519
+00:25:03,360 --> 00:25:04,350
+Whoa!
+
+520
+00:25:04,480 --> 00:25:05,994
+<i>Gimme some of that</i>
+
+521
+00:25:06,080 --> 00:25:07,150
+<i>We gone delirious</i>
+
+522
+00:25:07,240 --> 00:25:08,993
+<i>La la la la la</i>
+
+523
+00:25:09,080 --> 00:25:10,878
+<i>La la la la la la</i>
+
+524
+00:25:10,960 --> 00:25:11,950
+<i>Come and take a ride</i>
+
+525
+00:25:12,040 --> 00:25:13,030
+Whoa!
+
+526
+00:25:13,120 --> 00:25:15,157
+<i>Take it all night, who cares?</i>
+
+527
+00:25:15,280 --> 00:25:18,000
+Whoa...
+
+528
+00:25:18,080 --> 00:25:20,879
+- Whoa!
+- Aah!
+
+529
+00:25:21,400 --> 00:25:22,800
+<b><font color="#808000">(GRUNTING)</font></b>
+
+530
+00:25:22,880 --> 00:25:24,200
+<i>Gimme some of that, gimme some of that</i>
+
+531
+00:25:24,440 --> 00:25:25,430
+<i>Gimme some of that</i>
+
+532
+00:25:25,520 --> 00:25:26,954
+<b><font color="#808000">(SCREAMING)</font></b>
+
+533
+00:25:27,040 --> 00:25:28,599
+<i>La la la la la...</i>
+
+534
+00:25:28,960 --> 00:25:29,996
+Where's Clumsy?
+
+535
+00:25:30,600 --> 00:25:32,432
+<b><font color="#808000">(SCREAMING)</font></b>
+
+536
+00:25:34,600 --> 00:25:35,636
+<b><font color="#808000">(GROANING)</font></b>
+
+537
+00:25:35,760 --> 00:25:38,878
+Hey! We just met! 
+I'm not that kind of Smurf.
+
+538
+00:25:38,960 --> 00:25:40,838
+<b><font color="#808000">(GRUNTS, YELPS)</font></b>
+
+539
+00:25:45,600 --> 00:25:47,159
+<b><font color="#808000">(FLOWER GRUNTING)</font></b>
+
+540
+00:25:47,360 --> 00:25:48,430
+<b><font color="#808000">(WHIMPERS)</font></b>
+
+541
+00:25:49,320 --> 00:25:50,879
+<b><font color="#808000">(GRUNTING)</font></b>
+
+542
+00:25:52,960 --> 00:25:53,996
+<b><font color="#808000">(FLOWER GRUNTS MOCKINGLY)</font></b>
+
+543
+00:25:56,600 --> 00:25:58,114
+Watch out for the steep embankment.
+
+544
+00:25:58,520 --> 00:26:00,671
+<b><font color="#808000">(GRUNTING AND GROANING)</font></b>
+
+545
+00:26:01,480 --> 00:26:02,470
+<b><font color="#808000">(GROANS WEAKLY)</font></b>
+
+546
+00:26:03,640 --> 00:26:04,630
+<b><font color="#808000">(SIGHS)</font></b>
+
+547
+00:26:05,480 --> 00:26:07,517
+Clumsy, you okay?
+
+548
+00:26:09,000 --> 00:26:11,390
+I'm seeing stars.
+
+549
+00:26:12,560 --> 00:26:13,630
+Whoa.
+
+550
+00:26:24,320 --> 00:26:26,676
+- Ooh.
+- Wow.
+
+551
+00:26:31,920 --> 00:26:33,513
+<b><font color="#808000">(CHITTERING)</font></b>
+
+552
+00:26:34,200 --> 00:26:35,873
+- Good work, Clumsy.
+- <b><font color="#808000">(CHUCKLING)</font></b>
+
+553
+00:26:35,960 --> 00:26:38,998
+You may have discovered
+a new subspecies of flying insectoid.
+
+554
+00:26:40,280 --> 00:26:41,270
+<b><font color="#808000">(SNIFFING)</font></b>
+
+555
+00:26:43,120 --> 00:26:44,759
+<b><font color="#808000">(SNEEZES, GROANS)</font></b>
+
+556
+00:26:46,560 --> 00:26:50,270
+Amazing! A winged,
+fire-breathing Anisoptera.
+
+557
+00:26:50,360 --> 00:26:53,000
+Mmm, let's see.
+How should we classify this?
+
+558
+00:26:53,080 --> 00:26:55,117
+- <b><font color="#808000">(SNAPPY BUG MURMURING)</font></b>
+- Hmm, maybe.
+
+559
+00:26:55,200 --> 00:26:57,556
+I mean, seems like an easy choice,
+but I'm just not sure.
+
+560
+00:26:57,640 --> 00:26:59,359
+<b><font color="#808000">(SNAPPY BUG MURMURING)</font></b>
+
+561
+00:26:59,440 --> 00:27:03,639
+- Yeah, okay, let's go with "dragonfly."
+- Hopefully more "fly" than "dragon."
+
+562
+00:27:03,840 --> 00:27:06,912
+<b><font color="#808000">(GASPS, GRUNTS)</font></b> Nope! 
+Less "fly"! Less "fly"!
+
+563
+00:27:09,320 --> 00:27:10,356
+Whoa, guys!
+
+564
+00:27:11,720 --> 00:27:12,836
+Whoa...
+
+565
+00:27:12,920 --> 00:27:14,274
+<b><font color="#808000">(GRUNTS, GASPS)</font></b>
+
+566
+00:27:14,400 --> 00:27:15,720
+Whoa.
+
+567
+00:27:15,800 --> 00:27:16,870
+<b><font color="#808000">(GRUNTS)</font></b>
+
+568
+00:27:16,960 --> 00:27:18,110
+I'm okay.
+
+569
+00:27:19,480 --> 00:27:20,834
+<b><font color="#808000">(LAUGHING)</font></b>
+
+570
+00:27:21,720 --> 00:27:23,439
+A little help here.
+
+571
+00:27:25,560 --> 00:27:27,313
+<b><font color="#808000">(♪♪♪)</font></b>
+
+572
+00:27:29,720 --> 00:27:31,439
+<b><font color="#808000">(GRUMBLING)</font></b>
+
+573
+00:27:33,320 --> 00:27:35,357
+<b><font color="#808000">(GARGAMEL YELLS, GRUNTS)</font></b>
+
+574
+00:27:35,440 --> 00:27:38,638
+- <b><font color="#808000">(GRUNTING)</font></b>
+- <b><font color="#808000">(MONTY SQUAWKING)</font></b>
+
+575
+00:27:38,720 --> 00:27:40,712
+Monty, get off of me.
+
+576
+00:27:40,800 --> 00:27:42,473
+- <b><font color="#808000">(GRUNTS)</font></b>
+- <b><font color="#808000">(MONTY SQUAWKS)</font></b>
+
+577
+00:27:42,560 --> 00:27:43,914
+I hate nature.
+
+578
+00:27:44,280 --> 00:27:46,476
+<b><font color="#808000">(GROANS)</font></b> How gaudy.
+
+579
+00:27:47,240 --> 00:27:48,754
+Hmm? Ow, ow!
+
+580
+00:27:49,600 --> 00:27:50,590
+<b><font color="#808000">(YELLS IN PAIN)</font></b>
+
+581
+00:27:50,720 --> 00:27:52,359
+<b><font color="#808000">(YELLING AND GROANING)</font></b>
+
+582
+00:27:56,280 --> 00:27:58,237
+Azrael, do something! <b><font color="#808000">(GRUNTS)</font></b>
+
+583
+00:27:59,400 --> 00:28:01,312
+- <b><font color="#808000">(LAUGHING)</font></b>
+- It's quite painful.
+
+584
+00:28:01,400 --> 00:28:04,518
+Stop laughing. This is not funny.
+
+585
+00:28:05,280 --> 00:28:07,237
+<b><font color="#808000">(GARGAMEL GRUNTING AND GROANING)</font></b>
+
+586
+00:28:07,320 --> 00:28:08,436
+Watch it!
+
+587
+00:28:11,760 --> 00:28:13,956
+Let me go!
+
+588
+00:28:14,840 --> 00:28:15,956
+<b><font color="#808000">(GRUNTS)</font></b>
+
+589
+00:28:16,040 --> 00:28:17,110
+<b><font color="#808000">(AZRAEL HISSES)</font></b>
+
+590
+00:28:19,120 --> 00:28:20,110
+Ouch.
+
+591
+00:28:21,280 --> 00:28:24,591
+Hmm. These nests are made of some material
+I've never seen before.
+
+592
+00:28:25,720 --> 00:28:27,518
+<b><font color="#408080">CLUMSY:</font></b> Whoa!
+
+593
+00:28:27,960 --> 00:28:28,950
+<b><font color="#808000">(GRUNTS)</font></b>
+
+594
+00:28:29,040 --> 00:28:33,990
+You know, I think I've had enough
+of these flying Antipastos for one day.
+
+595
+00:28:34,120 --> 00:28:35,600
+- <b><font color="#808000">(MONTY SCREECHING)</font></b>
+- <b><font color="#808000">(SMURFS GASP)</font></b>
+
+596
+00:28:35,680 --> 00:28:37,558
+<b><font color="#808000">(SCREECHES)</font></b>
+
+597
+00:28:37,640 --> 00:28:39,199
+<b><font color="#808000">(YOWLS)</font></b>
+
+598
+00:28:39,320 --> 00:28:42,074
+- <b><font color="#808000">(CHUCKLING)</font></b>
+- <b><font color="#408080">CLUMSY:</font></b> Hey! What are you doing here?
+
+599
+00:28:42,160 --> 00:28:44,436
+Well, I was thinking of getting
+a little place out here.
+
+600
+00:28:44,520 --> 00:28:46,637
+Just a quiet place in the forest.
+
+601
+00:28:46,720 --> 00:28:50,077
+It's a little breezy up on the hill.
+What do you think I'm doing out here?
+
+602
+00:28:50,160 --> 00:28:53,392
+You are never going to find
+that village, Gargamel.
+
+603
+00:28:53,480 --> 00:28:56,393
+Oh, Smurfette, if it wasn't for you,
+
+604
+00:28:56,480 --> 00:28:58,631
+I wouldn't even know
+about those other Smurfs.
+
+605
+00:28:59,440 --> 00:29:02,478
+- Get 'em, boys. <b><font color="#808000">(SNAPS FINGERS)</font></b>
+- Smurfintine formation! Go!
+
+606
+00:29:03,200 --> 00:29:05,396
+- Hey!
+- Smurfintine!
+
+607
+00:29:05,480 --> 00:29:07,073
+- Get 'em, Azrael!
+- Smurfintine!
+
+608
+00:29:07,160 --> 00:29:09,072
+- Smurfintine!
+- Smurfintine!
+
+609
+00:29:10,640 --> 00:29:12,518
+- <b><font color="#808000">(GRUNTS)</font></b>
+- Ow! <b><font color="#808000">(GRUNTS)</font></b>
+
+610
+00:29:13,840 --> 00:29:15,320
+<b><font color="#808000">(CHITTERING)</font></b>
+
+611
+00:29:15,840 --> 00:29:16,990
+Smurfintine!
+
+612
+00:29:17,080 --> 00:29:19,436
+Hey, you. You're the clumsy one, right?
+
+613
+00:29:19,520 --> 00:29:20,590
+- Huh?
+- Think fast.
+
+614
+00:29:21,320 --> 00:29:22,913
+<b><font color="#808000">(CHUCKLES)</font></b> I caught it!
+
+615
+00:29:23,440 --> 00:29:24,430
+<b><font color="#808000">(SCREECHES)</font></b>
+
+616
+00:29:26,560 --> 00:29:27,755
+This isn't good.
+
+617
+00:29:29,360 --> 00:29:31,829
+- Clumsy, give 'em back their egg!
+- Okay.
+
+618
+00:29:34,480 --> 00:29:35,994
+Oh, come on!
+
+619
+00:29:36,080 --> 00:29:38,390
+- <b><font color="#408080">ALL:</font></b> Clumsy!
+- I'm trying!
+
+620
+00:29:38,920 --> 00:29:40,513
+<b><font color="#808000">(GRUNTS)</font></b> Whoa!
+
+621
+00:29:42,080 --> 00:29:44,311
+<b><font color="#808000">(ALL GRUNTING)</font></b>
+
+622
+00:29:44,400 --> 00:29:45,516
+<b><font color="#808000">(SCREAMS)</font></b>
+
+623
+00:29:47,000 --> 00:29:48,275
+<b><font color="#808000">(SCREAMS, GRUNTS)</font></b>
+
+624
+00:29:48,360 --> 00:29:50,920
+I'm really, really sorry, guys!
+
+625
+00:29:51,760 --> 00:29:52,876
+Over there!
+
+626
+00:29:53,360 --> 00:29:54,794
+<b><font color="#808000">(ALL GRUNTING)</font></b>
+
+627
+00:30:00,960 --> 00:30:02,952
+I didn't mean to poach your egg.
+
+628
+00:30:03,040 --> 00:30:04,030
+Whoa!
+
+629
+00:30:07,280 --> 00:30:09,351
+- Well, they're toast.
+- <b><font color="#808000">(AZRAEL MEOWS)</font></b>
+
+630
+00:30:09,440 --> 00:30:10,954
+Ah, it doesn't matter.
+
+631
+00:30:11,040 --> 00:30:12,713
+What's a few worthless pennies
+
+632
+00:30:12,800 --> 00:30:16,271
+when there's a pot of gold
+at the end of my rainbow?
+
+633
+00:30:16,360 --> 00:30:17,680
+- <b><font color="#808000">(MONTY LAUGHS)</font></b>
+- <b><font color="#808000">(AZRAEL GROANS)</font></b>
+
+634
+00:30:17,760 --> 00:30:20,036
+Trust me, they're goners.
+
+635
+00:30:20,120 --> 00:30:23,272
+I'm telling you,
+they've been fried to a blue crisp.
+
+636
+00:30:23,360 --> 00:30:24,874
+They're Smurf kabobs.
+
+637
+00:30:24,960 --> 00:30:26,189
+Smurfberry flambe.
+
+638
+00:30:26,280 --> 00:30:27,839
+- Marshmallows.
+- <b><font color="#808000">(AZRAEL PROTESTING)</font></b>
+
+639
+00:30:27,920 --> 00:30:29,832
+Can it, fuzzball. They're dead.
+
+640
+00:30:29,920 --> 00:30:31,718
+Dead, I say!
+
+641
+00:30:37,080 --> 00:30:38,070
+<b><font color="#808000">(EXHALES)</font></b>
+
+642
+00:30:44,040 --> 00:30:45,030
+<b><font color="#808000">(GASPS)</font></b>
+
+643
+00:30:45,240 --> 00:30:47,152
+<b><font color="#808000">(GRUNTING)</font></b>
+
+644
+00:30:47,280 --> 00:30:48,555
+<b><font color="#808000">(ECHOING)</font></b> Hello?
+
+645
+00:30:50,280 --> 00:30:51,839
+Smurfette?
+
+646
+00:30:54,360 --> 00:30:56,158
+Echo!
+
+647
+00:30:58,560 --> 00:30:59,550
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+648
+00:31:04,120 --> 00:31:08,399
+<b><font color="#808000">(GASPS)</font></b> Darkness.
+I don't do well in the darkness.
+
+649
+00:31:08,480 --> 00:31:10,358
+I have enough trouble in the daylight.
+
+650
+00:31:10,440 --> 00:31:14,070
+Hold on, everyone.
+We need to find a way out of here.
+
+651
+00:31:14,160 --> 00:31:18,279
+That is good thinking, "Brainy."
+
+652
+00:31:18,360 --> 00:31:20,192
+- Guys?
+- <b><font color="#408080">CLUMSY:</font></b> Darkness!
+
+653
+00:31:20,280 --> 00:31:24,911
+Don't be scared. Just...
+Just think happy thoughts.
+
+654
+00:31:25,000 --> 00:31:27,560
+<b><font color="#408080">CLUMSY:</font></b> It's not really
+happy times right now!
+
+655
+00:31:27,640 --> 00:31:30,758
+- Just stay in the light, Clumsy.
+- <b><font color="#408080">CLUMSY:</font></b> Too late.
+
+656
+00:31:30,840 --> 00:31:32,433
+I'm walking into the darkness!
+
+657
+00:31:32,520 --> 00:31:34,113
+What are you... Why?
+
+658
+00:31:34,200 --> 00:31:37,352
+I'm really freaking out, you guys!
+
+659
+00:31:37,440 --> 00:31:39,397
+<b><font color="#408080">BRAINY:</font></b> Stop, everyone.
+
+660
+00:31:39,480 --> 00:31:43,997
+Okay, go into your backpacks,
+get out your emergency tunnel survival kit,
+
+661
+00:31:44,080 --> 00:31:49,030
+find the small glass vial marked "light,"
+and shake it really hard.
+
+662
+00:31:49,760 --> 00:31:50,989
+<b><font color="#808000">(INSECT CHITTERING)</font></b>
+
+663
+00:31:54,560 --> 00:31:55,755
+<b><font color="#808000">(INSECTS CHITTERING)</font></b>
+
+664
+00:31:55,840 --> 00:31:57,797
+Clumsy? How you doing?
+
+665
+00:31:57,880 --> 00:31:59,394
+Okay, I guess.
+
+666
+00:31:59,520 --> 00:32:01,079
+Just hang tight, Clumsy.
+
+667
+00:32:01,160 --> 00:32:04,836
+I'm not sure how long this will take
+or how long we'll be down here,
+
+668
+00:32:04,920 --> 00:32:09,597
+so, everybody, whatever you do,
+don't eat all your rations.
+
+669
+00:32:09,680 --> 00:32:11,876
+I just ate all my rations!
+
+670
+00:32:11,960 --> 00:32:14,520
+- Clumsy!
+- I'm stress-eating!
+
+671
+00:32:14,600 --> 00:32:16,000
+I'm coming, Clumsy.
+
+672
+00:32:16,120 --> 00:32:18,510
+Follow the sound of my voice.
+
+673
+00:32:18,600 --> 00:32:20,751
+Wait! These tunnels are like a maze.
+
+674
+00:32:20,840 --> 00:32:23,480
+- We'll just get more lost.
+- <b><font color="#408080">SMURFETTE:</font></b> We gotta do something.
+
+675
+00:32:23,560 --> 00:32:26,029
+I'm with her. Time for some action.
+
+676
+00:32:26,120 --> 00:32:28,112
+<b><font color="#408080">BRAINY:</font></b> We're doing this all wrong.
+
+677
+00:32:28,200 --> 00:32:29,236
+<b><font color="#408080">CLUMSY:</font></b> Smurfette!
+
+678
+00:32:29,320 --> 00:32:31,437
+<b><font color="#408080">SMURFETTE:</font></b> I'm close, Clumsy. Almost there.
+
+679
+00:32:31,520 --> 00:32:34,194
+<b><font color="#408080">BRAINY:</font></b> That's just the echo
+playing tricks on us.
+
+680
+00:32:34,280 --> 00:32:36,237
+- <b><font color="#408080">CLUMSY:</font></b> Anybody?
+- I'm here.
+
+681
+00:32:36,320 --> 00:32:38,835
+I'm here right around this corner.
+
+682
+00:32:38,920 --> 00:32:40,434
+Hey, everybody?
+
+683
+00:32:45,000 --> 00:32:46,992
+My light is going out.
+
+684
+00:32:47,080 --> 00:32:50,710
+That is it! I'm punching us out of here.
+
+685
+00:32:51,040 --> 00:32:52,838
+<b><font color="#808000">(GRUNTING)</font></b>
+
+686
+00:32:52,920 --> 00:32:54,195
+It's collapsing.
+
+687
+00:32:54,280 --> 00:32:57,830
+Hefty! Put those fists away
+before you get us killed!
+
+688
+00:32:57,920 --> 00:32:59,991
+At least I'm trying something.
+
+689
+00:33:00,120 --> 00:33:02,555
+- I'm gonna blow us out of here!
+- No!
+
+690
+00:33:02,640 --> 00:33:04,199
+- Oh, yeah!
+- Don't!
+
+691
+00:33:04,280 --> 00:33:05,430
+Too late!
+
+692
+00:33:16,360 --> 00:33:18,352
+Clumsy?
+
+693
+00:33:20,080 --> 00:33:21,400
+<b><font color="#808000">(CRUNCHING)</font></b>
+
+694
+00:33:22,800 --> 00:33:24,314
+<b><font color="#808000">(BELCHING)</font></b>
+
+695
+00:33:26,080 --> 00:33:27,070
+<b><font color="#808000">(GASPS)</font></b>
+
+696
+00:33:27,360 --> 00:33:28,510
+<b><font color="#808000">(CHITTERING)</font></b>
+
+697
+00:33:28,760 --> 00:33:30,080
+<b><font color="#808000">(SCREAMS)</font></b>
+
+698
+00:33:30,360 --> 00:33:31,396
+- Hmm?
+- <b><font color="#808000">(GASPS)</font></b>
+
+699
+00:33:34,520 --> 00:33:36,989
+- <b><font color="#808000">(GRUNTS, YELLS)</font></b>
+- <b><font color="#808000">(RABBITS NEIGHING LIKE HORSES)</font></b>
+
+700
+00:33:37,080 --> 00:33:38,309
+<b><font color="#808000">(CLUMSY GRUNTING)</font></b>
+
+701
+00:33:39,080 --> 00:33:40,673
+- Hey, Smurfette.
+- Clumsy!
+
+702
+00:33:41,640 --> 00:33:43,472
+<b><font color="#808000">(SCREAMS)</font></b> Whoa!
+
+703
+00:33:44,600 --> 00:33:45,829
+Whoa!
+
+704
+00:33:45,960 --> 00:33:46,950
+<b><font color="#808000">(LAUGHING)</font></b>
+
+705
+00:33:48,120 --> 00:33:50,112
+Hang on. I'm coming, Clumsy bro.
+
+706
+00:33:51,520 --> 00:33:52,795
+I got you, little buddy.
+
+707
+00:33:56,560 --> 00:33:59,029
+Yeah! Yee-haw!
+
+708
+00:34:06,840 --> 00:34:07,990
+<b><font color="#808000">(WHOOPING)</font></b>
+
+709
+00:34:10,560 --> 00:34:11,880
+Stampede!
+
+710
+00:34:12,520 --> 00:34:15,752
+I think my rations are coming up.
+
+711
+00:34:16,320 --> 00:34:18,710
+<b><font color="#808000">(LAUGHING, WHOOPING)</font></b>
+
+712
+00:34:26,000 --> 00:34:27,150
+Oh! Whoa, whoa.
+
+713
+00:34:30,480 --> 00:34:31,800
+<b><font color="#808000">(SCREAMING)</font></b>
+
+714
+00:34:31,920 --> 00:34:33,195
+<b><font color="#808000">(GRUNTING, YELLING)</font></b>
+
+715
+00:34:33,720 --> 00:34:36,235
+- <b><font color="#808000">(LAUGHING)</font></b>
+- <b><font color="#408080">BRAINY:</font></b> What? What's so funny?
+
+716
+00:34:36,320 --> 00:34:38,630
+Now, that's what I call
+"talking out of your butt."
+
+717
+00:34:38,960 --> 00:34:39,950
+<b><font color="#808000">(LAUGHTER)</font></b>
+
+718
+00:34:40,040 --> 00:34:41,156
+Oh, boys.
+
+719
+00:34:41,240 --> 00:34:44,916
+Would anyone be interested in knowing
+that we're in sight of three tall trees?
+
+720
+00:34:45,000 --> 00:34:46,070
+<b><font color="#408080">BRAINY:</font></b> All right.
+<b><font color="#408080">HEFTY:</font></b> Yeah, we are.
+
+721
+00:34:46,160 --> 00:34:49,153
+And Bucky is gonna get us there extra fast.
+
+722
+00:34:49,240 --> 00:34:51,436
+- Bucky?
+- Seems like a Bucky to me.
+
+723
+00:34:52,120 --> 00:34:54,032
+- Hit it, Bucky!
+- <b><font color="#808000">(BUCKY NEIGHS)</font></b>
+
+724
+00:35:02,840 --> 00:35:03,990
+Smurfette?
+
+725
+00:35:05,240 --> 00:35:07,550
+Before you say anything, just listen.
+
+726
+00:35:08,440 --> 00:35:13,276
+Now, I know yesterday I might have been
+a bit tough on you and the boys,
+
+727
+00:35:13,360 --> 00:35:16,194
+and I know there are times
+I'm a little overprotective.
+
+728
+00:35:19,480 --> 00:35:21,358
+Okay, a lot overprotective.
+
+729
+00:35:21,440 --> 00:35:24,274
+But you have to understand, you snuck out.
+
+730
+00:35:24,360 --> 00:35:26,113
+You have to be more careful.
+
+731
+00:35:32,680 --> 00:35:35,752
+Smurfette, I know lately you may not realize,
+
+732
+00:35:35,840 --> 00:35:38,912
+and I may not say it enough, but you are...
+
+733
+00:35:42,120 --> 00:35:43,554
+You shine.
+
+734
+00:35:45,240 --> 00:35:46,310
+<b><font color="#808000">(SIGHS)</font></b>
+
+735
+00:35:46,400 --> 00:35:50,713
+So, anyway, we're smurfy?
+
+736
+00:35:51,760 --> 00:35:54,912
+I think you and the boys
+have been grounded long enough.
+
+737
+00:35:58,720 --> 00:35:59,915
+Smurfette?
+
+738
+00:36:00,880 --> 00:36:03,520
+Okay. I'm opening the door.
+
+739
+00:36:04,760 --> 00:36:07,275
+And I'm walking in to talk more.
+
+740
+00:36:07,440 --> 00:36:08,476
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+741
+00:36:08,600 --> 00:36:09,750
+You there?
+
+742
+00:36:11,080 --> 00:36:12,400
+Smurfette.
+
+743
+00:36:20,160 --> 00:36:21,276
+Hefty!
+
+744
+00:36:24,280 --> 00:36:25,430
+Brainy!
+
+745
+00:36:26,920 --> 00:36:27,910
+<b><font color="#808000">(GASPS)</font></b>
+
+746
+00:36:28,760 --> 00:36:32,515
+Clumsy! Oh, that's not even convincing.
+
+747
+00:36:32,600 --> 00:36:37,834
+When I find those Smurfs, I will ground them
+for a month of blue moons.
+
+748
+00:36:37,920 --> 00:36:40,071
+Oh, what's going on in here?
+
+749
+00:36:41,800 --> 00:36:43,712
+Hmm. Well, all right.
+
+750
+00:36:45,480 --> 00:36:47,995
+<b><font color="#808000">(BUCKY WHINNIES AND NEIGHS)</font></b>
+
+751
+00:36:51,280 --> 00:36:54,352
+Wow. Have you ever seen
+something so beautiful?
+
+752
+00:36:54,480 --> 00:36:57,393
+Every day, Smurfette. Every day.
+
+753
+00:36:57,480 --> 00:36:59,631
+- Don't be weird.
+- <b><font color="#408080">HEFTY:</font></b> You don't be weird.
+
+754
+00:37:05,040 --> 00:37:07,714
+<b><font color="#408080">BRAINY:</font></b> We can camp here for the night.
+
+755
+00:37:07,800 --> 00:37:09,029
+I'll start us a fire.
+
+756
+00:37:10,320 --> 00:37:12,755
+Uh, fetch me some firewood, would you, Hefty?
+
+757
+00:37:12,840 --> 00:37:14,877
+Um, a "please" would be nice.
+
+758
+00:37:15,000 --> 00:37:17,071
+Yes, it would, but I haven't
+earned my manners badge,
+
+759
+00:37:17,160 --> 00:37:18,560
+so get me some firewood.
+
+760
+00:37:18,640 --> 00:37:20,518
+Clumsy? You okay?
+
+761
+00:37:20,600 --> 00:37:23,069
+Yeah, sure. It's been fun.
+
+762
+00:37:23,160 --> 00:37:26,358
+Well, not tons of fun,
+but it's had its moments.
+
+763
+00:37:26,440 --> 00:37:27,874
+Kind of.
+
+764
+00:37:27,960 --> 00:37:30,714
+<b><font color="#808000">(CHUCKLES)</font></b> You know what I'm trying to say.
+
+765
+00:37:30,800 --> 00:37:32,792
+It hasn't been that much fun.
+
+766
+00:37:36,160 --> 00:37:38,152
+Well done, Hefty. Well done.
+
+767
+00:37:39,120 --> 00:37:40,395
+All right, step one,
+
+768
+00:37:40,480 --> 00:37:43,632
+the wood should be stacked
+into a tepee-like structure.
+
+769
+00:37:45,240 --> 00:37:48,677
+- <b><font color="#808000">(SIGHS)</font></b>
+- Step two, I tap this flint with a rock and...
+
+770
+00:37:49,720 --> 00:37:50,710
+<b><font color="#808000">(BLOWING)</font></b>
+
+771
+00:37:53,920 --> 00:37:55,798
+<b><font color="#808000">(BLOWING CONTINUES)</font></b>
+
+772
+00:37:57,920 --> 00:38:01,197
+<b><font color="#808000">(SIGHS)</font></b> You're not even blowing on it.
+You're spitting on it.
+
+773
+00:38:01,520 --> 00:38:03,193
+<b><font color="#808000">(BRAINY BLOWS RASPBERRIES)</font></b>
+
+774
+00:38:03,520 --> 00:38:07,400
+Hmm. That's odd. Perhaps the wood
+you collected was damp, Hefty.
+
+775
+00:38:07,480 --> 00:38:09,517
+According to my manual,
+it should spark right up.
+
+776
+00:38:11,200 --> 00:38:12,429
+Hey, I've got an idea.
+
+777
+00:38:12,680 --> 00:38:13,830
+<b><font color="#808000">(MUTTERING)</font></b>
+
+778
+00:38:13,920 --> 00:38:16,879
+No, no, no. No, no!
+No! No, no, no. No, no, no!
+
+779
+00:38:16,960 --> 00:38:19,350
+- Oh, oh, oh...
+- You know, you're right, Brain Man.
+
+780
+00:38:19,480 --> 00:38:20,960
+Your little book does come in handy.
+
+781
+00:38:21,040 --> 00:38:24,636
+Shame. Shame on you.
+We'd be lost without this book.
+
+782
+00:38:24,720 --> 00:38:27,792
+My name is Brainy. I'm super smart.
+I'm the smart Smurf. <b><font color="#808000">(MOCK BABBLING)</font></b>
+
+783
+00:38:27,880 --> 00:38:29,519
+But I can't start a fire. <b><font color="#808000">(CHUCKLES)</font></b>
+
+784
+00:38:30,560 --> 00:38:32,040
+<b><font color="#808000">(BOTH LAUGHING)</font></b>
+
+785
+00:38:32,160 --> 00:38:35,312
+<b><font color="#408080">BRAINY:</font></b> Okay, the damage is minimal.
+The binding's still intact.
+
+786
+00:38:35,400 --> 00:38:37,232
+<b><font color="#808000">(SNIFFS)</font></b> It smells good.
+
+787
+00:38:40,640 --> 00:38:42,074
+Just think, guys.
+
+788
+00:38:43,240 --> 00:38:44,720
+After all this time,
+
+789
+00:38:44,840 --> 00:38:47,833
+while we've been going about
+our smurfy business back home,
+
+790
+00:38:47,920 --> 00:38:51,038
+there's been other Smurfs out there,
+just like us.
+
+791
+00:38:51,120 --> 00:38:54,238
+Or they could be nothing like us.
+
+792
+00:38:54,320 --> 00:38:57,996
+He's right.
+We should be prepared for whatever we find.
+
+793
+00:38:58,080 --> 00:39:01,152
+Those other Smurfs might not even be blue.
+
+794
+00:39:01,240 --> 00:39:03,197
+Maybe they'll be orange.
+
+795
+00:39:03,880 --> 00:39:05,519
+Ah. I like orange.
+
+796
+00:39:05,600 --> 00:39:07,876
+<b><font color="#408080">BRAINY:</font></b> 
+What if they all wear glasses?
+
+797
+00:39:07,960 --> 00:39:10,031
+Or have big, bushy mustaches.
+
+798
+00:39:10,120 --> 00:39:14,000
+<b><font color="#408080">BRAINY:</font></b> What if they have scaly skin
+and sharp teeth?
+
+799
+00:39:14,120 --> 00:39:17,477
+<b><font color="#408080">HEFTY:</font></b> 
+And giant claws. And big, beady eyes.
+
+800
+00:39:17,560 --> 00:39:20,473
+What if they have hands?
+
+801
+00:39:20,560 --> 00:39:21,630
+<b><font color="#808000">(OTHERS LAUGHING)</font></b>
+
+802
+00:39:21,720 --> 00:39:22,949
+Good one, bro.
+
+803
+00:39:23,320 --> 00:39:27,155
+<b><font color="#808000">(CHUCKLES)</font></b> Listen,
+it doesn't matter what they look like.
+
+804
+00:39:27,240 --> 00:39:28,754
+We still have to warn them.
+
+805
+00:39:31,360 --> 00:39:33,113
+Gargamel's wrong about me.
+
+806
+00:39:36,800 --> 00:39:40,032
+It's not my purpose to help him.
+
+807
+00:39:40,120 --> 00:39:42,715
+I'm meant to save those Smurfs.
+
+808
+00:39:44,480 --> 00:39:45,994
+And we're gonna help you.
+
+809
+00:39:46,080 --> 00:39:49,198
+We're Team Smurf,
+and we're in this together.
+
+810
+00:39:51,040 --> 00:39:53,555
+And by "together," 
+I mean me and you.
+
+811
+00:39:53,640 --> 00:39:56,155
+And those guys.
+But mostly me and you.
+
+812
+00:39:56,720 --> 00:39:58,234
+<b><font color="#808000">(LAUGHTER)</font></b>
+
+813
+00:39:58,320 --> 00:40:00,835
+Okay, everyone.
+Smurfy selfie time.
+
+814
+00:40:01,240 --> 00:40:02,230
+<b><font color="#808000">(SNAPPY BUG MURMURING)</font></b>
+
+815
+00:40:02,320 --> 00:40:05,119
+- Say, "Blue cheese."
+- Blue cheese!
+
+816
+00:40:05,280 --> 00:40:06,270
+<b><font color="#808000">(♪♪♪)</font></b>
+
+817
+00:40:10,560 --> 00:40:11,710
+<b><font color="#808000">(BUCKY WHINNIES)</font></b>
+
+818
+00:40:12,560 --> 00:40:13,550
+Whoa.
+
+819
+00:40:13,680 --> 00:40:16,149
+According to the map,
+we should be arriving at a river.
+
+820
+00:40:18,080 --> 00:40:19,116
+<b><font color="#408080">ALL:</font></b> Check.
+
+821
+00:40:20,160 --> 00:40:21,913
+- Wow.
+- Whoa.
+
+822
+00:40:22,000 --> 00:40:24,515
+It's like a workout for my eyeballs.
+
+823
+00:40:24,600 --> 00:40:27,513
+Okay, Bucky, let's see how fast you can swim.
+
+824
+00:40:27,600 --> 00:40:28,590
+- Hyah!
+- <b><font color="#808000">(BUCKY NEIGHS)</font></b>
+
+825
+00:40:28,680 --> 00:40:29,875
+- Whoa!
+- Whoa!
+
+826
+00:40:29,960 --> 00:40:31,360
+- Come on, boy.
+- <b><font color="#808000">(NEIGHING)</font></b>
+
+827
+00:40:33,080 --> 00:40:34,355
+You can do it.
+
+828
+00:40:34,560 --> 00:40:36,040
+<b><font color="#808000">(NEIGHS)</font></b>
+
+829
+00:40:36,160 --> 00:40:37,276
+What's a little water?
+
+830
+00:40:37,360 --> 00:40:38,350
+<b><font color="#808000">(NEIGHS)</font></b>
+
+831
+00:40:38,480 --> 00:40:39,550
+Hey.
+
+832
+00:40:39,640 --> 00:40:41,393
+<b><font color="#808000">(NEIGHING AND SQUEALING)</font></b>
+
+833
+00:40:42,440 --> 00:40:43,430
+Uh-huh.
+
+834
+00:40:46,240 --> 00:40:47,356
+What's that, Bucky?
+
+835
+00:40:47,440 --> 00:40:50,877
+The river's unsafe and full
+of dangerous surprises at every bend?
+
+836
+00:40:51,000 --> 00:40:51,990
+<b><font color="#808000">(WHINNIES)</font></b>
+
+837
+00:40:52,080 --> 00:40:53,753
+No. I didn't get any of that.
+
+838
+00:40:55,600 --> 00:40:57,478
+Perhaps Glowbunnies don't swim.
+
+839
+00:40:57,560 --> 00:40:59,950
+<b><font color="#808000">(SIGHS)</font></b> That's too bad.
+We'd get there so much faster.
+
+840
+00:41:00,040 --> 00:41:02,430
+Fear not, my intrepid Team Smurf.
+
+841
+00:41:02,560 --> 00:41:06,600
+I didn't earn this raft-building merit badge
+for nothing.
+
+842
+00:41:19,680 --> 00:41:23,071
+- Boom! Nailed it.
+- <b><font color="#408080">SMURFETTE:</font></b> Impressive, Brainy.
+
+843
+00:41:23,160 --> 00:41:24,674
+- Here.
+- <b><font color="#808000">(GRUNTS)</font></b>
+
+844
+00:41:25,400 --> 00:41:26,436
+Ooh.
+
+845
+00:41:26,520 --> 00:41:28,512
+Stylish and practical.
+
+846
+00:41:28,880 --> 00:41:30,473
+Now, let's launch this bad boy.
+
+847
+00:41:30,560 --> 00:41:34,554
+Wait. Remember, this strange river
+may hold untold surprises.
+
+848
+00:41:34,640 --> 00:41:37,155
+- We must be cautious.
+- Cautious. Good point.
+
+849
+00:41:37,240 --> 00:41:38,833
+- And heave... <b><font color="#808000">(GRUNTS)</font></b>
+- Wait.
+
+850
+00:41:38,920 --> 00:41:41,719
+The currents can be unpredictable.
+We must be alert and vigilant.
+
+851
+00:41:41,800 --> 00:41:43,712
+Vigilance? Good call.
+
+852
+00:41:43,800 --> 00:41:45,996
+- Now, on three, two... <b><font color="#808000">(SIGHS)</font></b>
+- Wait!
+
+853
+00:41:46,080 --> 00:41:47,355
+We must make sure we always...
+
+854
+00:41:47,480 --> 00:41:49,199
+Bark, bark, bing, bang!
+
+855
+00:41:49,280 --> 00:41:51,112
+- Pay attention to the...
+- Bong, bong, bing, bang!
+
+856
+00:41:51,200 --> 00:41:52,316
+Rate of speed of the...
+
+857
+00:41:52,400 --> 00:41:54,517
+Berp, berp, bing, dang, bong, bong!
+
+858
+00:41:54,600 --> 00:41:56,876
+Okay, and we are off.
+
+859
+00:41:56,960 --> 00:41:58,519
+Heave-ho!
+
+860
+00:41:58,760 --> 00:42:00,638
+<b><font color="#808000">(ALL GRUNT)</font></b>
+
+861
+00:42:01,160 --> 00:42:02,150
+<b><font color="#808000">(BUCKY NEIGHS)</font></b>
+
+862
+00:42:05,000 --> 00:42:06,036
+<b><font color="#408080">SMURFS:</font></b> Whoa!
+
+863
+00:42:06,120 --> 00:42:07,634
+- Bye, Bucky.
+- Thanks for your help.
+
+864
+00:42:07,720 --> 00:42:09,598
+- Don't worry, we'll be fine.
+- <b><font color="#408080">HEFTY:</font></b> Bye, little Bucky bro.
+
+865
+00:42:09,680 --> 00:42:11,433
+- <b><font color="#408080">CLUMSY:</font></b> <i>Hasta la</i> bunny.
+- See you on the way back!
+
+866
+00:42:11,640 --> 00:42:12,630
+<b><font color="#808000">(♪♪♪)</font></b>
+
+867
+00:42:18,960 --> 00:42:20,155
+<b><font color="#808000">(HUFFING)</font></b>
+
+868
+00:42:20,240 --> 00:42:23,199
+Hey. What is this thing?
+
+869
+00:42:23,280 --> 00:42:25,033
+I wouldn't touch that if I were you.
+
+870
+00:42:25,560 --> 00:42:26,550
+<b><font color="#808000">(GASPS)</font></b>
+
+871
+00:42:27,400 --> 00:42:30,313
+Oh. Now all I want to do is touch it.
+
+872
+00:42:32,640 --> 00:42:35,553
+<b><font color="#408080">SMURFETTE:</font></b> At this pace,
+Gargamel doesn't stand a chance.
+
+873
+00:42:41,800 --> 00:42:44,156
+Look. If we follow this river,
+we'll be right on course.
+
+874
+00:42:44,240 --> 00:42:45,390
+- <b><font color="#408080">GARGAMEL:</font></b> Right on course.
+- Huh?
+
+875
+00:42:45,480 --> 00:42:46,800
+To the end of our rainbow.
+
+876
+00:42:48,800 --> 00:42:52,191
+Smurfs? I thought I left you for dead.
+
+877
+00:42:52,280 --> 00:42:53,839
+Hang on, Smurf Crew.
+
+878
+00:42:55,840 --> 00:42:56,830
+Gun it!
+
+879
+00:42:57,160 --> 00:42:58,150
+<b><font color="#808000">(SCREECHES)</font></b>
+
+880
+00:43:03,880 --> 00:43:04,870
+What the...
+
+881
+00:43:05,840 --> 00:43:07,069
+No.
+
+882
+00:43:08,680 --> 00:43:10,672
+- <b><font color="#408080">SMURFETTE:</font></b> Whoa!
+- Stop ruining things.
+
+883
+00:43:10,760 --> 00:43:12,831
+Ruining things is my thing.
+
+884
+00:43:13,840 --> 00:43:14,910
+What?
+
+885
+00:43:15,000 --> 00:43:16,673
+Azrael, get me a bigger stick.
+
+886
+00:43:16,840 --> 00:43:17,830
+Whoa!
+
+887
+00:43:19,880 --> 00:43:21,599
+- Oh, dear.
+- <b><font color="#808000">(FRIGHTENED MEOW)</font></b>
+
+888
+00:43:21,680 --> 00:43:23,399
+Clumsy, pull the lever!
+
+889
+00:43:23,480 --> 00:43:26,154
+Seriously? But you said not to.
+Is this a trick?
+
+890
+00:43:26,240 --> 00:43:27,515
+<b><font color="#408080">BOTH:</font></b> Pull it now!
+
+891
+00:43:35,000 --> 00:43:36,514
+<b><font color="#808000">(SCREAMING)</font></b>
+
+892
+00:43:40,640 --> 00:43:41,710
+Oh, no.
+
+893
+00:43:41,960 --> 00:43:43,280
+Whoa!
+
+894
+00:43:43,360 --> 00:43:44,635
+<b><font color="#808000">(MONTY SQUAWKING)</font></b>
+
+895
+00:43:44,720 --> 00:43:45,915
+<b><font color="#808000">(SCREAMS)</font></b>
+
+896
+00:43:46,040 --> 00:43:48,555
+Whoa, whoa... <b><font color="#808000">(SCREAMS)</font></b>
+
+897
+00:43:48,640 --> 00:43:49,630
+<b><font color="#808000">(AZRAEL MEOWS)</font></b>
+
+898
+00:43:49,720 --> 00:43:51,200
+Huh? What's this?
+
+899
+00:43:51,280 --> 00:43:53,476
+- <b><font color="#808000">(AZRAEL YOWLING)</font></b>
+- Aah! Azrael!
+
+900
+00:43:53,560 --> 00:43:55,631
+Do something.
+It's never gonna stop.
+
+901
+00:43:55,720 --> 00:43:59,191
+Make the log stop spinning.
+This river is killing me.
+
+902
+00:43:59,720 --> 00:44:00,949
+<b><font color="#808000">(YELLING)</font></b>
+
+903
+00:44:02,280 --> 00:44:03,953
+Whoa, whoa!
+
+904
+00:44:04,040 --> 00:44:05,315
+Look out!
+
+905
+00:44:06,200 --> 00:44:07,600
+- Whoa!
+- Whoa!
+
+906
+00:44:07,760 --> 00:44:08,750
+<b><font color="#808000">(AZRAEL WHIMPERS)</font></b>
+
+907
+00:44:09,400 --> 00:44:10,629
+I love you two.
+
+908
+00:44:12,760 --> 00:44:14,194
+- Yes! We did it!
+- We did it!
+
+909
+00:44:14,280 --> 00:44:16,636
+- See, I always believed we would do it.
+- Take that!
+
+910
+00:44:16,720 --> 00:44:18,996
+- <b><font color="#808000">(SMURFS CHEERING)</font></b>
+- Help! Help!
+
+911
+00:44:19,080 --> 00:44:21,436
+All right. We're still on course.
+
+912
+00:44:21,520 --> 00:44:22,749
+Double-time it, Hefty.
+
+913
+00:44:22,840 --> 00:44:28,154
+Help! I'm sinking!
+Please. I'm afraid of turtles!
+
+914
+00:44:28,240 --> 00:44:31,199
+Uh, guys, what's he up to now?
+
+915
+00:44:31,280 --> 00:44:32,999
+- <b><font color="#408080">GARGAMEL:</font></b> Help!
+- Forget that guy.
+
+916
+00:44:33,080 --> 00:44:34,673
+My cat can't swim.
+
+917
+00:44:34,760 --> 00:44:35,830
+- <b><font color="#808000">(AZRAEL MEOWS)</font></b>
+- <b><font color="#808000">(GARGAMEL GRUNTS)</font></b>
+
+918
+00:44:37,440 --> 00:44:38,556
+<b><font color="#808000">(GASPING)</font></b>
+
+919
+00:44:38,640 --> 00:44:40,359
+We gotta help him.
+
+920
+00:44:40,440 --> 00:44:44,275
+- Are you crazy? Why?
+- Because it's what I do.
+
+921
+00:44:44,360 --> 00:44:47,319
+- Listen to him!
+- But he's our sworn enemy.
+
+922
+00:44:47,400 --> 00:44:49,119
+He is literally a villain.
+
+923
+00:44:49,200 --> 00:44:50,634
+I can change!
+
+924
+00:44:50,720 --> 00:44:53,838
+And I literally wear my heart
+on my sleeve, okay?
+
+925
+00:44:53,960 --> 00:44:56,475
+- That's your shoulder, not a sleeve.
+- I like your tattoo!
+
+926
+00:44:56,560 --> 00:44:59,439
+- We're doing this.
+- Smurfette, talk some sense into him.
+
+927
+00:45:01,080 --> 00:45:05,154
+Brainy, I hate Gargamel more than anyone,
+but we're Smurfs.
+
+928
+00:45:05,240 --> 00:45:07,800
+- We do the right thing.
+- <b><font color="#408080">GARGAMEL:</font></b> Thank goodness for it!
+
+929
+00:45:07,880 --> 00:45:09,200
+And we have to save him.
+
+930
+00:45:09,280 --> 00:45:12,079
+I just want to go on record
+that I'm decisively against this.
+
+931
+00:45:12,160 --> 00:45:15,232
+- Whatever. We're doing it.
+- Sounds awesome!
+
+932
+00:45:15,920 --> 00:45:16,910
+<b><font color="#808000">(CLUMSY GRUNTS)</font></b>
+
+933
+00:45:17,000 --> 00:45:19,117
+- Use this.
+- Grab on!
+
+934
+00:45:20,320 --> 00:45:22,152
+<b><font color="#808000">(GARGAMEL GASPING)</font></b>
+
+935
+00:45:22,280 --> 00:45:23,236
+<b><font color="#808000">(GROANS)</font></b>
+
+936
+00:45:23,320 --> 00:45:25,039
+- <b><font color="#408080">BRAINY:</font></b> I don't know about this.
+- <b><font color="#808000">(AZRAEL HISSES)</font></b>
+
+937
+00:45:25,120 --> 00:45:27,032
+You won't regret it.
+
+938
+00:45:27,160 --> 00:45:30,551
+Oh, thank you. Thank you. Such a kind Smurf.
+
+939
+00:45:30,640 --> 00:45:32,836
+- Are you okay?
+- Oh, I'm okay.
+
+940
+00:45:32,920 --> 00:45:36,709
+Wet, a little tired, kind of waterlogged.
+Thanks for asking, but...
+
+941
+00:45:36,800 --> 00:45:38,154
+I'm still evil, so...
+
+942
+00:45:38,800 --> 00:45:40,359
+<b><font color="#808000">(SMURFS SCREAMING)</font></b>
+
+943
+00:45:40,440 --> 00:45:41,920
+Enjoy drowning.
+
+944
+00:45:42,040 --> 00:45:43,076
+<b><font color="#808000">(ALL GASPING)</font></b>
+
+945
+00:45:43,160 --> 00:45:47,552
+Hope you're better swimmers
+than you are judges of wizards' character.
+
+946
+00:45:49,360 --> 00:45:51,033
+Whoa! Whoa!
+
+947
+00:45:51,120 --> 00:45:52,634
+<b><font color="#808000">(ALL SCREAMING)</font></b>
+
+948
+00:46:03,160 --> 00:46:05,391
+<b><font color="#808000">(CHITTERING)</font></b>
+
+949
+00:46:09,000 --> 00:46:10,673
+- <b><font color="#808000">(COUGHING)</font></b>
+- <b><font color="#808000">(CRABS SCREAM)</font></b>
+
+950
+00:46:12,640 --> 00:46:14,996
+Brainy. Hefty?
+
+951
+00:46:15,160 --> 00:46:16,958
+<b><font color="#808000">(BRAINY GROANING QUIETLY)</font></b>
+
+952
+00:46:17,040 --> 00:46:18,110
+You okay?
+
+953
+00:46:18,360 --> 00:46:20,591
+<b><font color="#808000">(COUGHS)</font></b> Define "okay."
+
+954
+00:46:20,680 --> 00:46:22,034
+- Where's Clumsy?
+- Clumsy!
+
+955
+00:46:22,120 --> 00:46:23,679
+- Clumsy! Clumsy!
+- Clumsy!
+
+956
+00:46:23,920 --> 00:46:25,479
+<b><font color="#808000">(MUFFLED SHOUTING)</font></b>
+
+957
+00:46:26,400 --> 00:46:28,312
+<b><font color="#808000">(COUGHS, SPITS)</font></b>
+
+958
+00:46:28,400 --> 00:46:29,959
+I'm good.
+
+959
+00:46:30,040 --> 00:46:33,875
+- <b><font color="#408080">CRABS:</font></b> Run away! Run away!
+- Hey. I think.
+
+960
+00:46:34,240 --> 00:46:35,230
+<b><font color="#808000">(GRUNTS)</font></b>
+
+961
+00:46:36,400 --> 00:46:40,155
+My pack! My manual!
+No! No, no, no! No, no, no!
+
+962
+00:46:40,240 --> 00:46:42,550
+My Scout manual!
+
+963
+00:46:46,440 --> 00:46:49,114
+This is all your fault!
+
+964
+00:46:49,240 --> 00:46:51,630
+- What?
+- Brainy, cut it out.
+
+965
+00:46:51,720 --> 00:46:54,315
+Oh, I'm sorry. Correction.
+This is your fault, too.
+
+966
+00:46:54,400 --> 00:46:55,436
+Leave her out of this.
+
+967
+00:46:55,520 --> 00:46:57,432
+Hefty, I don't need you
+to fight my fights for me.
+
+968
+00:46:57,520 --> 00:46:59,318
+Wait, now you're mad at me, too?
+
+969
+00:46:59,400 --> 00:47:03,314
+Smurfette, you're the one that got us
+into this whole mess in the first place.
+
+970
+00:47:03,400 --> 00:47:05,790
+Hey, I was ready to do this on my own.
+
+971
+00:47:05,880 --> 00:47:08,270
+<b><font color="#808000">(SIGHS)</font></b> Great. So much for Team Smurf.
+
+972
+00:47:08,360 --> 00:47:11,353
+- I want to yell about something!
+- Stay out of this, Clumsy.
+
+973
+00:47:11,440 --> 00:47:14,239
+That's it, Brain Man.
+It's time for you to earn your manners badge.
+
+974
+00:47:14,320 --> 00:47:15,470
+Stop it! <b><font color="#808000">(GASPS)</font></b>
+
+975
+00:47:17,920 --> 00:47:19,036
+- <b><font color="#808000">(GASPS)</font></b> Take cover!
+- <b><font color="#808000">(YELLS)</font></b>
+
+976
+00:47:19,880 --> 00:47:20,870
+Whoa!
+
+977
+00:47:24,280 --> 00:47:25,316
+<b><font color="#808000">(GASPS)</font></b>
+
+978
+00:47:27,600 --> 00:47:28,670
+<b><font color="#808000">(ROARS)</font></b>
+
+979
+00:47:28,760 --> 00:47:29,910
+<b><font color="#808000">(SMURFS GASP, YELL)</font></b>
+
+980
+00:47:36,000 --> 00:47:37,036
+Huh?
+
+981
+00:47:43,400 --> 00:47:44,390
+<b><font color="#808000">(ROARS)</font></b>
+
+982
+00:47:47,680 --> 00:47:48,670
+<b><font color="#808000">(GRUNTING)</font></b>
+
+983
+00:47:48,800 --> 00:47:49,916
+- <b><font color="#808000">(GASPS)</font></b>
+- <b><font color="#808000">(GRUNTS)</font></b>
+
+984
+00:47:50,000 --> 00:47:50,990
+<b><font color="#808000">(GASPS)</font></b>
+
+985
+00:48:01,160 --> 00:48:03,117
+<b><font color="#808000">(SNIFFING)</font></b>
+
+986
+00:48:03,200 --> 00:48:04,953
+Who are you? What do you want?
+
+987
+00:48:06,040 --> 00:48:07,076
+<b><font color="#808000">(GRUNTS)</font></b> Her.
+
+988
+00:48:08,440 --> 00:48:09,430
+Huh?
+
+989
+00:48:10,320 --> 00:48:11,549
+<b><font color="#808000">(GRUNTING)</font></b>
+
+990
+00:48:11,640 --> 00:48:13,393
+- Move.
+- Smurfette! <b><font color="#808000">(GRUNTS)</font></b>
+
+991
+00:48:13,480 --> 00:48:16,040
+- What should we do with her?
+- Look at that hair.
+
+992
+00:48:16,160 --> 00:48:17,389
+- Where's she from?
+- And that dress.
+
+993
+00:48:27,320 --> 00:48:29,232
+<b><font color="#808000">(GASPS)</font></b> It's you.
+
+994
+00:48:33,240 --> 00:48:34,993
+You're a girl.
+
+995
+00:48:35,640 --> 00:48:36,835
+She's a girl.
+
+996
+00:48:39,400 --> 00:48:40,390
+Oh.
+
+997
+00:48:41,760 --> 00:48:42,750
+Oh.
+
+998
+00:48:44,640 --> 00:48:46,279
+Oh.
+
+999
+00:48:49,040 --> 00:48:52,112
+This is her.
+This is the Smurf I was telling you about.
+
+1000
+00:48:52,240 --> 00:48:54,675
+<b><font color="#408080">SMURF 1:</font></b> The one from the wall?
+
+1001
+00:48:54,760 --> 00:48:56,672
+<b><font color="#408080">SMURF 2:</font></b> She's real?
+
+1002
+00:48:57,640 --> 00:48:58,915
+I'm Smurflily.
+
+1003
+00:49:00,000 --> 00:49:03,118
+Hi. I'm Smurfette.
+
+1004
+00:49:03,200 --> 00:49:05,760
+Oh, my geez-to-petes! I'm Smurfblossom.
+
+1005
+00:49:05,840 --> 00:49:07,752
+Nice to meet you. We don't have a Smurfette.
+
+1006
+00:49:07,880 --> 00:49:10,111
+But we do have Smurfpetal, Smurfclover,
+
+1007
+00:49:10,200 --> 00:49:11,759
+Smurfmeadow, Smurfdaisy,
+Smurfholly, Smurfhazel...
+
+1008
+00:49:11,840 --> 00:49:12,956
+<b><font color="#408080">ALL:</font></b> Hey.
+
+1009
+00:49:13,040 --> 00:49:14,838
+Oh, everyone can just
+introduce themselves later.
+
+1010
+00:49:14,920 --> 00:49:17,435
+<b><font color="#808000">(GASPS)</font></b> Look at you. You're so different.
+
+1011
+00:49:17,520 --> 00:49:19,113
+I mean, sorry, but it's true.
+
+1012
+00:49:19,200 --> 00:49:21,590
+Do you know how to start a fire
+with just rope and a stick?
+
+1013
+00:49:21,680 --> 00:49:24,798
+I do. I can show you.
+Actually, Smurfstorm can show you.
+
+1014
+00:49:24,880 --> 00:49:27,395
+She's the best at that kind of thing.
+Right, Stormy?
+
+1015
+00:49:31,880 --> 00:49:32,996
+That means "yes."
+
+1016
+00:49:33,080 --> 00:49:35,470
+Have you ever seen a rainbow?
+What about a double rainbow?
+
+1017
+00:49:35,560 --> 00:49:38,473
+What about an upside down rainbow? <b><font color="#808000">(CHUCKLES)</font></b>
+
+1018
+00:49:38,560 --> 00:49:39,630
+So, is your favorite song...
+
+1019
+00:49:39,720 --> 00:49:43,191
+<b><font color="#808000">(SINGING)</font></b> <i>Hey, hey, hey</i>
+<i>Hey, hey, hey, hey, hey</i>
+
+1020
+00:49:43,280 --> 00:49:45,715
+'Cause mine is.
+Your dress is so pretty.
+
+1021
+00:49:45,800 --> 00:49:48,793
+Smurfblossom, remember,
+work on that filter, okay?
+
+1022
+00:49:48,920 --> 00:49:51,515
+- <b><font color="#408080">SMURFBLOSSOM:</font></b> Right. Filter, filter.
+- What's your deal anyway?
+
+1023
+00:49:52,640 --> 00:49:55,474
+Oh, well, we came to warn you about Gargamel.
+
+1024
+00:49:55,560 --> 00:49:56,880
+- Garga?
+- Garga?
+
+1025
+00:49:56,960 --> 00:49:57,996
+Garga-what?
+
+1026
+00:49:58,080 --> 00:50:00,595
+He's a dangerous wizard
+who wants to capture all Smurfs
+
+1027
+00:50:00,680 --> 00:50:02,592
+and use them for his evil magic.
+
+1028
+00:50:02,680 --> 00:50:04,672
+And he knows about your lost village.
+
+1029
+00:50:04,760 --> 00:50:06,194
+"Lost village"?
+
+1030
+00:50:06,520 --> 00:50:07,510
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+1031
+00:50:07,600 --> 00:50:09,751
+You're the ones who are lost, not us.
+
+1032
+00:50:09,840 --> 00:50:12,071
+<b><font color="#808000">(QUIET LAUGHTER)</font></b>
+
+1033
+00:50:12,160 --> 00:50:14,595
+We have to take you to Smurfy Grove.
+
+1034
+00:50:14,680 --> 00:50:17,957
+What do we do with these blue blobs?
+
+1035
+00:50:18,440 --> 00:50:19,999
+Oh, um...
+
+1036
+00:50:20,080 --> 00:50:21,150
+Bring them along.
+
+1037
+00:50:21,240 --> 00:50:23,550
+Come on, Smurfette.
+I'm gonna show you my room.
+
+1038
+00:50:23,640 --> 00:50:25,518
+You can tell me all about Gargasmell.
+
+1039
+00:50:25,600 --> 00:50:27,239
+But first, do you want to hear
+my favorite song again?
+
+1040
+00:50:27,320 --> 00:50:29,710
+<b><font color="#808000">(SINGING)</font></b> <i>Hey, hey, hey</i>
+<i>Hey, hey, hey, hey, hey</i>
+
+1041
+00:50:29,800 --> 00:50:31,200
+All right, move.
+
+1042
+00:50:31,280 --> 00:50:32,316
+Dang!
+
+1043
+00:50:32,400 --> 00:50:35,552
+- Girl Smurfs mean business.
+- You got that right.
+
+1044
+00:50:36,000 --> 00:50:37,912
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1045
+00:50:41,440 --> 00:50:43,909
+<b><font color="#808000">(BLOWS HORN)</font></b>
+
+1046
+00:50:45,040 --> 00:50:46,793
+<b><font color="#808000">(GRUNTING)</font></b>
+
+1047
+00:50:47,200 --> 00:50:48,998
+<b><font color="#808000">(QUIET LAUGHTER)</font></b>
+
+1048
+00:50:50,200 --> 00:50:51,793
+<b><font color="#408080">SMURF 1:</font></b> Open the gate!
+
+1049
+00:50:53,640 --> 00:50:55,120
+<b><font color="#408080">SMURF 2:</font></b> The girls are back!
+
+1050
+00:51:00,480 --> 00:51:02,039
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1051
+00:51:10,440 --> 00:51:12,113
+<b><font color="#808000">(MURMURING)</font></b>
+
+1052
+00:51:14,440 --> 00:51:15,430
+<b><font color="#808000">(GASPS)</font></b>
+
+1053
+00:51:17,080 --> 00:51:19,390
+Ew! Where did they find them?
+
+1054
+00:51:21,680 --> 00:51:23,399
+Is there something wrong with them?
+
+1055
+00:51:23,480 --> 00:51:25,676
+- Are they sick?
+- Are they food?
+
+1056
+00:51:25,760 --> 00:51:28,070
+No, no, no. They're Smurfs, just like us.
+
+1057
+00:51:28,160 --> 00:51:30,800
+Except, well, they're boy Smurfs.
+
+1058
+00:51:30,880 --> 00:51:35,591
+<b><font color="#808000">(LAUGHS)</font></b> "Boy." That's a funny word.
+Boy. Boy. Boy. Boy.
+
+1059
+00:51:35,680 --> 00:51:38,434
+<b><font color="#808000">(IN DEEP VOICE)</font></b> Look at me. I'm a boy Smurf.
+
+1060
+00:51:38,600 --> 00:51:39,590
+<b><font color="#808000">(LAUGHS)</font></b>
+
+1061
+00:51:39,680 --> 00:51:41,990
+<b><font color="#408080">SMURF 1:</font></b> I like 'em.
+<b><font color="#408080">SMURF 2:</font></b> Where do they come from?
+
+1062
+00:51:42,080 --> 00:51:43,434
+- What is that?
+- <b><font color="#408080">SMURF 3:</font></b> Where is their hair?
+
+1063
+00:51:43,520 --> 00:51:44,715
+- <b><font color="#408080">SMURF 4:</font></b> You can see their tails.
+- Oh, look.
+
+1064
+00:51:44,800 --> 00:51:46,314
+- <b><font color="#408080">HEFTY:</font></b> Hey, watch it!
+- Brainy's log, day two.
+
+1065
+00:51:46,400 --> 00:51:47,800
+We've encountered a rare new life-form.
+
+1066
+00:51:47,880 --> 00:51:48,996
+Are there more like you?
+
+1067
+00:51:49,080 --> 00:51:50,639
+They are at times very intimidating.
+
+1068
+00:51:50,720 --> 00:51:53,235
+- Are you gonna stay here?
+- And they smell nice.
+
+1069
+00:51:53,320 --> 00:51:54,959
+- Hello, boy.
+- More on that later.
+
+1070
+00:51:55,040 --> 00:51:56,394
+- Oh, I want one!
+- Boundaries!
+
+1071
+00:51:56,480 --> 00:51:58,995
+Okay, that... <b><font color="#808000">(SCREAMS)</font></b>
+That's enough of that!
+
+1072
+00:51:59,080 --> 00:52:02,039
+They're my friends.
+That's Hefty, Brainy and Clumsy.
+
+1073
+00:52:02,120 --> 00:52:04,874
+- Hey, there!
+- Hooptie, Berney, Klutzy. Got it.
+
+1074
+00:52:04,960 --> 00:52:06,155
+<b><font color="#808000">(GASPS)</font></b> We should do name tags.
+
+1075
+00:52:06,240 --> 00:52:08,471
+- <b><font color="#808000">(LAUGHTER)</font></b>
+- Wait, where are your boys?
+
+1076
+00:52:08,600 --> 00:52:10,876
+You won't find any boys here.
+
+1077
+00:52:16,480 --> 00:52:18,472
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1078
+00:52:33,600 --> 00:52:36,798
+I am Smurfwillow, leader of the Smurfs.
+
+1079
+00:52:41,760 --> 00:52:45,436
+This is called an introduction.
+So, now, you go.
+
+1080
+00:52:45,520 --> 00:52:47,398
+<b><font color="#808000">(LIGHT LAUGHTER)</font></b>
+
+1081
+00:52:47,480 --> 00:52:50,518
+- Uh, I, um...
+- Don't get too close, Willow.
+
+1082
+00:52:50,600 --> 00:52:52,319
+Something's not right here.
+
+1083
+00:52:52,400 --> 00:52:54,869
+I promise we're only here to help.
+
+1084
+00:52:55,920 --> 00:52:58,879
+We came to warn you
+about the evil wizard, Gargamel.
+
+1085
+00:52:58,960 --> 00:53:02,397
+He has a map with a landmark
+leading him to three tall trees.
+
+1086
+00:53:02,480 --> 00:53:04,676
+- Show 'em, Brainy.
+- Snappy.
+
+1087
+00:53:04,760 --> 00:53:05,750
+<b><font color="#808000">(SNAPPY BUG MURMURS)</font></b>
+
+1088
+00:53:07,520 --> 00:53:09,557
+Don't try any funny stuff, bug.
+
+1089
+00:53:10,200 --> 00:53:11,190
+<b><font color="#808000">(CHATTERS)</font></b>
+
+1090
+00:53:20,120 --> 00:53:23,477
+I hate to break it to you,
+but those aren't trees.
+
+1091
+00:53:32,280 --> 00:53:33,953
+They're waterfalls.
+
+1092
+00:53:34,960 --> 00:53:36,872
+Gargamel's going the wrong way.
+
+1093
+00:53:36,960 --> 00:53:42,638
+And if he went there, <b><font color="#808000">(LAUGHS)</font></b>
+then that means the Swamp of No Return.
+
+1094
+00:53:42,720 --> 00:53:44,951
+There's no way he could survive.
+
+1095
+00:53:45,240 --> 00:53:47,596
+Aah! Help me! Help me!
+
+1096
+00:53:48,960 --> 00:53:50,713
+There's no way I'll survive!
+
+1097
+00:53:52,160 --> 00:53:55,153
+With all due respect,
+you don't know Gargamel.
+
+1098
+00:53:56,320 --> 00:54:00,280
+Yeah, well, with no due respect,
+you don't know us.
+
+1099
+00:54:00,360 --> 00:54:02,238
+Trust us, he's a goner.
+
+1100
+00:54:02,320 --> 00:54:06,109
+Stormy, why don't you do a little recon?
+Check things out.
+
+1101
+00:54:06,200 --> 00:54:10,479
+And leave you here with these four?
+No way. Look at that one.
+
+1102
+00:54:10,640 --> 00:54:12,120
+- Huh? <b><font color="#808000">(GRUNTS)</font></b>
+- <b><font color="#408080">SMURFSTORM:</font></b> He can't be normal.
+
+1103
+00:54:12,200 --> 00:54:14,237
+I think we'll be just fine here.
+
+1104
+00:54:17,000 --> 00:54:18,639
+<b><font color="#808000">(WHISTLES)</font></b> Spitfire!
+
+1105
+00:54:30,480 --> 00:54:33,200
+Okay. So, what does this Gargamel look like?
+
+1106
+00:54:33,280 --> 00:54:36,114
+Oh, you know, he's your typical wizard.
+
+1107
+00:54:36,200 --> 00:54:39,591
+Long black robe,
+lives alone with his cat and his bird.
+
+1108
+00:54:39,680 --> 00:54:41,194
+It's sad, really.
+
+1109
+00:54:41,280 --> 00:54:43,351
+You're coming with me. You can point him out.
+
+1110
+00:54:43,440 --> 00:54:45,830
+Hey. Whoa, whoa, whoa.
+There's no way he's getting on a...
+
+1111
+00:54:45,920 --> 00:54:46,956
+<b><font color="#808000">(SCREAMS)</font></b>
+
+1112
+00:54:47,040 --> 00:54:50,670
+I feel the need to remind you,
+my name is Clumsy.
+
+1113
+00:54:51,320 --> 00:54:53,880
+- <b><font color="#808000">(CLUMSY SCREAMING)</font></b>
+- Clumsy!
+
+1114
+00:54:53,960 --> 00:54:56,236
+Don't worry. Clumsy's in good hands.
+
+1115
+00:54:56,320 --> 00:54:59,597
+Oh, Stormy is the sweetest, in her own way.
+
+1116
+00:54:59,680 --> 00:55:03,276
+All right, girls, in the meantime,
+our guests have had a long journey,
+
+1117
+00:55:03,400 --> 00:55:08,156
+so let's show them some hospitality,
+Smurfy Grove style.
+
+1118
+00:55:08,440 --> 00:55:09,430
+<b><font color="#808000">(CHEERING)</font></b>
+
+1119
+00:55:10,880 --> 00:55:11,870
+Whoo-hoo!
+
+1120
+00:55:12,400 --> 00:55:14,551
+<b><font color="#808000">(PLAYING FANFARE)</font></b>
+
+1121
+00:55:16,240 --> 00:55:17,276
+<b><font color="#808000">(LAUGHING)</font></b>
+
+1122
+00:55:17,360 --> 00:55:19,272
+<b><font color="#808000">(SINGING)</font></b> <i>I'm blue</i>
+<i>Da ba dee, da ba dye</i>
+
+1123
+00:55:19,360 --> 00:55:22,956
+<i>Da ba dee, da ba dye, da ba dee, da ba dye</i>
+
+1124
+00:55:23,040 --> 00:55:23,996
+Come on.
+
+1125
+00:55:24,080 --> 00:55:25,639
+<i>Da ba dee, da ba dye</i>
+<i>Da ba dee, da ba dye</i>
+
+1126
+00:55:25,720 --> 00:55:26,995
+Huh?
+
+1127
+00:55:27,080 --> 00:55:28,116
+- Go.
+- <b><font color="#808000">(YELLS)</font></b>
+
+1128
+00:55:28,200 --> 00:55:31,079
+<i>Da ba dee, da ba dye, da ba dee, da ba dye</i>
+
+1129
+00:55:31,920 --> 00:55:34,310
+<i>I'm blue, da ba dee, da ba dye</i>
+
+1130
+00:55:34,400 --> 00:55:38,110
+<i>Da ba dee, da ba dye, da ba dee, da ba dye</i>
+
+1131
+00:55:38,200 --> 00:55:39,395
+<i>Da ba dee, da ba dye...</i>
+
+1132
+00:55:39,520 --> 00:55:41,432
+<b><font color="#408080">HEFTY:</font></b> Hey, Smurfette, check this out.
+
+1133
+00:55:42,120 --> 00:55:44,999
+<i>Da ba dee, da ba dye, da ba dee, da ba dye</i>
+
+1134
+00:55:45,080 --> 00:55:46,070
+<b><font color="#808000">(BRAINY CHUCKLES)</font></b>
+
+1135
+00:55:46,240 --> 00:55:47,913
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1136
+00:55:50,520 --> 00:55:51,590
+Come on!
+
+1137
+00:55:51,880 --> 00:55:55,271
+<b><font color="#808000">(WHOOPING)</font></b>
+
+1138
+00:55:55,440 --> 00:55:57,079
+<b><font color="#808000">(GASPS)</font></b>
+
+1139
+00:55:59,280 --> 00:56:01,112
+<b><font color="#808000">(WHOOPING)</font></b>
+
+1140
+00:56:04,480 --> 00:56:05,470
+<b><font color="#808000">(CLEARS THROAT)</font></b>
+
+1141
+00:56:06,120 --> 00:56:07,713
+<i>I have a blue house with a blue window</i>
+
+1142
+00:56:07,840 --> 00:56:09,160
+<b><font color="#808000">(LAUGHING)</font></b>
+
+1143
+00:56:09,640 --> 00:56:12,758
+<i>Blue is the color of all that I wear</i>
+
+1144
+00:56:13,840 --> 00:56:17,038
+<i>Blue are the streets
+and all the trees are too</i>
+
+1145
+00:56:17,440 --> 00:56:21,036
+<i>I have a girlfriend and she is so blue</i>
+
+1146
+00:56:21,120 --> 00:56:22,110
+<b><font color="#808000">(GRUNTING)</font></b>
+
+1147
+00:56:22,240 --> 00:56:24,311
+<i>Blue are the people here that walk around</i>
+
+1148
+00:56:24,440 --> 00:56:25,430
+<b><font color="#808000">(GRUNTS)</font></b>
+
+1149
+00:56:25,520 --> 00:56:26,874
+<i>Blue like my Corvette</i>
+<i>It's standing outside</i>
+
+1150
+00:56:26,960 --> 00:56:28,713
+<b><font color="#808000">(CHUCKLES, GRUNTS)</font></b>
+
+1151
+00:56:28,800 --> 00:56:31,076
+<i>Blue are the words I say and what I think</i>
+
+1152
+00:56:31,160 --> 00:56:32,310
+<b><font color="#808000">(SIGHS)</font></b>
+
+1153
+00:56:32,400 --> 00:56:35,074
+<i>Blue are the feelings</i>
+<i>That live inside me</i>
+
+1154
+00:56:35,200 --> 00:56:36,190
+<b><font color="#808000">(CHUCKLING)</font></b>
+
+1155
+00:56:36,280 --> 00:56:37,396
+<i>I'm blue, da ba dee, da ba dye</i>
+
+1156
+00:56:37,480 --> 00:56:38,675
+- <b><font color="#808000">(GROWLING)</font></b>
+- <b><font color="#808000">(BRAINY CHUCKLES NERVOUSLY)</font></b>
+
+1157
+00:56:38,800 --> 00:56:41,838
+<i>Da ba dee, da ba dye, da ba dee, da ba dye</i>
+
+1158
+00:56:41,920 --> 00:56:44,992
+<i>Da ba dee, da ba dye</i>
+
+1159
+00:56:45,080 --> 00:56:46,230
+<b><font color="#808000">(BRAINY YELLS)</font></b>
+
+1160
+00:56:46,320 --> 00:56:47,754
+<b><font color="#808000">(BEES BUZZING)</font></b>
+
+1161
+00:56:47,880 --> 00:56:49,200
+Whoa!
+
+1162
+00:56:49,280 --> 00:56:50,760
+<b><font color="#808000">(LAUGHS, WHOOPS)</font></b>
+
+1163
+00:56:52,720 --> 00:56:53,756
+<b><font color="#808000">(WHOOPING)</font></b>
+
+1164
+00:56:56,640 --> 00:56:58,677
+<b><font color="#808000">(MURMURING, CHEERING)</font></b>
+
+1165
+00:57:01,240 --> 00:57:02,993
+<b><font color="#808000">(CHEERING CONTINUES)</font></b>
+
+1166
+00:57:04,160 --> 00:57:05,560
+- <b><font color="#808000">(MONTY SCREECHING)</font></b>
+- <b><font color="#808000">(AZRAEL YOWLING)</font></b>
+
+1167
+00:57:05,640 --> 00:57:08,075
+Flap, Monty. Flap vigorously.
+
+1168
+00:57:08,160 --> 00:57:12,154
+Use your mighty condor wings
+to carry your master to safety.
+
+1169
+00:57:12,400 --> 00:57:14,392
+Ouch! Oh! Ow!
+
+1170
+00:57:14,480 --> 00:57:16,870
+Sweet mercy, they're bottom feeders!
+
+1171
+00:57:17,160 --> 00:57:18,150
+<b><font color="#808000">(SCREECHES)</font></b>
+
+1172
+00:57:19,160 --> 00:57:21,675
+<b><font color="#808000">(GASPING, GROANING)</font></b>
+
+1173
+00:57:21,760 --> 00:57:23,877
+- Devil fish!
+- <b><font color="#808000">(MEOWING)</font></b>
+
+1174
+00:57:24,000 --> 00:57:27,232
+Where is my lost Smurf village?
+
+1175
+00:57:27,320 --> 00:57:29,357
+- <b><font color="#808000">(AZRAEL MEOWING)</font></b>
+- Huh?
+
+1176
+00:57:29,440 --> 00:57:30,430
+<b><font color="#808000">(GASPING)</font></b>
+
+1177
+00:57:31,880 --> 00:57:34,349
+What? Smurfs!
+
+1178
+00:57:35,400 --> 00:57:37,710
+Why won't they just die?
+
+1179
+00:57:37,800 --> 00:57:40,110
+Monty, retrieve them!
+
+1180
+00:57:40,200 --> 00:57:44,319
+<b><font color="#408080">CLUMSY:</font></b> He exists, all right.
+He and his stinky cat and his dodo bird.
+
+1181
+00:57:44,400 --> 00:57:47,120
+They've been terrorizing us
+the entire journey.
+
+1182
+00:57:47,200 --> 00:57:48,919
+He didn't like us from the start.
+
+1183
+00:57:49,000 --> 00:57:50,798
+He never could find our village.
+
+1184
+00:57:50,880 --> 00:57:53,475
+So then he made a plan to capture us all,
+
+1185
+00:57:53,560 --> 00:57:55,950
+and that's when Gargamel created Smurfette.
+
+1186
+00:57:56,040 --> 00:57:57,394
+- Anyways...
+- Hold up.
+
+1187
+00:57:57,480 --> 00:58:00,393
+Smurfette was created by this Gargamel?
+
+1188
+00:58:00,480 --> 00:58:03,518
+Oh, yeah. From a lump of clay.
+Really cool story, actually.
+
+1189
+00:58:03,600 --> 00:58:05,398
+I knew I didn't trust her.
+
+1190
+00:58:05,480 --> 00:58:07,358
+Oh, you'd like her if you get to know her.
+
+1191
+00:58:07,440 --> 00:58:10,911
+She's just like you, but nice.
+
+1192
+00:58:11,000 --> 00:58:12,912
+- <b><font color="#808000">(MONTY SCREECHES)</font></b>
+- Hold on. We got a bogey coming in.
+
+1193
+00:58:13,800 --> 00:58:16,759
+<b><font color="#408080">CLUMSY:</font></b> That's no bogey.
+That's Gargamel's big dumb bird!
+
+1194
+00:58:16,960 --> 00:58:17,996
+<b><font color="#808000">(SCREECHING)</font></b>
+
+1195
+00:58:18,080 --> 00:58:19,309
+Here, you fly.
+
+1196
+00:58:19,400 --> 00:58:22,791
+Uh, that's not a great idea.
+Flying's not really my thing.
+
+1197
+00:58:22,880 --> 00:58:24,360
+Have you ever flown before?
+
+1198
+00:58:24,440 --> 00:58:25,920
+Well, no.
+
+1199
+00:58:26,000 --> 00:58:28,071
+Well, then how do you know
+it's not your thing?
+
+1200
+00:58:28,920 --> 00:58:30,877
+- <b><font color="#808000">(SCREECHING)</font></b>
+- <b><font color="#408080">SMURFSTORM:</font></b> He's coming back.
+
+1201
+00:58:31,240 --> 00:58:33,675
+- Uh... Oh, what do I...
+- Hurry!
+
+1202
+00:58:33,760 --> 00:58:34,876
+What do I do now?
+
+1203
+00:58:35,680 --> 00:58:37,160
+- <b><font color="#408080">SMURFSTORM:</font></b> Oh! Good move!
+- Whoa, whoa!
+
+1204
+00:58:37,280 --> 00:58:40,079
+- Now, do it again!
+- Okay.
+
+1205
+00:58:40,200 --> 00:58:41,429
+Thanks.
+
+1206
+00:58:42,120 --> 00:58:43,554
+<b><font color="#808000">(COUGHS)</font></b>
+
+1207
+00:58:43,640 --> 00:58:44,960
+Hyah! Oh!
+
+1208
+00:58:46,120 --> 00:58:47,110
+<b><font color="#808000">(MONTY SCREECHING)</font></b>
+
+1209
+00:58:49,160 --> 00:58:50,150
+<b><font color="#408080">CLUMSY:</font></b> Whoa!
+
+1210
+00:58:50,280 --> 00:58:52,840
+Yes. Wait a minute.
+
+1211
+00:58:54,440 --> 00:58:56,955
+I don't recognize that other Smurf.
+
+1212
+00:58:59,520 --> 00:59:01,273
+<b><font color="#808000">(MEOWING)</font></b>
+
+1213
+00:59:01,360 --> 00:59:04,273
+<b><font color="#808000">(GASPS)</font></b> They found my lost Smurf village.
+
+1214
+00:59:04,440 --> 00:59:06,033
+<b><font color="#808000">(SCREECHING)</font></b>
+
+1215
+00:59:08,480 --> 00:59:09,960
+<b><font color="#808000">(CLUMSY YELLING)</font></b>
+
+1216
+00:59:11,440 --> 00:59:12,874
+<b><font color="#808000">(SQUAWKING)</font></b>
+
+1217
+00:59:16,000 --> 00:59:17,275
+Hey, I've got an idea.
+
+1218
+00:59:17,360 --> 00:59:19,875
+Spitfire, spit fire!
+
+1219
+00:59:21,160 --> 00:59:22,958
+I like the way you think.
+
+1220
+00:59:23,040 --> 00:59:26,272
+I guess I'm pretty good
+with dragonflies after all.
+
+1221
+00:59:26,640 --> 00:59:27,630
+<b><font color="#808000">(SCREECHES)</font></b>
+
+1222
+00:59:37,160 --> 00:59:38,389
+Monty!
+
+1223
+00:59:38,480 --> 00:59:41,359
+What have they done to you,
+my glorious bird of prey?
+
+1224
+00:59:41,480 --> 00:59:42,675
+<b><font color="#808000">(SQUAWKS IN PAIN)</font></b>
+
+1225
+00:59:43,400 --> 00:59:44,390
+- <b><font color="#808000">(THUDS)</font></b>
+- <b><font color="#808000">(MONTY WHIMPERS)</font></b>
+
+1226
+00:59:44,480 --> 00:59:48,520
+Smurfs!
+
+1227
+00:59:57,200 --> 00:59:59,590
+Hmm? <b><font color="#808000">(GROANS)</font></b>
+
+1228
+01:00:07,680 --> 01:00:08,670
+Hmm.
+
+1229
+01:00:08,760 --> 01:00:10,558
+Shiatsu or Swedish?
+
+1230
+01:00:11,440 --> 01:00:12,510
+Probably Swedish.
+
+1231
+01:00:15,920 --> 01:00:16,910
+<b><font color="#808000">(YELPS)</font></b>
+
+1232
+01:00:18,840 --> 01:00:19,830
+<b><font color="#808000">(GROANS)</font></b>
+
+1233
+01:00:20,800 --> 01:00:25,113
+So, about all that stuff
+I said back at the beach...
+
+1234
+01:00:25,200 --> 01:00:27,760
+I guess I kind of overreacted.
+
+1235
+01:00:29,080 --> 01:00:30,070
+Ow.
+
+1236
+01:00:30,920 --> 01:00:32,752
+Yeah. Me, too.
+
+1237
+01:00:33,680 --> 01:00:35,911
+So, uh, we good?
+
+1238
+01:00:36,000 --> 01:00:38,231
+- Yeah, we're good.
+- <b><font color="#408080">SMURFETTE:</font></b> Hey, guys.
+
+1239
+01:00:44,600 --> 01:00:46,592
+Isn't this place awesome?
+
+1240
+01:00:47,720 --> 01:00:49,473
+<b><font color="#808000">(GASPS)</font></b> Doesn't she look great?
+
+1241
+01:00:49,560 --> 01:00:51,472
+It's like she's one of us now.
+
+1242
+01:00:51,560 --> 01:00:53,631
+<b><font color="#808000">(GASPS)</font></b> She should stay with us forever.
+
+1243
+01:00:53,720 --> 01:00:55,473
+<b><font color="#808000">(OTHERS CHEERING, CLAPPING)</font></b>
+
+1244
+01:00:55,560 --> 01:00:57,517
+Uh, one, she always looks great.
+
+1245
+01:00:57,600 --> 01:01:01,037
+And two, this is getting
+a little out of hand, don't you think?
+
+1246
+01:01:01,120 --> 01:01:05,592
+<b><font color="#808000">(LAUGHS)</font></b> Sorry. I can't take you seriously
+with that mask on your face.
+
+1247
+01:01:09,000 --> 01:01:11,959
+Hey, Smurfette, we did
+what we came here to do.
+
+1248
+01:01:12,040 --> 01:01:13,679
+These Smurfs know about Gargamel.
+
+1249
+01:01:13,760 --> 01:01:16,673
+So, come on, let's start
+thinking about heading home.
+
+1250
+01:01:16,760 --> 01:01:17,750
+Home?
+
+1251
+01:01:18,760 --> 01:01:21,150
+But I... I...
+
+1252
+01:01:21,280 --> 01:01:22,475
+<b><font color="#408080">HEFTY:</font></b> It's time to go.
+
+1253
+01:01:26,440 --> 01:01:27,669
+Smurfette?
+
+1254
+01:01:27,760 --> 01:01:29,513
+<b><font color="#408080">CLUMSY:</font></b> Incoming!
+
+1255
+01:01:34,840 --> 01:01:38,675
+Turns out I do do well with dragonflies.
+
+1256
+01:01:38,760 --> 01:01:42,959
+They were right. This Gargamel character,
+he's real, and he's headed this way.
+
+1257
+01:01:43,040 --> 01:01:44,872
+Oh, no. See? I told you...
+
+1258
+01:01:44,960 --> 01:01:46,679
+Put a cork in it, Smurfette.
+
+1259
+01:01:46,760 --> 01:01:50,071
+The way I see it, you and your little
+boyfriends led him straight to us.
+
+1260
+01:01:50,160 --> 01:01:52,629
+But, of course,
+that was your plan all along, wasn't it?
+
+1261
+01:01:52,720 --> 01:01:55,315
+Smurfstorm, easy.
+
+1262
+01:01:55,400 --> 01:01:58,234
+Little Miss Yellow Hair
+isn't even a real Smurf.
+
+1263
+01:01:58,320 --> 01:02:00,789
+- She was created by Gargamel.
+- <b><font color="#808000">(OTHERS GASPING)</font></b>
+
+1264
+01:02:00,880 --> 01:02:03,190
+The Clumsy blob told me so himself.
+
+1265
+01:02:03,320 --> 01:02:04,470
+- <b><font color="#808000">(GASPING)</font></b>
+- <b><font color="#408080">SMURF 1:</font></b> What?
+
+1266
+01:02:04,560 --> 01:02:07,120
+Smurfette, is that true?
+
+1267
+01:02:07,240 --> 01:02:09,357
+<b><font color="#808000">(STUTTERS)</font></b> It's not like that.
+
+1268
+01:02:09,440 --> 01:02:11,716
+She was made to help him find Smurfs.
+
+1269
+01:02:11,800 --> 01:02:14,554
+Smurfette came here to help you. We all did.
+
+1270
+01:02:14,640 --> 01:02:17,599
+It's okay, Hefty. This is all my fault.
+
+1271
+01:02:19,120 --> 01:02:20,998
+- <b><font color="#808000">(SQUAWKING IN DISTANCE)</font></b>
+- <b><font color="#808000">(GASPS)</font></b>
+
+1272
+01:02:21,080 --> 01:02:22,719
+Girls, protection mode.
+
+1273
+01:02:23,200 --> 01:02:24,554
+<b><font color="#808000">(MURMURING)</font></b>
+
+1274
+01:02:25,400 --> 01:02:26,880
+Come on, bro, let's help.
+
+1275
+01:02:35,760 --> 01:02:38,116
+- <b><font color="#808000">(INSECTS TRILLING)</font></b>
+- <b><font color="#808000">(DISTANT BIRDCALLS)</font></b>
+
+1276
+01:02:43,080 --> 01:02:44,912
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1277
+01:02:50,960 --> 01:02:52,314
+Isn't this exciting?
+
+1278
+01:02:52,560 --> 01:02:53,550
+<b><font color="#408080">ALL:</font></b> Shh!
+
+1279
+01:02:55,800 --> 01:02:56,916
+Hold.
+
+1280
+01:02:59,360 --> 01:03:00,510
+Hold.
+
+1281
+01:03:00,680 --> 01:03:01,670
+<b><font color="#808000">(NEIGHING)</font></b>
+
+1282
+01:03:03,360 --> 01:03:04,350
+Now!
+
+1283
+01:03:08,040 --> 01:03:09,030
+<b><font color="#808000">(GRUNTS)</font></b>
+
+1284
+01:03:09,520 --> 01:03:11,034
+Surrender, wizard.
+
+1285
+01:03:11,120 --> 01:03:12,713
+What? Wizard?
+
+1286
+01:03:12,800 --> 01:03:15,360
+- <b><font color="#808000">(MURMURING)</font></b>
+- Oh, he's so old.
+
+1287
+01:03:15,440 --> 01:03:17,033
+- Is he wearing a disguise?
+- Look at his face.
+
+1288
+01:03:17,120 --> 01:03:18,600
+This is impossible.
+
+1289
+01:03:18,680 --> 01:03:20,273
+He doesn't seem so tough.
+
+1290
+01:03:20,360 --> 01:03:23,671
+Yeah, Gargamel! That's what you get
+when you attack Smurfy Grove.
+
+1291
+01:03:23,760 --> 01:03:27,390
+- Gargamel? What are you talking about?
+- No, no, no, wait. This is a mistake.
+
+1292
+01:03:27,480 --> 01:03:28,630
+- <b><font color="#408080">OTHERS:</font></b> What?
+- Smurfette?
+
+1293
+01:03:28,720 --> 01:03:30,040
+That's Papa.
+
+1294
+01:03:30,120 --> 01:03:31,952
+- Papa?
+- Papa?
+
+1295
+01:03:32,040 --> 01:03:33,633
+There's another funny word.
+
+1296
+01:03:33,720 --> 01:03:36,519
+Papa. Papa. Papa!
+
+1297
+01:03:36,600 --> 01:03:38,239
+Smurfblossom, no.
+
+1298
+01:03:38,320 --> 01:03:40,994
+Breathe deep
+and step away from the Papa-thing.
+
+1299
+01:03:41,080 --> 01:03:43,675
+Everyone, meet Papa Smurf.
+
+1300
+01:03:45,560 --> 01:03:46,994
+<b><font color="#408080">ALL:</font></b> Hey.
+
+1301
+01:03:47,080 --> 01:03:49,072
+- Hey.
+- Hi. I'm Smurfjade.
+
+1302
+01:03:52,480 --> 01:03:53,834
+Where are the boys?
+
+1303
+01:03:54,600 --> 01:03:55,829
+<b><font color="#808000">(GRUNTS, SIGHS)</font></b>
+
+1304
+01:03:55,920 --> 01:03:58,640
+- 'Sup, Papa?
+- Hello there.
+
+1305
+01:03:58,720 --> 01:03:59,995
+I rode a dragonfly!
+
+1306
+01:04:00,080 --> 01:04:03,790
+Well, thank goodness you're all okay.
+
+1307
+01:04:03,880 --> 01:04:05,712
+How did you find us?
+
+1308
+01:04:05,800 --> 01:04:08,190
+<b><font color="#808000">(CHUCKLES)</font></b> I wasn't born yesterday, you know.
+
+1309
+01:04:08,320 --> 01:04:09,674
+<b><font color="#808000">(CHUCKLES)</font></b> Yeah, that's clear.
+
+1310
+01:04:09,760 --> 01:04:13,310
+Look, you four are coming home with me. Now.
+
+1311
+01:04:13,400 --> 01:04:14,880
+Not so fast, Papa-thing.
+
+1312
+01:04:14,960 --> 01:04:18,032
+"Papa-thing"?
+Are you the one in charge here?
+
+1313
+01:04:18,120 --> 01:04:21,431
+That's right.
+I'm Smurfwillow, leader of the Smurfs.
+
+1314
+01:04:21,520 --> 01:04:23,239
+I'm afraid that's quite impossible,
+
+1315
+01:04:23,320 --> 01:04:25,073
+because I happen to be
+the leader of the Smurfs.
+
+1316
+01:04:25,160 --> 01:04:26,958
+Whatever you say, Papa-thing.
+
+1317
+01:04:27,040 --> 01:04:29,316
+Excuse me, do you mind not calling me that?
+
+1318
+01:04:29,400 --> 01:04:31,437
+Well, if the thing fits...
+
+1319
+01:04:31,520 --> 01:04:34,274
+By the way, where'd you learn those moves?
+
+1320
+01:04:34,360 --> 01:04:35,714
+Self-taught, actually.
+
+1321
+01:04:35,800 --> 01:04:37,029
+Impressive.
+
+1322
+01:04:37,120 --> 01:04:38,110
+Thank you.
+
+1323
+01:04:38,200 --> 01:04:40,192
+You're quite welcome.
+
+1324
+01:04:40,280 --> 01:04:42,715
+Okay, not really sure what's happening here,
+
+1325
+01:04:42,800 --> 01:04:44,757
+but, uh, what about Gargamel?
+
+1326
+01:04:44,840 --> 01:04:47,480
+What? What is all this talk about Garga...
+
+1327
+01:04:48,520 --> 01:04:50,079
+<b><font color="#808000">(EVIL LAUGHTER)</font></b>
+
+1328
+01:04:50,160 --> 01:04:51,276
+- Gargamel!
+- <b><font color="#808000">(SMURFS SCREAMING)</font></b>
+
+1329
+01:04:51,360 --> 01:04:53,670
+Oh, I'm sorry. Did I scare you?
+
+1330
+01:04:53,760 --> 01:04:56,036
+- No!
+- I hope so.
+
+1331
+01:04:56,160 --> 01:04:57,719
+- Everybody, run!
+- <b><font color="#408080">SMURFSTORM:</font></b> Arm yourselves!
+
+1332
+01:04:57,800 --> 01:05:00,315
+Prepare for Garmageddon!
+
+1333
+01:05:00,800 --> 01:05:03,110
+<b><font color="#808000">(GRUNTS, LAUGHS)</font></b>
+
+1334
+01:05:03,280 --> 01:05:04,316
+<b><font color="#408080">HEFTY:</font></b> This way!
+
+1335
+01:05:05,000 --> 01:05:05,990
+<b><font color="#808000">(SCREECHES)</font></b>
+
+1336
+01:05:07,160 --> 01:05:08,150
+<b><font color="#808000">(FRANTIC CHATTER)</font></b>
+
+1337
+01:05:08,960 --> 01:05:10,679
+<b><font color="#808000">(GRUNTING)</font></b>
+
+1338
+01:05:10,800 --> 01:05:12,553
+Spears, now!
+
+1339
+01:05:12,640 --> 01:05:14,677
+Gargamel says freeze!
+
+1340
+01:05:14,760 --> 01:05:16,240
+<b><font color="#808000">(BLOWS)</font></b>
+
+1341
+01:05:16,320 --> 01:05:18,915
+That's right. Smurf-tested,
+Gargamel-approved,
+
+1342
+01:05:19,000 --> 01:05:22,391
+grade-A, first-class,
+high-octane freeze balls.
+
+1343
+01:05:22,520 --> 01:05:25,115
+Freeze ball! Freeze ball!
+Freeze ball! Freeze ball!
+
+1344
+01:05:25,200 --> 01:05:26,270
+<b><font color="#408080">HEFTY:</font></b> Look out!
+
+1345
+01:05:27,080 --> 01:05:29,151
+- <b><font color="#808000">(GARGAMEL LAUGHING)</font></b>
+- <b><font color="#808000">(AZRAEL MEOWING)</font></b>
+
+1346
+01:05:29,240 --> 01:05:32,472
+Well, I assume they'll still work
+if I don't shout "freeze ball,"
+
+1347
+01:05:32,560 --> 01:05:34,279
+but we'll never know.
+
+1348
+01:05:34,360 --> 01:05:36,397
+- Freeze ball!
+- <b><font color="#408080">HEFTY:</font></b> Smurfette!
+
+1349
+01:05:36,840 --> 01:05:37,830
+<b><font color="#808000">(GASPS)</font></b>
+
+1350
+01:05:38,160 --> 01:05:39,992
+<b><font color="#808000">(SCREECHES)</font></b>
+
+1351
+01:05:40,680 --> 01:05:42,672
+<b><font color="#808000">(SCREAMING, GASPING)</font></b>
+
+1352
+01:05:45,680 --> 01:05:48,149
+- Hefty.
+- It's over, Smurfette.
+
+1353
+01:05:48,320 --> 01:05:49,436
+<b><font color="#808000">(GARGAMEL LAUGHING)</font></b>
+
+1354
+01:05:49,520 --> 01:05:52,274
+- Monty, bag o' Smurfs. Ah!
+- <b><font color="#808000">(MONTY SCREECHES)</font></b>
+
+1355
+01:05:52,360 --> 01:05:54,955
+It's time for you to run.
+
+1356
+01:05:55,040 --> 01:05:56,952
+- No!
+- Three more for pickup.
+
+1357
+01:05:57,200 --> 01:05:58,680
+- <b><font color="#808000">(LAUGHS)</font></b>
+- <b><font color="#808000">(MONTY SCREECHES)</font></b>
+
+1358
+01:05:58,960 --> 01:06:00,189
+<b><font color="#808000">(EVIL LAUGHTER)</font></b>
+
+1359
+01:06:01,640 --> 01:06:04,792
+Ah, Smurfette. My little creation.
+
+1360
+01:06:04,880 --> 01:06:07,952
+You finally did what you were made for.
+
+1361
+01:06:08,040 --> 01:06:10,271
+No. It's not true.
+
+1362
+01:06:10,400 --> 01:06:11,550
+Of course it is.
+
+1363
+01:06:11,640 --> 01:06:13,472
+Why do you think you led me here?
+
+1364
+01:06:13,560 --> 01:06:16,792
+Why do you think you saved me on the river?
+
+1365
+01:06:16,880 --> 01:06:19,714
+It was all part of the plan.
+
+1366
+01:06:21,480 --> 01:06:26,396
+No matter how hard you try,
+you can't escape your destiny.
+
+1367
+01:06:26,560 --> 01:06:27,550
+<b><font color="#808000">(GASPS)</font></b>
+
+1368
+01:06:27,640 --> 01:06:29,916
+And now, you're really
+of no use to me anymore.
+
+1369
+01:06:30,000 --> 01:06:31,480
+Freeze ball!
+
+1370
+01:06:31,920 --> 01:06:32,910
+<b><font color="#808000">(CHUCKLING)</font></b>
+
+1371
+01:06:34,800 --> 01:06:39,670
+Ah, yes, these freeze balls
+only work on real Smurfs.
+
+1372
+01:06:39,760 --> 01:06:42,753
+And you are nothing more than a lump of clay.
+
+1373
+01:06:44,000 --> 01:06:46,913
+Thank you for everything.
+
+1374
+01:06:47,000 --> 01:06:51,517
+Smurfette? How could you do this to us?
+
+1375
+01:06:51,600 --> 01:06:54,911
+Because it was her purpose. <b><font color="#808000">(CHUCKLES)</font></b>
+
+1376
+01:06:57,440 --> 01:06:58,954
+<b><font color="#808000">(THUNDER RUMBLING)</font></b>
+
+1377
+01:07:05,880 --> 01:07:07,280
+<b><font color="#808000">(STIFLED SOBS)</font></b>
+
+1378
+01:07:15,280 --> 01:07:17,590
+<b><font color="#808000">(SOBBING)</font></b>
+
+1379
+01:07:20,440 --> 01:07:22,113
+<b><font color="#808000">(MURMURING)</font></b>
+
+1380
+01:07:24,920 --> 01:07:25,956
+<b><font color="#808000">(MURMURS)</font></b>
+
+1381
+01:07:29,480 --> 01:07:31,472
+<b><font color="#808000">(MURMURING)</font></b>
+
+1382
+01:07:33,280 --> 01:07:34,714
+<b><font color="#808000">(CONTINUES SOBBING)</font></b>
+
+1383
+01:07:34,880 --> 01:07:36,439
+<b><font color="#808000">(MURMURING)</font></b>
+
+1384
+01:07:38,800 --> 01:07:43,033
+<b><font color="#408080">BRAINY'S VOICE:</font></b>
+<i>Smurfy Thing Finder for four small Smurfs.</i>
+
+1385
+01:07:46,800 --> 01:07:47,790
+<b><font color="#808000">(MURMURING)</font></b>
+
+1386
+01:07:49,880 --> 01:07:51,519
+<b><font color="#808000">(SNIFFLES)</font></b> Huh?
+
+1387
+01:07:51,600 --> 01:07:53,080
+<b><font color="#808000">(SNAPPY BUG MURMURING)</font></b>
+
+1388
+01:07:53,720 --> 01:07:55,200
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1389
+01:08:09,080 --> 01:08:10,070
+<b><font color="#808000">(MURMURS)</font></b>
+
+1390
+01:08:17,880 --> 01:08:18,916
+<b><font color="#808000">(MURMURS)</font></b>
+
+1391
+01:08:25,680 --> 01:08:27,399
+I'm sorry, you guys.
+
+1392
+01:08:28,680 --> 01:08:30,114
+<b><font color="#808000">(SNAPPY BUG CHATTERING)</font></b>
+
+1393
+01:08:34,880 --> 01:08:35,870
+<b><font color="#808000">(MURMURING)</font></b>
+
+1394
+01:08:39,160 --> 01:08:42,870
+No, Snappy.
+I've done too much damage already.
+
+1395
+01:08:43,040 --> 01:08:44,713
+<b><font color="#808000">(CHATTERING)</font></b>
+
+1396
+01:08:48,040 --> 01:08:50,874
+<b><font color="#408080">HEFTY'S VOICE:</font></b>
+<i>We're Team Smurf, and we're in this together.</i>
+
+1397
+01:08:52,040 --> 01:08:53,360
+<b><font color="#808000">(SNAPPY BUG MURMURING)</font></b>
+
+1398
+01:08:54,800 --> 01:08:57,156
+<b><font color="#408080">SMURFETTE'S VOICE:</font></b>
+<i>We're Smurfs. We do the right thing.</i>
+
+1399
+01:08:58,920 --> 01:09:01,037
+I'm not even a real Smurf.
+
+1400
+01:09:03,200 --> 01:09:06,876
+<b><font color="#808000">(GASPS)</font></b> I'm not a real Smurf.
+
+1401
+01:09:07,720 --> 01:09:09,518
+<b><font color="#808000">(THUNDER RUMBLING)</font></b>
+
+1402
+01:09:10,080 --> 01:09:12,549
+<b><font color="#408080">GARGAMEL:</font></b> We need more power!
+
+1403
+01:09:13,080 --> 01:09:14,196
+<b><font color="#808000">(SQUAWKS)</font></b>
+
+1404
+01:09:14,280 --> 01:09:17,557
+- <b><font color="#408080">GARGAMEL:</font></b> Faster, Monty. Faster.
+- <b><font color="#808000">(SQUAWKS)</font></b>
+
+1405
+01:09:17,640 --> 01:09:18,869
+Yes.
+
+1406
+01:09:18,960 --> 01:09:20,553
+The jiggler's jiggling.
+
+1407
+01:09:20,640 --> 01:09:22,393
+The spinny thing is spinning.
+
+1408
+01:09:22,480 --> 01:09:23,709
+The smoke is going up.
+
+1409
+01:09:23,800 --> 01:09:25,473
+The bubblers are bubbling.
+
+1410
+01:09:25,680 --> 01:09:26,670
+Hubbuda, hubbuda.
+
+1411
+01:09:26,760 --> 01:09:27,750
+Perfect!
+
+1412
+01:09:27,840 --> 01:09:29,957
+Oh, it's almost there.
+
+1413
+01:09:30,920 --> 01:09:33,151
+Just keep running, old bird.
+
+1414
+01:09:33,320 --> 01:09:34,515
+<b><font color="#808000">(SQUAWKING)</font></b>
+
+1415
+01:09:34,600 --> 01:09:36,114
+Here's what we're going to do.
+
+1416
+01:09:36,200 --> 01:09:38,510
+- I pick this lock.
+- Yeah?
+
+1417
+01:09:38,600 --> 01:09:40,956
+- We swing to that shelf.
+- Yeah?
+
+1418
+01:09:41,040 --> 01:09:43,032
+- Pick up something heavy.
+- Yeah?
+
+1419
+01:09:43,120 --> 01:09:45,396
+And use it to kill the bird!
+
+1420
+01:09:45,480 --> 01:09:46,755
+- Yeah! What?
+- Yeah! Wait.
+
+1421
+01:09:46,840 --> 01:09:48,718
+You want us to kill the bird?
+
+1422
+01:09:48,800 --> 01:09:50,951
+Fine. We'll just knock him unconscious.
+
+1423
+01:09:51,080 --> 01:09:52,480
+- Genius!
+- All right, then.
+
+1424
+01:09:52,560 --> 01:09:53,710
+Let's do this.
+
+1425
+01:09:53,800 --> 01:09:56,793
+They have an escape plan,
+but they're going to need our help.
+
+1426
+01:09:56,920 --> 01:09:58,513
+It's time to rock the cage.
+
+1427
+01:09:58,600 --> 01:10:00,034
+Don't be weird.
+
+1428
+01:10:00,440 --> 01:10:01,874
+- <b><font color="#808000">(LOCK CLICKS)</font></b>
+- <b><font color="#808000">(GASPS)</font></b> Yes!
+
+1429
+01:10:01,960 --> 01:10:02,950
+<b><font color="#808000">(BOTH GRUNT AND WHOOP)</font></b>
+
+1430
+01:10:08,800 --> 01:10:10,154
+Okay. Now!
+
+1431
+01:10:12,240 --> 01:10:13,230
+<b><font color="#808000">(GRUNTING)</font></b>
+
+1432
+01:10:17,720 --> 01:10:19,393
+<b><font color="#808000">(CHATTERING)</font></b>
+
+1433
+01:10:19,480 --> 01:10:20,800
+Stop that, Azrael.
+
+1434
+01:10:20,880 --> 01:10:23,839
+I can't calibrate my machine
+with all your incessant yammering.
+
+1435
+01:10:23,920 --> 01:10:25,149
+<b><font color="#808000">(SIGHS, GROANS)</font></b>
+
+1436
+01:10:25,480 --> 01:10:26,470
+<b><font color="#808000">(LAUGHS)</font></b>
+
+1437
+01:10:26,560 --> 01:10:30,600
+Oh, yes, Azrael, listen to it.
+It purrs like a kitten.
+
+1438
+01:10:30,680 --> 01:10:31,670
+<b><font color="#808000">(AZRAEL PURRING)</font></b>
+
+1439
+01:10:33,960 --> 01:10:34,996
+- <b><font color="#808000">(AZRAEL YOWLS)</font></b>
+- <b><font color="#808000">(SMURFS GRUNTING)</font></b>
+
+1440
+01:10:35,080 --> 01:10:40,155
+<b><font color="#408080">GARGAMEL:</font></b> Oh, look at that.
+Everything is in sync. Yes, yes. Good.
+
+1441
+01:10:42,640 --> 01:10:43,630
+<b><font color="#808000">(GRUNTS)</font></b>
+
+1442
+01:10:44,400 --> 01:10:45,914
+- <b><font color="#808000">(YELLING)</font></b>
+- <b><font color="#808000">(AZRAEL SCREECHES)</font></b>
+
+1443
+01:10:49,480 --> 01:10:51,915
+<b><font color="#808000">(GASPS)</font></b> Sweet mercy! It's another jailbreak!
+
+1444
+01:10:54,920 --> 01:10:58,311
+- No, Gargamel. No.
+- Quiet down.
+
+1445
+01:10:58,440 --> 01:11:00,238
+You'll all get your turn.
+
+1446
+01:11:00,320 --> 01:11:01,515
+In you go!
+
+1447
+01:11:01,600 --> 01:11:03,034
+<b><font color="#808000">(SCREAMING)</font></b>
+
+1448
+01:11:03,120 --> 01:11:04,793
+- <b><font color="#408080">BOTH:</font></b> No!
+- <b><font color="#808000">(GASPING)</font></b>
+
+1449
+01:11:06,840 --> 01:11:10,151
+Yes, that's the stuff. <b><font color="#808000">(LAUGHS)</font></b>
+
+1450
+01:11:10,240 --> 01:11:12,880
+<b><font color="#808000">(SINGING)</font></b> <i>Oh, it's working</i>
+<i>It's working, it's working</i>
+
+1451
+01:11:13,160 --> 01:11:15,959
+<b><font color="#808000">(VOCALIZING A MERRY TUNE)</font></b>
+
+1452
+01:11:16,080 --> 01:11:20,279
+Oh, I can feel it. I can feel the power.
+
+1453
+01:11:20,760 --> 01:11:23,036
+Oh! <b><font color="#808000">(LAUGHS)</font></b>
+
+1454
+01:11:23,520 --> 01:11:24,510
+<b><font color="#808000">(GRUNTS)</font></b>
+
+1455
+01:11:27,040 --> 01:11:29,509
+Check out my wizard mane. <b><font color="#808000">(LAUGHS)</font></b>
+
+1456
+01:11:29,600 --> 01:11:31,034
+Really, man?
+
+1457
+01:11:31,920 --> 01:11:36,915
+When I'm through with these Smurfs,
+I'll have all the power I've ever dreamed of!
+
+1458
+01:11:37,040 --> 01:11:39,191
+<b><font color="#808000">(EVIL LAUGHTER)</font></b>
+
+1459
+01:11:39,280 --> 01:11:41,476
+<b><font color="#408080">SMURFETTE:</font></b> Almost all the power.
+
+1460
+01:11:41,960 --> 01:11:42,950
+Huh?
+
+1461
+01:11:44,760 --> 01:11:45,910
+Smurfette.
+
+1462
+01:11:46,000 --> 01:11:49,038
+Smurfette, what a lovely surprise.
+
+1463
+01:11:49,120 --> 01:11:51,430
+Are you done crying in the woods?
+
+1464
+01:11:51,520 --> 01:11:55,400
+I've shed enough tears for those Smurfs.
+
+1465
+01:11:55,480 --> 01:11:56,470
+What's this?
+
+1466
+01:11:56,560 --> 01:11:59,473
+I'm done pretending to be something I'm not.
+
+1467
+01:11:59,560 --> 01:12:04,077
+I've come to repledge my loyalty to you,
+my true Papa.
+
+1468
+01:12:04,680 --> 01:12:05,830
+<b><font color="#808000">(GASPS)</font></b>
+
+1469
+01:12:05,920 --> 01:12:08,515
+- Impossible.
+- She can't be serious.
+
+1470
+01:12:08,600 --> 01:12:10,193
+No, no, no, she would never.
+
+1471
+01:12:10,280 --> 01:12:13,478
+Even if I did believe you, which I don't,
+
+1472
+01:12:13,560 --> 01:12:16,553
+what could you possibly offer me
+that I don't already have?
+
+1473
+01:12:16,640 --> 01:12:19,678
+A tiny little massage that I can't even feel?
+
+1474
+01:12:19,760 --> 01:12:22,753
+How about the rest of the Smurfs?
+
+1475
+01:12:22,840 --> 01:12:24,991
+<b><font color="#808000">(LAUGHS)</font></b> Yeah, right. Wait, what?
+
+1476
+01:12:25,080 --> 01:12:31,600
+Just think of all the power you'll have
+once I reveal the location of Smurf Village.
+
+1477
+01:12:32,360 --> 01:12:34,670
+<b><font color="#808000">(SMURFS GASPING)</font></b>
+
+1478
+01:12:34,760 --> 01:12:37,070
+<b><font color="#808000">(LAUGHS)</font></b> Oh, let's see now.
+
+1479
+01:12:37,160 --> 01:12:39,311
+One hundred more Smurfs,
+that's 10 times the power...
+
+1480
+01:12:39,400 --> 01:12:41,676
+No. If you carry the one... <b><font color="#808000">(GROANS)</font></b>
+
+1481
+01:12:41,760 --> 01:12:43,672
+Whatever. It's a lot more power.
+
+1482
+01:12:43,760 --> 01:12:46,719
+Now, why are you doing this?
+
+1483
+01:12:46,840 --> 01:12:49,514
+I'm so tired of being good.
+
+1484
+01:12:49,600 --> 01:12:53,435
+Use your power to transform me
+back to my evil self.
+
+1485
+01:12:53,600 --> 01:12:54,954
+<b><font color="#808000">(LAUGHS)</font></b>
+
+1486
+01:12:55,040 --> 01:12:57,191
+Your loyalty has returned to you.
+
+1487
+01:12:57,280 --> 01:12:59,272
+So, do we have a deal?
+
+1488
+01:12:59,360 --> 01:13:00,874
+Smurfette, no!
+
+1489
+01:13:00,960 --> 01:13:03,236
+Quiet, you vile blue rats. I'm thinking.
+
+1490
+01:13:03,320 --> 01:13:04,356
+- <b><font color="#808000">(CLOCK TICKS)</font></b>
+- <b><font color="#808000">(BELL DINGS)</font></b>
+
+1491
+01:13:04,480 --> 01:13:06,756
+Okay, I'm done. Let's do it.
+
+1492
+01:13:06,840 --> 01:13:10,356
+One evil Smurfette coming right up!
+
+1493
+01:13:10,640 --> 01:13:12,074
+<b><font color="#808000">(SMURFETTE GRUNTS, WHIMPERS)</font></b>
+
+1494
+01:13:14,480 --> 01:13:15,470
+<b><font color="#808000">(WHIMPERING)</font></b>
+
+1495
+01:13:25,640 --> 01:13:27,632
+Wait. Of course!
+
+1496
+01:13:27,920 --> 01:13:28,910
+<b><font color="#808000">(LAUGHING)</font></b>
+
+1497
+01:13:29,000 --> 01:13:31,390
+What? Oh, what's happening?
+
+1498
+01:13:31,480 --> 01:13:33,631
+No! No!
+
+1499
+01:13:33,760 --> 01:13:35,035
+What are you doing?
+
+1500
+01:13:35,800 --> 01:13:37,917
+- Yeah! Go, Smurfette!
+- Whoo!
+
+1501
+01:13:40,320 --> 01:13:43,313
+Azrael, help! More power!
+
+1502
+01:13:44,400 --> 01:13:45,720
+<b><font color="#808000">(YOWLING)</font></b>
+
+1503
+01:13:47,520 --> 01:13:49,910
+- <b><font color="#808000">(LAUGHS)</font></b>
+- What are we going to do?
+
+1504
+01:13:51,800 --> 01:13:54,156
+Bingo. We Smurfboard.
+
+1505
+01:13:55,840 --> 01:13:57,797
+- <b><font color="#808000">(GRUNTING)</font></b>
+- <b><font color="#408080">BRAINY:</font></b> Whoa!
+
+1506
+01:13:58,760 --> 01:14:01,195
+<b><font color="#408080">BOTH:</font></b> Team Smurf!
+
+1507
+01:14:01,280 --> 01:14:02,794
+Payback time.
+
+1508
+01:14:03,360 --> 01:14:04,840
+<b><font color="#808000">(SQUAWKS IN PAIN)</font></b>
+
+1509
+01:14:05,720 --> 01:14:06,710
+<b><font color="#808000">(BABBLING)</font></b>
+
+1510
+01:14:08,920 --> 01:14:10,240
+<b><font color="#808000">(BOTH WHOOPING)</font></b>
+
+1511
+01:14:11,640 --> 01:14:13,199
+<b><font color="#808000">(SMURFETTE GRUNTING)</font></b>
+
+1512
+01:14:17,680 --> 01:14:18,955
+No!
+
+1513
+01:14:19,040 --> 01:14:20,030
+<b><font color="#808000">(GRUNTING)</font></b>
+
+1514
+01:14:22,280 --> 01:14:23,714
+<b><font color="#808000">(GRUNTING)</font></b>
+
+1515
+01:14:25,240 --> 01:14:26,469
+- <b><font color="#808000">(YELLING)</font></b>
+- <b><font color="#808000">(AZRAEL SCREECHES)</font></b>
+
+1516
+01:14:27,040 --> 01:14:28,030
+<b><font color="#808000">(EXPLOSION)</font></b>
+
+1517
+01:14:28,120 --> 01:14:29,713
+<b><font color="#808000">(SCREAMING)</font></b>
+
+1518
+01:14:32,040 --> 01:14:33,554
+<b><font color="#808000">(SCREAMING)</font></b>
+
+1519
+01:14:35,400 --> 01:14:37,039
+<b><font color="#808000">(GRUNTING AND GROANING)</font></b>
+
+1520
+01:14:37,120 --> 01:14:39,316
+<b><font color="#408080">GARGAMEL:</font></b> Smurfintine! Smurfintine!
+
+1521
+01:14:43,440 --> 01:14:44,476
+<b><font color="#808000">(ALL CHEERING)</font></b> We're free!
+
+1522
+01:14:48,040 --> 01:14:49,793
+<b><font color="#808000">(GROANS, GASPS)</font></b>
+
+1523
+01:14:49,920 --> 01:14:51,513
+I'm okay. Yeah!
+
+1524
+01:14:52,160 --> 01:14:53,640
+I thought we were goners.
+
+1525
+01:14:53,720 --> 01:14:55,393
+All right. Everybody. Thank goodness.
+
+1526
+01:14:55,480 --> 01:14:57,073
+- All right!
+- I'm okay!
+
+1527
+01:14:57,160 --> 01:14:59,834
+She did it! She did it!
+
+1528
+01:14:59,920 --> 01:15:01,240
+Where's Smurfette?
+
+1529
+01:15:02,080 --> 01:15:03,150
+Hey.
+
+1530
+01:15:16,360 --> 01:15:17,430
+Smurfette?
+
+1531
+01:15:23,640 --> 01:15:24,915
+What happened?
+
+1532
+01:15:25,680 --> 01:15:27,672
+This is what she once was.
+
+1533
+01:15:33,240 --> 01:15:34,230
+<b><font color="#808000">(CRYING)</font></b>
+
+1534
+01:15:36,440 --> 01:15:39,160
+No. No, no, no.
+
+1535
+01:15:39,240 --> 01:15:42,312
+There's gotta be something I can do.
+There's gotta be a spell.
+
+1536
+01:15:43,320 --> 01:15:45,880
+There's gotta be something. I know there is.
+
+1537
+01:15:45,960 --> 01:15:48,873
+Where is it? What page? Must be here.
+
+1538
+01:15:48,960 --> 01:15:52,112
+"Alchemy, vanishing, lead into gold."
+No, that's not it.
+
+1539
+01:15:52,200 --> 01:15:54,192
+- Papa.
+- Which spell? Which spell?
+
+1540
+01:15:54,280 --> 01:15:55,839
+Papa.
+
+1541
+01:15:55,920 --> 01:15:59,391
+We won't find the answer to this in a book.
+
+1542
+01:16:05,160 --> 01:16:06,799
+Let's take her home.
+
+1543
+01:16:07,480 --> 01:16:09,199
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1544
+01:16:11,320 --> 01:16:13,960
+<b><font color="#808000">(SINGING)</font></b> <i>I knew that I was different</i>
+
+1545
+01:16:14,040 --> 01:16:17,158
+<i>Didn't think you'd understand</i>
+
+1546
+01:16:17,240 --> 01:16:20,153
+<i>Nothing happens like you plan it</i>
+
+1547
+01:16:20,240 --> 01:16:21,833
+<i>Anyway</i>
+
+1548
+01:16:23,240 --> 01:16:25,880
+<i>Searching for a reason</i>
+
+1549
+01:16:25,960 --> 01:16:28,395
+<i>Guess I never really knew</i>
+
+1550
+01:16:28,520 --> 01:16:31,160
+<i>Where I belong</i>
+
+1551
+01:16:32,600 --> 01:16:34,751
+<i>I can see things clearly</i>
+
+1552
+01:16:34,840 --> 01:16:37,833
+<i>But it's time to say goodbye</i>
+
+1553
+01:16:37,920 --> 01:16:40,435
+<i>And it leaves me asking why</i>
+
+1554
+01:16:40,520 --> 01:16:42,796
+<i>It took so long</i>
+
+1555
+01:16:44,160 --> 01:16:46,152
+<i>I was always trying</i>
+
+1556
+01:16:46,240 --> 01:16:49,119
+<i>To find that special thing inside</i>
+
+1557
+01:16:49,200 --> 01:16:52,830
+<i>That made me strong</i>
+
+1558
+01:16:53,000 --> 01:16:56,960
+<i>Love is all I need</i>
+
+1559
+01:16:57,040 --> 01:16:58,030
+<b><font color="#808000">(SNIFFLING)</font></b>
+
+1560
+01:16:58,120 --> 01:17:01,397
+<i>It's where it all began</i>
+
+1561
+01:17:02,720 --> 01:17:06,270
+<i>You will always find me</i>
+
+1562
+01:17:06,360 --> 01:17:07,840
+<i>In your heart</i>
+
+1563
+01:17:07,920 --> 01:17:09,593
+<b><font color="#808000">(WHIMPERING, SOBBING)</font></b>
+
+1564
+01:17:10,400 --> 01:17:11,800
+<i>Oh</i>
+
+1565
+01:17:12,720 --> 01:17:16,236
+<i>I know that you can see</i>
+
+1566
+01:17:17,640 --> 01:17:21,554
+<i>Just who I really am</i>
+
+1567
+01:17:23,240 --> 01:17:24,913
+<i>And then you'll see</i>
+
+1568
+01:17:25,560 --> 01:17:29,793
+<i>I really do belong</i>
+
+1569
+01:17:35,960 --> 01:17:37,633
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1570
+01:17:42,640 --> 01:17:45,155
+She never thought she was a real Smurf.
+
+1571
+01:17:47,080 --> 01:17:49,914
+But she was the truest Smurf of all.
+
+1572
+01:18:04,760 --> 01:18:06,558
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1573
+01:18:18,200 --> 01:18:19,953
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1574
+01:18:31,400 --> 01:18:34,313
+- <b><font color="#808000">(CRYING)</font></b>
+- <b><font color="#408080">SMURFETTE:</font></b> Why is everyone crying?
+
+1575
+01:18:34,400 --> 01:18:36,232
+<b><font color="#808000">(SNIFFLES)</font></b> It's Smurfette.
+
+1576
+01:18:36,320 --> 01:18:38,277
+She's a lump of clay.
+
+1577
+01:18:38,360 --> 01:18:41,671
+<b><font color="#408080">SMURFETTE:</font></b> <b><font color="#808000">(CHUCKLES)</font></b> No, Clumsy,
+it's me. I'm right here.
+
+1578
+01:18:42,800 --> 01:18:44,120
+Smurfette?
+
+1579
+01:18:44,680 --> 01:18:45,716
+<b><font color="#808000">(CLUMSY GASPS)</font></b>
+
+1580
+01:18:45,800 --> 01:18:48,520
+It's Smurfette. It's Smurfette!
+
+1581
+01:18:48,600 --> 01:18:51,320
+- Quiet, Clumsy.
+- Let him be, Brainy.
+
+1582
+01:18:51,400 --> 01:18:53,596
+- <b><font color="#808000">(CLUMSY LAUGHING)</font></b>
+- We all grieve in our own way.
+
+1583
+01:18:53,680 --> 01:18:57,435
+- <b><font color="#408080">CLUMSY:</font></b> She's here!
+- Poor little bro. I know how he feels. <b><font color="#808000">(GASPS)</font></b>
+
+1584
+01:18:57,520 --> 01:18:59,079
+- <b><font color="#808000">(BOTH LAUGHING)</font></b>
+- Yeah!
+
+1585
+01:18:59,160 --> 01:19:00,310
+Smurfette!
+
+1586
+01:19:00,400 --> 01:19:03,313
+Oh, Hefty, not you, too. <b><font color="#808000">(GASPS)</font></b>
+
+1587
+01:19:03,400 --> 01:19:04,959
+You're all right!
+
+1588
+01:19:05,320 --> 01:19:06,595
+<b><font color="#808000">(WHOOPING, LAUGHING)</font></b>
+
+1589
+01:19:08,240 --> 01:19:10,152
+Don't ever do that to me again.
+
+1590
+01:19:10,240 --> 01:19:12,516
+I won't. I promise.
+
+1591
+01:19:14,080 --> 01:19:15,434
+- <b><font color="#808000">(LAUGHING, WHOOPING)</font></b>
+- Huh?
+
+1592
+01:19:15,560 --> 01:19:16,914
+<b><font color="#408080">BRAINY:</font></b> Yes, yes, yes!
+
+1593
+01:19:27,760 --> 01:19:29,558
+<b><font color="#808000">(CHUCKLES)</font></b>
+
+1594
+01:19:29,640 --> 01:19:32,394
+You never cease to amaze me.
+
+1595
+01:19:33,760 --> 01:19:36,320
+<b><font color="#808000">(CHEERS AND APPLAUSE)</font></b>
+
+1596
+01:19:36,400 --> 01:19:39,313
+<b><font color="#408080">PAPA SMURF:</font></b>
+<i>So, as for that burning question...</i>
+
+1597
+01:19:39,400 --> 01:19:41,119
+What's a Smurfette?
+
+1598
+01:19:41,200 --> 01:19:44,272
+Well, I don't need a book
+to tell you she's...
+
+1599
+01:19:44,360 --> 01:19:45,919
+- <b><font color="#808000">(SNAPPY BUG CHATTERING)</font></b>
+- Right.
+
+1600
+01:19:46,000 --> 01:19:49,232
+Smurfette can't be defined by just one word.
+
+1601
+01:19:49,320 --> 01:19:50,834
+She's many things.
+
+1602
+01:19:50,920 --> 01:19:53,799
+Oh, she doesn't know it yet,
+but she's my new best friend.
+
+1603
+01:19:53,880 --> 01:19:56,190
+Smurfette is a bunny wrangler.
+
+1604
+01:19:56,280 --> 01:19:57,794
+She's tough.
+
+1605
+01:19:57,880 --> 01:20:00,554
+Not as tough as me, but tough enough.
+
+1606
+01:20:00,640 --> 01:20:01,630
+<b><font color="#808000">(SPITFIRE CHATTERING)</font></b>
+
+1607
+01:20:02,040 --> 01:20:06,319
+Smurfette can be anything she wants to be.
+
+1608
+01:20:06,800 --> 01:20:08,200
+<b><font color="#808000">(ALL CHEERING)</font></b>
+
+1609
+01:20:09,360 --> 01:20:11,397
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1610
+01:20:12,960 --> 01:20:15,316
+<b><font color="#808000">(SINGING)</font></b> <i>I talk with a mouth full, uh-huh</i>
+
+1611
+01:20:15,400 --> 01:20:17,153
+<i>But I couldn't be sweeter</i>
+
+1612
+01:20:17,240 --> 01:20:18,230
+<b><font color="#808000">(BLOWING WHISTLE)</font></b>
+
+1613
+01:20:18,320 --> 01:20:20,232
+<i>Yep, I'm a cutie in my own way</i>
+
+1614
+01:20:20,320 --> 01:20:22,994
+<i>I won't play follow the leader</i>
+
+1615
+01:20:23,080 --> 01:20:24,150
+<i>And I don't look like them</i>
+
+1616
+01:20:24,240 --> 01:20:25,230
+<i>But I ain't worried about it</i>
+
+1617
+01:20:25,320 --> 01:20:26,310
+<b><font color="#808000">(WHOOPING)</font></b>
+
+1618
+01:20:26,400 --> 01:20:27,390
+<i>I don't talk like them</i>
+
+1619
+01:20:27,480 --> 01:20:28,834
+<i>But I ain't worried about it</i>
+
+1620
+01:20:28,920 --> 01:20:31,389
+<i>I know I'm a gem, I ain't worried about it</i>
+
+1621
+01:20:31,480 --> 01:20:34,154
+<i>I ain't worried about it, 'cause I'm a lady</i>
+
+1622
+01:20:35,400 --> 01:20:37,039
+<i>'Cause I'm a lady, hey!</i>
+
+1623
+01:20:37,760 --> 01:20:38,716
+<i>'Cause I'm a lady</i>
+
+1624
+01:20:38,800 --> 01:20:39,916
+<b><font color="#808000">(SNAPPY BUG CHATTERING)</font></b>
+
+1625
+01:20:40,760 --> 01:20:42,797
+<i>'Cause I'm a lady</i>
+<i>Come on</i>
+
+1626
+01:20:42,880 --> 01:20:44,792
+<i>I'm a, I'm a lady</i>
+
+1627
+01:20:44,880 --> 01:20:46,200
+<i>All my girls, show 'em you're a lady</i>
+
+1628
+01:20:46,280 --> 01:20:47,316
+<b><font color="#808000">(GRUNTING)</font></b>
+
+1629
+01:20:47,440 --> 01:20:48,760
+<i>Tell the world</i>
+
+1630
+01:20:48,840 --> 01:20:51,150
+<i>Say you're proud to be a lady</i>
+
+1631
+01:20:51,280 --> 01:20:53,476
+<i>I know I laugh too loud</i>
+
+1632
+01:20:53,560 --> 01:20:55,916
+- What's going on in there?
+- Goodbye!
+
+1633
+01:20:56,000 --> 01:20:56,990
+<b><font color="#808000">(LAUGHING)</font></b>
+
+1634
+01:20:57,120 --> 01:20:59,351
+<i>To all those judgy eyes</i>
+
+1635
+01:20:59,440 --> 01:21:01,477
+<i>I got a whole lotta love</i>
+
+1636
+01:21:01,560 --> 01:21:02,789
+<i>'Cause I don't roll like them</i>
+
+1637
+01:21:02,880 --> 01:21:04,314
+<i>But I ain't worried about it</i>
+
+1638
+01:21:04,400 --> 01:21:05,595
+<i>I don't move like them</i>
+
+1639
+01:21:05,680 --> 01:21:07,034
+<i>But I ain't worried about it</i>
+
+1640
+01:21:07,120 --> 01:21:08,474
+<i>I know I'm a gem</i>
+
+1641
+01:21:08,600 --> 01:21:09,795
+<i>But I ain't worried about it</i>
+
+1642
+01:21:09,880 --> 01:21:10,870
+<i>I ain't worried about it</i>
+
+1643
+01:21:10,960 --> 01:21:11,996
+<i>'Cause I'm a lady</i>
+
+1644
+01:21:12,080 --> 01:21:13,116
+<b><font color="#808000">(CHEERING)</font></b>
+
+1645
+01:21:13,880 --> 01:21:15,360
+<i>'Cause I'm a lady</i>
+
+1646
+01:21:16,440 --> 01:21:19,080
+- <i>I'm a lady, yeah</i>
+- <i>'Cause I'm a lady</i>
+
+1647
+01:21:19,160 --> 01:21:20,514
+<i>'Cause I'm a lady</i>
+
+1648
+01:21:20,600 --> 01:21:21,716
+<i>Come on, come on</i>
+
+1649
+01:21:21,800 --> 01:21:23,598
+<i>I'm a, 'cause I'm a lady</i>
+
+1650
+01:21:23,680 --> 01:21:25,911
+<i>All my girls, show 'em you're a lady</i>
+
+1651
+01:21:26,000 --> 01:21:28,595
+<i>Tell the world, say you're proud to be a lady</i>
+
+1652
+01:21:28,680 --> 01:21:31,354
+<i>All my girls, show 'em you're a lady</i>
+
+1653
+01:21:31,440 --> 01:21:32,920
+<i>Tell the world, say you're proud</i>
+
+1654
+01:21:33,000 --> 01:21:34,400
+- <i>To be a lady</i>
+- <i>I'm a, I'm a lady</i>
+
+1655
+01:21:34,480 --> 01:21:36,233
+Say, "Blue cheese!"
+
+1656
+01:21:36,320 --> 01:21:37,515
+<b><font color="#408080">ALL:</font></b> Blue cheese!
+
+1657
+01:21:37,920 --> 01:21:39,354
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1658
+01:21:39,440 --> 01:21:41,591
+<i>I talk with a mouth full, uh-huh</i>
+
+1659
+01:21:41,680 --> 01:21:44,115
+<i>But I couldn't be sweeter</i>
+
+1660
+01:21:44,200 --> 01:21:46,351
+<i>Yep, I'm a cutie in my own way</i>
+
+1661
+01:21:46,440 --> 01:21:49,319
+<i>I won't play follow the leader</i>
+
+1662
+01:21:49,400 --> 01:21:50,470
+<i>And I don't look like them</i>
+
+1663
+01:21:50,560 --> 01:21:51,676
+<i>But I ain't worried about it</i>
+
+1664
+01:21:51,800 --> 01:21:53,029
+<i>I don't talk like them</i>
+
+1665
+01:21:53,320 --> 01:21:54,913
+<i>I ain't worried about it</i>
+
+1666
+01:21:55,000 --> 01:21:57,356
+<i>I know I'm a gem, I ain't worried about it</i>
+
+1667
+01:21:57,440 --> 01:22:00,080
+<i>I ain't worried about it, 'cause I'm a lady</i>
+
+1668
+01:22:02,560 --> 01:22:04,119
+<i>Hey</i>
+
+1669
+01:22:04,200 --> 01:22:05,873
+<i>'Cause I'm a lady</i>
+
+1670
+01:22:08,000 --> 01:22:09,354
+<i>Come on</i>
+
+1671
+01:22:09,440 --> 01:22:11,033
+<i>I'm a, I'm a lady</i>
+
+1672
+01:22:11,360 --> 01:22:13,670
+<i>All my girls, show 'em you're a lady</i>
+
+1673
+01:22:13,760 --> 01:22:17,310
+<i>Tell the world, say you're proud to be a lady</i>
+
+1674
+01:22:17,400 --> 01:22:19,710
+<i>I know I laugh too loud</i>
+
+1675
+01:22:19,800 --> 01:22:22,793
+<i>And I might cry too much, come on</i>
+
+1676
+01:22:22,880 --> 01:22:25,520
+<i>To all those judgy eyes</i>
+
+1677
+01:22:25,600 --> 01:22:27,557
+<i>I got a whole lotta love</i>
+
+1678
+01:22:27,640 --> 01:22:28,915
+<i>'Cause I don't roll like them</i>
+
+1679
+01:22:29,000 --> 01:22:30,320
+<i>But I ain't worried about it</i>
+
+1680
+01:22:30,400 --> 01:22:31,720
+<i>I don't move like them</i>
+
+1681
+01:22:31,840 --> 01:22:32,990
+<i>But I ain't worried about it</i>
+
+1682
+01:22:33,080 --> 01:22:34,878
+<i>I know I'm a gem</i>
+
+1683
+01:22:34,960 --> 01:22:37,031
+<i>I ain't worried about it</i>
+<i>I ain't worried about it</i>
+
+1684
+01:22:37,120 --> 01:22:38,839
+<i>'Cause I'm a lady</i>
+
+1685
+01:22:39,800 --> 01:22:41,359
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1686
+01:22:42,760 --> 01:22:44,399
+<i>'Cause I'm a lady</i>
+
+1687
+01:22:44,520 --> 01:22:46,273
+<i>Yeah, yeah</i>
+
+1688
+01:22:47,600 --> 01:22:49,478
+<i>I'm a, 'cause I'm a lady</i>
+
+1689
+01:22:49,560 --> 01:22:52,234
+<i>All my girls, show 'em you're a lady</i>
+
+1690
+01:22:52,360 --> 01:22:54,829
+<i>Tell the world, say you're proud to be a lady</i>
+
+1691
+01:22:54,920 --> 01:22:57,515
+<i>All my girls, show 'em you're a lady</i>
+
+1692
+01:22:57,600 --> 01:22:58,875
+<i>Tell the world, say you're proud</i>
+
+1693
+01:22:58,960 --> 01:23:00,474
+<i>I'm a lady</i>
+
+1694
+01:23:00,560 --> 01:23:03,200
+<i>And I'm pretty</i>
+<i>I'm pretty cute and I'm pretty smart</i>
+
+1695
+01:23:03,280 --> 01:23:05,920
+<i>And when I break it down</i>
+<i>It's a work of art</i>
+
+1696
+01:23:06,040 --> 01:23:08,794
+<i>And if you feel the same</i>
+<i>Can you participate?</i>
+
+1697
+01:23:08,920 --> 01:23:11,310
+<i>I wanna see you shake</i>
+<i>I wanna hear you say</i>
+
+1698
+01:23:11,400 --> 01:23:14,040
+<i>Say I'm pretty</i>
+<i>I'm pretty cute and I'm pretty smart</i>
+
+1699
+01:23:14,120 --> 01:23:16,919
+<i>And when I break it down</i>
+<i>It's a work of art</i>
+
+1700
+01:23:17,000 --> 01:23:18,753
+<i>'Cause I'm a lady</i>
+
+1701
+01:23:22,640 --> 01:23:23,994
+<i>'Cause I'm a lady</i>
+
+1702
+01:23:24,840 --> 01:23:30,199
+<i>Lady, lady, lady, lady</i>
+
+1703
+01:23:30,280 --> 01:23:32,158
+<i>I'm a, I'm a lady</i>
+
+1704
+01:23:32,240 --> 01:23:34,880
+<i>All my girls, show 'em you're a lady</i>
+
+1705
+01:23:34,960 --> 01:23:37,475
+<i>Tell the world, say you're proud to be a lady</i>
+
+1706
+01:23:37,560 --> 01:23:40,394
+<i>All my girls, show 'em you're a lady</i>
+
+1707
+01:23:40,480 --> 01:23:42,073
+<i>Tell the world, say you're proud to be a lady</i>
+
+1708
+01:23:42,200 --> 01:23:43,600
+<i>I'm a lady, lady</i>
+
+1709
+01:23:44,160 --> 01:23:45,958
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1710
+01:24:11,760 --> 01:24:13,752
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1711
+01:24:33,760 --> 01:24:35,752
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1712
+01:25:05,800 --> 01:25:08,190
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1713
+01:25:08,400 --> 01:25:11,791
+<b><font color="#408080">GARGAMEL:</font></b> I was this close
+to getting rid of the Smurfs,
+
+1714
+01:25:11,880 --> 01:25:13,599
+and you ruined everything.
+
+1715
+01:25:13,680 --> 01:25:15,956
+I knew I should have gotten a dog
+from the shelter.
+
+1716
+01:25:16,040 --> 01:25:17,838
+<b><font color="#808000">(AZRAEL GRUMBLING)</font></b>
+
+1717
+01:25:17,920 --> 01:25:19,912
+<b><font color="#408080">GARGAMEL:</font></b> I'm not saying this
+to be cruel, okay?
+
+1718
+01:25:20,000 --> 01:25:22,595
+I'm saying it to be constructive.
+
+1719
+01:25:22,720 --> 01:25:24,712
+You're a useless feline.
+
+1720
+01:25:25,000 --> 01:25:26,912
+<b><font color="#808000">(AZRAEL MEOWING)</font></b>
+
+1721
+01:25:27,000 --> 01:25:30,710
+That's just mean. That's mean.
+There was a line, and you crossed it.
+
+1722
+01:25:31,400 --> 01:25:35,189
+I was just jib-jabbing,
+and you crossed that line, and that stung.
+
+1723
+01:25:35,280 --> 01:25:36,634
+I demand an apology.
+
+1724
+01:25:36,720 --> 01:25:38,120
+<b><font color="#808000">(AZRAEL GRUMBLING)</font></b>
+
+1725
+01:25:38,200 --> 01:25:40,510
+You were going to learn this
+one way or another,
+
+1726
+01:25:40,600 --> 01:25:43,638
+but I am not your real father.
+
+1727
+01:25:43,720 --> 01:25:44,710
+<b><font color="#808000">(AZRAEL MEOWS SADLY)</font></b>
+
+1728
+01:25:44,800 --> 01:25:48,714
+But that doesn't matter now.
+What matters is destroying the Smurfs.
+
+1729
+01:25:48,800 --> 01:25:50,951
+Any thoughts? I mean, I have thoughts.
+
+1730
+01:25:51,080 --> 01:25:53,037
+But I always like to spitball
+off of your thoughts.
+
+1731
+01:25:53,120 --> 01:25:54,395
+<b><font color="#808000">(AZRAEL GRUMBLES, CHATTERS)</font></b>
+
+1732
+01:25:54,480 --> 01:25:58,235
+Azrael, I'm not going to sugarcoat this.
+Your ideas are terrible.
+
+1733
+01:25:58,640 --> 01:26:01,030
+- <b><font color="#808000">(AZRAEL YOWLS)</font></b>
+- <b><font color="#808000">(MONTY SCREECHES)</font></b>
+
+1734
+01:26:01,120 --> 01:26:03,271
+I can't think with this music.
+
+1735
+01:26:03,360 --> 01:26:06,159
+Can someone please shut off the music?
+
+1736
+01:26:06,240 --> 01:26:10,473
+And what's with all these words
+scrolling in front of me?
+
+1737
+01:26:10,600 --> 01:26:13,672
+Did the Smurfs do this
+so that I would be distracted
+
+1738
+01:26:13,760 --> 01:26:16,195
+and not be able to destroy them as easily?
+
+1739
+01:26:16,480 --> 01:26:17,550
+<b><font color="#808000">(AZRAEL GRUMBLES)</font></b>
+
+1740
+01:26:17,640 --> 01:26:20,633
+"Matte painters"?
+I don't even know what that means.
+
+1741
+01:26:20,720 --> 01:26:22,200
+Someone just made that up, right?
+
+1742
+01:26:22,320 --> 01:26:24,880
+I feel sorry for whoever "Matte" is.
+
+1743
+01:26:24,960 --> 01:26:27,759
+"Look development artists"?
+
+1744
+01:26:27,840 --> 01:26:30,196
+Oh, yes, of course, let's develop some looks.
+
+1745
+01:26:30,280 --> 01:26:35,036
+Like maybe a really angry look,
+because you two totally ruined my plans.
+
+1746
+01:26:35,360 --> 01:26:36,430
+<b><font color="#808000">(AZRAEL MEOWS)</font></b>
+
+1747
+01:26:36,520 --> 01:26:38,193
+Am I going mad, Azrael?
+
+1748
+01:26:38,280 --> 01:26:41,318
+For the last time,
+get them to shut off this music!
+
+1749
+01:26:41,760 --> 01:26:43,638
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1750
+01:27:13,800 --> 01:27:15,792
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1751
+01:27:45,840 --> 01:27:47,832
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1752
+01:28:17,880 --> 01:28:19,872
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1753
+01:28:49,920 --> 01:28:51,912
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1754
+01:29:13,760 --> 01:29:15,752
+<b><font color="#808000">(♪♪♪)</font></b>
+
+1755
+01:29:16,050 --> 01:29:40,050

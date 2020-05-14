@@ -1,0 +1,648 @@
+﻿1
+00:00:11,678 --> 00:00:15,592
+<i>Which pet's address
+is the finest in Paris?</i>
+
+2
+00:00:15,766 --> 00:00:19,259
+<i>Which pets possess
+the longest pedigree?</i>
+
+3
+00:00:19,436 --> 00:00:23,555
+<i>Which pets get
+to sleep on velvet mats?</i>
+
+4
+00:00:23,732 --> 00:00:24,938
+<i>Naturellement</i>
+
+5
+00:00:25,108 --> 00:00:27,224
+<i>The Aristocats</i>
+
+6
+00:00:27,402 --> 00:00:31,612
+<i>Which pets are blessed with
+the fairest forms and faces?</i>
+
+7
+00:00:31,782 --> 00:00:35,366
+<i>Which pets know best
+all the gentle social graces?</i>
+
+8
+00:00:35,536 --> 00:00:39,120
+<i>Which pets live
+on cream and loving pats?</i>
+
+9
+00:00:39,289 --> 00:00:40,950
+<i>Naturellement</i>
+
+10
+00:00:41,124 --> 00:00:42,740
+<i>The Aristocats</i>
+
+11
+00:00:42,918 --> 00:00:45,159
+<i>They show aristocatic bearing</i>
+
+12
+00:00:45,337 --> 00:00:47,328
+<i>When they're seen upon an airing</i>
+
+13
+00:00:47,506 --> 00:00:49,918
+<i>And aristocatic flair in what they do</i>
+
+14
+00:00:50,092 --> 00:00:51,457
+<i>And what they say</i>
+
+15
+00:00:51,635 --> 00:00:54,252
+<i>Aristocats are never found in alleyways</i>
+
+16
+00:00:54,429 --> 00:00:56,386
+<i>Or hanging 'round the garbage cans</i>
+
+17
+00:00:56,557 --> 00:00:59,549
+<i>Where common kitties play
+Oh, no</i>
+
+18
+00:00:59,726 --> 00:01:01,342
+<i>Which pets are known</i>
+
+19
+00:01:01,520 --> 00:01:03,602
+<i>To never show their claws?</i>
+
+20
+00:01:03,772 --> 00:01:07,686
+<i>Which pets are prone
+to hardly any flaws?</i>
+
+21
+00:01:07,859 --> 00:01:11,352
+<i>To which pets do the others
+tip their hats?</i>
+
+22
+00:01:11,530 --> 00:01:12,986
+<i>Naturellement</i>
+
+23
+00:01:13,156 --> 00:01:15,818
+<i>The Aristocats</i>
+
+24
+00:13:06,494 --> 00:13:08,656
+<i>Do mi so do
+Do so mi do</i>
+
+25
+00:13:08,830 --> 00:13:10,537
+<i>Every truly cultured</i>
+
+26
+00:13:10,707 --> 00:13:13,699
+<i>Music student knows</i>
+
+27
+00:13:13,876 --> 00:13:18,871
+<i>You must learn your scales
+and your arpeggios</i>
+
+28
+00:13:19,048 --> 00:13:21,540
+<i>Bring the music ringing from your chest</i>
+
+29
+00:13:21,718 --> 00:13:23,880
+<i>And not your nose</i>
+
+30
+00:13:24,053 --> 00:13:28,513
+<i>While you sing your scales
+and your arpeggios</i>
+
+31
+00:13:30,226 --> 00:13:35,187
+<i>If you're faithful
+to your daily practicing</i>
+
+32
+00:13:35,356 --> 00:13:40,226
+<i>You will find your progress
+is encouraging</i>
+
+33
+00:13:40,403 --> 00:13:42,610
+<i>Do mi so mi
+Do mi so mi</i>
+
+34
+00:13:42,780 --> 00:13:44,737
+<i>Fa la so it goes</i>
+
+35
+00:13:44,907 --> 00:13:50,198
+<i>When you do your scales
+and your arpeggios</i>
+
+36
+00:13:50,371 --> 00:13:52,533
+<i>Do mi so do...</i>
+
+37
+00:14:03,926 --> 00:14:06,509
+<i>Do mi so do
+Do so mi do</i>
+
+38
+00:14:06,679 --> 00:14:08,841
+<i>Do mi so do
+Do so mi do</i>
+
+39
+00:14:09,015 --> 00:14:13,930
+<i>Though at first it seems
+as though it doesn't show</i>
+
+40
+00:14:14,103 --> 00:14:18,688
+<i>Like a tree, ability
+will bloom and grow</i>
+
+41
+00:14:18,858 --> 00:14:21,190
+<i>If you're smart
+you'll learn by heart</i>
+
+42
+00:14:21,361 --> 00:14:24,649
+<i>What every artist knows</i>
+
+43
+00:14:24,822 --> 00:14:27,359
+<i>You must sing your scales</i>
+
+44
+00:14:27,533 --> 00:14:33,529
+<i>And your arpeggios</i>
+
+45
+00:26:23,499 --> 00:26:27,163
+<i>I like a chee-chee-chee-rony
+like they make at home</i>
+
+46
+00:26:27,336 --> 00:26:30,374
+<i>Or a healthy fish with a big backbone</i>
+
+47
+00:26:30,547 --> 00:26:32,538
+<i>I'm Abraham de Lacy</i>
+
+48
+00:26:34,009 --> 00:26:36,000
+<i>Giuseppe Casey</i>
+
+49
+00:26:37,346 --> 00:26:39,087
+<i>Thomas O'Malley</i>
+
+50
+00:26:40,516 --> 00:26:42,883
+<i>O'Malley the alley cat</i>
+
+51
+00:26:43,060 --> 00:26:45,848
+<i>I've got that wanderlust</i>
+
+52
+00:26:46,021 --> 00:26:48,103
+<i>Gotta walk the scene</i>
+
+53
+00:26:49,525 --> 00:26:52,358
+<i>Gotta kick up highway dust</i>
+
+54
+00:26:52,528 --> 00:26:55,190
+<i>Feel the grass that's green</i>
+
+55
+00:26:56,156 --> 00:26:58,773
+<i>Gotta strut them city streets</i>
+
+56
+00:26:58,951 --> 00:27:04,162
+<i>Showin' off my éclat, yeah</i>
+
+57
+00:27:04,331 --> 00:27:07,073
+<i>Tellin' my friends of the social elite</i>
+
+58
+00:27:07,251 --> 00:27:09,663
+<i>Or some cute cat I happen to meet</i>
+
+59
+00:27:09,837 --> 00:27:12,078
+<i>That I'm</i>
+
+60
+00:27:14,216 --> 00:27:15,547
+<i>Abraham de Lacy</i>
+
+61
+00:27:15,717 --> 00:27:17,424
+<i>Giuseppe Casey</i>
+
+62
+00:27:17,594 --> 00:27:19,380
+<i>Thomas O'Malley</i>
+
+63
+00:27:20,597 --> 00:27:22,804
+<i>O'Malley the alley cat</i>
+
+64
+00:27:33,902 --> 00:27:37,111
+<i>I'm king of the highway</i>
+
+65
+00:27:37,281 --> 00:27:39,864
+<i>Prince of the boulevard</i>
+
+66
+00:27:40,993 --> 00:27:43,234
+<i>Duke of the avant-garde</i>
+
+67
+00:27:44,163 --> 00:27:46,996
+<i>The world is my backyard</i>
+
+68
+00:27:47,166 --> 00:27:49,874
+<i>So if you're goin' my way</i>
+
+69
+00:27:50,043 --> 00:27:53,502
+<i>That's the road you wanna seek</i>
+
+70
+00:27:53,672 --> 00:27:55,458
+<i>Calcutta to Rome</i>
+
+71
+00:27:55,632 --> 00:27:58,465
+<i>Or home sweet home in Paris</i>
+
+72
+00:27:58,635 --> 00:28:01,252
+<i>Magnifique, you all</i>
+
+73
+00:28:07,269 --> 00:28:10,136
+<i>I only got myself</i>
+
+74
+00:28:10,606 --> 00:28:13,769
+<i>And this big old world</i>
+
+75
+00:28:13,942 --> 00:28:17,105
+<i>But I sip that cup of life</i>
+
+76
+00:28:17,279 --> 00:28:19,987
+<i>With my fingers curled</i>
+
+77
+00:28:20,782 --> 00:28:23,615
+<i>I don't worry what road to take</i>
+
+78
+00:28:23,785 --> 00:28:26,197
+<i>I don't have to think of that</i>
+
+79
+00:28:28,582 --> 00:28:31,620
+<i>Whatever I take is the road I make</i>
+
+80
+00:28:31,793 --> 00:28:34,626
+<i>It's the road of life
+Make no mistake</i>
+
+81
+00:28:34,796 --> 00:28:37,629
+<i>For me</i>
+
+82
+00:28:37,799 --> 00:28:40,291
+<i>Yeah, Abraham de Lacy</i>
+
+83
+00:28:40,469 --> 00:28:41,880
+<i>Giuseppe Casey</i>
+
+84
+00:28:42,054 --> 00:28:44,170
+<i>Thomas O'Malley</i>
+
+85
+00:28:45,140 --> 00:28:47,882
+<i>O'Malley the alley cat</i>
+
+86
+00:58:08,777 --> 00:58:12,065
+<i>Everybody wants to be a cat</i>
+
+87
+00:58:12,239 --> 00:58:14,401
+<i>Because a cat's the only cat</i>
+
+88
+00:58:14,574 --> 00:58:15,939
+<i>Who knows where it's at</i>
+
+89
+00:58:16,118 --> 00:58:20,157
+<i>Tell me, everybody's pickin'
+up on that feline beat</i>
+
+90
+00:58:20,872 --> 00:58:22,829
+<i>'Cause everything else is obsolete</i>
+
+91
+00:58:23,000 --> 00:58:24,616
+<i>Strictly high-button shoes</i>
+
+92
+00:58:24,793 --> 00:58:28,206
+<i>A square with a horn
+makes you wish you weren't born</i>
+
+93
+00:58:28,380 --> 00:58:30,838
+<i>Every time he plays</i>
+
+94
+00:58:32,300 --> 00:58:34,132
+<i>But with a square in the act</i>
+
+95
+00:58:34,302 --> 00:58:36,168
+<i>You can set music back</i>
+
+96
+00:58:36,346 --> 00:58:38,383
+<i>To the caveman days</i>
+
+97
+00:58:40,392 --> 00:58:44,135
+<i>I've heard some corny birds
+who tried to sing</i>
+
+98
+00:58:44,312 --> 00:58:48,681
+<i>But, still, a cat's the only cat
+who knows how to swing</i>
+
+99
+00:58:48,859 --> 00:58:52,727
+<i>Who wants to dig a long-haired gig
+or stuff like that</i>
+
+100
+00:58:53,321 --> 00:58:56,279
+<i>When everybody wants to be a cat</i>
+
+101
+00:58:56,450 --> 00:59:00,159
+<i>A square with a horn makes
+you Wish you weren't born</i>
+
+102
+00:59:00,328 --> 00:59:04,322
+<i>- Every time he plays
+- Oh, a rinky tinky tinky</i>
+
+103
+00:59:04,499 --> 00:59:07,958
+<i>With a square in the act
+you can set music back</i>
+
+104
+00:59:08,128 --> 00:59:09,994
+<i>To the caveman days</i>
+
+105
+00:59:10,172 --> 00:59:12,334
+<i>Oh, a rinky tinky tinky</i>
+
+106
+00:59:12,507 --> 00:59:15,670
+<i>Yes, everybody wants to be a cat</i>
+
+107
+00:59:15,844 --> 00:59:20,259
+<i>Because a cat's the only cat
+who knows where it's at</i>
+
+108
+00:59:20,432 --> 00:59:24,517
+<i>When playin' jazz
+you always has a welcome mat</i>
+
+109
+00:59:25,187 --> 00:59:28,396
+<i>'Cause everybody digs a swingin' cat</i>
+
+110
+00:59:55,801 --> 00:59:58,008
+<i>Shanghai, Hong Kong, egg foo yong</i>
+
+111
+00:59:59,679 --> 01:00:01,966
+<i>Fortune cookie always wrong</i>
+
+112
+01:00:46,935 --> 01:00:50,644
+<i>If you want to turn me on</i>
+
+113
+01:00:50,814 --> 01:00:54,273
+<i>Play your horn
+Don't spare the tone</i>
+
+114
+01:00:54,442 --> 01:01:00,438
+<i>And blow a little soul into the tune</i>
+
+115
+01:01:05,203 --> 01:01:09,071
+<i>Let's take it to another key</i>
+
+116
+01:01:09,708 --> 01:01:12,871
+<i>Modulate and wait for me</i>
+
+117
+01:01:13,044 --> 01:01:17,413
+<i>I'll take a few ad-libs
+and pretty soon</i>
+
+118
+01:01:20,635 --> 01:01:24,469
+<i>The other cats will all commence</i>
+
+119
+01:01:24,639 --> 01:01:28,132
+<i>Congregatin' on the fence</i>
+
+120
+01:01:28,310 --> 01:01:31,473
+<i>Beneath the alley's only light</i>
+
+121
+01:01:31,646 --> 01:01:33,933
+<i>Where every note is</i>
+
+122
+01:01:34,107 --> 01:01:39,693
+<i>Out of sight</i>
+
+123
+01:01:44,618 --> 01:01:48,156
+<i>Everybody, everybody</i>
+
+124
+01:01:48,330 --> 01:01:50,947
+<i>Everybody wants to be a cat</i>
+
+125
+01:01:51,124 --> 01:01:52,114
+<i>Hallelujah</i>
+
+126
+01:01:52,292 --> 01:01:55,705
+<i>Everybody, everybody</i>
+
+127
+01:01:55,879 --> 01:01:58,337
+<i>Everybody wants to be a cat</i>
+
+128
+01:01:58,506 --> 01:02:00,998
+<i>I'm tellin' you, everybody</i>
+
+129
+01:02:01,176 --> 01:02:03,008
+<i>Everybody</i>
+
+130
+01:02:03,178 --> 01:02:05,670
+<i>Everybody wants to be a cat</i>
+
+131
+01:02:05,847 --> 01:02:08,134
+<i>Yeah, everybody</i>
+
+132
+01:02:08,308 --> 01:02:10,345
+<i>Everybody</i>
+
+133
+01:02:10,518 --> 01:02:13,351
+<i>Everybody wants to be a cat</i>
+
+134
+01:02:14,189 --> 01:02:17,477
+<i>Everybody, everybody</i>
+
+135
+01:02:17,651 --> 01:02:20,439
+<i>Everybody wants to be a cat</i>
+
+136
+01:02:20,612 --> 01:02:23,104
+<i>- Hallelujah
+- Everybody</i>
+
+137
+01:02:23,281 --> 01:02:27,775
+<i>Everybody
+Everybody wants to be a cat...</i>
+
+138
+01:02:51,935 --> 01:02:56,645
+<i>Everybody wants to be a cat</i>
+
+139
+01:02:57,357 --> 01:03:01,146
+<i>Because a cat's the only cat</i>
+
+140
+01:03:01,319 --> 01:03:05,813
+<i>Who knows where it's at</i>
+
+141
+01:03:07,242 --> 01:03:10,530
+<i>Oh, yeah</i>
+
+142
+01:17:16,048 --> 01:17:19,416
+<i>Everybody, everybody</i>
+
+143
+01:17:19,593 --> 01:17:22,551
+<i>Everybody wants to be a cat</i>
+
+144
+01:17:23,180 --> 01:17:26,389
+<i>Everybody, everybody</i>
+
+145
+01:17:26,559 --> 01:17:30,473
+<i>Everybody wants to be a cat</i>
+
+146
+01:17:30,646 --> 01:17:33,809
+<i>Everybody, everybody</i>
+
+147
+01:17:33,983 --> 01:17:37,567
+<i>Everybody wants to be a cat</i>
+
+148
+01:17:37,736 --> 01:17:39,773
+<i>Everybody</i>
+
+149
+01:17:41,448 --> 01:17:44,941
+<i>Everybody wants to be a cat</i>
+
+150
+01:17:45,119 --> 01:17:48,362
+<i>Everybody, everybody</i>
+
+151
+01:17:48,539 --> 01:17:52,282
+<i>Everybody wants to be</i>
+
+152
+01:17:52,459 --> 01:17:56,669
+<i>A cat</i>
+
+153
+01:18:22,865 --> 01:18:25,857
+<i>Oh, yeah</i>

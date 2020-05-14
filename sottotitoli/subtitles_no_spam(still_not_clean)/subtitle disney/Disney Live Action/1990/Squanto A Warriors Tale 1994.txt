@@ -1,0 +1,848 @@
+{1}{1}23.976
+{511}{569}(hawk cries)
+{1264}{1315}(blows lightly)
+{1824}{1889}Grandfather, Grandmother,
+{1890}{1966}I enter the sacred circle|to give thanks for all the prayers
+{1968}{2052}that have been answered|on my path of learning.
+{2054}{2117}I come with the morning star|as my guide
+{2118}{2181}and the hawk as my protector.
+{2218}{2333}My father, the sachem of our people,|had a vision when I was little.
+{2335}{2434}Like him, I would be a leader|and a warrior one day.
+{2436}{2533}''But you will become|a different kind of leader, '' he said.
+{2535}{2642}''Your eyes will see|far beyond our horizon. ''
+{2643}{2721}I did not yet understand|his words of wisdom.
+{2722}{2805}I did not know Mother Earth|was so much bigger than our village -
+{2806}{2878}even bigger than our hunting grounds.
+{2880}{2952}I only began to learn about these things
+{2954}{3077}the day after beautiful Nakooma|and I became husband and wife.
+{3402}{3451}(speaking Algonquin)
+{3870}{3924}(speaking Algonquin)
+{3926}{3976}Ha-ha!
+{4019}{4088}(rhythmic drumming)
+{4090}{4137}(man chanting)
+{4196}{4271}(all chanting)
+{6515}{6565}(speaking Algonquin)
+{6603}{6684}(chatter and laughter)
+{6686}{6736}( all singing)
+{7248}{7308}(cheering/whooping)
+{8334}{8395}(speaks Algonquin)
+{9101}{9149}(hawk cries in distance)
+{9395}{9436}(speaks Algonquin)
+{9854}{9917}We're going ashore. I've spotted a tribe.
+{9993}{10082}- Form a search party!|- Prepare the Iaunch!
+{10569}{10594}(speaks Algonquin)
+{11131}{11172}Prepare to Iand!
+{12160}{12229}(speaking Algonquin)
+{12513}{12584}(speaking Algonquin)
+{12698}{12773}(speaking Algonquin)
+{12910}{12949}Trade.
+{12951}{13002}(speaking Algonquin)
+{13466}{13558}Dermer, teII the sachem we need five|strong men to carry the furs to our ship.
+{13560}{13626}We have enough men of our own,|sureIy, sir.
+{13628}{13727}Mr. Dermer, this expedition|is under my command.
+{13751}{13833}PIease transIate Mr. Harding's request.
+{13834}{13873}Sir.
+{13938}{13997}(Nakooma) Squanto!
+{15239}{15293}Move it! Move it aIong!
+{15295}{15345}You heard the captain!
+{15346}{15422}( Captain) Prepare to hoId cargo!
+{15704}{15785}Come. Come, my friend.|This way.
+{15858}{15886}Down.
+{15930}{16013}Down beIow. Understand?
+{16015}{16066}Down beIow.
+{16163}{16242}- Up anchor!|- Up anchor!
+{16451}{16502}BeIow. Get them beIow.
+{16789}{16832}Now! Seize them!
+{17041}{17119}- Squanto!|- (speaking Algonquin)
+{17565}{17630}Seize them! Seize the Indians!
+{17831}{17893}Aah!
+{18018}{18062}Nakooma!
+{18094}{18148}Squanto!
+{18222}{18278}Nakooma!
+{18420}{18454}Canon, fire!
+{18539}{18589}Nakooma!
+{18624}{18663}Squanto!
+{18726}{18779}Squanto!
+{19112}{19160}Squanto!
+{19183}{19232}(Nakooma wailing)
+{19641}{19715}(sobbing) Squanto!
+{19914}{19995}Mark my words:|treat them as friends, Mr. Dermer,
+{19997}{20037}you'II find an arrow in your back.
+{20039}{20110}SteaI from them, Mr. Harding,|and you kiII any opportunity
+{20112}{20166}to trade with them in the future.
+{20168}{20268}I'm carrying out orders, Mr. Dermer,|orders that come from Sir George,
+{20270}{20320}who owns this ship and pays our wages.
+{20322}{20391}Excuse me, sir. They stiII refuse to eat.
+{20393}{20476}They won't eat so Iong as they're|Iocked up and treated Iike animaIs.
+{20478}{20526}For the Iast time,|wiII you Iet me untie them?
+{20528}{20563}- And then they'II eat?|- Yes!
+{20565}{20624}WeII, what wiII they eat, Mr. Dermer?|Huh?
+{20626}{20677}They might just start with you!
+{20678}{20733}(laughter)
+{20768}{20816}(laughter continues)
+{22635}{22687}(in Algonquin) Me na Epenow.
+{22689}{22733}Me na Squanto.
+{23068}{23132}Mene dalusi Thomas.
+{23521}{23594}(speaking Algonquin)
+{23631}{23671}Be carefuI.
+{23848}{23902}- Watch out!|- I'II bIoody that savage.
+{23904}{23966}Don't. Come on. Back!
+{24102}{24164}You treat them far too weII, Mr. Dermer.
+{25141}{25222}Make way! Make way! Stand aside!
+{25224}{25277}Coming through!
+{25758}{25867}Ah, my ship, my ship!|This is a great day for EngIand,
+{25869}{25940}a great day|for the PIymouth Shipping Company.
+{25985}{26084}Morning, everybody.|What a beautifuI morning it is.
+{26135}{26192}BeautifuI morning.
+{26194}{26233}- Ah!|- Good day, Sir George.
+{26235}{26327}Mr. Hunt, Mr. Harding,|returned aIive and weII, I see.
+{26329}{26373}We had a very successfuI voyage,|Sir George.
+{26374}{26431}WeII, I expect nothing Iess|from you gentIemen.
+{26639}{26697}- Lower the chair.|- WeII done, Mr. Harding.
+{26698}{26818}- I think you'II find the discomfort worth it.|- I hope so, I hope so, Harding.
+{26841}{26919}Secure the Iine! AII the way!
+{26921}{27004}That's it. Thank you, boys.
+{27113}{27172}Thank you, boys. Ah!
+{27174}{27245}Thank you, Dermer. Ah, weII...
+{27247}{27376}Now teII me, is this|the fuII extent of our venture?
+{27378}{27449}Anything goId, siIver, jeweIs,|fine armor, swords?
+{27450}{27552}Prepare to be astonished, Sir George.|Bring them topside.
+{27764}{27850}- What are they?|- The nobIe savage, Sir George.
+{27852}{27960}They're awfuI. They're horribIe.
+{27962}{27998}(laughs)
+{28000}{28052}Lord, they are wonderfuI.
+{28054}{28133}TeII me, what wouId happen|if I approach them?
+{28134}{28197}Oh, have no fear.|My men wiII protect you.
+{28222}{28265}You know, they seem frightened.
+{28267}{28309}They've never seen a pIace|Iike this before.
+{28311}{28382}No. You've never seen|anyone Iike me before, have you?
+{28384}{28432}I am Sir...
+{28462}{28536}- What is that?|- That's bear fat, Sir George.
+{28563}{28662}How disgusting. Bear fat.
+{28693}{28752}Aah!
+{28842}{28885}You speak these peopIe's Ianguage,|Dermer.
+{28886}{28931}- I do, Sir George.|- TeII them who I am!
+{28933}{29003}I'm the PIymouth Shipping Company.|I own this ship. I own them!
+{29005}{29078}I don't think they'd understand that, sir,|the idea that one man can own another.
+{29080}{29165}Then they'II have to understand it.|This one needs to be discipIined.
+{29166}{29192}CIean him up.
+{29194}{29274}Then we'II put him on dispIay|in front of the great British pubIic.
+{29276}{29307}Now take me back!
+{29333}{29395}Ladies and gentIemen,|for your sporting pIeasure,
+{29397}{29469}the next match has never been seen|on EngIish shores.
+{29471}{29517}- Bring them in.|- May I present to you,
+{29518}{29575}by courtesy|of the PIymouth Shipping Company -
+{29577}{29654}of which I am the proprietor -
+{29656}{29782}a wiId, wiId barbarian|from the New WorId.
+{29784}{29841}(cheers/applause)
+{30155}{30214}- (woman) Oh, my.|- (woman #2) He's horrid.
+{30522}{30570}(overlapping shouts)
+{30779}{30865}You see, Dermer, the riffraff adore him.
+{31013}{31067}Yes! Look! He's cut!
+{31176}{31221}Ah! Aah!
+{31253}{31348}Ladies and gentIemen,|Squanto the savage!
+{31596}{31655}I'm making a goId mine here, Harding.
+{31657}{31709}- GoId mine!|- Indeed, Sir George.
+{32302}{32359}( chanting/singing)
+{33678}{33721}No, no! I want him aIive!
+{33787}{33882}Go! Get after them!|Don't Iet them escape, you fooIs!
+{34443}{34498}Save me, save me!
+{35116}{35164}(both) Aah!
+{35230}{35283}(speaking Algonquin)
+{35301}{35348}Aah!
+{35571}{35622}(speaking Algonquin)
+{35750}{35819}Get after him! Go after him!
+{36642}{36724}He's getting away!|Round the back, round the back!
+{37253}{37300}They Iost the scent.|We're heading back.
+{37302}{37359}You men, check the east dock.
+{38100}{38177}- Harding, did you find him?|- Bring him.
+{38178}{38279}- We've captured one of them, Sir George.|- Not that one, you fooI. It's Squanto I want.
+{38281}{38330}I'm afraid he's stiII at Iarge|for the moment.
+{38332}{38379}This man's injured.|He needs a physician.
+{38381}{38444}You stiII see them as human beings,|Dermer, that's your probIem.
+{38446}{38537}Look, Harding, find him! I don't care|how many men it takes - find Squanto.
+{38538}{38579}Yes, Sir George.
+{39250}{39304}What is that?
+{39306}{39353}Brother DanieI!
+{39982}{40037}What is it, Brother DanieI?
+{40039}{40101}He doesn't Iook Iike an EngIishman.
+{40770}{40854}You see? You see?|We found him on the beach.
+{41020}{41083}He's not dressed Iike an EngIishman.
+{41157}{41244}CarefuI, brothers. Back!
+{41294}{41385}This is not a part of God's creation.
+{41386}{41458}He's a kind of deviI, I suspect.
+{41460}{41501}DeviI...
+{41524}{41598}Brother PauI, this is no eviI beast.
+{41600}{41685}Not eviI, perhaps,|but a beast nonetheIess.
+{41687}{41765}Nonsense. OnIy so Iong as|we treat him Iike a beast.
+{41766}{41861}What are you suggesting?|That he stay in here and eat with us?
+{41862}{41945}I'm suggesting|we do not judge this feIIow.
+{42004}{42096}We show him the kindness|we wouId show any stranger.
+{42143}{42202}And we discover who he is.
+{42255}{42350}Come on, sit! Let us say grace.
+{42567}{42641}- HeavenIy Father...|- (men) HeavenIy Father...
+{42642}{42741}(all) ..we thank thee|for these and aII thy mercies...
+{44145}{44193}( humming)
+{44286}{44342}(goat bleating)
+{44382}{44492}Brothers! Brothers!|Brothers, come quickIy!
+{44494}{44538}James! Brother PauI! DanieI!
+{44540}{44595}Outside! He's outside!
+{44858}{44956}Let him be, brothers. Let him be.
+{44972}{45031}We have no hoId on him here.
+{45061}{45108}Brother DanieI!
+{45189}{45253}Go, my friend. You are free!
+{46085}{46172}He won't get far.|He's injured. He's weak.
+{46190}{46268}He's the DeviI, Brother PauI.|You said so yourseIf.
+{46310}{46357}Come, brothers.
+{46386}{46434}Come aIong.
+{46983}{47045}(bird cry)
+{47238}{47294}(cries like hawk)
+{47350}{47397}What's he doing?
+{47519}{47574}(Squanto continues calling)
+{47990}{48050}A miracIe.
+{48051}{48157}BIasphemy! That's not a miracIe.
+{48227}{48308}Give way! Make way!
+{48310}{48356}There's no trace of the savage|to be found.
+{48358}{48451}I'm tired of hearing ''No, no, no, no''!|I want to hear ''yes'' for a change!
+{48453}{48499}- Do you understand, Mr. Harding?|- Yes.
+{48501}{48572}A naked Indian|with hair down to the ground
+{48574}{48632}and a neckIace|made of sheIIs and feathers
+{48634}{48678}disappears into a civiIized city
+{48680}{48779}and aII the weII-paid and weII-trained|miIitary men can't find him?
+{48781}{48880}It's not a needIe in the haystack -|it's a haystack!
+{48882}{48973}There are some of us who think|he must have drowned in the great storm.
+{48974}{49093}WeII, I don't accept your theory.|I don't Iike it either.
+{49095}{49132}(cries)
+{49134}{49200}I want my Indian!
+{49242}{49316}I made promises to London.
+{49355}{49469}Sir George, you have the other savage.|He is very popuIar with the crowds.
+{49471}{49543}I don't want popuIar! I want sensationaI!
+{49545}{49662}Squanto was sensationaI.|He couId sing. He couId fight!
+{49664}{49746}The pubIic were cIamoring|for him to come.
+{49748}{49819}You know... I'm a businessman.|You know that, don't you?
+{49821}{49845}Oh, yes, yes.
+{49847}{49921}I've invested in that Indian.|I want him back.
+{49923}{50018}Continue the search. I don't care|if you have to go as far as ScotIand.
+{50020}{50110}- I want my Squanto! Find him!|- Yes, Sir George.
+{50374}{50410}Maushop.
+{50502}{50541}Maushop.
+{50730}{50784}Come. Come.
+{50814}{50862}Come here.
+{50905}{51019}Maushop... that. Is that maushop?
+{51021}{51087}Maushop... horse.
+{51089}{51141}- Horse...|- Yes. Let me show you.
+{51237}{51306}Horse. Come.
+{51581}{51629}You see?
+{51631}{51721}Touch him.|Don't be afraid. Touch him.
+{51773}{51851}Horse. No, no, no.|He won't hurt you.
+{51876}{51942}Don't be afraid. Touch him.
+{51997}{52069}Maushop... horse.
+{52158}{52207}We ride the horse.
+{52476}{52543}Here. Let me show you.
+{52835}{52906}See? I'm hoIding him gentIy. GentIy.
+{52977}{53033}You see?
+{53086}{53147}Come on. You try.
+{53371}{53425}(laughs)
+{53518}{53573}Whoa, whoa, whoa, whoa, whoa.
+{53625}{53661}HoId this.
+{53663}{53722}Whoa, whoa, whoa, whoa.
+{53756}{53828}Kick him. Give him a kick.|Give him a IittIe kick.
+{53830}{53864}A IittIe more. That's it.
+{53866}{53910}- Horse. Horse.|- Horse.
+{53912}{53973}- (Daniel) Horse.|- He's quite good.
+{53975}{54036}WeII, he's not as good as we are, but he's...
+{54087}{54141}There you go.
+{54143}{54194}- Horse.|- Horse. Yes, you said it.
+{54196}{54232}Horse.
+{54253}{54287}Horse!
+{54289}{54373}Oh, no. Come back!
+{54670}{54743}You see what you get for your trust,|Brother DanieI?
+{54745}{54787}He's a horse thief!
+{54902}{54952}(horse neighs)
+{55054}{55091}Aah!
+{55708}{55769}Brothers! Brothers!
+{55771}{55861}He's coming back!|Brothers! He's coming back!
+{55978}{56009}Horse!
+{56011}{56074}- WeII done.|- (laughter/applause)
+{56316}{56421}You see, Squanto? These are aII books.
+{56548}{56587}Book.
+{56589}{56648}- Book.|- Yes.
+{56650}{56701}Horse. Book.
+{56702}{56753}ExceIIent.
+{56755}{56803}Horse. Book.
+{57112}{57172}I happen to be a man who has read|far too many books.
+{57174}{57262}My head is fuII of aII kinds of nonsense,|but I Iove books.
+{57264}{57309}I Iove everything about them.
+{57311}{57398}Let me show you. This is my favorite.
+{57423}{57472}The Odyssey.
+{57474}{57522}Second favorite.
+{57548}{57621}LightIy. GentIy, gentIy.
+{57638}{57683}Yes.
+{57701}{57752}You see?
+{57792}{57840}Isn't it beautifuI?
+{57889}{57918}Nakooma.
+{57920}{57999}Nakooma? This one?
+{58022}{58077}Nakooma.
+{58079}{58152}That is your word for ''woman''?
+{58193}{58275}''Nakooma.''|That is his word for ''woman.''
+{58343}{58389}Let me show you.
+{58391}{58459}I'm going to teach you my Ianguage,|Squanto.
+{58461}{58515}And Iearn yours if I can.
+{58517}{58623}If I can discover where in this vast worId|you've come from,
+{58625}{58676}perhaps I can heIp you to go home.
+{58678}{58718}- Nakooma.|- Nakooma.
+{58720}{58798}- Woman.|- Woman.
+{58953}{59040}- Fishing net.|- That's right. Fishing net.
+{59746}{59814}( humming)
+{59934}{60011}- Brother Timothy.|- Brother PauI? Brother PauI...
+{60013}{60108}What are you wearing on your feet?|Hm?
+{60110}{60189}Oh, uh... footwear.
+{60191}{60273}- Show me this footwear.|- Cheese?
+{60274}{60369}Brother Timothy, I said|show me this footwear!
+{60497}{60578}Squanto made them.|They're extremeIy comfortabIe.
+{60580}{60721}Brother Timothy, you did not join|this monastery to be comfortabIe!
+{60722}{60785}There wiII be comfort enough|in the Iife to come.
+{60786}{60815}Yes, Brother PauI.
+{60817}{60869}This is a cIoister!
+{60870}{60941}We have secIuded ourseIves here|to worship,
+{60942}{61010}not to be distracted by visitors!
+{61062}{61089}Oh!
+{61374}{61424}Hey, Brother PauI!
+{61570}{61612}Brother DanieI!
+{61690}{61759}We are forgetting our purpose here,|Brother DanieI.
+{61761}{61803}There's nothing sinfuI in this.
+{61805}{61873}Your pagan friend has disrupted|our quiet Iife.
+{61874}{61920}- (men shouting)|- It's time he Ieft.
+{61922}{61975}- Oh, he can't Ieave.|- Why not?
+{61977}{62075}- He's stiII recovering from his injuries.|- Oh, indeed.
+{62077}{62129}WeII, I'm not a doctor, Brother DanieI,
+{62131}{62208}but it wouId appear|that he is fuIIy recovered.
+{62210}{62309}But he's Iearning from us, Brother PauI,|and we are Iearning from him.
+{62311}{62371}He's beginning to speak|and observe our ways.
+{62373}{62433}Is it not our duty to bring Iight|into the darkness?
+{62435}{62483}(man) Oh! Oh! Ohh!
+{62546}{62609}- (laughter)|- Oh!
+{62638}{62693}- Do you see this fIower?|- Yes.
+{62694}{62766}It is a pink MandeviIIa.
+{62792}{62920}When it bIooms,|its petaIs are Iike a trumpet.
+{62922}{62965}But it's not bIooming
+{62967}{63081}because it is a gift from our brothers|in a monastery in Spain.
+{63082}{63152}- You see? You cannot uproot a fIower...|- (thunder)
+{63154}{63217}and pIant it in a pIace|where it does not beIong!
+{63218}{63301}But Squanto has nowhere to go.|He's Iost, and from what he's toId me,
+{63303}{63354}I beIieve he's come|from the New WorId.
+{63356}{63443}- Poppycock! I'II never beIieve it.|- (men cheering)
+{63445}{63552}There is no New WorId.|There is onIy this worId.
+{63554}{63665}And this worId, Brother DanieI,|is not round. It is fIat!
+{63667}{63707}- Oh, Brother...|- FIat!
+{63709}{63765}Whatever you beIieve,|Squanto came to our country by ship.
+{63766}{63826}Winter is upon us.|No ships wiII saiI before spring.
+{63827}{63893}WiII you deny him sheIter, Brother PauI?|Come.
+{63894}{63949}(Squanto chanting)
+{63982}{64042}(all chanting)
+{64317}{64376}HeavenIy Father!
+{64378}{64441}HeavenIy Father...
+{64442}{64548}we thank thee|for these and aII thy mercies.
+{64550}{64585}Amen.
+{64587}{64641}(Squanto speaking Algonquin)
+{64702}{64770}- What is that word?|- KissuuIk.
+{64772}{64853}- It is the name of Squanto's god.|- (men) Oh...
+{64855}{65002}Ah. And what exactIy|is the function of this... god?
+{65004}{65115}Squanto, teII us about KissuuIk.
+{65117}{65163}He is the Creator.
+{65165}{65212}(men) Ah.
+{65249}{65382}TeII me, Squanto, this mysterious Iand|that you come from -
+{65384}{65440}you must miss it after aII this time.
+{65442}{65588}Yes, Brother PauI.|I miss my famiIy, my peopIe...
+{65608}{65657}And Nakooma.
+{65659}{65729}Nakooma is the name|of Squanto's bride.
+{65730}{65829}Bride? You are married, Squanto?
+{65830}{65868}Yes, Brother PauI.
+{65870}{65920}(laughter)
+{65953}{66012}Where are the women of your tribe?
+{66068}{66179}We have no women, Squanto.|We have devoted our Iives to God.
+{66181}{66229}Your tribe wiII die with no women.
+{66231}{66321}(Brother Paul)|Squanto, we are not a tribe.
+{66343}{66394}I wouId never join a tribe|with no women.
+{66396}{66453}- (laughter)|- We are not a tribe.
+{66506}{66590}I Ioved Nakooma|when we were chiIdren.
+{66695}{66753}I miss her.
+{67506}{67564}I was so fortunate|to be with the brothers,
+{67566}{67661}who taught me their language,|their ways and values.
+{67663}{67763}But as the seasons passed,|I got restless.
+{67765}{67824}Nakooma was visiting me|in my dreams,
+{67826}{67894}and I saw tears in her eyes.
+{67918}{68048}I had to be with my people again soon,|or my heart would die.
+{68408}{68466}(hawk cries)
+{68785}{68836}For months we've been searching for him.
+{68838}{68947}He must have drowned, Sir George.|It's the onIy expIanation.
+{68949}{69025}That's a convenient expIanation.|If he's dead, I want proof.
+{69027}{69100}- If not, keep on Iooking for him.|- Sir George, Iook at my men.
+{69102}{69142}The weather's been fierce.|They've been frostbitten!
+{69144}{69179}We've Iost two horses!
+{69181}{69285}You Iose your position if you faiI me,|Harding. You hear me?
+{69286}{69377}Your status, your income,|your reputation, your future.
+{69378}{69441}This is PIymouth! I own PIymouth!
+{69443}{69502}Yes, Sir George.
+{69577}{69600}Who are you?
+{69602}{69681}Sir George, my name is WiIIiam|Bradford, and this is Dr. SamueI FuIIer.
+{69682}{69732}- Puritans.|- In search of reIigious freedom.
+{69734}{69799}SeveraI of us wouId Iike|to book passage on one of your ships.
+{69801}{69876}I have no objection to taking fanatics|Iike you over the sea,
+{69878}{69922}but I must warn you of one thing,|gentIemen:
+{69924}{69981}I don't deaI in shiIIings, I deaI in pounds.
+{69983}{70048}- We have very IittIe, I'm afraid.|- Then you're wasting my vaIuabIe time.
+{70050}{70105}- Mr. Dermer.|- Sir.
+{70147}{70213}You're wasting your own time, too,|gentIemen.
+{70214}{70299}The New WorId is no pIace|for men of peace.
+{70301}{70341}You won't survive|without miIitary protection.
+{70343}{70401}We have our faith,|and we are resoIute in our purpose.
+{70402}{70430}(laughs)
+{70432}{70511}I think you'II need a IittIe more than that,|my friends.
+{70534}{70586}Ah, pork pie!
+{70588}{70660}Why anyone wouId want to Ieave|EngIand, I'II never know.
+{70662}{70725}Mr. Dermer, you're a man|of maps and charts.
+{70727}{70857}Look at this map. Now, teII me,|where do you think Squanto wouId hide?
+{70858}{70985}WeII, his tribe Iived mostIy by the ocean,|so I doubt very much he'd go inIand.
+{70987}{71058}Not near any city, certainIy.|That wouId onIy terrify him.
+{71060}{71125}- Ah. Mr. Harding!|- (man) Mr. Harding!
+{71127}{71212}You know, you impress me, Dermer.|You seem to understand these peopIe.
+{71214}{71243}You know them.
+{71245}{71291}WeII, I do beIieve, sir,|that if we want to trade with them,
+{71293}{71352}we shouId at Ieast try to Iearn|what we can about their cuIture.
+{71354}{71440}- I can't think of anything more tedious.|- It's practicaI, Sir George.
+{71442}{71516}And it's good business. Think of|aII the opportunities you've missed
+{71518}{71565}by steaIing these men from their tribes.
+{71566}{71638}You've made enemies instead of friends.|You can't conduct business with enemies.
+{71639}{71671}But we're stronger than they are.
+{71673}{71716}We can make them do anything|we want them to do.
+{71718}{71786}You watched Squanto fight off|a whoIe pIatoon of armed men.
+{71788}{71884}These are not compIacent peopIe, sir.|They're warriors.
+{72250}{72298}(Daniel) Bibougest.
+{72300}{72365}(Squanto) Hawk. BeautifuI hawk.
+{72408}{72511}My friend, my protector.|He is aIways with me.
+{72571}{72630}You've Iearned my Ianguage far better|than I've Iearned yours, Squanto.
+{72632}{72729}For me there was no choice.|Was there, maushop?
+{72915}{72965}(hawk cries)
+{72984}{73043}- What is it, Squanto?|- The hawk crossed our path.
+{73045}{73089}He warns us.
+{73248}{73296}Who are they, Squanto?
+{73400}{73457}HoId up!
+{73458}{73525}Up there! FoIIow me! Come on!
+{73734}{73778}Hyah!
+{73949}{74044}Go on, Squanto, hide from them.|Hey! Hey! Ha!
+{74228}{74312}Ya! Ya! Faster! Ya!
+{74492}{74535}What's happening, Brother DanieI?
+{74537}{74629}- They've come Iooking for Squanto.|- Perhaps he beIongs with the authorities.
+{74631}{74732}- We mustn't teII them he's here.|- Do not ask me to Iie, Brother DanieI.
+{74734}{74803}- I wiII not Iie.|- Then do not speak at aII.
+{74805}{74884}You there! You're hoIding property|that doesn't beIong to you.
+{74886}{74921}You, sir, are standing on private ground.
+{74923}{74978}We know he's here, Friar.|Hand him over.
+{74980}{75022}He's owned by|the PIymouth Shipping Company.
+{75024}{75073}The PIymouth Shipping Company|has no business in this sanctuary.
+{75075}{75159}This sanctuary, under Protestant Iaw,|has no business on EngIish soiI!
+{75161}{75208}Search the pIace!
+{75238}{75281}You, search the stabIes!
+{75641}{75683}TeII me where he is!
+{75685}{75740}This is a pIace of worship!
+{75742}{75795}- There's nobody here...|- Get out of my way!
+{75900}{75977}- This is a private monastery.|- Spare me your Iies!
+{76065}{76154}PIease don't. I'm teIIing you the truth -|there's nothing here.
+{76178}{76228}FoIIow me! Come on!
+{76295}{76361}Tear the pIace apart!
+{76397}{76440}- Squanto...|- Brother James.
+{76442}{76509}- It's you that they're after. Stay hidden.|- They are hurting you.
+{76510}{76601}It'II be worse for you if they find you,|my friend. Stay back.
+{76643}{76771}AII right! What is the purpose of this?|These are our books, our manuscripts!
+{76773}{76856}I'm out of patience|with that bIoody Indian!
+{76941}{76999}- Out of my way, monk.|- I wiII not.
+{77001}{77045}Out of my way!
+{77047}{77071}Aah!
+{77110}{77163}This is a pIace of Iearning.
+{77165}{77221}Then Iet me teach you a Iesson.
+{77332}{77441}Understand? The sooner you cooperate,|the sooner we stop!
+{77443}{77506}We wiII cooperate.
+{77810}{77869}TeII me what you want.
+{77870}{77967}You know what we want, Friar.|The beast.
+{77969}{78056}The wiId, wiId Indian|who Iives Iike a fiIthy animaI!
+{78058}{78117}The savage! Where is he?
+{78172}{78275}Savage? Beast?
+{78305}{78361}FiIthy animaI?
+{78682}{78782}I swear upon this hoIy book,
+{78806}{78880}no one Iike that is here.
+{79075}{79119}Out!
+{79227}{79275}Move out!
+{79421}{79481}(hawk cries)
+{79483}{79561}You protected me, aII of you.
+{79580}{79634}They did this to you.
+{79657}{79713}Your books. Your house.
+{79810}{79865}AII this was because of me.
+{79867}{79924}No, Squanto.|It was because there are some peopIe
+{79926}{80025}who buIIy their way through this worId|with crueIty and force.
+{80026}{80075}You have no weapons to stop them.
+{80077}{80143}That is not how we battIe our enemies.
+{80145}{80189}Enemies destroy you!
+{80190}{80295}Our books, our windows, yes.
+{80297}{80365}But our spirits are stiII intact.
+{80366}{80440}You do not hate the men|who did this to you?
+{80442}{80529}No. We do not hate.
+{80531}{80609}Hatred onIy Ieads to more hatred.
+{80611}{80653}Brothers...
+{80782}{80830}Thank you.
+{80856}{80942}Humpty Dumpty sat on a waII.
+{80944}{81025}Humpty Dumpty had a great faII.
+{81026}{81111}No, no, no!|Just repeat what he says, wiII you?
+{81113}{81161}Why doesn't the savage speak?
+{81163}{81236}- I think perhaps it's his dignity, sir.|- Dignity, my foot!
+{81238}{81307}I want an Indian|who can sing, dance, fight...
+{81309}{81357}Like Squanto, the one who got away!
+{81359}{81453}His reputation has been quite speciaI|since his escape from the bear pit, sir.
+{81454}{81489}Has it reaIIy?
+{81491}{81538}TeII me, when peopIe taIk|about the escape,
+{81540}{81601}am I the object of pubIic ridicuIe?
+{81603}{81632}Of course not, sir.
+{81660}{81701}Give me that, you thief!
+{81702}{81750}(dogs barking)
+{81786}{81834}GoId.
+{81836}{81865}GoId.
+{81866}{81964}In my home, Capoge...
+{82002}{82096}we have goId everywhere.
+{82112}{82218}Did you hear what he said?|How did he Iearn to speak Iike that?
+{82220}{82320}- Did you say ''goId''?|- Yes, sir.
+{82322}{82352}Heave!
+{82354}{82399}Ah, Mr. Dermer.
+{82401}{82457}- Sir George, weIcome aboard.|- Yes, thank you.
+{82458}{82537}The ship is in fine shape, isn't she, sir?|She'II be ready to saiI as pIanned.
+{82539}{82629}Never been very keen on ships.|Anyway, I'm here on business.
+{82630}{82715}My Indian, Epenow,|says there's goId in his country.
+{82717}{82757}Opinion?
+{82758}{82852}It's a vast and wondrous pIace, sir.|It's perfectIy possibIe.
+{82870}{82969}Do you think if I Iet him go with you,|you couId Iure him or persuade him
+{82971}{83013}to show you where the goId is?
+{83015}{83120}Perhaps - in exchange for his freedom.
+{83122}{83200}I couId certainIy use his heIp as weII|to trade with his tribe again.
+{83202}{83231}I'm reIuctant to Iet him go
+{83233}{83308}without being certain of being abIe|to repIace him by Squanto.
+{83310}{83386}- I thought you'd Iocated Squanto.|- I've Iocated him, but I haven't caught him.
+{83388}{83445}We need to Iure him somehow.
+{83446}{83504}What in our cuIture|couId possibIy attract Squanto?
+{83541}{83583}Squanto!
+{83585}{83664}Squant... Squanto!
+{83692}{83764}Squanto! Squanto!
+{83766}{83858}Squanto... A ship! A ship!
+{83860}{83908}The market... A ship...
+{83910}{83994}We've been to the market and Iearned of|a ship that's Ieaving PIymouth in 1 5 days.
+{83996}{84058}- What ship?|- It's caIIed the HaIf Moon.
+{84060}{84164}PIymouth. PIymouth is a dangerous|pIace for you, Squanto.
+{84165}{84223}AII we need to do is get him on board.
+{84225}{84318}DanieI, there may not be another ship|for months. Years!
+{84320}{84423}- What on earth is this?|- It's food, Brother PauI.
+{84425}{84474}Food?
+{84476}{84537}- It's as hard as a rock.|- It's been dried.
+{84539}{84610}You pIant it in the ground.
+{84612}{84654}A great big thing Iike this?
+{84656}{84764}I beIieve it grows into an enormous tree.
+{84806}{84888}Brothers, we haven't even prayed|this evening, and you...
+{84889}{84921}- Shh!|- (crackling)
+{84922}{84986}- Food is speaking.|- Oh...
+{84988}{85062}Food from the New WorId speaks, does it?
+{85101}{85180}(Paul) WeII, Squanto,|I doubt if you'II find many...
+{85268}{85319}- Oh!|- (laughter)
+{85350}{85399}EngIish!
+{85434}{85461}(man) Stay back!
+{85463}{85560}EngIish... you have no courage.
+{85650}{85698}(Squanto chuckles)
+{86163}{86266}Brothers... this is deIicious.|It's good.
+{86268}{86330}Have some. Try some now.|It's good. It's reaIIy good.
+{86332}{86388}- ReaIIy?|- Try it.
+{86447}{86495}It is good.
+{86549}{86647}If such a pIace of wonder does exist...
+{86649}{86737}your heart must ache to go back to it.
+{86738}{86843}Brother DanieI, you have my permission|to ride to PIymouth.
+{86845}{86984}You must see Squanto safeIy|to the ship and then return.
+{87218}{87317}Now, you protect these good men|the way you watched over me.
+{87523}{87570}Squanto?
+{87594}{87681}You haven't been fiddIing|with this fIower, have you?
+{87737}{87834}WeII, you Iook quite a sight|in that sackcIoth.
+{87836}{87903}TeII me, does it make you|feeI at aII Iike a monk?
+{87905}{87979}I'm stiII thinking about a woman,|Brother PauI.
+{87981}{88102}Oh. I must teII you something, Squanto.
+{88104}{88191}I confess it's been|a stubborn weakness of mine...
+{88193}{88293}I resist the possibiIity of other worIds,
+{88294}{88384}other customs, other points of view.
+{88406}{88534}Sometimes I overIook|the goodness in a man
+{88536}{88644}even when it's staring me in the face.
+{88646}{88753}Go in peace. You have my bIessing.
+{88773}{88841}Thank you, Brother PauI.
+{89305}{89381}Take this as a gift from my heart.
+{91488}{91536}( lively music)
+{91911}{92018}Mr. Epenow has figured out how|to avoid a whipping, eh, Mr. Harding?
+{92020}{92091}Very IiberaI of you to give him|his freedom, Sir George.
+{92093}{92127}A business transaction.
+{92129}{92207}(gasps/cheers)
+{92228}{92321}This brave that came from the New WorId|wiII battIe the Ottoman army,
+{92323}{92365}the wiIdest in the worId!
+{92367}{92401}Chief Epenow!
+{92402}{92521}I must warn you though, this|performance is not for the faint of heart.
+{92542}{92597}No, Squanto. No.
+{92598}{92682}You have risked your Iife for a friend,|Brother DanieI.
+{92684}{92756}Epenow's my friend.|I must do the same.
+{92802}{92852}(cheers/whistles)
+{93582}{93628}The fooI!
+{93945}{93988}(war cry)
+{94022}{94111}Oh, no! Not yet, Harding.|He wiII entertain the audience.
+{94139}{94181}Squanto, the savage!
+{94183}{94230}Squanto! Squanto!
+{94232}{94296}(crowd) Squanto! Squanto! Squanto!
+{94297}{94353}Squanto! Squanto! Squanto!
+{94355}{94415}(chanting continues)
+{94965}{95049}WeII, now, Squanto, you were|spectacuIar this afternoon.
+{95051}{95110}The common peopIe Ioved you.|The gentry Ioved you.
+{95112}{95169}You were the taIk of the town.
+{95170}{95243}There is indeed a ship Ieaving|for your homeIand.
+{95245}{95296}It Ieaves PIymouth tomorrow at noon.
+{95298}{95360}Your friend Epenow|wiII be on board that ship.
+{95361}{95436}You, however, wiII not.
+{95495}{95573}You can't run away from me, Indian.|I own you now.
+{95574}{95633}You wiII do whatever I teII you to do.
+{95634}{95756}Obey me and you'II be treated fairIy.|Disobey me and you'II be punished.
+{95829}{95909}There is a divine order to Iife.
+{95910}{96021}First there's God,|foIIowed by the angeIs, then the king...
+{96023}{96095}Then the rest of us|according to our position in the worId.
+{96097}{96218}Your position, Indian,|is Iower than the animaIs.
+{96220}{96313}You're not a human being.|You're Iivestock.
+{96576}{96611}Harding!
+{96613}{96717}Make very sure you keep him|bound and guarded at aII times.
+{96718}{96819}- Of course, Sir George.|- Just Iike my friend here, Epenow.
+{96949}{97013}Take me home, you good-for-nothing.
+{97285}{97347}You there.
+{97349}{97417}The man you're Iooking for is not here.
+{97419}{97484}- Do you know where he is?|- Locked away.
+{97485}{97529}- He'II die.|- It has nothing to do with me.
+{97530}{97633}Yes, it has.|The man is a human being.
+{97634}{97669}He needs to go home.
+{97670}{97719}He was brought over from the New WorId|on a ship Iike this.
+{97721}{97744}I know.
+{98293}{98341}(horse neighs)
+{98441}{98493}(makes sucking noise)
+{99353}{99425}Have a successfuI voyage, Dermer.|Do good business for me.
+{99427}{99510}- Bring my ship back safeIy.|- Aye-aye, Sir George.
+{99584}{99645}- Weigh the anchor!|- Aye-aye, sir.
+{99647}{99726}Let go aII bunts! Hoist the saiIs!
+{99728}{99793}On your feet, savage!
+{99794}{99845}- Take him.|- Get up, you animaI.
+{99847}{99900}Come on, you, now.
+{100214}{100275}You. What is your business here?
+{100277}{100321}Aah!
+{100365}{100414}Get out of my way!
+{100416}{100456}After him, you fooIs!
+{100565}{100636}Capture the savage! Report to Sir George!
+{100813}{100882}- Sir George! Sir George!|- What is it?
+{100884}{100959}- The Indian has escaped!|- What?
+{100961}{100984}Dermer!
+{101018}{101079}Hard to starboard!
+{101081}{101113}Hard to starboard!
+{101201}{101272}He's getting away! After him!
+{101345}{101406}Head round the other side!
+{101593}{101697}Be certain this is the Iast time|you make a fooI of me, savage!
+{101823}{101876}- Brother DanieI!|- There is no time.
+{102093}{102148}- You are a true warrior.|- Ha!
+{102149}{102197}Let's go, maushop.
+{102403}{102447}BIess you, bIess you. God bIess.
+{102472}{102513}After him!
+{102661}{102711}Sir George, the HaIf Moon!
+{102713}{102744}The Indian, sir!
+{102841}{102881}(man) Out of the way! Move it!
+{102997}{103072}In the name of the king, out of the way!
+{103142}{103201}(speaking Algonquin)
+{103236}{103277}No, no, no!
+{103321}{103369}Oh! No, no! Oh, no, no, no!
+{103388}{103433}Aah!
+{103750}{103801}Whoa! Sir George!
+{103889}{103965}My Indian! Stop that ship!
+{103967}{104028}Stop that ship!
+{104030}{104074}Harding! Harding!
+{104076}{104137}- You're fired! You're fired!|- Yes!
+{104139}{104185}Yes, Sir George.
+{104187}{104236}Save me!
+{104237}{104293}Stop that ship!
+{104374}{104435}Brother DanieI!
+{104437}{104491}Brother DanieI!
+{104606}{104657}Thank you!
+{105238}{105307}You won the trust of the EngIish,|Epenow.
+{105328}{105368}The EngIi...
+{105399}{105519}(quietly) The EngIish are greedy.|I promised them goId.
+{105814}{105871}Where is this goId?
+{105976}{106055}I've Iearned many things|from the EngIish.
+{106092}{106148}One of them was how to Iie.
+{106173}{106260}I Iearned from them, too.|I found friends among them.
+{106262}{106310}(horse neighs)
+{106389}{106504}Our friends are the peopIe|that we are going home to.
+{106505}{106570}The Nausets and the Patuxets.
+{106616}{106716}I am IoyaI to my peopIe. And my famiIy.
+{106717}{106853}And my son.|Pequod wiII be a great sachem one day.
+{106855}{106942}I too am IoyaI to my peopIe and famiIy.
+{106944}{107052}And my bride, Nakooma.|But new friends do not threaten my IoyaIty.
+{107054}{107161}Then you are a fooI, Squanto.|The white man is not your friend.
+{107163}{107224}He wiII onIy betray you.
+{107329}{107432}My father taught me|to let my heart be my guide.
+{107433}{107541}From the brothers, I learned|to keep my spirit, even in pain.
+{107543}{107619}Epenow's words left me concerned.
+{107644}{107700}Land ho!
+{107710}{107736}Epenow!
+{107738}{107811}I was almost home.|My heart was longing for the moment
+{107813}{107877}when I would hold Nakooma|in my arms again
+{107879}{107973}and my family would gather|around the fire to celebrate my return.
+{108012}{108141}But our ship sailed into Nauset Bay,|the place of Epenow's people,
+{108142}{108213}a few days away from my village.
+{108516}{108621}Stow your oars now.|Keep your eyes peeIed onshore.
+{108756}{108837}(assorted ''bird'' calls)
+{108942}{108999}(calls continue)
+{109105}{109128}Pequod!
+{109130}{109185}(speaks Algonquin)
+{109229}{109280}Dada!
+{109343}{109403}(whooping)
+{109628}{109652}Squanto!
+{109654}{109726}(rhythmic drumming/man singing)
+{109954}{110006}( all singing)
+{110496}{110575}I go to rest now.|I Ieave at dawn for home.
+{110705}{110768}Won't you dance with me?
+{110796}{110880}Dance with me.|How about a kiss, then?
+{110881}{110931}Just a IittIe one. Come on.|Come on!
+{110933}{111023}For God's sakes, man, remember|your manners! You're a guest here.
+{111089}{111148}She's just a bIoody savage anyway.
+{111695}{111757}(distant shouts and whooping)
+{112286}{112338}What have you done?
+{112391}{112443}This is not our way!
+{112445}{112536}No, it is not our way!|It is the way of the EngIish!
+{112537}{112567}Aah!
+{112613}{112706}You weIcome them to your viIIage and|now you sIaughter them as the enemy?
+{112708}{112767}They came to our Iand to trade,
+{112769}{112834}then they took us away|and treated us Iike animaIs!
+{112836}{112889}You have punished a good man|for other men's crueIty!
+{112891}{112954}I kiIIed them because I am a warrior!
+{112956}{113052}- You have forgotten who you are!|- I have not forgotten!
+{113077}{113143}Go back to your viIIage, Squanto...
+{113145}{113216}and see what the EngIish|have brought to your peopIe.
+{113218}{113292}Then judge me for what I have done.
+{114709}{114758}(flies buzzing)
+{115913}{115989}Nakooma!
+{116385}{116444}(bell chiming)
+{117209}{117290}I began to understand Epenow's rage.
+{117309}{117366}All of my people were dead,
+{117368}{117452}killed by the sickness|brought by the English.
+{117490}{117549}My heart was bleeding.
+{117551}{117629}Nakooma's tears still haunted me.
+{117630}{117749}The playful laughter of my people|still echoed through the village.
+{117751}{117898}Now I would wear their ashes|and carry their spirits with me.
+{117949}{118033}I had become a sachem without a tribe.
+{118073}{118153}The English would come again -|I knew that.
+{118155}{118236}And I promised the Great Spirit|to be the warrior
+{118237}{118312}my father had seen in his vision.
+{119230}{119284}Dr. FuIIer, Mr. Bradford!
+{119285}{119333}(bell chimes)
+{119372}{119418}Look at this.
+{120267}{120345}We're safe here.|Protected on aII sides.
+{120346}{120400}I suggest we bury our dead|before we settIe in.
+{120401}{120502}I stiII feeI uneasy about this decision.|This is someone eIse's home.
+{120504}{120575}God has guided us here.|This wiII be our home.
+{120577}{120672}- But what if they come back?|- They wiII be met with resistance.
+{120673}{120721}That is what you pay me for.
+{120759}{120855}Warwick, take one man|and search the surrounding forest.
+{121199}{121248}(exotic bird call)
+{121732}{121783}(bird calls)
+{122749}{122796}(hawk cries)
+{123457}{123512}(distant voices)
+{123876}{123929}(groaning)
+{124129}{124188}Captain FuIIer!
+{124190}{124228}Man the barricades!
+{124422}{124471}You two, come with me.
+{124946}{125025}Carver, make sure the women|and chiIdren are secure.
+{125026}{125085}I want every man of yours|armed and ready.
+{125086}{125155}Mr. Bradford, couId you|bring the rosewater, pIease?
+{125157}{125202}We shouId try to make contact|with these peopIe first.
+{125204}{125245}We must show them we mean no harm.
+{125246}{125313}I wiII not aIIow my men|to be used as target practice.
+{125314}{125376}If we do not show strength now,|then aII is Iost.
+{125377}{125476}Mr. Standish is right. We've Iived|too Iong under fear and persecution.
+{125477}{125533}I say we fight for what shouId be ours.
+{125534}{125579}Think of what you're saying, Mr. Carver.
+{125581}{125652}Are we to be the same|as those who persecuted us in EngIand?
+{125654}{125742}- ShouId we commit murder?|- Bradford, I am preventing murder.
+{125744}{125804}I shaII do what is necessary.
+{125826}{125897}I want aII men to enforce the barricade!
+{127309}{127359}Squanto! (speaks Algonquin)
+{127432}{127480}What has to be done.
+{127600}{127677}What my father wouId have done.
+{127789}{127868}- ( Carver) Shoot him.|- (Bradford) No, wait.
+{128023}{128091}- Shoot him.|- Mr. Carver, he's unarmed.
+{128093}{128147}(Squanto) Enough!
+{128149}{128202}Too much bIood.
+{128204}{128285}Too much bIood on this Iand.|Too many tears.
+{128287}{128324}It's a trick.
+{128326}{128401}AII of my peopIe have died here.
+{128423}{128493}And aII of your peopIe wiII die too.
+{128532}{128598}Put down your weapons!
+{128600}{128648}AII of you!
+{128721}{128765}- (war cry)|- Pequod!
+{128829}{128869}No!
+{129117}{129161}- (speaks Algonquin)|- No!
+{129542}{129632}Now kiII me! KiII me!
+{129655}{129733}And you'II kiII them and they'II kiII you.
+{129734}{129793}And more of us wiII die!
+{129833}{129906}And we wiII kiII each other|untiI there's nothing Ieft!
+{129908}{129968}Nothing but ashes and bones!
+{129990}{130048}We must end this!
+{130049}{130121}Here! Now!
+{130346}{130397}I'm a doctor. I can heIp.
+{130421}{130537}I can heIp! PIease, we must take him|inside to stop the bIeeding.
+{130672}{130774}If he dies, you aII die.
+{131543}{131605}- (sizzling)|- (groans)
+{131910}{131970}The baII is out.
+{131972}{132065}But his wound is infIamed|and I fear he's growing more feverish.
+{132090}{132138}(speaks Algonquin)
+{132277}{132326}- This.|- Mm.
+{132505}{132555}(chanting)
+{132784}{132823}(rhythmic drumming)
+{132825}{132888}(chanting)
+{132889}{132937}How is he now?
+{133037}{133132}He's now in the hands of the Creator.|We must wait.
+{133246}{133346}(pilgrims) Our Father, who art in heaven,|haIIowed be thy name.
+{133348}{133463}Thy kingdom come. Thy wiII be done|on earth as it is in heaven.
+{133465}{133569}Give us this day our daiIy bread|and forgive us our trespasses
+{133571}{133642}as we forgive those|who trespass against us;
+{133644}{133738}and Iead us not into temptation,|but deIiver us from eviI,
+{133740}{133860}for thine is kingdom and the power|and the gIory forever and ever.
+{133877}{133979}Our Father, who art in heaven,|haIIowed be thy name.
+{133981}{134096}Thy kingdom come. Thy wiII be done|on earth as it is in heaven.
+{134097}{134151}Give us this day our daiIy...
+{134961}{135008}Dada.
+{135733}{135841}The Creator has given my son Pequod|his Iife back today.
+{135898}{135977}We wiII Ieave this viIIage now.
+{136019}{136073}Thank you, my friend.
+{136135}{136183}(speaks Algonquin)
+{136404}{136460}And so began a time of harmony
+{136461}{136556}between people whose ways|were so different from one another.
+{136558}{136649}We who knew the land taught|those who had come from far away
+{136650}{136706}how to plant and to hunt.
+{136708}{136809}At harvest we came together|to give thanks.
+{136987}{137108}Brothers and sisters, new friends,|pIease, Iet us rise and pray.
+{137122}{137165}(Native man speaks Algonquin)
+{137166}{137249}HeavenIy Father, we thank thee|for this bountifuI harvest
+{137251}{137337}and for bringing so many of us together|on this joyous day.
+{137339}{137409}We humbIy ask thee for thy bIessing.
+{137411}{137464}(speaking Algonquin)
+{137633}{137675}Amen.
+{137677}{137724}PIease, everyone, eat.
+{138553}{138594}My friends!
+{138596}{138681}In the worId there are many peopIe...
+{138710}{138780}with aII kinds of customs and beIiefs...
+{138802}{138865}speaking many Ianguages.
+{138920}{139011}But there is onIy one moon, one sun...
+{139031}{139094}one Mother Earth.
+{139096}{139165}And there is onIy one tribe.
+{139167}{139239}(speaking Algonquin)
+{139241}{139309}Let's Iive together in peace!
+{139311}{139360}(speak Algonquin)
+{139520}{139566}(hawk cries)

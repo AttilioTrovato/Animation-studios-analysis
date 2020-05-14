@@ -1,0 +1,7043 @@
+﻿1
+00:01:00,507 --> 00:01:02,507
+<font color='#FFFFFF'>(THEME PLAYING)</font>
+
+2
+00:02:12,508 --> 00:02:16,502
+<font color='#FFFFFF'>- JP: Roger, Do you believe in heaven?</font>
+<font color='#FFFFFF'>- ROGER: I guess.</font>
+
+3
+00:02:16,506 --> 00:02:18,504
+<font color='#FFFFFF'>That's where they</font>
+<font color='#FFFFFF'>say my mom went.</font>
+
+4
+00:02:18,508 --> 00:02:22,503
+<font color='#FFFFFF'>- Maybe, that's where my dad went.</font>
+<font color='#FFFFFF'>- Probably.</font>
+
+5
+00:02:23,506 --> 00:02:28,500
+<font color='#FFFFFF'>(SIGHS) Maybe your mom</font>
+<font color='#FFFFFF'>and my dad are friends up there.</font>
+
+6
+00:02:28,500 --> 00:02:31,503
+<font color='#FFFFFF'>- ROGER: That could be.</font>
+<font color='#FFFFFF'>- JP: Cause your my best friend down here.</font>
+
+7
+00:02:32,509 --> 00:02:34,505
+<font color='#FFFFFF'>You're my best friend too, JP.</font>
+
+8
+00:02:50,507 --> 00:02:54,507
+<font color='#FFFFFF'>JP: Roger, how come Maggie's house</font>
+<font color='#FFFFFF'>is called a foster home?</font>
+
+9
+00:02:55,500 --> 00:02:55,509
+<font color='#FFFFFF'>ROGER: I don't know.</font>
+
+10
+00:02:56,504 --> 00:02:58,507
+<font color='#FFFFFF'>Maybe the first people</font>
+<font color='#FFFFFF'>who let other people's kids...</font>
+
+11
+00:02:58,508 --> 00:03:00,509
+<font color='#FFFFFF'>- ...live with them were named "Foster."</font>
+<font color='#FFFFFF'>- JP: Oh.</font>
+
+12
+00:03:01,500 --> 00:03:02,508
+<font color='#FFFFFF'>So, If we stay there</font>
+<font color='#FFFFFF'>a long time...</font>
+
+13
+00:03:02,508 --> 00:03:05,500
+<font color='#FFFFFF'>...do we gotta change</font>
+<font color='#FFFFFF'>our name to Foster?</font>
+
+14
+00:03:05,500 --> 00:03:08,508
+<font color='#FFFFFF'>- ROGER: No way.</font>
+<font color='#FFFFFF'>- JP: Good.</font>
+
+15
+00:03:08,509 --> 00:03:11,501
+<font color='#FFFFFF'>Besides, we're not gonna</font>
+<font color='#FFFFFF'>be there a long time.</font>
+
+16
+00:03:11,504 --> 00:03:14,507
+<font color='#FFFFFF'>- Really?</font>
+<font color='#FFFFFF'>- Yeah, somethin' good's gonna happen.</font>
+
+17
+00:03:15,507 --> 00:03:20,506
+<font color='#FFFFFF'>JP: Yeah, somethin' good.</font>
+<font color='#FFFFFF'>Maybe today, even. It could happen.</font>
+
+18
+00:03:25,503 --> 00:03:31,503
+<font color='#FFFFFF'>- (TRAIN APPROACHES)</font>
+<font color='#FFFFFF'>- (TIRE SCREECHES)</font>
+
+19
+00:03:34,508 --> 00:03:37,508
+<font color='#FFFFFF'>RANCH: (ON RADIO) So, the Angels</font>
+<font color='#FFFFFF'>trying to break a 14-game losing streak...</font>
+
+20
+00:03:37,508 --> 00:03:40,505
+<font color='#FFFFFF'>...face the Toronto Blue Jays</font>
+<font color='#FFFFFF'>here this afternoon at Anaheim Stadium.</font>
+
+21
+00:03:40,505 --> 00:03:42,508
+<font color='#FFFFFF'>- (TIRE SCREECHES)</font>
+<font color='#FFFFFF'>- Maggie, we're back!</font>
+
+22
+00:03:46,507 --> 00:03:48,507
+<font color='#FFFFFF'>- So, where you been?</font>
+<font color='#FFFFFF'>- Just riding around.</font>
+
+23
+00:03:48,507 --> 00:03:50,507
+<font color='#FFFFFF'>You said be back by 5:00.</font>
+
+24
+00:03:55,500 --> 00:03:58,504
+<font color='#FFFFFF'>I can't tell time yet.</font>
+<font color='#FFFFFF'>Are we back by 5:00?</font>
+
+25
+00:03:58,505 --> 00:04:02,501
+<font color='#FFFFFF'>Close. Come on, JP,</font>
+<font color='#FFFFFF'>get your bike in.</font>
+
+26
+00:04:02,501 --> 00:04:04,507
+<font color='#FFFFFF'>- Roger? You have a visitor.</font>
+<font color='#FFFFFF'>- Yeah?</font>
+
+27
+00:04:04,507 --> 00:04:07,509
+<font color='#FFFFFF'>- He's waiting inside for you.</font>
+<font color='#FFFFFF'>- Is it?</font>
+
+28
+00:04:15,509 --> 00:04:18,500
+<font color='#FFFFFF'>- ROGER: Dad?</font>
+<font color='#FFFFFF'>- MAN: Hey.</font>
+
+29
+00:04:18,501 --> 00:04:22,501
+<font color='#FFFFFF'>- Dad.</font>
+<font color='#FFFFFF'>- Suprised to see me?</font>
+
+30
+00:04:24,504 --> 00:04:25,506
+<font color='#FFFFFF'>Yeah.</font>
+
+31
+00:04:26,509 --> 00:04:31,505
+<font color='#FFFFFF'>You look kinda scrawny. Don't</font>
+<font color='#FFFFFF'>they feed you enough in this place?</font>
+
+32
+00:04:33,503 --> 00:04:36,504
+<font color='#FFFFFF'>- Yeah.</font>
+<font color='#FFFFFF'>- Where you been? I was waiting.</font>
+
+33
+00:04:36,506 --> 00:04:39,504
+<font color='#FFFFFF'>Just ridin' around the stadium.</font>
+
+34
+00:04:40,504 --> 00:04:43,501
+<font color='#FFFFFF'>- Angels still your team?</font>
+<font color='#FFFFFF'>- Yeah.</font>
+
+35
+00:04:43,505 --> 00:04:45,500
+<font color='#FFFFFF'>They're in last place.</font>
+
+36
+00:04:48,500 --> 00:04:50,504
+<font color='#FFFFFF'>- Yeah.</font>
+<font color='#FFFFFF'>- Runs in the blood.</font>
+
+37
+00:04:52,507 --> 00:04:54,500
+<font color='#FFFFFF'>Family that likes losers.</font>
+
+38
+00:04:55,505 --> 00:04:57,500
+<font color='#FFFFFF'>(SIGHS)</font>
+
+39
+00:04:59,508 --> 00:05:04,508
+<font color='#FFFFFF'>So, I came to say</font>
+<font color='#FFFFFF'>that I'm goin' up north.</font>
+
+40
+00:05:05,507 --> 00:05:08,507
+<font color='#FFFFFF'>I know I said when I came</font>
+<font color='#FFFFFF'>it'd be to get you, but...</font>
+
+41
+00:05:09,507 --> 00:05:12,503
+<font color='#FFFFFF'>(SIGHS) Things ain't workin' out that way.</font>
+
+42
+00:05:19,505 --> 00:05:21,501
+<font color='#FFFFFF'>I did what I could with ya.</font>
+
+43
+00:05:22,508 --> 00:05:24,508
+<font color='#FFFFFF'>Maybe if your mom was alive,</font>
+<font color='#FFFFFF'>it'd be different.</font>
+
+44
+00:05:25,508 --> 00:05:28,504
+<font color='#FFFFFF'>I, uh-- They had me sign</font>
+<font color='#FFFFFF'>this thing, this paper...</font>
+
+45
+00:05:28,504 --> 00:05:31,501
+<font color='#FFFFFF'>...some kind of release thing.</font>
+
+46
+00:05:31,506 --> 00:05:33,508
+<font color='#FFFFFF'>Uh, just gotta go to</font>
+<font color='#FFFFFF'>court to make it final.</font>
+
+47
+00:05:36,505 --> 00:05:39,501
+<font color='#FFFFFF'>You understand</font>
+<font color='#FFFFFF'>what I'm sayin', don't ya?</font>
+
+48
+00:05:42,501 --> 00:05:44,505
+<font color='#FFFFFF'>- Y-yeah.</font>
+<font color='#FFFFFF'>- Okay, I'm glad we got that outta the way.</font>
+
+49
+00:05:54,502 --> 00:05:56,508
+<font color='#FFFFFF'>- Where's the pickup?</font>
+<font color='#FFFFFF'>- Oh, I traded it in.</font>
+
+50
+00:05:57,508 --> 00:06:00,500
+<font color='#FFFFFF'>The bike's better for travellin'.</font>
+
+51
+00:06:00,504 --> 00:06:04,501
+<font color='#FFFFFF'>D-Dad, when we gonna be</font>
+<font color='#FFFFFF'>a family again?</font>
+
+52
+00:06:06,508 --> 00:06:08,503
+<font color='#FFFFFF'>From where I'm sittin'.</font>
+
+53
+00:06:11,503 --> 00:06:13,505
+<font color='#FFFFFF'>I'd say when the Angels win the pennant.</font>
+
+54
+00:06:15,500 --> 00:06:18,504
+<font color='#FFFFFF'>- DAD: You stay outta trouble, son.</font>
+<font color='#FFFFFF'>- (ENGINE STARTS)</font>
+
+55
+00:06:34,501 --> 00:06:36,509
+<font color='#FFFFFF'>MAN (ON PA):</font>
+<font color='#FFFFFF'>Number 27., shortstop Steve Acker.</font>
+
+56
+00:06:37,501 --> 00:06:38,507
+<font color='#FFFFFF'>RANCH WILDER (ON RADiO):</font>
+<font color='#FFFFFF'>So with the Angels down by seven...</font>
+
+57
+00:06:38,507 --> 00:06:41,501
+<font color='#FFFFFF'>...it's now one ball</font>
+<font color='#FFFFFF'>two strikes to Acker...</font>
+
+58
+00:06:41,501 --> 00:06:43,501
+<font color='#FFFFFF'>the fourth batter to face</font>
+<font color='#FFFFFF'>Gates here in the eighth.</font>
+
+59
+00:06:43,502 --> 00:06:46,508
+<font color='#FFFFFF'>- Come on. Strike him out!</font>
+<font color='#FFFFFF'>- Yeah! Strike him out!</font>
+
+60
+00:06:47,506 --> 00:06:49,506
+<font color='#FFFFFF'>(CONTINUES)</font>
+
+61
+00:06:49,507 --> 00:06:51,503
+<font color='#FFFFFF'>Burn it in there.</font>
+
+62
+00:06:52,500 --> 00:06:53,509
+<font color='#FFFFFF'>- Come on, Angels!</font>
+<font color='#FFFFFF'>- Let's stay in this.</font>
+
+63
+00:06:54,504 --> 00:06:56,504
+<font color='#FFFFFF'>RANCH:</font>
+<font color='#FFFFFF'>Gates takes the sign...</font>
+
+64
+00:06:56,506 --> 00:06:59,505
+<font color='#FFFFFF'>checks the runner at first</font>
+<font color='#FFFFFF'>and delivers.</font>
+
+65
+00:07:02,501 --> 00:07:04,503
+<font color='#FFFFFF'>Acker lofts the ball</font>
+<font color='#FFFFFF'>high into left field.</font>
+
+66
+00:07:04,503 --> 00:07:06,503
+<font color='#FFFFFF'>MAN: Gates, you stink!</font>
+
+67
+00:07:07,503 --> 00:07:10,501
+<font color='#FFFFFF'>Norton and Williams</font>
+<font color='#FFFFFF'>both going for the catch.</font>
+
+68
+00:07:10,504 --> 00:07:13,503
+<font color='#FFFFFF'>- I-I got it. I got it.</font>
+<font color='#FFFFFF'>- And this'll be Ben Williams's call.</font>
+
+69
+00:07:13,509 --> 00:07:15,505
+<font color='#FFFFFF'>(BOTH GROAN)</font>
+
+70
+00:07:15,508 --> 00:07:19,509
+<font color='#FFFFFF'>And Williams and Norton collide,</font>
+<font color='#FFFFFF'>and the catch is blown!</font>
+
+71
+00:07:19,509 --> 00:07:22,501
+<font color='#FFFFFF'>- (BEN PANTING)</font>
+<font color='#FFFFFF'>- (NORTON GROANS)</font>
+
+72
+00:07:23,507 --> 00:07:28,505
+<font color='#FFFFFF'>- Boy, they're bad!</font>
+<font color='#FFFFFF'>- (ALL EXCLAMING) Ohh!</font>
+
+73
+00:07:28,505 --> 00:07:30,506
+<font color='#FFFFFF'>And with another example</font>
+<font color='#FFFFFF'>of his infamous temper...</font>
+
+74
+00:07:30,507 --> 00:07:33,500
+<font color='#FFFFFF'>manager George Knox calls time out.</font>
+
+75
+00:07:33,500 --> 00:07:36,500
+<font color='#FFFFFF'>He will have a word</font>
+<font color='#FFFFFF'>with his pitcher, Frank Gates.</font>
+
+76
+00:07:36,500 --> 00:07:38,502
+<font color='#FFFFFF'>I don't think it's</font>
+<font color='#FFFFFF'>gonna be a happy word.</font>
+
+77
+00:07:38,502 --> 00:07:41,501
+<font color='#FFFFFF'>RANCH (ON RADIO): And it looks like Knox</font>
+<font color='#FFFFFF'>is going to take Gates out.</font>
+
+78
+00:07:41,504 --> 00:07:44,500
+<font color='#FFFFFF'>Gates doesn't look</font>
+<font color='#FFFFFF'>too pleased about this.</font>
+
+79
+00:07:45,501 --> 00:07:47,501
+<font color='#FFFFFF'>- Gimme the ball.</font>
+<font color='#FFFFFF'>- It ain't my fault.</font>
+
+80
+00:07:47,501 --> 00:07:48,508
+<font color='#FFFFFF'>You need a new outfield.</font>
+
+81
+00:07:48,508 --> 00:07:50,509
+<font color='#FFFFFF'>GEORGE: You're outta here!</font>
+<font color='#FFFFFF'>Gimme the ball!</font>
+
+82
+00:07:51,500 --> 00:07:54,501
+<font color='#FFFFFF'>You want the ball?</font>
+<font color='#FFFFFF'>Here you go. Go get it!</font>
+
+83
+00:07:54,501 --> 00:07:56,501
+<font color='#FFFFFF'>- RANCH: Gates has thrown his ball...</font>
+<font color='#FFFFFF'>- And my glove? Go get it!</font>
+
+84
+00:07:56,501 --> 00:07:58,502
+<font color='#FFFFFF'>- and glove into the stands.</font>
+<font color='#FFFFFF'>- Go on! Get outta here!</font>
+
+85
+00:07:58,505 --> 00:08:01,500
+<font color='#FFFFFF'>- GEORGE: You're finished, Gates!</font>
+<font color='#FFFFFF'>- And Knox has attacked his own pitcher!</font>
+
+86
+00:08:01,501 --> 00:08:02,501
+<font color='#FFFFFF'>BOTH: Uh-oh!</font>
+
+87
+00:08:02,501 --> 00:08:04,501
+<font color='#FFFFFF'>MESSMER: Skip, Skip.</font>
+<font color='#FFFFFF'>Let him go, Skip.</font>
+
+88
+00:08:04,501 --> 00:08:08,509
+<font color='#FFFFFF'>- Get off me! You're crazy, Knox!</font>
+<font color='#FFFFFF'>- You're washed up! You'll never pitch again!</font>
+
+89
+00:08:08,509 --> 00:08:10,506
+<font color='#FFFFFF'>RANCH: They're clearing</font>
+<font color='#FFFFFF'>the benches!</font>
+
+90
+00:08:10,508 --> 00:08:14,502
+<font color='#FFFFFF'>- Now both teams are on the field!</font>
+<font color='#FFFFFF'>- Hey! It's not our fight!</font>
+
+91
+00:08:14,502 --> 00:08:17,503
+<font color='#FFFFFF'>RANCH: George Knox</font>
+<font color='#FFFFFF'>has created total chaos!</font>
+
+92
+00:08:17,503 --> 00:08:20,500
+<font color='#FFFFFF'>- GEORGE: Hit him one for me, Gates!</font>
+<font color='#FFFFFF'>- I can't find him!</font>
+
+93
+00:08:20,500 --> 00:08:22,501
+<font color='#FFFFFF'>- You're crazy!</font>
+<font color='#FFFFFF'>- GATES: You can't manage a team!</font>
+
+94
+00:08:22,501 --> 00:08:24,501
+<font color='#FFFFFF'>RANCH: This is outrageous!</font>
+
+95
+00:08:25,500 --> 00:08:31,502
+<font color='#FFFFFF'>- George Knox fighting off his own players.</font>
+<font color='#FFFFFF'>- (SIGHS) Surprise, surprise.</font>
+
+96
+00:08:31,502 --> 00:08:33,504
+<font color='#FFFFFF'>RANCH: And they're trying to keep</font>
+<font color='#FFFFFF'>Knox and Gates apart.</font>
+
+97
+00:08:33,504 --> 00:08:36,503
+<font color='#FFFFFF'>- Come on! - I said, let me go!</font>
+<font color='#FFFFFF'>- You stink, Knox!</font>
+
+98
+00:08:36,503 --> 00:08:38,503
+<font color='#FFFFFF'>UMPIRE: Knox! You're outta here!</font>
+
+99
+00:08:39,501 --> 00:08:41,502
+<font color='#FFFFFF'>Come on, Ump.</font>
+<font color='#FFFFFF'>Leave him in!</font>
+
+100
+00:08:41,502 --> 00:08:44,500
+<font color='#FFFFFF'>JP: Yeah! Don't throw him out!</font>
+
+101
+00:08:44,500 --> 00:08:45,507
+<font color='#FFFFFF'>MAN: Hey! What are you kids</font>
+<font color='#FFFFFF'>doin' up there?</font>
+
+102
+00:08:45,508 --> 00:08:49,500
+<font color='#FFFFFF'>- (GASPS) Uh-oh!</font>
+<font color='#FFFFFF'>- You better have tickets for that tree!</font>
+
+103
+00:08:49,501 --> 00:08:51,500
+<font color='#FFFFFF'>Game's over for us, JP.</font>
+<font color='#FFFFFF'>We gotta go!</font>
+
+104
+00:08:51,501 --> 00:08:53,503
+<font color='#FFFFFF'>That's right, clear off!</font>
+<font color='#FFFFFF'>Go on. Get outta here!</font>
+
+105
+00:08:53,503 --> 00:08:56,509
+<font color='#FFFFFF'>You heard me! Don't let me catch</font>
+<font color='#FFFFFF'>you twerps around here again!</font>
+
+106
+00:08:56,509 --> 00:08:58,509
+<font color='#FFFFFF'>- GEORGE: You kickin' me out? That's good!</font>
+<font color='#FFFFFF'>- Yes, I'm kicking you out!</font>
+
+107
+00:08:59,500 --> 00:09:01,500
+<font color='#FFFFFF'>'Cause you been stinkin' up</font>
+<font color='#FFFFFF'>the calls all day! - You're gone!</font>
+
+108
+00:09:01,500 --> 00:09:04,504
+<font color='#FFFFFF'>GEORGE: You can't kick me out, 'cause I'm</font>
+<font color='#FFFFFF'>leavin'. You get that? I'm outta here!</font>
+
+109
+00:09:04,504 --> 00:09:09,502
+<font color='#FFFFFF'>RANCH: And Knox will watch </font>
+<font color='#FFFFFF'>the rest of the game in the locker room.</font>
+
+110
+00:09:09,508 --> 00:09:13,506
+<font color='#FFFFFF'>- (TURNS OFF)</font>
+<font color='#FFFFFF'>- Murphy's out of his mind</font>
+<font color='#FFFFFF'>to put up with this nonsense.</font>
+
+111
+00:09:13,507 --> 00:09:17,503
+<font color='#FFFFFF'>- You thinkyou can do any better?</font>
+<font color='#FFFFFF'>- (SCOFFS) Blindfolded.</font>
+
+112
+00:09:17,503 --> 00:09:20,502
+<font color='#FFFFFF'>Well, when you were managing, boy,</font>
+<font color='#FFFFFF'>you had a lot of trouble. I remember--</font>
+
+113
+00:09:20,502 --> 00:09:22,501
+<font color='#FFFFFF'>- (SIZZLES)</font>
+<font color='#FFFFFF'>- Zip it, pal.</font>
+
+114
+00:09:22,501 --> 00:09:25,508
+<font color='#FFFFFF'>You have to ask yourself what is</font>
+<font color='#FFFFFF'>going on with this team and how long...</font>
+
+115
+00:09:25,509 --> 00:09:29,501
+<font color='#FFFFFF'>will owner Hank Murphy put up with</font>
+<font color='#FFFFFF'>this kind of behaviour from his manager.</font>
+
+116
+00:09:29,501 --> 00:09:31,500
+<font color='#FFFFFF'>RANCH: I thought I'd seen it all,</font>
+<font color='#FFFFFF'>ladies and gentlemen, but with...</font>
+
+117
+00:09:31,500 --> 00:09:35,501
+<font color='#FFFFFF'>George Knox calling the shots,</font>
+<font color='#FFFFFF'>you never know what will happen.</font>
+
+118
+00:09:35,501 --> 00:09:37,501
+<font color='#FFFFFF'>ROGER:</font>
+<font color='#FFFFFF'>Careful, JP. Let's go.</font>
+
+119
+00:09:39,500 --> 00:09:41,500
+<font color='#FFFFFF'>(THUMPING)</font>
+
+120
+00:09:44,501 --> 00:09:46,502
+<font color='#FFFFFF'>Why do you idiots</font>
+<font color='#FFFFFF'>do that after we've lost?</font>
+
+121
+00:09:46,502 --> 00:09:48,501
+<font color='#FFFFFF'>RAY: It's for good luck, man.</font>
+
+122
+00:09:48,501 --> 00:09:51,501
+<font color='#FFFFFF'>DANNY: After fifteen straight losses,</font>
+<font color='#FFFFFF'>I say we find somethin' else to rub.</font>
+
+123
+00:09:51,501 --> 00:09:52,504
+<font color='#FFFFFF'>- Like Triscuit's head.</font>
+<font color='#FFFFFF'>- Hey, don't even think about...</font>
+
+124
+00:09:52,505 --> 00:09:54,501
+<font color='#FFFFFF'>- touchin' me anywhere.</font>
+<font color='#FFFFFF'>- Fatty pants.</font>
+
+125
+00:09:54,501 --> 00:09:56,504
+<font color='#FFFFFF'>WHIT: You know, maybe we </font>
+<font color='#FFFFFF'>should do this before we lose.</font>
+
+126
+00:09:56,504 --> 00:09:57,509
+<font color='#FFFFFF'>(ALL CHATTERING)</font>
+
+127
+00:09:57,509 --> 00:10:00,502
+<font color='#FFFFFF'>TRISCUIT: Aw, not again! They got</font>
+<font color='#FFFFFF'>the wrong kind of salami!</font>
+
+128
+00:10:01,502 --> 00:10:03,502
+<font color='#FFFFFF'>Can't hit home runs</font>
+<font color='#FFFFFF'>if Knox doesn't let you play.</font>
+
+129
+00:10:03,502 --> 00:10:06,500
+<font color='#FFFFFF'>Hey, I can hit it. You gotta--</font>
+<font color='#FFFFFF'>You gotta choke up and bear down.</font>
+
+130
+00:10:06,500 --> 00:10:08,502
+<font color='#FFFFFF'>RAY: Then you'll get your own home run.</font>
+
+131
+00:10:09,502 --> 00:10:12,503
+<font color='#FFFFFF'>- Hey, how's the arm?</font>
+<font color='#FFFFFF'>- It's feelin' strong.</font>
+
+132
+00:10:12,504 --> 00:10:14,504
+<font color='#FFFFFF'>You'll be pitchin' no-hitters</font>
+<font color='#FFFFFF'>any day now.</font>
+
+133
+00:10:14,504 --> 00:10:18,504
+<font color='#FFFFFF'>MAPEL: ♪ We are the boys of summer</font>
+<font color='#FFFFFF'>and it's a big bummer ♪</font>
+
+134
+00:10:18,504 --> 00:10:21,505
+<font color='#FFFFFF'>♪ No matter who we play,</font>
+<font color='#FFFFFF'>we give the game away ♪</font>
+
+135
+00:10:21,505 --> 00:10:25,501
+<font color='#FFFFFF'>♪ 'Cause we can't win,</font>
+<font color='#FFFFFF'>That would be a sin ♪</font>
+
+136
+00:10:25,502 --> 00:10:27,502
+<font color='#FFFFFF'>♪ We even lose the games before ♪</font>
+
+137
+00:10:27,502 --> 00:10:29,503
+<font color='#FFFFFF'>- Save it, Mapel!</font>
+<font color='#FFFFFF'>- ♪ they begin ♫</font>
+
+138
+00:10:39,508 --> 00:10:43,500
+<font color='#FFFFFF'>- (ALL GASP)</font>
+<font color='#FFFFFF'>- AUBREY: Oh, no!</font>
+
+139
+00:10:43,500 --> 00:10:45,500
+<font color='#FFFFFF'>- Bummer.</font>
+<font color='#FFFFFF'>- One more loss!</font>
+
+140
+00:10:45,501 --> 00:10:47,504
+<font color='#FFFFFF'>One more loss which</font>
+<font color='#FFFFFF'>could have been a win!</font>
+
+141
+00:10:48,508 --> 00:10:51,500
+<font color='#FFFFFF'>You call yourselves professionals!</font>
+
+142
+00:10:51,500 --> 00:10:55,500
+<font color='#FFFFFF'>I have never, ever seen</font>
+<font color='#FFFFFF'>a worse group of 25 players!</font>
+
+143
+00:10:55,503 --> 00:10:58,506
+<font color='#FFFFFF'>You don't think as a team,</font>
+<font color='#FFFFFF'>you don't play as a team...</font>
+
+144
+00:10:58,506 --> 00:11:01,501
+<font color='#FFFFFF'>you don't even lose as a team!</font>
+
+145
+00:11:01,505 --> 00:11:04,503
+<font color='#FFFFFF'>GEORGE: You all got your heads</font>
+<font color='#FFFFFF'>so far up your butts...</font>
+
+146
+00:11:04,503 --> 00:11:06,501
+<font color='#FFFFFF'>you can't even see</font>
+<font color='#FFFFFF'>the light of day!</font>
+
+147
+00:11:07,504 --> 00:11:12,500
+<font color='#FFFFFF'>GEORGE: One more loss and I'll--</font>
+<font color='#FFFFFF'>and I'll do this...Aah!</font>
+
+148
+00:11:12,501 --> 00:11:15,505
+<font color='#FFFFFF'>- to each and every one of you!</font>
+<font color='#FFFFFF'>- Ho-ho-ho!</font>
+
+149
+00:11:15,505 --> 00:11:20,501
+<font color='#FFFFFF'>GEORGE: I want you here, </font>
+<font color='#FFFFFF'>in uniform, at 9:00 tomorrow!</font>
+
+150
+00:11:20,501 --> 00:11:22,503
+<font color='#FFFFFF'>We're going back to work</font>
+<font color='#FFFFFF'>on fundamentals!</font>
+
+151
+00:11:22,503 --> 00:11:27,501
+<font color='#FFFFFF'>-Fundamentals? In the middle of the season?</font>
+<font color='#FFFFFF'>-I thought the game started at 1:00.</font>
+
+152
+00:11:27,507 --> 00:11:32,501
+<font color='#FFFFFF'>It does started 1:00!</font>
+<font color='#FFFFFF'>And you a jackass!</font>
+
+153
+00:11:32,501 --> 00:11:34,500
+<font color='#FFFFFF'>- No, I'm a pitcher.</font>
+<font color='#FFFFFF'>- (GEORGE GROANS)</font>
+
+154
+00:11:34,500 --> 00:11:37,501
+<font color='#FFFFFF'>- You can be a pitcher and a jackass.</font>
+<font color='#FFFFFF'>- Si.. Is very common.</font>
+
+155
+00:11:37,501 --> 00:11:38,505
+<font color='#FFFFFF'>Ahh.</font>
+
+156
+00:11:39,505 --> 00:11:41,505
+<font color='#FFFFFF'>(THUD)</font>
+
+157
+00:11:46,505 --> 00:11:47,509
+<font color='#FFFFFF'>HANK: Tough loss, George.</font>
+
+158
+00:11:49,504 --> 00:11:51,500
+<font color='#FFFFFF'>I can't take it anymore.</font>
+
+159
+00:11:51,503 --> 00:11:52,509
+<font color='#FFFFFF'>You have to start trade them.</font>
+
+160
+00:11:52,509 --> 00:11:54,505
+<font color='#FFFFFF'>All of them, now!</font>
+
+161
+00:11:54,505 --> 00:11:56,507
+<font color='#FFFFFF'>HANK: I can't trade 25 players.</font>
+
+162
+00:11:56,508 --> 00:12:00,504
+<font color='#FFFFFF'>No, no, no! I can't win with </font>
+<font color='#FFFFFF'>these guys. And nobody can.</font>
+
+163
+00:12:00,505 --> 00:12:02,506
+<font color='#FFFFFF'>There's a thing called talent.</font>
+
+164
+00:12:03,502 --> 00:12:06,504
+<font color='#FFFFFF'>- They don't have it.</font>
+<font color='#FFFFFF'>- This isn't Cincinnati, George.</font>
+
+165
+00:12:06,508 --> 00:12:09,506
+<font color='#FFFFFF'>No one expects you</font>
+<font color='#FFFFFF'>to win big with these boys.</font>
+
+166
+00:12:10,501 --> 00:12:14,506
+<font color='#FFFFFF'>I came here to manage</font>
+<font color='#FFFFFF'>a winning baseball team.</font>
+
+167
+00:12:15,500 --> 00:12:16,505
+<font color='#FFFFFF'>You just hang on, partner.</font>
+
+168
+00:12:17,500 --> 00:12:18,503
+<font color='#FFFFFF'>You'll ride through the dark days.</font>
+
+169
+00:12:18,504 --> 00:12:20,504
+<i><font color='#FFFFFF'>DAVID: Mr. Knox, we're waiting on the field!</font></i>
+
+170
+00:12:21,506 --> 00:12:22,506
+<i><font color='#FFFFFF'>We're waiting!</font></i>
+
+171
+00:12:26,509 --> 00:12:27,505
+<font color='#FFFFFF'>What's that?</font>
+
+172
+00:12:27,506 --> 00:12:30,501
+<font color='#FFFFFF'>David Montagne, administrative</font>
+<font color='#FFFFFF'>assistant for media relations.</font>
+
+173
+00:12:30,505 --> 00:12:33,504
+<font color='#FFFFFF'>You're scheduled to do Ranch </font>
+<font color='#FFFFFF'>Wilder's postgame show here...</font>
+
+174
+00:12:33,505 --> 00:12:35,507
+<font color='#FFFFFF'>- And he's been waiting.</font>
+<font color='#FFFFFF'>- Oh, the press are all scum.</font>
+
+175
+00:12:35,507 --> 00:12:36,508
+<font color='#FFFFFF'>They're meant to be kept waiting.</font>
+
+176
+00:12:36,508 --> 00:12:38,506
+<font color='#FFFFFF'>- And Ranch Wilder's worse than scum.</font>
+<font color='#FFFFFF'>- RANCH: Whose fault is that?</font>
+
+177
+00:12:38,507 --> 00:12:39,508
+<font color='#FFFFFF'>That is not my fault.</font>
+
+178
+00:12:40,503 --> 00:12:42,504
+<font color='#FFFFFF'>What ever happened to Barney or</font>
+<font color='#FFFFFF'>Bailey, or whatever?</font>
+
+179
+00:12:42,505 --> 00:12:44,504
+<font color='#FFFFFF'>You fired him, and they </font>
+<font color='#FFFFFF'>hired me on Monday.</font>
+
+180
+00:12:46,503 --> 00:12:48,505
+<font color='#FFFFFF'>Then I can't officially</font>
+<font color='#FFFFFF'>fire you until Friday.</font>
+
+181
+00:12:49,502 --> 00:12:50,500
+<font color='#FFFFFF'>Make a note.</font>
+
+182
+00:12:51,507 --> 00:12:54,500
+<font color='#FFFFFF'>GEORGE: Oh, what a waste.</font>
+<font color='#FFFFFF'>Uh, where, where, where?</font>
+
+183
+00:12:54,501 --> 00:12:55,504
+<font color='#FFFFFF'>- Right here.</font>
+<font color='#FFFFFF'>- All right, all right.</font>
+
+184
+00:12:56,508 --> 00:12:58,502
+<font color='#FFFFFF'>- (SIGHS)</font>
+<font color='#FFFFFF'>- Microphone?</font>
+
+185
+00:12:58,506 --> 00:12:59,506
+<font color='#FFFFFF'>Thrown out of the game.</font>
+
+186
+00:12:59,507 --> 00:13:01,505
+<font color='#FFFFFF'>I imagine the commissioner's</font>
+<font color='#FFFFFF'>fine will be hefty.</font>
+
+187
+00:13:01,507 --> 00:13:04,505
+<font color='#FFFFFF'>Oh, god.</font>
+<font color='#FFFFFF'>We're on in 3, 2, 1.</font>
+
+188
+00:13:04,507 --> 00:13:07,504
+<font color='#FFFFFF'>RANCH: And we're back with</font>
+<font color='#FFFFFF'>Angels manager George Knox.</font>
+
+189
+00:13:07,509 --> 00:13:10,507
+<font color='#FFFFFF'>- This was a tough loss today.</font>
+<font color='#FFFFFF'>- Any loss is hard.</font>
+
+190
+00:13:11,500 --> 00:13:13,501
+<font color='#FFFFFF'>But this one really got to you.</font>
+
+191
+00:13:13,502 --> 00:13:15,509
+<font color='#FFFFFF'>You leave Cincinnati after</font>
+<font color='#FFFFFF'>ten years of winning ball clubs.</font>
+
+192
+00:13:16,500 --> 00:13:18,505
+<font color='#FFFFFF'>although the really big one always </font>
+<font color='#FFFFFF'>seemed to be just out of reach--</font>
+
+193
+00:13:18,507 --> 00:13:20,505
+<font color='#FFFFFF'>and you come out here</font>
+<font color='#FFFFFF'>to manage our Angels.</font>
+
+194
+00:13:20,505 --> 00:13:23,503
+<font color='#FFFFFF'>Now, expectations were high that </font>
+<font color='#FFFFFF'>you could turn this team around...</font>
+
+195
+00:13:23,504 --> 00:13:25,503
+<font color='#FFFFFF'>but that just doesn't</font>
+<font color='#FFFFFF'>seem to be happening.</font>
+
+196
+00:13:26,509 --> 00:13:30,503
+<font color='#FFFFFF'>- Season's only half over, Ranch.</font>
+<font color='#FFFFFF'>- And your club's in last place.</font>
+
+197
+00:13:30,508 --> 00:13:33,509
+<font color='#FFFFFF'>You oughta know how one incident</font>
+<font color='#FFFFFF'>can change the course of events.</font>
+
+198
+00:13:33,509 --> 00:13:36,503
+<font color='#FFFFFF'>Well, you know, you play</font>
+<font color='#FFFFFF'>the game, you take your chances.</font>
+
+199
+00:13:36,504 --> 00:13:38,506
+<font color='#FFFFFF'>Sometimes you're just in the</font>
+<font color='#FFFFFF'>wrong place at the wrong time.</font>
+
+200
+00:13:38,507 --> 00:13:41,505
+<font color='#FFFFFF'>- Yeah, you're an expert at that.</font>
+<font color='#FFFFFF'>- I could say the same about you.</font>
+
+201
+00:13:41,506 --> 00:13:43,506
+<font color='#FFFFFF'>- Well, actions speak louder than words.</font>
+<font color='#FFFFFF'>- (CAMERA SWICHES)</font>
+
+202
+00:13:44,501 --> 00:13:45,503
+<font color='#FFFFFF'>Well, that'll wrap things up</font>
+<font color='#FFFFFF'>here-</font>
+
+203
+00:13:45,504 --> 00:13:46,506
+<font color='#FFFFFF'>- Hey, I'm still on the air here.</font>
+<font color='#FFFFFF'>- GEORGE: Oh, yeah?</font>
+
+204
+00:13:46,507 --> 00:13:47,505
+<font color='#FFFFFF'>Aah!</font>
+
+205
+00:13:49,508 --> 00:13:52,503
+<font color='#FFFFFF'>We're speaking with Angels manager</font>
+<font color='#FFFFFF'>George Knox. George?</font>
+
+206
+00:13:53,507 --> 00:13:55,503
+<font color='#FFFFFF'>And, uh, we'll be right back.</font>
+
+207
+00:13:56,508 --> 00:13:58,507
+<font color='#FFFFFF'>MAGGIE: Oh, Roger,</font>
+<font color='#FFFFFF'>you haven't eaten a thing.</font>
+
+208
+00:13:59,502 --> 00:14:00,501
+<font color='#FFFFFF'>ROGER: I'm not hungry.</font>
+
+209
+00:14:01,508 --> 00:14:04,505
+<font color='#FFFFFF'>MAGGIE: Miguel, you have to miss</font>
+<font color='#FFFFFF'>the baseball game tomorrow.</font>
+
+210
+00:14:05,504 --> 00:14:07,507
+<font color='#FFFFFF'>I'm sorry. Your social worker called,</font>
+<font color='#FFFFFF'>and you have an interview.</font>
+
+211
+00:14:09,500 --> 00:14:10,504
+<font color='#FFFFFF'>She'll be here at 11:00.</font>
+
+212
+00:14:11,501 --> 00:14:14,509
+<font color='#FFFFFF'>Good. I don't want to go to</font>
+<font color='#FFFFFF'>the game anyway. Angels never win.</font>
+
+213
+00:14:14,509 --> 00:14:16,509
+<font color='#FFFFFF'>- (SCOFFS)</font>
+<font color='#FFFFFF'>- I wanna go to the game.</font>
+
+214
+00:14:16,509 --> 00:14:19,505
+<font color='#FFFFFF'>They could win. It could happen.</font>
+
+215
+00:14:20,500 --> 00:14:23,501
+<font color='#FFFFFF'>Yeah, and you could drop dead</font>
+<font color='#FFFFFF'>after dinner with food poisoning.</font>
+
+216
+00:14:23,503 --> 00:14:25,501
+<font color='#FFFFFF'>- Leave him alone!</font>
+<font color='#FFFFFF'>- MAGGIE: Boys!</font>
+
+217
+00:14:25,505 --> 00:14:28,502
+<font color='#FFFFFF'>Hey, look what we've got</font>
+<font color='#FFFFFF'>for dessert. Jell-O.</font>
+
+218
+00:14:28,503 --> 00:14:30,509
+<font color='#FFFFFF'>- Yea!</font>
+<font color='#FFFFFF'>- It's not really Jell-O.</font>
+
+219
+00:14:31,502 --> 00:14:32,509
+<font color='#FFFFFF'>It's cat brains </font>
+<font color='#FFFFFF'>with food colouring.</font>
+
+220
+00:14:33,501 --> 00:14:35,504
+<font color='#FFFFFF'>She kills 'em at night</font>
+<font color='#FFFFFF'>and feeds 'em to us to save money.</font>
+
+221
+00:14:35,505 --> 00:14:37,504
+<font color='#FFFFFF'>- Shut up, Miguel.</font>
+<font color='#FFFFFF'>- Roger!</font>
+
+222
+00:14:38,501 --> 00:14:40,505
+<font color='#FFFFFF'>You know we do not use</font>
+<font color='#FFFFFF'>those words in this house.</font>
+
+223
+00:14:42,505 --> 00:14:43,505
+<font color='#FFFFFF'>JP: Meow!</font>
+
+224
+00:14:43,505 --> 00:14:46,505
+<font color='#FFFFFF'>And you know I would never use</font>
+<font color='#FFFFFF'>food colouring on my cat brains.</font>
+
+225
+00:14:56,501 --> 00:14:58,507
+<font color='#FFFFFF'>Okay, did we wash </font>
+<font color='#FFFFFF'>our faces? Yeah?</font>
+
+226
+00:14:59,502 --> 00:15:02,501
+<font color='#FFFFFF'>Brush our teeth?</font>
+<font color='#FFFFFF'>Been to the bathroom?</font>
+
+227
+00:15:03,503 --> 00:15:06,501
+<font color='#FFFFFF'>Did you pick the lint from </font>
+<font color='#FFFFFF'>between your toes? Yeah?</font>
+
+228
+00:15:07,505 --> 00:15:10,504
+<font color='#FFFFFF'>- Did you say your prayers?</font>
+<font color='#FFFFFF'>- BOTH: Yeah.</font>
+
+229
+00:15:10,507 --> 00:15:12,508
+<font color='#FFFFFF'>Oh, yeah? Night.</font>
+
+230
+00:15:13,501 --> 00:15:14,509
+<font color='#FFFFFF'>- ROGER: Night, Maggie.</font>
+<font color='#FFFFFF'>- JP: Good night, Maggie.</font>
+
+231
+00:15:16,509 --> 00:15:19,506
+<font color='#FFFFFF'>- I didn't say my prayers.</font>
+<font color='#FFFFFF'>- I didn't wash my face.</font>
+
+232
+00:15:20,500 --> 00:15:21,503
+<font color='#FFFFFF'>What's lint again?</font>
+
+233
+00:15:21,504 --> 00:15:23,506
+<font color='#FFFFFF'>- Shut up, butt-head!</font>
+<font color='#FFFFFF'>- Why do we gotta sleep in these-</font>
+
+234
+00:15:23,507 --> 00:15:27,502
+<font color='#FFFFFF'>sleeping bags? I haven't</font>
+<font color='#FFFFFF'>peed the bed in a long time.</font>
+
+235
+00:15:27,507 --> 00:15:29,503
+<font color='#FFFFFF'>(SIGHS) You peed</font>
+<font color='#FFFFFF'>the bed last week.</font>
+
+236
+00:15:29,508 --> 00:15:31,502
+<font color='#FFFFFF'>And she makes us sleep in these</font>
+<font color='#FFFFFF'>sleeping bags...</font>
+
+237
+00:15:31,503 --> 00:15:33,506
+<font color='#FFFFFF'>'cause she too old to bend</font>
+<font color='#FFFFFF'>over and tuck in sheets.</font>
+
+238
+00:15:33,506 --> 00:15:36,501
+<font color='#FFFFFF'>She isn't too old.</font>
+<font color='#FFFFFF'>She's got a lot to do.</font>
+
+239
+00:15:36,504 --> 00:15:37,507
+<font color='#FFFFFF'>Did you guys pray?</font>
+
+240
+00:15:38,500 --> 00:15:39,509
+<font color='#FFFFFF'>I pray every night you go to bed</font>
+<font color='#FFFFFF'>without buggin' us...</font>
+
+241
+00:15:40,500 --> 00:15:41,509
+<font color='#FFFFFF'>with a thousand stupid questions.</font>
+
+242
+00:15:42,505 --> 00:15:46,500
+<font color='#FFFFFF'>Maybe tomorrow you'll meet</font>
+<font color='#FFFFFF'>a nice family, Miguel.</font>
+
+243
+00:15:46,502 --> 00:15:49,503
+<font color='#FFFFFF'>JP: I'll pray for that.</font>
+<font color='#FFFFFF'>It could happen.</font>
+
+244
+00:16:09,500 --> 00:16:10,501
+<font color='#FFFFFF'>God--</font>
+
+245
+00:16:11,501 --> 00:16:12,506
+<font color='#FFFFFF'>if there is a God--</font>
+
+246
+00:16:14,500 --> 00:16:18,509
+<font color='#FFFFFF'>if you're a man or a woman,</font>
+<font color='#FFFFFF'>if you're listenin'...</font>
+
+247
+00:16:21,501 --> 00:16:22,508
+<font color='#FFFFFF'>I'd really, really like...</font>
+
+248
+00:16:24,501 --> 00:16:25,504
+<font color='#FFFFFF'>a family.</font>
+
+249
+00:16:27,504 --> 00:16:32,501
+<font color='#FFFFFF'>My dad says that'll only happen</font>
+<font color='#FFFFFF'>if the Angels win the pennant.</font>
+
+250
+00:16:33,502 --> 00:16:34,506
+<font color='#FFFFFF'>The baseball team, I mean.</font>
+
+251
+00:16:36,501 --> 00:16:38,509
+<font color='#FFFFFF'>So, maybe you could</font>
+<font color='#FFFFFF'>help 'em win a little.</font>
+
+252
+00:16:42,500 --> 00:16:42,508
+<font color='#FFFFFF'>Amen.</font>
+
+253
+00:16:48,508 --> 00:16:50,508
+<font color='#FFFFFF'>Uh, "a-women" too.</font>
+
+254
+00:16:59,504 --> 00:17:00,505
+<font color='#FFFFFF'>(KNOCKS ON DOOR)</font>
+
+255
+00:17:00,508 --> 00:17:01,505
+<font color='#FFFFFF'>Come in.</font>
+
+256
+00:17:02,506 --> 00:17:03,505
+<font color='#FFFFFF'>You wanted to see me?</font>
+
+257
+00:17:04,506 --> 00:17:08,502
+<font color='#FFFFFF'>- You feelin' any better today, George?</font>
+<font color='#FFFFFF'>- Why would I be feelin' better?</font>
+
+258
+00:17:09,507 --> 00:17:12,505
+<font color='#FFFFFF'>Commissioner fined you $5,000</font>
+<font color='#FFFFFF'>for jumpin' Gates.</font>
+
+259
+00:17:12,507 --> 00:17:16,502
+<font color='#FFFFFF'>HANK: And word has it Ranch is pressin'</font>
+<font color='#FFFFFF'>civil charges for you poppin' him.</font>
+
+260
+00:17:16,503 --> 00:17:19,507
+<font color='#FFFFFF'>(CHUCKLES) Come to think of it, I have</font>
+<font color='#FFFFFF'>felt better since I slugged Wilder.</font>
+
+261
+00:17:20,500 --> 00:17:22,508
+<font color='#FFFFFF'>- Your pistol's smokin', pal.</font>
+<font color='#FFFFFF'>- I hadn't made the connection.</font>
+
+262
+00:17:23,500 --> 00:17:25,505
+<font color='#FFFFFF'>Look, I know you and Wilder</font>
+<font color='#FFFFFF'>have been at each other's throats...</font>
+
+263
+00:17:25,505 --> 00:17:26,504
+<font color='#FFFFFF'>since you were players.</font>
+
+264
+00:17:26,505 --> 00:17:28,509
+<font color='#FFFFFF'>Yeah, we've been at each other's</font>
+<font color='#FFFFFF'>throats since he spiked my knee-</font>
+
+265
+00:17:29,500 --> 00:17:30,501
+<font color='#FFFFFF'>and ruined my career.</font>
+
+266
+00:17:30,504 --> 00:17:33,505
+<font color='#FFFFFF'>- Accidents happen, George.</font>
+<font color='#FFFFFF'>- It wasn't an accident.</font>
+
+267
+00:17:34,507 --> 00:17:38,502
+<font color='#FFFFFF'>When you slide into a catcher</font>
+<font color='#FFFFFF'>with your nails up, it's on purpose.</font>
+
+268
+00:17:38,505 --> 00:17:40,508
+<font color='#FFFFFF'>I was comin' into my best years.</font>
+
+269
+00:17:40,508 --> 00:17:44,503
+<font color='#FFFFFF'>Now, don't go makin' more </font>
+<font color='#FFFFFF'>cow-pies to step in, George.</font>
+
+270
+00:17:45,500 --> 00:17:47,504
+<font color='#FFFFFF'>HANK: You got enough manure</font>
+<font color='#FFFFFF'>on your boots now.</font>
+
+271
+00:17:47,505 --> 00:17:49,502
+<font color='#FFFFFF'>Control yourself today.</font>
+
+272
+00:17:49,506 --> 00:17:51,501
+<font color='#FFFFFF'>(THEME MUSIC PLAYING)</font>
+
+273
+00:17:51,508 --> 00:17:54,502
+<font color='#FFFFFF'>(KIDS SHOUTING)</font>
+
+274
+00:17:54,508 --> 00:17:58,506
+<font color='#FFFFFF'>Ladies and gentlemen, a reminder</font>
+<font color='#FFFFFF'>that every Wednesday is kids day.</font>
+
+275
+00:17:58,507 --> 00:18:00,509
+<font color='#FFFFFF'>- Whoa! I see better seats!</font>
+<font color='#FFFFFF'>- Youngsters age 12 and under...</font>
+
+276
+00:18:01,500 --> 00:18:03,501
+<font color='#FFFFFF'>- Much better seats!</font>
+<font color='#FFFFFF'>- Come on, J. P., come on.</font>
+
+277
+00:18:05,504 --> 00:18:06,502
+<font color='#FFFFFF'>Come on!</font>
+
+278
+00:18:09,502 --> 00:18:10,501
+<font color='#FFFFFF'>All right!</font>
+
+279
+00:18:10,504 --> 00:18:12,505
+<font color='#FFFFFF'>- ANNOUNCER: Thank you.</font>
+<font color='#FFFFFF'>- ROGER: Great seats. JP: Yeah.</font>
+
+280
+00:18:12,508 --> 00:18:16,500
+<font color='#FFFFFF'>- ROGER: This is much better than the tree.</font>
+<font color='#FFFFFF'>- JP: I'll say.</font>
+
+281
+00:18:21,506 --> 00:18:22,501
+<font color='#FFFFFF'>Hey, Skip.</font>
+
+282
+00:18:22,507 --> 00:18:24,503
+<font color='#FFFFFF'>Trainer says I'm ready to pitch.</font>
+
+283
+00:18:24,506 --> 00:18:25,508
+<font color='#FFFFFF'>When am I gettin' </font>
+<font color='#FFFFFF'>off the injured list?</font>
+
+284
+00:18:26,505 --> 00:18:27,507
+<font color='#FFFFFF'>How's never sound?</font>
+
+285
+00:18:28,504 --> 00:18:29,507
+<font color='#FFFFFF'>You're here 'cause </font>
+<font color='#FFFFFF'>you got a contract...</font>
+
+286
+00:18:29,508 --> 00:18:31,500
+<font color='#FFFFFF'>that pays you to be here.</font>
+
+287
+00:18:31,504 --> 00:18:32,504
+<font color='#FFFFFF'>You blew your arm out.</font>
+
+288
+00:18:33,501 --> 00:18:35,508
+<font color='#FFFFFF'>- Played on too many pain pills.</font>
+<font color='#FFFFFF'>- Pain pills?</font>
+
+289
+00:18:36,501 --> 00:18:37,502
+<font color='#FFFFFF'>You were the one</font>
+<font color='#FFFFFF'>stuffin' 'em down...</font>
+
+290
+00:18:37,503 --> 00:18:39,501
+<font color='#FFFFFF'>my throat five </font>
+<font color='#FFFFFF'>years ago in Cincinnati.</font>
+
+291
+00:18:39,502 --> 00:18:42,503
+<font color='#FFFFFF'>Hey, it was your decision</font>
+<font color='#FFFFFF'>to swallow 'em. I had a brain.</font>
+
+292
+00:18:42,508 --> 00:18:44,504
+<font color='#FFFFFF'>When you were finished,</font>
+<font color='#FFFFFF'>I traded you.</font>
+
+293
+00:18:44,508 --> 00:18:46,507
+<font color='#FFFFFF'>I never thought I'd get</font>
+<font color='#FFFFFF'>stuck with you again.</font>
+
+294
+00:18:46,509 --> 00:18:49,500
+<font color='#FFFFFF'>Why, you rotten--</font>
+<font color='#FFFFFF'>(COUGHS)</font>
+
+295
+00:18:49,500 --> 00:18:50,505
+<font color='#FFFFFF'>That's not contagious, is it?</font>
+
+296
+00:18:50,508 --> 00:18:51,507
+<font color='#FFFFFF'>- (MEL COUGHS)</font>
+<font color='#FFFFFF'>- Outta my way.</font>
+
+297
+00:18:51,507 --> 00:18:53,501
+<font color='#FFFFFF'>I got a ball club to manage.</font>
+
+298
+00:18:53,505 --> 00:18:56,507
+<font color='#FFFFFF'>(SINGING)</font>
+<font color='#FFFFFF'>And the rockets' red glare</font>
+
+299
+00:18:56,508 --> 00:19:00,503
+<font color='#FFFFFF'>The bombs bursting in air</font>
+
+300
+00:19:00,506 --> 00:19:04,503
+<font color='#FFFFFF'>Gave proof through the night</font>
+
+301
+00:19:04,503 --> 00:19:07,507
+<font color='#FFFFFF'>That our flag was still there</font>
+
+302
+00:19:07,508 --> 00:19:12,502
+<font color='#FFFFFF'>Oh, say does that star-spangled</font>
+
+303
+00:19:12,504 --> 00:19:16,504
+<font color='#FFFFFF'>banner yet wave</font>
+
+304
+00:19:16,508 --> 00:19:21,503
+<font color='#FFFFFF'>O'er the land of the free</font>
+
+305
+00:19:21,505 --> 00:19:26,508
+<font color='#FFFFFF'>And the home of the brave</font>
+
+306
+00:19:26,509 --> 00:19:29,509
+<font color='#FFFFFF'>(ALL CHEERING)</font>
+
+307
+00:19:31,506 --> 00:19:34,506
+<font color='#FFFFFF'>I guess no matter how many times</font>
+<font color='#FFFFFF'>you hear that song played...</font>
+
+308
+00:19:34,507 --> 00:19:37,501
+<font color='#FFFFFF'>in a major league stadium</font>
+<font color='#FFFFFF'>on a warm afternoon...</font>
+
+309
+00:19:37,506 --> 00:19:39,506
+<font color='#FFFFFF'>it's still emotionally evocative.</font>
+
+310
+00:19:40,504 --> 00:19:41,506
+<font color='#FFFFFF'>Drop dead.</font>
+
+311
+00:19:41,506 --> 00:19:43,501
+<font color='#FFFFFF'>I got sunscreen in my eye.</font>
+
+312
+00:19:45,501 --> 00:19:46,509
+<font color='#FFFFFF'>Will I win, will I win,</font>
+<font color='#FFFFFF'>will I win, win, win?</font>
+
+313
+00:19:48,509 --> 00:19:49,506
+<font color='#FFFFFF'>Aw!</font>
+
+314
+00:19:51,508 --> 00:19:55,506
+<font color='#FFFFFF'>- Yeah!</font>
+<font color='#FFFFFF'>- (SINGING) Jose, can you see</font>
+
+315
+00:19:55,507 --> 00:19:58,505
+<font color='#FFFFFF'>Wait a second. The first word</font>
+<font color='#FFFFFF'>is "Jose"? I thought it was--</font>
+
+316
+00:19:58,505 --> 00:19:59,508
+<font color='#FFFFFF'>It's Jose. We know.</font>
+
+317
+00:19:59,508 --> 00:20:02,506
+<font color='#FFFFFF'>Wow! It's about a Spanish guy!</font>
+
+318
+00:20:02,507 --> 00:20:06,501
+<font color='#FFFFFF'>- (SINGS) Jose, can you see</font>
+<font color='#FFFFFF'>- I don't believe him, eh.</font>
+
+319
+00:20:06,502 --> 00:20:06,509
+<font color='#FFFFFF'>It's so easy.</font>
+
+320
+00:20:09,501 --> 00:20:11,506
+<font color='#FFFFFF'>RANCH: Whit Bass takes the mound</font>
+<font color='#FFFFFF'>with his trademark slide.</font>
+
+321
+00:20:11,507 --> 00:20:14,506
+<font color='#FFFFFF'>His oddball antics are by now</font>
+<font color='#FFFFFF'>well known to the fans.</font>
+
+322
+00:20:15,501 --> 00:20:18,502
+<font color='#FFFFFF'>WALLY: That's right, Ranch. This season</font>
+<font color='#FFFFFF'>alone we've seen him lick dirt...</font>
+
+323
+00:20:18,503 --> 00:20:21,508
+<font color='#FFFFFF'>eat bugs and floss his</font>
+<font color='#FFFFFF'>catcher's teeth in the dugout.</font>
+
+324
+00:20:21,509 --> 00:20:22,509
+<font color='#FFFFFF'>(TURNS OFF)</font>
+
+325
+00:20:23,503 --> 00:20:24,505
+<font color='#FFFFFF'>- (TURNS ON)</font>
+<font color='#FFFFFF'>- None of that, may I add,</font>
+
+326
+00:20:24,505 --> 00:20:26,501
+<font color='#FFFFFF'>seems to have helped his pitching.</font>
+
+327
+00:20:26,506 --> 00:20:28,501
+<font color='#FFFFFF'>He's two and eleven.</font>
+
+328
+00:20:29,505 --> 00:20:32,504
+<font color='#FFFFFF'>ANNOUNCER: Leading off forthe BlueJays,</font>
+<font color='#FFFFFF'>number 22...</font>
+
+329
+00:20:32,509 --> 00:20:35,502
+<font color='#FFFFFF'>third baseman Orrin Farley.</font>
+
+330
+00:20:36,509 --> 00:20:40,507
+<font color='#FFFFFF'>RANCH: And after hardly any </font>
+<font color='#FFFFFF'>warm-up, Bass signals he's ready.</font>
+
+331
+00:20:41,505 --> 00:20:43,507
+<font color='#FFFFFF'>MAN: Come on, Whit Bass!</font>
+<font color='#FFFFFF'>Just throw strikes!</font>
+
+332
+00:20:45,503 --> 00:20:46,501
+<font color='#FFFFFF'>Hmm?</font>
+
+333
+00:20:46,503 --> 00:20:47,503
+<font color='#FFFFFF'>Hmph. Hmph.</font>
+
+334
+00:20:48,507 --> 00:20:49,508
+<font color='#FFFFFF'>(YAWNS)</font>
+
+335
+00:20:52,506 --> 00:20:53,501
+<font color='#FFFFFF'>Huh?</font>
+
+336
+00:20:53,505 --> 00:20:54,506
+<font color='#FFFFFF'>Aah!</font>
+
+337
+00:20:54,507 --> 00:20:56,500
+<font color='#FFFFFF'>RANCH: First pitch of the game.</font>
+
+338
+00:20:56,500 --> 00:20:59,506
+<font color='#FFFFFF'>And the Angels have an </font>
+<font color='#FFFFFF'>error and a man on base.</font>
+
+339
+00:21:01,500 --> 00:21:03,509
+<font color='#FFFFFF'>So the fifth inning goes into the books</font>
+<font color='#FFFFFF'>with the score nothing to nothing.</font>
+
+340
+00:21:04,503 --> 00:21:07,507
+<font color='#FFFFFF'>The Angels thus far have been able to</font>
+<font color='#FFFFFF'>keep the hard-hitting Blue Jays silent.</font>
+
+341
+00:21:08,500 --> 00:21:09,503
+<font color='#FFFFFF'>But as we head into the sixth,</font>
+
+342
+00:21:09,504 --> 00:21:11,505
+<font color='#FFFFFF'>The Jays have the middle</font>
+<font color='#FFFFFF'>of the order coming up...</font>
+
+343
+00:21:11,507 --> 00:21:14,509
+<font color='#FFFFFF'>with the ever-dangerous</font>
+<font color='#FFFFFF'>Asher Lazzato leading off.</font>
+
+344
+00:21:15,509 --> 00:21:19,506
+<font color='#FFFFFF'>ANNOUNCER: Number 31, left fielder </font>
+<font color='#FFFFFF'>Asher Lazzato.</font>
+
+345
+00:21:20,500 --> 00:21:21,506
+<font color='#FFFFFF'>(CLICKS TONGUE)</font>
+
+346
+00:21:22,501 --> 00:21:23,502
+<font color='#FFFFFF'>RANCH: Bass sets...</font>
+
+347
+00:21:23,507 --> 00:21:26,503
+<font color='#FFFFFF'>and sets and sets again.</font>
+
+348
+00:21:26,504 --> 00:21:28,501
+<font color='#FFFFFF'>Please, just throw the ball.</font>
+
+349
+00:21:31,505 --> 00:21:32,509
+<font color='#FFFFFF'>RANCH: Here's the pitch.</font>
+
+350
+00:21:33,500 --> 00:21:36,505
+<font color='#FFFFFF'>And Lazzato smashes </font>
+<font color='#FFFFFF'>one to deep center!</font>
+
+351
+00:21:36,505 --> 00:21:39,502
+<font color='#FFFFFF'>I don't think Williams</font>
+<font color='#FFFFFF'>will get to this one!</font>
+
+352
+00:22:01,508 --> 00:22:03,500
+<font color='#FFFFFF'>ROGER: Oh!</font>
+
+353
+00:22:03,506 --> 00:22:05,503
+<font color='#FFFFFF'>- VERNE: Oh, wow!</font>
+<font color='#FFFFFF'>- BEN: Aah!</font>
+
+354
+00:22:05,505 --> 00:22:09,501
+<font color='#FFFFFF'>RANCH: And Ben Williams</font>
+<font color='#FFFFFF'>makes a miraculous catch!</font>
+
+355
+00:22:09,504 --> 00:22:10,509
+<font color='#FFFFFF'>Holy cow!</font>
+
+356
+00:22:11,502 --> 00:22:12,503
+<font color='#FFFFFF'>How did he do that?</font>
+
+357
+00:22:12,506 --> 00:22:14,505
+<font color='#FFFFFF'>Yeah, holy cow!</font>
+
+358
+00:22:14,508 --> 00:22:17,501
+<font color='#FFFFFF'>How did he do that?</font>
+<font color='#FFFFFF'>How did he do that?!</font>
+
+359
+00:22:20,506 --> 00:22:23,507
+<font color='#FFFFFF'>RANCH: That, sports fans, is a play</font>
+<font color='#FFFFFF'>you're going to see run...</font>
+
+360
+00:22:23,507 --> 00:22:26,506
+<font color='#FFFFFF'>in baseball highlights</font>
+<font color='#FFFFFF'>for years to come.</font>
+
+361
+00:22:27,507 --> 00:22:29,502
+<font color='#FFFFFF'>Get me something here!</font>
+
+362
+00:22:29,502 --> 00:22:30,502
+<font color='#FFFFFF'>- Come on, come on!</font>
+<font color='#FFFFFF'>- We got it.</font>
+
+363
+00:22:30,502 --> 00:22:31,509
+<font color='#FFFFFF'>What are we waiting for?</font>
+<font color='#FFFFFF'>Get me something!</font>
+
+364
+00:22:32,506 --> 00:22:34,509
+<font color='#FFFFFF'>I'm hangin', I'm hangin'!</font>
+<font color='#FFFFFF'>This is dead airtime!</font>
+
+365
+00:22:35,500 --> 00:22:38,503
+<font color='#FFFFFF'>- Did you see that?</font>
+<font color='#FFFFFF'>- Yeah, awesome.</font>
+
+366
+00:22:38,505 --> 00:22:41,500
+<font color='#FFFFFF'>They were just sucked </font>
+<font color='#FFFFFF'>down right from the sky.</font>
+
+367
+00:22:41,506 --> 00:22:43,506
+<font color='#FFFFFF'>- Who?</font>
+<font color='#FFFFFF'>- Those guys.</font>
+
+368
+00:22:44,500 --> 00:22:46,501
+<font color='#FFFFFF'>ROGER: Those guys in</font>
+<font color='#FFFFFF'>sparkling pajamas.</font>
+
+369
+00:22:46,502 --> 00:22:51,503
+<font color='#FFFFFF'>What are you talking about, Roger?</font>
+<font color='#FFFFFF'>What guys in sparkling pajamas?</font>
+
+370
+00:22:51,509 --> 00:22:54,503
+<font color='#FFFFFF'>You didn't see 'em?</font>
+<font color='#FFFFFF'>Those guys carrying Williams?</font>
+
+371
+00:22:55,503 --> 00:22:58,504
+<font color='#FFFFFF'>- I don't know.</font>
+<font color='#FFFFFF'>- Hey, mister, did you see that?</font>
+
+372
+00:22:59,505 --> 00:23:00,505
+<font color='#FFFFFF'>Lucky catch.</font>
+
+373
+00:23:00,507 --> 00:23:02,508
+<font color='#FFFFFF'>No, did you see what </font>
+<font color='#FFFFFF'>happened with the clouds?</font>
+
+374
+00:23:03,500 --> 00:23:05,503
+<font color='#FFFFFF'>Did you see the people with</font>
+<font color='#FFFFFF'>Williams when he caught the ball?</font>
+
+375
+00:23:06,505 --> 00:23:07,500
+<font color='#FFFFFF'>Huh?</font>
+
+376
+00:23:07,506 --> 00:23:09,507
+<font color='#FFFFFF'>There were shiny people out there.</font>
+
+377
+00:23:10,500 --> 00:23:12,500
+<font color='#FFFFFF'>- Flying, shiny people.</font>
+<font color='#FFFFFF'>- (BEER GULPS)</font>
+
+378
+00:23:13,503 --> 00:23:14,507
+<font color='#FFFFFF'>Yeah, well, tell </font>
+<font color='#FFFFFF'>your parents about it.</font>
+
+379
+00:23:15,504 --> 00:23:16,500
+<font color='#FFFFFF'>But the--</font>
+
+380
+00:23:16,504 --> 00:23:19,502
+<i><font color='#FFFFFF'>ANNOUNCER: Number 58, </font></i>
+<i><font color='#FFFFFF'>the Irvinator...</font></i>
+
+381
+00:23:19,503 --> 00:23:20,507
+<i><font color='#FFFFFF'>Irving Nator.</font></i>
+
+382
+00:23:21,501 --> 00:23:22,500
+<font color='#FFFFFF'>(BURPS)</font>
+
+383
+00:23:26,502 --> 00:23:27,500
+<font color='#FFFFFF'>You didn't see 'em?</font>
+
+384
+00:23:28,504 --> 00:23:30,505
+<font color='#FFFFFF'>It was a real good play, Roger.</font>
+
+385
+00:23:31,500 --> 00:23:34,506
+<font color='#FFFFFF'>- I saw that.</font>
+<font color='#FFFFFF'>- AL: Yes! Yes!</font>
+
+386
+00:23:34,509 --> 00:23:39,500
+<font color='#FFFFFF'>Amazing play. I love it when </font>
+<font color='#FFFFFF'>they come from above like that.</font>
+
+387
+00:23:40,504 --> 00:23:42,504
+<font color='#FFFFFF'>From-- From above?</font>
+
+388
+00:23:42,504 --> 00:23:44,509
+<font color='#FFFFFF'>The sky deal. It's a </font>
+<font color='#FFFFFF'>good entrance for 'em.</font>
+
+389
+00:23:45,500 --> 00:23:47,500
+<font color='#FFFFFF'>- You mean you saw 'em?</font>
+<font color='#FFFFFF'>- The angels?</font>
+
+390
+00:23:48,505 --> 00:23:50,509
+<font color='#FFFFFF'>- Angels?</font>
+<font color='#FFFFFF'>- AL: 'Course I saw 'em.</font>
+
+391
+00:23:51,501 --> 00:23:52,501
+<font color='#FFFFFF'>They're with me.</font>
+
+392
+00:23:52,507 --> 00:23:55,506
+<font color='#FFFFFF'>The little one's a rookie.</font>
+<font color='#FFFFFF'>He just got off his training wings.</font>
+
+393
+00:23:55,509 --> 00:23:59,509
+<font color='#FFFFFF'>You mean tho-those are real angels?</font>
+
+394
+00:24:00,502 --> 00:24:02,501
+<font color='#FFFFFF'>Accept no substitutes.</font>
+
+395
+00:24:02,507 --> 00:24:03,506
+<font color='#FFFFFF'>ROGER: Who are you?</font>
+
+396
+00:24:05,509 --> 00:24:10,503
+<font color='#FFFFFF'>Just call me Al. No one</font>
+<font color='#FFFFFF'>can see me or hear me but you.</font>
+
+397
+00:24:10,505 --> 00:24:14,502
+<font color='#FFFFFF'>- W-Why me?</font>
+<font color='#FFFFFF'>- You asked for help, and we're here.</font>
+
+398
+00:24:14,503 --> 00:24:17,504
+<font color='#FFFFFF'>We come and go.</font>
+<font color='#FFFFFF'>It's an "as-needed" situation.</font>
+
+399
+00:24:17,508 --> 00:24:19,502
+<font color='#FFFFFF'>Who you talkin' to, Rog?</font>
+
+400
+00:24:21,500 --> 00:24:23,508
+<font color='#FFFFFF'>- What are you talkin' about?</font>
+<font color='#FFFFFF'>- (CLICKS TONGUE) Tubby's back.</font>
+
+401
+00:24:24,505 --> 00:24:29,500
+<font color='#FFFFFF'>I'm vapour. Keep your nose</font>
+<font color='#FFFFFF'>clean and your heart open.</font>
+
+402
+00:24:29,505 --> 00:24:31,500
+<font color='#FFFFFF'>You got angels around, sonny.</font>
+
+403
+00:24:31,501 --> 00:24:32,501
+<font color='#FFFFFF'>We'll be in touch.</font>
+
+404
+00:24:32,509 --> 00:24:34,505
+<font color='#FFFFFF'>Oh! (GASPS)</font>
+
+405
+00:24:36,505 --> 00:24:37,502
+<font color='#FFFFFF'>Al! What--</font>
+
+406
+00:24:38,500 --> 00:24:38,506
+<font color='#FFFFFF'>(AL BURPS)</font>
+
+407
+00:24:39,506 --> 00:24:40,508
+<font color='#FFFFFF'>(CLICKS TONGUE)</font>
+
+408
+00:24:44,500 --> 00:24:46,501
+<font color='#FFFFFF'>- Who's Al?</font>
+<font color='#FFFFFF'>- He's the--</font>
+
+409
+00:24:50,500 --> 00:24:51,500
+<font color='#FFFFFF'>MAN: What's your problem?</font>
+
+410
+00:24:54,508 --> 00:24:55,509
+<font color='#FFFFFF'>Are you sick or something?</font>
+
+411
+00:24:57,503 --> 00:24:59,500
+<font color='#FFFFFF'>Yeah, maybe.</font>
+
+412
+00:25:01,502 --> 00:25:03,506
+<font color='#FFFFFF'>RANCH: With two outs, this is</font>
+<font color='#FFFFFF'>the Angels' last chance...</font>
+
+413
+00:25:03,507 --> 00:25:05,509
+<font color='#FFFFFF'>to put away the Jays</font>
+<font color='#FFFFFF'>before extra innings.</font>
+
+414
+00:25:06,504 --> 00:25:11,509
+<font color='#FFFFFF'>Next up is Messmer who unfortunately</font>
+<font color='#FFFFFF'>has been hitless in his last 26 at bats.</font>
+
+415
+00:25:12,507 --> 00:25:16,508
+<i><font color='#FFFFFF'>ANNOUNCER: Number 14, </font></i>
+<i><font color='#FFFFFF'>catcher Triscuit Messmer.</font></i>
+
+416
+00:25:25,502 --> 00:25:26,506
+<font color='#FFFFFF'>Here we go again.</font>
+
+417
+00:25:38,505 --> 00:25:40,504
+<font color='#FFFFFF'>VERNE: Oh, wow!</font>
+
+418
+00:25:42,508 --> 00:25:47,504
+<font color='#FFFFFF'>VERNE: Oh, my gosh!</font>
+<font color='#FFFFFF'>Oh, my gosh! Oh no!</font>
+
+419
+00:25:49,500 --> 00:25:52,505
+<font color='#FFFFFF'>RANCH: And that one, ladies and gents,</font>
+<font color='#FFFFFF'>is headin' downtown...</font>
+
+420
+00:25:52,505 --> 00:25:56,502
+<font color='#FFFFFF'>and Messmer breaks a bat</font>
+<font color='#FFFFFF'>and the Angels' losing streak...</font>
+
+421
+00:25:56,502 --> 00:25:58,506
+<font color='#FFFFFF'>as he crashes a home run</font>
+<font color='#FFFFFF'>in the ninth--</font>
+
+422
+00:25:58,507 --> 00:26:01,501
+<font color='#FFFFFF'>- To win the game.</font>
+<font color='#FFFFFF'>- (HANK LAUGHS)</font>
+
+423
+00:26:06,505 --> 00:26:08,506
+<font color='#FFFFFF'>- Aah! Aah!</font>
+<font color='#FFFFFF'>- Ha!</font>
+
+424
+00:26:10,507 --> 00:26:13,501
+<font color='#FFFFFF'>- Yeah!</font>
+<font color='#FFFFFF'>- Yeah! Yeah! All right, guys!</font>
+
+425
+00:26:14,504 --> 00:26:15,507
+<font color='#FFFFFF'>Oh, yeah! Yeah!</font>
+
+426
+00:26:18,500 --> 00:26:18,506
+<font color='#FFFFFF'>We won?</font>
+
+427
+00:26:22,508 --> 00:26:26,500
+<font color='#FFFFFF'>Yeah, yeah, yeah, yeah,</font>
+<font color='#FFFFFF'>yeah, yeah, yeah, yeah, yeah!</font>
+
+428
+00:26:26,507 --> 00:26:27,507
+<font color='#FFFFFF'>How did that happen?</font>
+
+429
+00:26:29,508 --> 00:26:32,505
+<font color='#FFFFFF'>Yeah! Ha! Ha.</font>
+
+430
+00:26:33,502 --> 00:26:35,506
+<font color='#FFFFFF'>But you didn't see</font>
+<font color='#FFFFFF'>the angel with him?</font>
+
+431
+00:26:35,507 --> 00:26:36,508
+<font color='#FFFFFF'>We won.</font>
+
+432
+00:26:36,509 --> 00:26:41,502
+<font color='#FFFFFF'>No, but-- but there were angels</font>
+<font color='#FFFFFF'>in the outfield and in the infield.</font>
+
+433
+00:26:41,502 --> 00:26:42,506
+<font color='#FFFFFF'>Yeah, nine of'em.</font>
+
+434
+00:26:43,505 --> 00:26:45,503
+<font color='#FFFFFF'>- (SIGHS)</font>
+<font color='#FFFFFF'>- ANNOUNCER: Ladies and gentlemen,</font>
+
+435
+00:26:45,504 --> 00:26:47,501
+<font color='#FFFFFF'>ourfinal drawing this afternoon...</font>
+
+436
+00:26:47,501 --> 00:26:50,509
+<font color='#FFFFFF'>will give three lucky winners a chance</font>
+<font color='#FFFFFF'>to be photographed on the field...</font>
+
+437
+00:26:51,500 --> 00:26:54,504
+<font color='#FFFFFF'>- with manager George Knox.</font>
+<font color='#FFFFFF'>- That's a prize? Mm-mm-mmm.</font>
+
+438
+00:26:54,508 --> 00:27:00,503
+<font color='#FFFFFF'>The first winning ticket</font>
+<font color='#FFFFFF'>is number 477380.</font>
+
+439
+00:27:00,509 --> 00:27:03,500
+<font color='#FFFFFF'>- I won.</font>
+<font color='#FFFFFF'>- What?</font>
+
+440
+00:27:04,507 --> 00:27:05,508
+<font color='#FFFFFF'>JP: You do it.</font>
+
+441
+00:27:06,500 --> 00:27:10,500
+<font color='#FFFFFF'>I don't wanna have my picture taken.</font>
+<font color='#FFFFFF'>I don't like strangers.</font>
+
+442
+00:27:10,509 --> 00:27:14,504
+<font color='#FFFFFF'>Jeez! What's goin' on around here?</font>
+
+443
+00:27:14,504 --> 00:27:15,507
+<font color='#FFFFFF'>- (LAUGHING)</font>
+<font color='#FFFFFF'>- Don't forget,</font>
+
+444
+00:27:15,508 --> 00:27:17,507
+<font color='#FFFFFF'>the next series</font>
+<font color='#FFFFFF'>versus the Oakland A 's...</font>
+
+445
+00:27:17,508 --> 00:27:19,500
+<font color='#FFFFFF'>opening Friday here...</font>
+
+446
+00:27:19,500 --> 00:27:20,506
+<font color='#FFFFFF'>- at Anaheim Stadium.</font>
+<font color='#FFFFFF'>- Who's he?</font>
+
+447
+00:27:21,505 --> 00:27:25,500
+<font color='#FFFFFF'>MAN: I can see you kids don't know</font>
+<font color='#FFFFFF'>your baseball. That's Mel Clark.</font>
+
+448
+00:27:25,504 --> 00:27:27,502
+<font color='#FFFFFF'>Mel Clark? Whoa!</font>
+
+449
+00:27:27,503 --> 00:27:30,506
+<font color='#FFFFFF'>He pitched three shutouts</font>
+<font color='#FFFFFF'>in a row for Cincinnati in 1986.</font>
+
+450
+00:27:30,506 --> 00:27:33,501
+<font color='#FFFFFF'>- Well, that's right.</font>
+<font color='#FFFFFF'>- My dad used to talk about him.</font>
+
+451
+00:27:34,500 --> 00:27:35,509
+<font color='#FFFFFF'>You used to be Mel Clark?</font>
+
+452
+00:27:37,505 --> 00:27:40,501
+<font color='#FFFFFF'>Yeah, I used to be.</font>
+
+453
+00:27:40,502 --> 00:27:43,509
+<font color='#FFFFFF'>- MAN: Come on, son. Let's go.</font>
+<font color='#FFFFFF'>- That's it. That's all, folks.</font>
+
+454
+00:27:44,501 --> 00:27:45,509
+<font color='#FFFFFF'>Okay, we have three</font>
+<font color='#FFFFFF'>photo ops. It'll be quick.</font>
+
+455
+00:27:45,509 --> 00:27:47,508
+<font color='#FFFFFF'>Give 'em publicity stills.</font>
+<font color='#FFFFFF'>It'll be quicker.</font>
+
+456
+00:27:47,508 --> 00:27:49,509
+<font color='#FFFFFF'>They want a picture with you.</font>
+<font color='#FFFFFF'>They're all kids.</font>
+
+457
+00:27:49,509 --> 00:27:52,502
+<font color='#FFFFFF'>- I-I hate kids.</font>
+<font color='#FFFFFF'>- Yeah, I guessed that.</font>
+
+458
+00:27:56,504 --> 00:27:57,500
+<font color='#FFFFFF'>(WHISTLES)</font>
+
+459
+00:27:57,505 --> 00:27:58,509
+<font color='#FFFFFF'>First kid!</font>
+
+460
+00:28:00,503 --> 00:28:01,509
+<font color='#FFFFFF'>JP, wait! Well-- He--</font>
+
+461
+00:28:16,503 --> 00:28:17,508
+<font color='#FFFFFF'>Looks like a prison photo.</font>
+
+462
+00:28:18,504 --> 00:28:22,500
+<font color='#FFFFFF'>Uh, would either of you mind smiling?</font>
+<font color='#FFFFFF'>The team did just win.</font>
+
+463
+00:28:22,507 --> 00:28:25,503
+<font color='#FFFFFF'>It was a mistake.</font>
+<font color='#FFFFFF'>This team can't win.</font>
+
+464
+00:28:26,501 --> 00:28:27,506
+<font color='#FFFFFF'>They won. Cause there</font>
+<font color='#FFFFFF'>were angels out there.</font>
+
+465
+00:28:29,502 --> 00:28:29,509
+<font color='#FFFFFF'>Huh?</font>
+
+466
+00:28:30,507 --> 00:28:32,500
+<font color='#FFFFFF'>Real ones. I saw 'em.</font>
+
+467
+00:28:32,502 --> 00:28:35,500
+<font color='#FFFFFF'>Two angels came out of the sky</font>
+<font color='#FFFFFF'>and they picked up Ben Williams.</font>
+
+468
+00:28:35,502 --> 00:28:39,501
+<font color='#FFFFFF'>And another angel hit Messmer's</font>
+<font color='#FFFFFF'>home run. That's why the bat broke.</font>
+
+469
+00:28:39,506 --> 00:28:44,501
+<font color='#FFFFFF'>Great, a psycho kid. David,</font>
+<font color='#FFFFFF'>you'd think they'd screen these people.</font>
+
+470
+00:28:45,506 --> 00:28:49,504
+<font color='#FFFFFF'>It's true! Ask Williams</font>
+<font color='#FFFFFF'>about it. Or Messmer.</font>
+
+471
+00:28:50,503 --> 00:28:53,501
+<font color='#FFFFFF'>They'll tell you something's</font>
+<font color='#FFFFFF'>goin' on. You'll see.</font>
+
+472
+00:28:57,506 --> 00:29:00,506
+<font color='#FFFFFF'>(MUSIC PLAYING)</font>
+
+473
+00:29:18,505 --> 00:29:22,500
+<font color='#FFFFFF'>- Honey, why aren't you asleep?</font>
+<font color='#FFFFFF'>- I gotta ask you somethin'.</font>
+
+474
+00:29:23,506 --> 00:29:24,509
+<font color='#FFFFFF'>Do you believe in angels?</font>
+
+475
+00:29:27,502 --> 00:29:29,502
+<font color='#FFFFFF'>What do angels gotta do</font>
+<font color='#FFFFFF'>with you bein' out of your bed?</font>
+
+476
+00:29:29,506 --> 00:29:32,508
+<font color='#FFFFFF'>No, I really wanna know.</font>
+<font color='#FFFFFF'>Do you think they're real?</font>
+
+477
+00:29:33,508 --> 00:29:35,500
+<font color='#FFFFFF'>(SIGHS)</font>
+
+478
+00:29:35,506 --> 00:29:40,502
+<font color='#FFFFFF'>Well, there are a lot of amazing things</font>
+<font color='#FFFFFF'>in life that just can't be explained.</font>
+
+479
+00:29:41,502 --> 00:29:42,501
+<font color='#FFFFFF'>Uh--</font>
+
+480
+00:29:42,506 --> 00:29:44,502
+<font color='#FFFFFF'>I believe in, uh...</font>
+
+481
+00:29:45,500 --> 00:29:47,504
+<font color='#FFFFFF'>the possibility of miraculous</font>
+<font color='#FFFFFF'>things happening.</font>
+
+482
+00:29:47,509 --> 00:29:50,508
+<font color='#FFFFFF'>That's what makes every day</font>
+<font color='#FFFFFF'>of our lives worth getting up for.</font>
+
+483
+00:29:51,504 --> 00:29:52,506
+<font color='#FFFFFF'>So, um--</font>
+
+484
+00:29:55,502 --> 00:29:55,508
+<font color='#FFFFFF'>Yeah.</font>
+
+485
+00:29:57,500 --> 00:29:58,507
+<font color='#FFFFFF'>I guess I do believe in angels.</font>
+
+486
+00:29:59,504 --> 00:30:00,501
+<font color='#FFFFFF'>Yeah?</font>
+
+487
+00:30:02,505 --> 00:30:04,508
+<font color='#FFFFFF'>Me too.</font>
+<font color='#FFFFFF'>Good night, Maggie.</font>
+
+488
+00:30:05,505 --> 00:30:06,503
+<font color='#FFFFFF'>MAGGIE: Night.</font>
+
+489
+00:30:09,504 --> 00:30:11,508
+<font color='#FFFFFF'>(SIGHS, LAUGHS)</font>
+
+490
+00:30:29,507 --> 00:30:31,501
+<font color='#FFFFFF'>Nice catch yesterday, Ben.</font>
+
+491
+00:30:31,505 --> 00:30:35,503
+<font color='#FFFFFF'>How did it feel? Or did it all happen</font>
+<font color='#FFFFFF'>so fast you don't even remember?</font>
+
+492
+00:30:36,501 --> 00:30:38,507
+<font color='#FFFFFF'>BEN: I felt weightless, like</font>
+<font color='#FFFFFF'>somebody had me by the arms, Skip.</font>
+
+493
+00:30:40,500 --> 00:30:40,509
+<font color='#FFFFFF'>How'd I do that?</font>
+
+494
+00:30:50,504 --> 00:30:51,509
+<font color='#FFFFFF'>TRISCUIT: It wasn't like </font>
+<font color='#FFFFFF'>a regular homer. you know?</font>
+
+495
+00:30:52,507 --> 00:30:55,500
+<font color='#FFFFFF'>It felt like someone was swingin'</font>
+<font color='#FFFFFF'>with me. Very strange.</font>
+
+496
+00:30:55,501 --> 00:30:57,500
+<font color='#FFFFFF'>I could feel some added power</font>
+<font color='#FFFFFF'>comin' from somewhere.</font>
+
+497
+00:30:57,502 --> 00:30:59,503
+<font color='#FFFFFF'>It must've been those chilli dogs</font>
+<font color='#FFFFFF'>I ate before the game.</font>
+
+498
+00:30:59,504 --> 00:31:01,501
+<font color='#FFFFFF'>You know, that third one</font>
+<font color='#FFFFFF'>tasted kinda funny.</font>
+
+499
+00:31:03,502 --> 00:31:04,508
+<font color='#FFFFFF'>Chilli dogs.</font>
+
+500
+00:31:05,503 --> 00:31:06,502
+<font color='#FFFFFF'>(KNOCKS ON DOOR)</font>
+
+501
+00:31:10,504 --> 00:31:12,506
+<font color='#FFFFFF'>I'm looking for Roger Bowman.</font>
+<font color='#FFFFFF'>Does he live here?</font>
+
+502
+00:31:13,502 --> 00:31:14,501
+<font color='#FFFFFF'>Yeah.</font>
+
+503
+00:31:14,501 --> 00:31:16,503
+<font color='#FFFFFF'>I'm George Knox from</font>
+<font color='#FFFFFF'>the California Angels.</font>
+
+504
+00:31:17,500 --> 00:31:19,505
+<font color='#FFFFFF'>Roger won a photograph</font>
+<font color='#FFFFFF'>at last Friday's game.</font>
+
+505
+00:31:20,501 --> 00:31:20,506
+<font color='#FFFFFF'>Oh!</font>
+
+506
+00:31:21,505 --> 00:31:21,509
+<font color='#FFFFFF'>Uh-</font>
+
+507
+00:31:22,500 --> 00:31:24,503
+<font color='#FFFFFF'>I'd really like to </font>
+<font color='#FFFFFF'>give it to him myself.</font>
+
+508
+00:31:37,506 --> 00:31:40,505
+<font color='#FFFFFF'>- Uh, you're Roger's mom?</font>
+<font color='#FFFFFF'>- Nope.</font>
+
+509
+00:31:41,503 --> 00:31:42,508
+<font color='#FFFFFF'>Aunt? Grandma?</font>
+
+510
+00:31:44,502 --> 00:31:45,509
+<font color='#FFFFFF'>No, no.</font>
+<font color='#FFFFFF'>We're not related.</font>
+
+511
+00:31:46,507 --> 00:31:50,503
+<font color='#FFFFFF'>This is a short-term</font>
+<font color='#FFFFFF'>foster care facility. I run it.</font>
+
+512
+00:31:52,500 --> 00:31:55,503
+<font color='#FFFFFF'>- Roger is a ward of the state.</font>
+<font color='#FFFFFF'>- Oh.</font>
+
+513
+00:31:58,502 --> 00:32:02,501
+<font color='#FFFFFF'>Uh, s-so Roger, he--</font>
+<font color='#FFFFFF'>he's got a wild imagination?</font>
+
+514
+00:32:02,504 --> 00:32:05,502
+<font color='#FFFFFF'>- Always making up stories?</font>
+<font color='#FFFFFF'>- No, actually.</font>
+
+515
+00:32:05,509 --> 00:32:07,501
+<font color='#FFFFFF'>He's very grounded.</font>
+
+516
+00:32:08,501 --> 00:32:10,507
+<font color='#FFFFFF'>Fact is, most kids who are</font>
+<font color='#FFFFFF'>taken away from their parents</font>
+
+517
+00:32:10,508 --> 00:32:12,501
+<font color='#FFFFFF'>by the court system.</font>
+
+518
+00:32:12,505 --> 00:32:14,503
+<font color='#FFFFFF'>Have a good handle on reality.</font>
+
+519
+00:32:15,504 --> 00:32:16,505
+<font color='#FFFFFF'>I bet.</font>
+
+520
+00:32:18,503 --> 00:32:20,507
+<font color='#FFFFFF'>ROGER: Mel Clark strikes him out.</font>
+<font color='#FFFFFF'>Cincinnati wins.</font>
+
+521
+00:32:21,505 --> 00:32:24,509
+<font color='#FFFFFF'>MAGGIE: What do you want from him?</font>
+<font color='#FFFFFF'>Why are you really here?</font>
+
+522
+00:32:24,509 --> 00:32:26,508
+<font color='#FFFFFF'>Uh, young fans.</font>
+<font color='#FFFFFF'>League needs more of em.</font>
+
+523
+00:32:30,505 --> 00:32:31,502
+<font color='#FFFFFF'>Roger?</font>
+
+524
+00:32:33,506 --> 00:32:35,503
+<font color='#FFFFFF'>- I got your pictures.</font>
+<font color='#FFFFFF'>- Thanks.</font>
+
+525
+00:32:36,501 --> 00:32:37,509
+<font color='#FFFFFF'>- Yeah.</font>
+<font color='#FFFFFF'>- I didn't know you were bringing 'em.</font>
+
+526
+00:32:39,509 --> 00:32:40,507
+<font color='#FFFFFF'>ROGER: Hmm.</font>
+
+527
+00:32:41,508 --> 00:32:44,500
+<font color='#FFFFFF'>- Looks like a prison photo.</font>
+<font color='#FFFFFF'>- ROGER: Yeah.</font>
+
+528
+00:32:44,502 --> 00:32:47,500
+<font color='#FFFFFF'>Uh, you-- you said you thought</font>
+<font color='#FFFFFF'>you saw something at the game.</font>
+
+529
+00:32:47,503 --> 00:32:49,502
+<font color='#FFFFFF'>Yeah, angels. Real ones.</font>
+
+530
+00:32:49,507 --> 00:32:51,504
+<font color='#FFFFFF'>Wh-- Why do you think</font>
+<font color='#FFFFFF'>there would be...</font>
+
+531
+00:32:52,504 --> 00:32:55,507
+<font color='#FFFFFF'>real angels at the ball game?</font>
+
+532
+00:32:56,500 --> 00:32:57,504
+<font color='#FFFFFF'>Maybe 'cause I prayed for 'em?</font>
+
+533
+00:32:58,501 --> 00:33:01,500
+<font color='#FFFFFF'>Nothing you were doing was helping.</font>
+<font color='#FFFFFF'>I just figured it couldn't hurt.</font>
+
+534
+00:33:01,502 --> 00:33:01,509
+<font color='#FFFFFF'>(CLEARS THROAT)</font>
+
+535
+00:33:03,501 --> 00:33:03,508
+<font color='#FFFFFF'>Does he talk?</font>
+
+536
+00:33:05,507 --> 00:33:08,506
+<font color='#FFFFFF'>Of course he talks.</font>
+<font color='#FFFFFF'>He just doesn't like strangers.</font>
+
+537
+00:33:08,508 --> 00:33:11,504
+<font color='#FFFFFF'>Uh, me either.</font>
+<font color='#FFFFFF'>I don't even like my friends.</font>
+
+538
+00:33:12,503 --> 00:33:16,503
+<font color='#FFFFFF'>Uh, these angels you thinkyou seen,</font>
+<font color='#FFFFFF'>do you suppose they're coming back?</font>
+
+539
+00:33:16,504 --> 00:33:19,502
+<font color='#FFFFFF'>- If they feel like it, I guess.</font>
+<font color='#FFFFFF'>- Oh, this is crazy.</font>
+
+540
+00:33:19,508 --> 00:33:20,509
+<font color='#FFFFFF'>I must be losing it.</font>
+
+541
+00:33:21,502 --> 00:33:23,500
+<font color='#FFFFFF'>What I meant to say is...</font>
+
+542
+00:33:23,502 --> 00:33:26,502
+<font color='#FFFFFF'>Uh, do you wanna come</font>
+<font color='#FFFFFF'>to the game tomorrow?</font>
+
+543
+00:33:26,507 --> 00:33:29,502
+<font color='#FFFFFF'>I have an open seat</font>
+<font color='#FFFFFF'>next to the dugout, and you can...</font>
+
+544
+00:33:29,507 --> 00:33:32,505
+<font color='#FFFFFF'>get your Aunt Maggie or </font>
+<font color='#FFFFFF'>whoever she is to come along.</font>
+
+545
+00:33:32,506 --> 00:33:34,504
+<font color='#FFFFFF'>- I don't go to baseball games.</font>
+<font color='#FFFFFF'>- Oh!</font>
+
+546
+00:33:34,508 --> 00:33:37,508
+<font color='#FFFFFF'>- But, uh, yeah, you can go, Roger.</font>
+<font color='#FFFFFF'>- Can J.P. come too?</font>
+
+547
+00:33:41,509 --> 00:33:42,509
+<font color='#FFFFFF'>Okay.</font>
+
+548
+00:33:45,506 --> 00:33:47,506
+<font color='#FFFFFF'>RANCH: After their </font>
+<font color='#FFFFFF'>victory over the Jays...</font>
+
+549
+00:33:47,506 --> 00:33:50,509
+<font color='#FFFFFF'>the Angels open a three-game series</font>
+<font color='#FFFFFF'>against the visiting Athletics.</font>
+
+550
+00:33:51,503 --> 00:33:53,507
+<font color='#FFFFFF'>Winning the last game may </font>
+<font color='#FFFFFF'>have given these Angels a boost.</font>
+
+551
+00:33:53,508 --> 00:33:57,502
+<font color='#FFFFFF'>Sizing up the team, I'd say</font>
+<font color='#FFFFFF'>they look a little bouncier today,</font>
+
+552
+00:33:57,502 --> 00:33:58,503
+<font color='#FFFFFF'>wouldn't you, Wally?</font>
+
+553
+00:33:58,506 --> 00:34:01,501
+<font color='#FFFFFF'>(CLICK) Absolutely, Ranch.</font>
+<font color='#FFFFFF'>As we saw in last game--</font>
+
+554
+00:34:01,503 --> 00:34:03,505
+<font color='#FFFFFF'>RANCH: Keep it minimal, Wally.</font>
+<font color='#FFFFFF'>They'll like you better.</font>
+
+555
+00:34:04,501 --> 00:34:05,500
+<font color='#FFFFFF'>(CLICK)</font>
+
+556
+00:34:05,507 --> 00:34:07,505
+<font color='#FFFFFF'>RANCH: We're 20 minutes </font>
+<font color='#FFFFFF'>away from game time,</font>
+
+557
+00:34:07,506 --> 00:34:09,505
+<font color='#FFFFFF'>and there are already</font>
+<font color='#FFFFFF'>more people in the seats...</font>
+
+558
+00:34:09,505 --> 00:34:12,501
+<font color='#FFFFFF'>than there were for</font>
+<font color='#FFFFFF'>the last five games combined.</font>
+
+559
+00:34:19,504 --> 00:34:22,506
+<font color='#FFFFFF'>Here. Here you go.</font>
+<font color='#FFFFFF'>Take that. Just take it, okay?</font>
+
+560
+00:34:22,509 --> 00:34:23,509
+<font color='#FFFFFF'>DAVID: Do you want anything else?</font>
+
+561
+00:34:24,500 --> 00:34:27,501
+<font color='#FFFFFF'>Uh, yeah, peanuts, maybe,</font>
+<font color='#FFFFFF'>and nachos, if you could.</font>
+
+562
+00:34:27,507 --> 00:34:28,506
+<font color='#FFFFFF'>Yeah.</font>
+
+563
+00:34:32,502 --> 00:34:33,505
+<font color='#FFFFFF'>Aah!</font>
+
+564
+00:34:38,509 --> 00:34:40,508
+<font color='#FFFFFF'>- Sorry.</font>
+<font color='#FFFFFF'>- DAVID: My linen suit!</font>
+
+565
+00:34:40,509 --> 00:34:44,504
+<font color='#FFFFFF'>What do I do? Mustard stains.</font>
+<font color='#FFFFFF'>That's hot water.</font>
+
+566
+00:34:44,507 --> 00:34:47,500
+<font color='#FFFFFF'>Cold water. Uh, club soda.</font>
+<font color='#FFFFFF'>Club soda.</font>
+
+567
+00:34:47,502 --> 00:34:49,509
+<font color='#FFFFFF'>- I got soda!</font>
+<font color='#FFFFFF'>- DAVID: Ow!</font>
+
+568
+00:34:50,500 --> 00:34:50,508
+<font color='#FFFFFF'>(GASPs)</font>
+
+569
+00:34:53,503 --> 00:34:54,505
+<font color='#FFFFFF'>I'm all wet.</font>
+
+570
+00:34:56,504 --> 00:34:58,506
+<font color='#FFFFFF'>DAVID: Get up in front of me.</font>
+<font color='#FFFFFF'>Right now! We're gonna dry off.</font>
+
+571
+00:34:59,502 --> 00:35:00,502
+<font color='#FFFFFF'>Leave your popcorn there.</font>
+
+572
+00:35:04,501 --> 00:35:07,509
+<font color='#FFFFFF'>- Hey, what happened to you?</font>
+<font color='#FFFFFF'>- Those kids, they're evil.</font>
+
+573
+00:35:08,501 --> 00:35:10,504
+<font color='#FFFFFF'>The big one might be lucky,</font>
+<font color='#FFFFFF'>so keep him happy.</font>
+
+574
+00:35:11,503 --> 00:35:13,508
+<font color='#FFFFFF'>- JP, let's go!</font>
+<font color='#FFFFFF'>- We gonna win today, kid?</font>
+
+575
+00:35:13,508 --> 00:35:15,509
+<font color='#FFFFFF'>- Maybe.</font>
+<font color='#FFFFFF'>- Maybe?</font>
+
+576
+00:35:16,502 --> 00:35:17,509
+<font color='#FFFFFF'>I don't know.</font>
+<font color='#FFFFFF'>It's your team.</font>
+
+577
+00:35:22,503 --> 00:35:23,504
+<font color='#FFFFFF'>Don't remind me.</font>
+
+578
+00:35:26,505 --> 00:35:27,505
+<font color='#FFFFFF'>Sit down!</font>
+
+579
+00:35:32,501 --> 00:35:33,506
+<font color='#FFFFFF'>(SLURPS)</font>
+
+580
+00:35:33,507 --> 00:35:37,505
+<font color='#FFFFFF'>Oh, please, don't drink me.</font>
+<font color='#FFFFFF'>No, no, no, don't, don't, don't!</font>
+
+581
+00:35:37,506 --> 00:35:38,502
+<font color='#FFFFFF'>- AL: Aah!</font>
+<font color='#FFFFFF'>- VERNE: Got it!</font>
+
+582
+00:35:38,503 --> 00:35:39,504
+<font color='#FFFFFF'>GARY: My, my!</font>
+
+583
+00:35:39,507 --> 00:35:42,503
+<font color='#FFFFFF'>- How'd you get-- How'd you get--</font>
+<font color='#FFFFFF'>- Shh. Shh, shh, shh, shh.</font>
+
+584
+00:35:42,506 --> 00:35:46,504
+<font color='#FFFFFF'>AL: This is between you and me, </font>
+<font color='#FFFFFF'>little guy. No one can see me but you.</font>
+
+585
+00:35:46,506 --> 00:35:47,502
+<font color='#FFFFFF'>Remember?</font>
+
+586
+00:35:47,504 --> 00:35:48,509
+<font color='#FFFFFF'>Oh, hi.</font>
+
+587
+00:35:51,504 --> 00:35:52,507
+<font color='#FFFFFF'>AL: Sit down, already.</font>
+
+588
+00:35:53,501 --> 00:35:56,505
+<font color='#FFFFFF'>I left in a hurry yesterday.</font>
+<font color='#FFFFFF'>I forgot a few of the rules.</font>
+
+589
+00:35:56,509 --> 00:36:00,506
+<font color='#FFFFFF'>Numero uno:</font>
+<font color='#FFFFFF'>don't tell anyone about us.</font>
+
+590
+00:36:01,501 --> 00:36:04,504
+<font color='#FFFFFF'>Now, I heard you already told</font>
+<font color='#FFFFFF'>the little kid and el capit¹n.</font>
+
+591
+00:36:04,505 --> 00:36:07,507
+<font color='#FFFFFF'>But nobody else.</font>
+<font color='#FFFFFF'>We hate recognition.</font>
+
+592
+00:36:08,500 --> 00:36:09,507
+<font color='#FFFFFF'>We're a very sensitive group.</font>
+
+593
+00:36:10,501 --> 00:36:12,506
+<font color='#FFFFFF'>If people know we're around,</font>
+<font color='#FFFFFF'>I wouldn't be able to get an angel...</font>
+
+594
+00:36:12,507 --> 00:36:14,502
+<font color='#FFFFFF'>within a mile of this team.</font>
+
+595
+00:36:14,509 --> 00:36:17,506
+<font color='#FFFFFF'>Okay. Uh, are you guys</font>
+<font color='#FFFFFF'>gonna help out today?</font>
+
+596
+00:36:17,506 --> 00:36:20,507
+<font color='#FFFFFF'>We'll see.</font>
+<font color='#FFFFFF'>We never make commitments.</font>
+
+597
+00:36:20,508 --> 00:36:25,503
+<font color='#FFFFFF'>We go and come and come and go.</font>
+<font color='#FFFFFF'>We're a capricious crowd.</font>
+
+598
+00:36:26,501 --> 00:36:28,504
+<font color='#FFFFFF'>Wh-- What's cap--</font>
+<font color='#FFFFFF'>What's-- What's capricious?</font>
+
+599
+00:36:28,505 --> 00:36:32,507
+<font color='#FFFFFF'>Just keep your chin up and your</font>
+<font color='#FFFFFF'>eyes open and enjoy the game.</font>
+
+600
+00:36:34,502 --> 00:36:35,503
+<font color='#FFFFFF'>- Aah!</font>
+<font color='#FFFFFF'>- (GASPS)</font>
+
+601
+00:36:35,504 --> 00:36:36,508
+<font color='#FFFFFF'>You popped Al!</font>
+
+602
+00:36:37,506 --> 00:36:40,505
+<font color='#FFFFFF'>- Who's Al?</font>
+<font color='#FFFFFF'>- Al's the boss angel.</font>
+
+603
+00:36:40,506 --> 00:36:44,502
+<font color='#FFFFFF'>- He was just here, but he's gone now.</font>
+<font color='#FFFFFF'>- Next time will you tell me sooner?</font>
+
+604
+00:36:44,506 --> 00:36:46,506
+<font color='#FFFFFF'>I'd like to try and see one.</font>
+
+605
+00:36:47,505 --> 00:36:50,500
+<font color='#FFFFFF'>ROGER: Mr Knox, over here!</font>
+<font color='#FFFFFF'>Over here! Over here, Mr Knox!</font>
+
+606
+00:36:50,502 --> 00:36:51,507
+<font color='#FFFFFF'>Mr Knox, Mr Knox, over here!</font>
+
+607
+00:36:52,501 --> 00:36:54,500
+<font color='#FFFFFF'>Mr Knox, come on,</font>
+<font color='#FFFFFF'>come on! Mr Knox!</font>
+
+608
+00:36:55,500 --> 00:36:56,505
+<font color='#FFFFFF'>I just saw an angel!</font>
+
+609
+00:36:57,506 --> 00:37:00,507
+<font color='#FFFFFF'>- You saw an angel?</font>
+<font color='#FFFFFF'>- Yeah. In my Coke cup.</font>
+
+610
+00:37:02,506 --> 00:37:04,505
+<font color='#FFFFFF'>- In your Coke cup?</font>
+<font color='#FFFFFF'>- Yeah.</font>
+
+611
+00:37:06,506 --> 00:37:07,505
+<font color='#FFFFFF'>Okay.</font>
+
+612
+00:37:10,500 --> 00:37:11,503
+<font color='#FFFFFF'>I gotta get back to the dugout.</font>
+
+613
+00:37:11,503 --> 00:37:13,501
+<font color='#FFFFFF'>What should I do</font>
+<font color='#FFFFFF'>if I see another one?</font>
+
+614
+00:37:14,503 --> 00:37:18,500
+<font color='#FFFFFF'>Kid, I was thinking of you</font>
+<font color='#FFFFFF'>as a sort of good luck charm...</font>
+
+615
+00:37:18,502 --> 00:37:20,508
+<font color='#FFFFFF'>not as someone</font>
+<font color='#FFFFFF'>who spiritually hallucinates.</font>
+
+616
+00:37:21,502 --> 00:37:22,502
+<font color='#FFFFFF'>What's that?</font>
+
+617
+00:37:22,503 --> 00:37:26,505
+<font color='#FFFFFF'>It means if you see anything</font>
+<font color='#FFFFFF'>weird, keep it to yourself.</font>
+
+618
+00:37:26,509 --> 00:37:27,509
+<font color='#FFFFFF'>But wait! You should know.</font>
+
+619
+00:37:27,509 --> 00:37:30,504
+<font color='#FFFFFF'>You're the manager,</font>
+<font color='#FFFFFF'>and the angels are here to help...</font>
+
+620
+00:37:30,505 --> 00:37:32,502
+<font color='#FFFFFF'>and if I don't tell you,</font>
+<font color='#FFFFFF'>you're not gonna know--</font>
+
+621
+00:37:32,502 --> 00:37:33,502
+<font color='#FFFFFF'>Calm down.</font>
+
+622
+00:37:34,507 --> 00:37:36,509
+<font color='#FFFFFF'>In baseball, we got signals.</font>
+
+623
+00:37:37,502 --> 00:37:38,507
+<font color='#FFFFFF'>Make some kind of signal.</font>
+
+624
+00:37:38,507 --> 00:37:41,507
+<font color='#FFFFFF'>Okay? I can't come over here</font>
+<font color='#FFFFFF'>every couple of seconds.</font>
+
+625
+00:37:41,509 --> 00:37:43,507
+<font color='#FFFFFF'>Um, I'll go like that, okay?</font>
+
+626
+00:37:44,507 --> 00:37:48,503
+<font color='#FFFFFF'>Oh, okay. You do that.</font>
+<font color='#FFFFFF'>That's fine. Okay.</font>
+
+627
+00:37:48,503 --> 00:37:49,509
+<font color='#FFFFFF'>And we-- </font>
+<font color='#FFFFFF'>And we can't let David know.</font>
+
+628
+00:37:50,503 --> 00:37:52,505
+<font color='#FFFFFF'>Yeah, right. Absolutely.</font>
+
+629
+00:37:53,506 --> 00:37:56,509
+<font color='#FFFFFF'>We can't tell David.</font>
+<font color='#FFFFFF'>Can't tell anyone.</font>
+
+630
+00:38:03,504 --> 00:38:04,505
+<font color='#FFFFFF'>Thank you.</font>
+
+631
+00:38:06,500 --> 00:38:08,500
+<font color='#FFFFFF'>- Here.</font>
+<font color='#FFFFFF'>- Yeah.</font>
+
+632
+00:38:08,502 --> 00:38:09,502
+<font color='#FFFFFF'>Thanks.</font>
+
+633
+00:38:11,509 --> 00:38:15,502
+<font color='#FFFFFF'>Thanks. Oh, and excuse me, David,</font>
+<font color='#FFFFFF'>wh-- where are the nachos?</font>
+
+634
+00:38:15,508 --> 00:38:17,504
+<font color='#FFFFFF'>(CRUNCH)</font>
+
+635
+00:38:21,500 --> 00:38:22,507
+<font color='#FFFFFF'>I'm saving them for later.</font>
+
+636
+00:38:23,504 --> 00:38:25,501
+<font color='#FFFFFF'>(BOTH LAUGHING)</font>
+
+637
+00:38:25,502 --> 00:38:26,503
+<font color='#FFFFFF'>- Sorry!</font>
+<font color='#FFFFFF'>- Sorry!</font>
+
+638
+00:38:26,507 --> 00:38:31,509
+<font color='#FFFFFF'>(LAUGHING CONTINUES)</font>
+
+639
+00:38:32,500 --> 00:38:35,507
+<i><font color='#FFFFFF'>ANNOUNCER: Number 17,</font></i>
+<i><font color='#FFFFFF'>first baseman Tom Brewer.</font></i>
+
+640
+00:38:35,507 --> 00:38:38,504
+<font color='#FFFFFF'>RANCH: Bass takes the sign.</font>
+<font color='#FFFFFF'>Here's the pitch.</font>
+
+641
+00:38:39,501 --> 00:38:40,502
+<font color='#FFFFFF'>And it's lined to left...</font>
+
+642
+00:38:40,502 --> 00:38:42,505
+<font color='#FFFFFF'>- for another base hit.</font>
+<font color='#FFFFFF'>- AUBREY: Oh, no!</font>
+
+643
+00:38:43,500 --> 00:38:44,506
+<font color='#FFFFFF'>- Shit! Damn!</font>
+<font color='#FFFFFF'>- So it's more bad news...</font>
+
+644
+00:38:44,506 --> 00:38:45,507
+<font color='#FFFFFF'>- Shit!</font>
+<font color='#FFFFFF'>- for manager Knox...</font>
+
+645
+00:38:45,508 --> 00:38:48,500
+<font color='#FFFFFF'>as he does his dance</font>
+<font color='#FFFFFF'>in the dugout.</font>
+
+646
+00:38:48,508 --> 00:38:50,503
+<font color='#FFFFFF'>RANCH: Mapel waits for the pitch.</font>
+
+647
+00:38:52,509 --> 00:38:54,509
+<font color='#FFFFFF'>- Strike!</font>
+<font color='#FFFFFF'>- GEORGE: Strike?</font>
+
+648
+00:38:55,500 --> 00:38:57,501
+<font color='#FFFFFF'>Aw, come on, now!</font>
+<font color='#FFFFFF'>That's no strike!</font>
+
+649
+00:38:57,502 --> 00:39:00,502
+<font color='#FFFFFF'>If that was a strike, th-th-th-then you</font>
+<font color='#FFFFFF'>blind as a horse's ass!</font>
+
+650
+00:39:00,503 --> 00:39:00,509
+<font color='#FFFFFF'>(GASPS)</font>
+
+651
+00:39:04,503 --> 00:39:08,503
+<font color='#FFFFFF'>GEORGE: Jesus! Come on. </font>
+<font color='#FFFFFF'>Let me have some-- Gimme this.</font>
+
+652
+00:39:08,504 --> 00:39:10,500
+<font color='#FFFFFF'>- Mr Knox.</font>
+<font color='#FFFFFF'>- I want your hats off.</font>
+
+653
+00:39:15,503 --> 00:39:17,503
+<font color='#FFFFFF'>- Yeah?</font>
+<font color='#FFFFFF'>- It's nacho butt.</font>
+
+654
+00:39:19,502 --> 00:39:20,507
+<font color='#FFFFFF'>Go buy the kids nachos.</font>
+
+655
+00:39:21,509 --> 00:39:24,504
+<font color='#FFFFFF'>Anything but nachos.</font>
+
+656
+00:39:24,506 --> 00:39:28,504
+<font color='#FFFFFF'>- Buy them Angels jackets.</font>
+<font color='#FFFFFF'>- It's 90 degrees outside.</font>
+
+657
+00:39:28,505 --> 00:39:31,500
+<font color='#FFFFFF'>Get your butt up there, now!</font>
+
+658
+00:39:34,506 --> 00:39:36,502
+<font color='#FFFFFF'>- (SIGHS)</font>
+<font color='#FFFFFF'>- You know, uh,</font>
+
+659
+00:39:36,503 --> 00:39:39,501
+<font color='#FFFFFF'>it's been four innings,</font>
+<font color='#FFFFFF'>and no real angels yet.</font>
+
+660
+00:39:39,502 --> 00:39:42,503
+<font color='#FFFFFF'>And, you know, I was just thinking,</font>
+<font color='#FFFFFF'>maybe you shouldn't swear so much.</font>
+
+661
+00:39:42,504 --> 00:39:43,509
+<font color='#FFFFFF'>I bet the angels don't like it.</font>
+
+662
+00:39:50,503 --> 00:39:52,508
+<font color='#FFFFFF'>Sh-Shoot!</font>
+
+663
+00:39:56,505 --> 00:39:59,500
+<font color='#FFFFFF'>Get on, you stupid sons of--</font>
+<font color='#FFFFFF'>I'm kiddin'!</font>
+
+664
+00:40:03,501 --> 00:40:04,505
+<font color='#FFFFFF'>Man, he is a deadbeat, this one.</font>
+
+665
+00:40:05,505 --> 00:40:07,503
+<font color='#FFFFFF'>Let's keep the profanity down!</font>
+
+666
+00:40:07,504 --> 00:40:10,506
+<font color='#FFFFFF'>- Huh?</font>
+<font color='#FFFFFF'>- I mean it! No swearin'!</font>
+
+667
+00:40:10,508 --> 00:40:13,503
+<font color='#FFFFFF'>That eliminates all speech</font>
+<font color='#FFFFFF'>for most of the team.</font>
+
+668
+00:40:13,505 --> 00:40:14,504
+<font color='#FFFFFF'>RANCH: So here in the ninth,</font>
+
+669
+00:40:14,505 --> 00:40:16,506
+<font color='#FFFFFF'>the Athletics have opted</font>
+<font color='#FFFFFF'>to bring in reliever...</font>
+
+670
+00:40:16,507 --> 00:40:19,503
+<font color='#FFFFFF'>Tom Ruddy to pitch</font>
+<font color='#FFFFFF'>to Angels heavy hitter</font>
+
+671
+00:40:19,503 --> 00:40:20,506
+<font color='#FFFFFF'>Ray Mitchell.</font>
+
+672
+00:40:33,501 --> 00:40:35,502
+<font color='#FFFFFF'>- Oh-ho, wow!</font>
+<font color='#FFFFFF'>- What happened?</font>
+
+673
+00:40:36,503 --> 00:40:38,504
+<font color='#FFFFFF'>There's an angel</font>
+<font color='#FFFFFF'>right next to Hemmerling.</font>
+
+674
+00:40:39,502 --> 00:40:40,508
+<font color='#FFFFFF'>Uh, David, I-I need a drink.</font>
+
+675
+00:40:41,500 --> 00:40:42,506
+<font color='#FFFFFF'>- You have drinks.</font>
+<font color='#FFFFFF'>- I don't want these.</font>
+
+676
+00:40:42,507 --> 00:40:44,506
+<font color='#FFFFFF'>- I want something else.</font>
+<font color='#FFFFFF'>- What else?</font>
+
+677
+00:40:45,506 --> 00:40:47,507
+<font color='#FFFFFF'>Uh, coffee.</font>
+
+678
+00:40:49,507 --> 00:40:50,509
+<font color='#FFFFFF'>You drink coffee?</font>
+
+679
+00:40:53,500 --> 00:40:56,505
+<font color='#FFFFFF'>- Yeah. Of course. All the time.</font>
+<font color='#FFFFFF'>- Yeah, all the time.</font>
+
+680
+00:40:56,505 --> 00:40:58,505
+<font color='#FFFFFF'>What do you think we are,</font>
+<font color='#FFFFFF'>little kids or something?</font>
+
+681
+00:40:58,508 --> 00:41:01,502
+<font color='#FFFFFF'>Now, get me a cup or I'll scream.</font>
+
+682
+00:41:02,500 --> 00:41:03,503
+<font color='#FFFFFF'>How do you take it?</font>
+
+683
+00:41:06,503 --> 00:41:07,504
+<font color='#FFFFFF'>In cups.</font>
+
+684
+00:41:14,502 --> 00:41:17,501
+<font color='#FFFFFF'>ROGER: Mr Knox! Mr Knox!</font>
+<font color='#FFFFFF'>Come over here. We got one!</font>
+
+685
+00:41:23,503 --> 00:41:24,501
+<font color='#FFFFFF'>Hey.</font>
+
+686
+00:41:25,506 --> 00:41:26,509
+<font color='#FFFFFF'>What's goin' on?</font>
+
+687
+00:41:27,503 --> 00:41:30,500
+<font color='#FFFFFF'>- There's an angel with Hemmerling.</font>
+<font color='#FFFFFF'>- What?</font>
+
+688
+00:41:30,503 --> 00:41:32,504
+<font color='#FFFFFF'>There's an angel massaging</font>
+<font color='#FFFFFF'>Hemmerling's shoulders.</font>
+
+689
+00:41:42,500 --> 00:41:43,500
+<font color='#FFFFFF'>(SIGHS) </font>
+
+690
+00:41:43,508 --> 00:41:46,501
+<font color='#FFFFFF'>This is ridiculous. I don't know</font>
+<font color='#FFFFFF'>what you see,</font>
+
+691
+00:41:46,501 --> 00:41:47,506
+<font color='#FFFFFF'>but there's no one</font>
+<font color='#FFFFFF'>with Hemmerling.</font>
+
+692
+00:41:48,505 --> 00:41:50,500
+<font color='#FFFFFF'>ROGER: She's rubbin' </font>
+<font color='#FFFFFF'>his shoulders.</font>
+
+693
+00:41:52,505 --> 00:41:55,504
+<font color='#FFFFFF'>- Huh?</font>
+<font color='#FFFFFF'>- A-A-And what should I do about it?</font>
+
+694
+00:41:55,504 --> 00:41:56,509
+<font color='#FFFFFF'>Put him in.</font>
+<font color='#FFFFFF'>Pinch-hit.</font>
+
+695
+00:41:57,505 --> 00:42:00,501
+<font color='#FFFFFF'>I-I got Mitchell coming up.</font>
+<font color='#FFFFFF'>He's my best hitter.</font>
+
+696
+00:42:00,506 --> 00:42:02,508
+<font color='#FFFFFF'>Hemmerling can't hit</font>
+<font color='#FFFFFF'>the broad side of a barn.</font>
+
+697
+00:42:03,503 --> 00:42:07,500
+<font color='#FFFFFF'>I can't substitute my worst hitter</font>
+<font color='#FFFFFF'>for my best hitter.</font>
+
+698
+00:42:07,503 --> 00:42:09,501
+<font color='#FFFFFF'>If you want a hit,</font>
+<font color='#FFFFFF'>you'll put in Hemmerling.</font>
+
+699
+00:42:09,502 --> 00:42:10,508
+<font color='#FFFFFF'>It's crazy! Wacko.</font>
+
+700
+00:42:11,509 --> 00:42:14,506
+<font color='#FFFFFF'>- You forget about it. Ah!</font>
+<font color='#FFFFFF'>- But he's got an angel.</font>
+
+701
+00:42:17,505 --> 00:42:19,504
+<font color='#FFFFFF'>Wait a minute. What's the worst thing</font>
+<font color='#FFFFFF'>that could happen?</font>
+
+702
+00:42:20,501 --> 00:42:22,506
+<font color='#FFFFFF'>Are we gonna fall</font>
+<font color='#FFFFFF'>out of last place? Heh.</font>
+
+703
+00:42:30,509 --> 00:42:34,500
+<font color='#FFFFFF'>Sit down, Mitchell.</font>
+<font color='#FFFFFF'>You're up, Hemmerling.</font>
+
+704
+00:42:34,503 --> 00:42:35,502
+<font color='#FFFFFF'>ALL: Huh?</font>
+
+705
+00:42:37,505 --> 00:42:39,501
+<font color='#FFFFFF'>- What are you talkin' about?</font>
+<font color='#FFFFFF'>- Yeah, what are you talking about?</font>
+
+706
+00:42:39,502 --> 00:42:41,500
+<font color='#FFFFFF'>You heard what I said.</font>
+<font color='#FFFFFF'>You're out and you're in.</font>
+
+707
+00:42:43,500 --> 00:42:46,502
+<font color='#FFFFFF'>- You gotta be stupid!</font>
+<font color='#FFFFFF'>- Hey, get your stuff!</font>
+
+708
+00:42:47,502 --> 00:42:49,501
+<font color='#FFFFFF'>- Right.</font>
+<font color='#FFFFFF'>- (LAUGHING)</font>
+
+709
+00:42:49,502 --> 00:42:51,503
+<font color='#FFFFFF'>- Damn! Damn!</font>
+<font color='#FFFFFF'>- Aah! Aah!</font>
+
+710
+00:42:51,503 --> 00:42:53,506
+<font color='#FFFFFF'>As Mitchell was getting ready</font>
+<font color='#FFFFFF'>to lead off,</font>
+
+711
+00:42:53,507 --> 00:42:56,503
+<font color='#FFFFFF'>Knox has suddenly</font>
+<font color='#FFFFFF'>decided to pinch-hit.</font>
+
+712
+00:42:56,508 --> 00:43:01,504
+<font color='#FFFFFF'>And he's bringing in Danny Hemmerling,</font>
+<font color='#FFFFFF'>the utility infielder...</font>
+
+713
+00:43:01,504 --> 00:43:06,508
+<font color='#FFFFFF'>who is known, sports fans, for his</font>
+<font color='#FFFFFF'>glove, but definitely not for his bat.</font>
+
+714
+00:43:08,508 --> 00:43:10,507
+<font color='#FFFFFF'>Hemmerling for Mitchell?</font>
+
+715
+00:43:11,500 --> 00:43:13,506
+<font color='#FFFFFF'>Go back to Cincinnati!</font>
+
+716
+00:43:18,507 --> 00:43:21,504
+<font color='#FFFFFF'>- Strike!</font>
+<font color='#FFFFFF'>- (CROWD BOOING)</font>
+
+717
+00:43:24,501 --> 00:43:25,504
+<font color='#FFFFFF'>Where they go?</font>
+
+718
+00:43:28,503 --> 00:43:29,506
+<font color='#FFFFFF'>- Damn!</font>
+<font color='#FFFFFF'>- UMPIRE: Strike!</font>
+
+719
+00:43:30,502 --> 00:43:31,504
+<font color='#FFFFFF'>GEORGE: See the pitch?</font>
+
+720
+00:43:42,500 --> 00:43:47,506
+<font color='#FFFFFF'>VERNE: Oh, my gosh!</font>
+<font color='#FFFFFF'>Holy cow! Are you kidding me?</font>
+
+721
+00:43:49,504 --> 00:43:50,506
+<font color='#FFFFFF'>What the--</font>
+
+722
+00:43:52,500 --> 00:43:54,509
+<font color='#FFFFFF'>- (SINGING) For goodness sake</font>
+<font color='#FFFFFF'>- VERNE: Oh, wow!</font>
+
+723
+00:43:55,503 --> 00:43:57,505
+<font color='#FFFFFF'>I got the hippy-hippy shakes</font>
+
+724
+00:43:58,505 --> 00:44:00,508
+<font color='#FFFFFF'>Yeah, I got the shakes</font>
+
+725
+00:44:01,509 --> 00:44:04,507
+<font color='#FFFFFF'>I got the hippy-hippy shakes</font>
+
+726
+00:44:05,500 --> 00:44:07,506
+<font color='#FFFFFF'>- Ah, I can't stand still</font>
+<font color='#FFFFFF'>- Go, go! Come on! Come on!</font>
+
+727
+00:44:08,505 --> 00:44:09,504
+<font color='#FFFFFF'>ALL: Unh!</font>
+
+728
+00:44:10,502 --> 00:44:11,502
+<font color='#FFFFFF'>Hey-Hey, uh--</font>
+
+729
+00:44:11,506 --> 00:44:13,507
+<font color='#FFFFFF'>- Yeah, I get my fill now</font>
+<font color='#FFFFFF'>- ALL: Aah!</font>
+
+730
+00:44:13,508 --> 00:44:15,505
+<font color='#FFFFFF'>- Whoa!</font>
+<font color='#FFFFFF'>- Unh!</font>
+
+731
+00:44:16,500 --> 00:44:17,504
+<font color='#FFFFFF'>(BOTH LAUGHING)</font>
+
+732
+00:44:18,500 --> 00:44:20,509
+<font color='#FFFFFF'>Yeah, it's in the back</font>
+
+733
+00:44:21,506 --> 00:44:23,507
+<font color='#FFFFFF'>- MAN: Ah-ha!</font>
+<font color='#FFFFFF'>- Ooh, the hippy-hippy shakes</font>
+
+734
+00:44:24,503 --> 00:44:25,505
+<font color='#FFFFFF'>(ALL SHOUTING)</font>
+
+735
+00:44:25,506 --> 00:44:26,508
+<font color='#FFFFFF'>Unhh!</font>
+
+736
+00:44:27,504 --> 00:44:29,501
+<font color='#FFFFFF'>Go, go, go!</font>
+
+737
+00:44:30,501 --> 00:44:32,504
+<font color='#FFFFFF'>- VERNE: He may score.</font>
+<font color='#FFFFFF'>- UMPIRE: Throw it! Safe!</font>
+
+738
+00:44:32,505 --> 00:44:35,501
+<font color='#FFFFFF'>- VERNE: He will score!</font>
+<font color='#FFFFFF'>- BOTH: Yeah!</font>
+
+739
+00:44:35,502 --> 00:44:37,504
+<font color='#FFFFFF'>RANCH: Hemmerling scores</font>
+<font color='#FFFFFF'>for the first time this season,</font>
+
+740
+00:44:37,504 --> 00:44:39,501
+<font color='#FFFFFF'>and the Angels win the game.</font>
+
+741
+00:44:39,508 --> 00:44:41,506
+<font color='#FFFFFF'>This will go down </font>
+<font color='#FFFFFF'>in the record books.</font>
+
+742
+00:44:41,506 --> 00:44:44,508
+<font color='#FFFFFF'>Ladies and gentlemen,</font>
+<font color='#FFFFFF'>this is unbelievable!</font>
+
+743
+00:44:45,507 --> 00:44:49,509
+<font color='#FFFFFF'>This is insanity! I've never </font>
+<font color='#FFFFFF'>seen anything like this.</font>
+
+744
+00:44:50,502 --> 00:44:52,502
+<font color='#FFFFFF'>And, obviously, neither</font>
+<font color='#FFFFFF'>have these umps.</font>
+
+745
+00:44:53,505 --> 00:44:55,500
+<font color='#FFFFFF'>I don't know. (WHISTLES)</font>
+
+746
+00:44:55,507 --> 00:44:59,502
+<font color='#FFFFFF'>ROGER: Yeah! </font>
+<font color='#FFFFFF'>Yeah! All right! Whoo-hoo!</font>
+
+747
+00:44:59,504 --> 00:45:00,509
+<font color='#FFFFFF'>Something's going on</font>
+<font color='#FFFFFF'>with this kid.</font>
+
+748
+00:45:01,501 --> 00:45:03,500
+<font color='#FFFFFF'>(PLAYERS CHEERING)</font>
+
+749
+00:45:03,500 --> 00:45:06,501
+<font color='#FFFFFF'>Ladies and gentlemen, can we now say</font>
+<font color='#FFFFFF'>the Angels are on a winning streak?</font>
+
+750
+00:45:06,502 --> 00:45:09,506
+<font color='#FFFFFF'>Or were these last few games</font>
+<font color='#FFFFFF'>just a small blip on the screen</font>
+
+751
+00:45:09,507 --> 00:45:14,503
+<font color='#FFFFFF'>of a terminally ill patient?</font>
+<font color='#FFFFFF'>Only time will tell.</font>
+
+752
+00:45:14,504 --> 00:45:17,506
+<font color='#FFFFFF'>What is going on?</font>
+<font color='#FFFFFF'>Where are my stats? I'm on the air!</font>
+
+753
+00:45:17,507 --> 00:45:20,501
+<font color='#FFFFFF'>- My ass is hanging on the air...</font>
+<font color='#FFFFFF'>- No, it's not!</font>
+
+754
+00:45:20,501 --> 00:45:22,504
+<font color='#FFFFFF'>and there are no stats.</font>
+<font color='#FFFFFF'>There were how many errors?</font>
+
+755
+00:45:22,504 --> 00:45:25,505
+<font color='#FFFFFF'>- There were a lot of errors, Ranch.</font>
+<font color='#FFFFFF'>- Not as many as in this booth.</font>
+
+756
+00:45:25,505 --> 00:45:29,506
+<font color='#FFFFFF'>Let me tell you, this is not baseball.</font>
+<font color='#FFFFFF'>This is not baseball.</font>
+
+757
+00:45:30,503 --> 00:45:32,501
+<font color='#FFFFFF'>- Ow!</font>
+<font color='#FFFFFF'>- Hey, David!</font>
+
+758
+00:45:32,501 --> 00:45:33,509
+<font color='#FFFFFF'>Whatever your duties were before,</font>
+<font color='#FFFFFF'>forget 'em.</font>
+
+759
+00:45:34,500 --> 00:45:36,503
+<font color='#FFFFFF'>From now on, these boys</font>
+<font color='#FFFFFF'>will be at all our games.</font>
+
+760
+00:45:36,505 --> 00:45:38,509
+<font color='#FFFFFF'>- BOTH: All right!</font>
+<font color='#FFFFFF'>- That's your job.</font>
+
+761
+00:45:39,501 --> 00:45:42,505
+<font color='#FFFFFF'>Mr Knox, I want to remind you, you are</font>
+<font color='#FFFFFF'>gonna fire me on Friday, aren't you?</font>
+
+762
+00:45:42,508 --> 00:45:45,500
+<font color='#FFFFFF'>- You've bonded with the boys.</font>
+<font color='#FFFFFF'>- Bonded?</font>
+
+763
+00:45:45,500 --> 00:45:47,507
+<font color='#FFFFFF'>- Hey, you're gonna stick around, David.</font>
+<font color='#FFFFFF'>- Yeah, stick around, David.</font>
+
+764
+00:45:47,508 --> 00:45:50,500
+<font color='#FFFFFF'>- Hey, you got job security.</font>
+<font color='#FFFFFF'>- Job security?</font>
+
+765
+00:45:50,507 --> 00:45:52,505
+<font color='#FFFFFF'>- (SHUTS DOOR)</font>
+<font color='#FFFFFF'>- Who knew?</font>
+
+766
+00:45:52,506 --> 00:45:55,505
+<font color='#FFFFFF'>So, you're right.</font>
+<font color='#FFFFFF'>Hemmerling came through.</font>
+
+767
+00:45:55,505 --> 00:45:57,508
+<font color='#FFFFFF'>- Yeah, 'cause of the angel.</font>
+<font color='#FFFFFF'>- Aw, whatever.</font>
+
+768
+00:45:57,509 --> 00:46:01,501
+<font color='#FFFFFF'>- No, we got angels helping the team.</font>
+<font color='#FFFFFF'>- Ah, well, that may be,</font>
+
+769
+00:46:01,501 --> 00:46:02,504
+<font color='#FFFFFF'>but we're winning.</font>
+
+770
+00:46:02,507 --> 00:46:03,507
+<font color='#FFFFFF'>Yeah.</font>
+
+771
+00:46:03,509 --> 00:46:06,504
+<font color='#FFFFFF'>All the games, man!</font>
+<font color='#FFFFFF'>Can you believe it?</font>
+
+772
+00:46:06,509 --> 00:46:09,505
+<font color='#FFFFFF'>GEORGE: When we're on the road,</font>
+<font color='#FFFFFF'>you should watch the games on TV.</font>
+
+773
+00:46:09,509 --> 00:46:12,500
+<font color='#FFFFFF'>We'll figure out a way</font>
+<font color='#FFFFFF'>for us to talk on the phone.</font>
+
+774
+00:46:12,501 --> 00:46:14,509
+<font color='#FFFFFF'>You mean, the phone in the dugout</font>
+<font color='#FFFFFF'>you're always yelling into...</font>
+
+775
+00:46:15,500 --> 00:46:16,509
+<font color='#FFFFFF'>and-and banging against</font>
+<font color='#FFFFFF'>the wall and spitting at?</font>
+
+776
+00:46:16,509 --> 00:46:18,504
+<font color='#FFFFFF'>Yeah, yeah, yeah, that phone.</font>
+
+777
+00:46:18,504 --> 00:46:20,506
+<font color='#FFFFFF'>Cool! (LAUGHS)</font>
+
+778
+00:46:21,509 --> 00:46:25,508
+<font color='#FFFFFF'>What a game. First time Hemmerling</font>
+<font color='#FFFFFF'>got a hit, let alone a home run.</font>
+
+779
+00:46:26,501 --> 00:46:27,509
+<font color='#FFFFFF'>It's 'cause of the angels.</font>
+<font color='#FFFFFF'>They helped him.</font>
+
+780
+00:46:28,500 --> 00:46:28,507
+<font color='#FFFFFF'>Get in.</font>
+
+781
+00:46:30,505 --> 00:46:32,501
+<font color='#FFFFFF'>Come on.</font>
+<font color='#FFFFFF'>We don't have all day.</font>
+
+782
+00:46:33,508 --> 00:46:37,500
+<font color='#FFFFFF'>- J.P. doesn't ride in cars.</font>
+<font color='#FFFFFF'>- What's the problem? He gets carsick?</font>
+
+783
+00:46:37,504 --> 00:46:38,506
+<font color='#FFFFFF'>ROGER: Sort of.</font>
+
+784
+00:46:38,506 --> 00:46:40,503
+<font color='#FFFFFF'>He used to live</font>
+<font color='#FFFFFF'>in a car with his mom.</font>
+
+785
+00:46:41,500 --> 00:46:43,507
+<font color='#FFFFFF'>He slept in the front seat</font>
+<font color='#FFFFFF'>all curled up like a cat or something.</font>
+
+786
+00:46:43,509 --> 00:46:46,503
+<font color='#FFFFFF'>When he gets in a car,</font>
+<font color='#FFFFFF'>his stomachache comes back.</font>
+
+787
+00:46:49,500 --> 00:46:51,503
+<font color='#FFFFFF'>(BUS HONKS)</font>
+
+788
+00:47:02,500 --> 00:47:03,503
+<font color='#FFFFFF'>(OPENS DOOR)</font>
+
+789
+00:47:07,502 --> 00:47:08,509
+<font color='#FFFFFF'>- I'll call you tomorrow.</font>
+<font color='#FFFFFF'>- All right.</font>
+
+790
+00:47:10,501 --> 00:47:13,501
+<font color='#FFFFFF'>- Thank you for the ride home.</font>
+<font color='#FFFFFF'>- He speaks?</font>
+
+791
+00:47:15,500 --> 00:47:15,509
+<font color='#FFFFFF'>(CLOSES DOOR)</font>
+
+792
+00:47:16,507 --> 00:47:18,507
+<font color='#FFFFFF'>- Hi. You guys have a good time?</font>
+<font color='#FFFFFF'>- Hi.</font>
+
+793
+00:47:19,501 --> 00:47:20,507
+<font color='#FFFFFF'>- A blast!</font>
+<font color='#FFFFFF'>- We won!</font>
+
+794
+00:47:20,507 --> 00:47:23,500
+<font color='#FFFFFF'>- Great.</font>
+<font color='#FFFFFF'>- Where's Miguel?</font>
+
+795
+00:47:23,504 --> 00:47:24,508
+<font color='#FFFFFF'>I got him all sorts of stuff.</font>
+
+796
+00:47:25,509 --> 00:47:28,506
+<font color='#FFFFFF'>Miguel got placed in a foster home</font>
+<font color='#FFFFFF'>this afternoon.</font>
+
+797
+00:47:30,502 --> 00:47:32,505
+<font color='#FFFFFF'>- He got placed?</font>
+<font color='#FFFFFF'>- Miguel's gone?</font>
+
+798
+00:47:32,506 --> 00:47:33,506
+<font color='#FFFFFF'>Mmm-hmm.</font>
+
+799
+00:47:34,507 --> 00:47:36,503
+<font color='#FFFFFF'>Where? With who?</font>
+
+800
+00:47:37,500 --> 00:47:39,501
+<font color='#FFFFFF'>A real nice family</font>
+<font color='#FFFFFF'>from Northridge.</font>
+
+801
+00:47:39,504 --> 00:47:42,509
+<font color='#FFFFFF'>I'm gonna miss him.</font>
+<font color='#FFFFFF'>I really liked Miguel!</font>
+
+802
+00:47:45,505 --> 00:47:47,509
+<font color='#FFFFFF'>I only have a licence</font>
+<font color='#FFFFFF'>for short-term care.</font>
+
+803
+00:47:48,501 --> 00:47:50,507
+<font color='#FFFFFF'>You know? M-Miguel's been here</font>
+<font color='#FFFFFF'>for, what, six months?</font>
+
+804
+00:47:50,509 --> 00:47:52,509
+<font color='#FFFFFF'>- I think seven.</font>
+<font color='#FFFFFF'>- Seven months. Right.</font>
+
+805
+00:47:53,509 --> 00:47:58,500
+<font color='#FFFFFF'>That's what happens, you know?</font>
+<font color='#FFFFFF'>I mean, you understand that, Roger.</font>
+
+806
+00:47:58,505 --> 00:48:00,503
+<font color='#FFFFFF'>Oh, don't feel bad, Maggie.</font>
+
+807
+00:48:02,502 --> 00:48:04,507
+<font color='#FFFFFF'>I bet we see him again.</font>
+<font color='#FFFFFF'>Maybe in court or something.</font>
+
+808
+00:48:05,506 --> 00:48:07,502
+<font color='#FFFFFF'>Oh, Roger.</font>
+
+809
+00:48:08,507 --> 00:48:10,501
+<font color='#FFFFFF'>God forbid.</font>
+
+810
+00:48:13,508 --> 00:48:16,507
+<font color='#FFFFFF'>- JP: Roger?</font>
+<font color='#FFFFFF'>- ROGER: What?</font>
+
+811
+00:48:18,508 --> 00:48:20,502
+<font color='#FFFFFF'>Are you asleep?</font>
+
+812
+00:48:21,505 --> 00:48:23,506
+<font color='#FFFFFF'>If I was asleep,</font>
+<font color='#FFFFFF'>how'd I be talkin' to you?</font>
+
+813
+00:48:24,508 --> 00:48:26,507
+<font color='#FFFFFF'>You could be "sleeptalking."</font>
+
+814
+00:48:29,500 --> 00:48:32,506
+<font color='#FFFFFF'>(SIGHS) Look, I'll give you a dime tomorrow</font>
+<font color='#FFFFFF'>ifyou don't say another word.</font>
+
+815
+00:48:34,500 --> 00:48:34,509
+<font color='#FFFFFF'>Okay.</font>
+
+816
+00:48:39,507 --> 00:48:40,505
+<font color='#FFFFFF'>JP: Roger?</font>
+
+817
+00:48:40,508 --> 00:48:43,509
+<font color='#FFFFFF'>(SIGHS)</font>
+<font color='#FFFFFF'>You can forget that dime.</font>
+
+818
+00:48:46,507 --> 00:48:49,506
+<font color='#FFFFFF'>Do you think your parents</font>
+<font color='#FFFFFF'>are gonna ever come get you?</font>
+
+819
+00:48:51,500 --> 00:48:56,502
+<font color='#FFFFFF'>I don't know. Mom's not alive,</font>
+<font color='#FFFFFF'>but my dad's gonna come get me.</font>
+
+820
+00:48:57,501 --> 00:48:58,507
+<font color='#FFFFFF'>ROGER: I'm sure of it.</font>
+
+821
+00:48:59,505 --> 00:49:02,500
+<font color='#FFFFFF'>You think my mom's</font>
+<font color='#FFFFFF'>gonna ever come get me?</font>
+
+822
+00:49:03,502 --> 00:49:05,500
+<font color='#FFFFFF'>Maybe, you know.</font>
+
+823
+00:49:06,500 --> 00:49:07,508
+<font color='#FFFFFF'>It could happen.</font>
+
+824
+00:49:08,509 --> 00:49:11,507
+<font color='#FFFFFF'>Yeah, it could happen.</font>
+
+825
+00:49:16,503 --> 00:49:18,508
+<font color='#FFFFFF'>- JP: Roger?</font>
+<font color='#FFFFFF'>- What?</font>
+
+826
+00:49:19,506 --> 00:49:21,507
+<font color='#FFFFFF'>I'm happy you see the angels.</font>
+
+827
+00:49:25,502 --> 00:49:26,503
+<font color='#FFFFFF'>Me too.</font>
+
+828
+00:49:29,503 --> 00:49:31,500
+<font color='#FFFFFF'>JP: Good night.</font>
+
+829
+00:49:36,501 --> 00:49:38,504
+<font color='#FFFFFF'>RANCH: It's a beautiful day</font>
+<font color='#FFFFFF'>here in Anaheim...</font>
+
+830
+00:49:38,505 --> 00:49:41,505
+<font color='#FFFFFF'>as the resurgent Angels</font>
+<font color='#FFFFFF'>prepare to meet their longtime</font>
+
+831
+00:49:41,506 --> 00:49:43,504
+<font color='#FFFFFF'>nemesis, the Detroit Tigers...</font>
+
+832
+00:49:43,505 --> 00:49:46,507
+<font color='#FFFFFF'>who have won the first five games</font>
+<font color='#FFFFFF'>of their Western road trip.</font>
+
+833
+00:49:47,501 --> 00:49:50,500
+<font color='#FFFFFF'>WALLY: They've been the hottest team in the</font>
+<font color='#FFFFFF'>league for the last few weeks, Ranch.</font>
+
+834
+00:49:51,500 --> 00:49:53,503
+<i><font color='#FFFFFF'>ANNOUNCER: Ladies and gentlemen, a reminder:</font></i>
+<i><font color='#FFFFFF'>the most popular--</font></i>
+
+835
+00:49:54,503 --> 00:49:56,508
+<i><font color='#FFFFFF'>...coming up next week</font></i>
+<i><font color='#FFFFFF'>with Cap Night...</font></i>
+
+836
+00:49:56,508 --> 00:50:01,505
+<i><font color='#FFFFFF'>this year featuring a totally white cap</font></i>
+<i><font color='#FFFFFF'>with red pinstripes and the Angel logo.</font></i>
+
+837
+00:50:02,500 --> 00:50:05,507
+<i><font color='#FFFFFF'>It's free for the first 50, 000 fans</font></i>
+<i><font color='#FFFFFF'>entering Anaheim Stadium.</font></i>
+
+838
+00:50:15,507 --> 00:50:18,503
+<font color='#FFFFFF'>- I see an angel.</font>
+<font color='#FFFFFF'>- Already?</font>
+
+839
+00:50:20,502 --> 00:50:24,507
+<font color='#FFFFFF'>I gotta go bathroom. I can't go alone.</font>
+<font color='#FFFFFF'>Bad guys might get me.</font>
+
+840
+00:50:24,507 --> 00:50:27,502
+<font color='#FFFFFF'>We just came back</font>
+<font color='#FFFFFF'>from the bathroom.</font>
+
+841
+00:50:27,503 --> 00:50:29,504
+<font color='#FFFFFF'>- Gotta go now. Sorry.</font>
+<font color='#FFFFFF'>- Gimme your Coke.</font>
+
+842
+00:50:31,504 --> 00:50:33,501
+<font color='#FFFFFF'>Gimme the Cracker Jacks.</font>
+<font color='#FFFFFF'>Stand up.</font>
+
+843
+00:50:34,501 --> 00:50:35,501
+<font color='#FFFFFF'>DAVID: Go.</font>
+
+844
+00:50:44,500 --> 00:50:46,504
+<font color='#FFFFFF'>- What's-- What's up?</font>
+<font color='#FFFFFF'>- We got an angel.</font>
+
+845
+00:50:49,502 --> 00:50:50,509
+<font color='#FFFFFF'>But the game hasn't started.</font>
+
+846
+00:50:51,506 --> 00:50:52,509
+<font color='#FFFFFF'>She was with Mel Clark.</font>
+
+847
+00:51:04,505 --> 00:51:05,508
+<font color='#FFFFFF'>Aah! Impossible.</font>
+
+848
+00:51:06,501 --> 00:51:09,500
+<font color='#FFFFFF'>She was there. That means Mel</font>
+<font color='#FFFFFF'>should start the game today.</font>
+
+849
+00:51:09,500 --> 00:51:11,509
+<font color='#FFFFFF'>- Mel's arm is gone.</font>
+<font color='#FFFFFF'>- I don't care. He should start the game.</font>
+
+850
+00:51:11,509 --> 00:51:14,509
+<font color='#FFFFFF'>Uh-uh. No way! And besides,</font>
+<font color='#FFFFFF'>he's not even on the active roster.</font>
+
+851
+00:51:15,500 --> 00:51:17,509
+<font color='#FFFFFF'>If the angel pitches with him,</font>
+<font color='#FFFFFF'>he'll be awesome.</font>
+
+852
+00:51:31,500 --> 00:51:32,509
+<font color='#FFFFFF'>You really do see something,</font>
+<font color='#FFFFFF'>don't you?</font>
+
+853
+00:51:35,502 --> 00:51:37,504
+<font color='#FFFFFF'>Yeah, I do.</font>
+
+854
+00:51:55,500 --> 00:51:56,504
+<font color='#FFFFFF'>Good. All right.</font>
+
+855
+00:52:14,506 --> 00:52:17,500
+<font color='#FFFFFF'>You're off injured reserve</font>
+<font color='#FFFFFF'>and you're starting today.</font>
+
+856
+00:52:19,503 --> 00:52:21,507
+<font color='#FFFFFF'>- You talkin' to me?</font>
+<font color='#FFFFFF'>- Yeah.</font>
+
+857
+00:52:22,508 --> 00:52:24,504
+<font color='#FFFFFF'>So get your stuff together.</font>
+
+858
+00:52:30,504 --> 00:52:33,505
+<font color='#FFFFFF'>RANCH: Starting pitcher announced</font>
+<font color='#FFFFFF'>for this game was Dan Prince...</font>
+
+859
+00:52:33,506 --> 00:52:36,507
+<font color='#FFFFFF'>but just moments ago,</font>
+<font color='#FFFFFF'>the Angels made a dramatic change...</font>
+
+860
+00:52:36,508 --> 00:52:39,508
+<font color='#FFFFFF'>and activated the </font>
+<font color='#FFFFFF'>long-injured Mel Clark.</font>
+
+861
+00:52:40,500 --> 00:52:42,508
+<font color='#FFFFFF'>League rules specify that up</font>
+<font color='#FFFFFF'>until the first pitch is thrown,</font>
+
+862
+00:52:42,508 --> 00:52:44,502
+<font color='#FFFFFF'>the roster can be altered...</font>
+
+863
+00:52:44,502 --> 00:52:48,501
+<font color='#FFFFFF'>although I can't ever remember</font>
+<font color='#FFFFFF'>this happening so near game time.</font>
+
+864
+00:52:48,504 --> 00:52:52,503
+<font color='#FFFFFF'>- Me neither, Ranch.</font>
+<font color='#FFFFFF'>- Easy, Wally. Less is more.</font>
+
+865
+00:52:54,504 --> 00:52:56,504
+<font color='#FFFFFF'>These warm-ups</font>
+<font color='#FFFFFF'>should be interesting.</font>
+
+866
+00:52:58,502 --> 00:53:00,500
+<font color='#FFFFFF'>Over the plate, Mel!</font>
+
+867
+00:53:00,505 --> 00:53:02,504
+<font color='#FFFFFF'>- WALLY: Clark looks a little rusty.</font>
+<font color='#FFFFFF'>- MEL: Unh!</font>
+
+868
+00:53:03,505 --> 00:53:05,507
+<font color='#FFFFFF'>RANCH: Too much time</font>
+<font color='#FFFFFF'>in the whirlpool, Wally.</font>
+
+869
+00:53:08,505 --> 00:53:12,502
+<font color='#FFFFFF'>I'm checking to see if Dan Prince</font>
+<font color='#FFFFFF'>pulled a muscle during his warm-up.</font>
+
+870
+00:53:12,507 --> 00:53:16,508
+<font color='#FFFFFF'>There must be some logical explanation</font>
+<font color='#FFFFFF'>as to why George Knox...</font>
+
+871
+00:53:16,508 --> 00:53:18,507
+<font color='#FFFFFF'>would make such a bizarre change.</font>
+
+872
+00:53:18,507 --> 00:53:21,507
+<font color='#FFFFFF'>I have personally checked</font>
+<font color='#FFFFFF'>the stats, sports fans...</font>
+
+873
+00:53:21,508 --> 00:53:25,501
+<font color='#FFFFFF'>and Mel Clark hasn't started a game...</font>
+
+874
+00:53:25,505 --> 00:53:27,502
+<font color='#FFFFFF'>In this decade.</font>
+
+875
+00:53:28,505 --> 00:53:30,505
+<font color='#FFFFFF'>WALLY: He looks mighty</font>
+<font color='#FFFFFF'> nervous out there.</font>
+
+876
+00:53:31,508 --> 00:53:34,501
+<font color='#FFFFFF'>RANCH: Not as nervous </font>
+<font color='#FFFFFF'>as George Knox.</font>
+
+877
+00:53:52,506 --> 00:53:54,500
+<font color='#FFFFFF'>RANCH: Clark takes the sign.</font>
+
+878
+00:53:59,503 --> 00:54:00,509
+<font color='#FFFFFF'>Talk about heat!</font>
+
+879
+00:54:00,509 --> 00:54:01,509
+<font color='#FFFFFF'>- Messmer felt that one.</font>
+<font color='#FFFFFF'>- Ow!</font>
+
+880
+00:54:01,509 --> 00:54:04,509
+<font color='#FFFFFF'>- VERNE: Oh, my gosh! Holy cow!</font>
+<font color='#FFFFFF'>- Wow!</font>
+
+881
+00:54:05,503 --> 00:54:07,502
+<font color='#FFFFFF'>- Are you kidding me?</font>
+<font color='#FFFFFF'>- What an amazing pitch!</font>
+
+882
+00:54:07,503 --> 00:54:09,505
+<font color='#FFFFFF'>You damn-- darn right.</font>
+<font color='#FFFFFF'>(LAUGHS)</font>
+
+883
+00:54:11,507 --> 00:54:14,502
+<font color='#FFFFFF'>RANCH: Well, commit that</font>
+<font color='#FFFFFF'>to memory, Wally...</font>
+
+884
+00:54:14,502 --> 00:54:16,504
+<font color='#FFFFFF'>'cause he doesn't have</font>
+<font color='#FFFFFF'>any more of those in him.</font>
+
+885
+00:54:17,504 --> 00:54:20,502
+<font color='#FFFFFF'>- An angel helped out on that one.</font>
+<font color='#FFFFFF'>- Good.</font>
+
+886
+00:54:21,500 --> 00:54:22,503
+<font color='#FFFFFF'>- MEL: Unh!</font>
+<font color='#FFFFFF'>- VERNE: Got it!</font>
+
+887
+00:54:22,504 --> 00:54:23,505
+<font color='#FFFFFF'>Strike!</font>
+
+888
+00:54:23,509 --> 00:54:25,501
+<font color='#FFFFFF'>- MEL: Unh!</font>
+<font color='#FFFFFF'>- BRENT: Got it!</font>
+
+889
+00:54:25,502 --> 00:54:26,502
+<font color='#FFFFFF'>- Strike!</font>
+<font color='#FFFFFF'>- (CHEERING)</font>
+
+890
+00:54:27,500 --> 00:54:28,502
+<font color='#FFFFFF'>Mel!</font>
+
+891
+00:54:28,507 --> 00:54:30,502
+<font color='#FFFFFF'>Way to go!</font>
+
+892
+00:54:30,508 --> 00:54:32,500
+<font color='#FFFFFF'>All right, Mel!</font>
+
+893
+00:54:32,507 --> 00:54:33,504
+<font color='#FFFFFF'>Unh!</font>
+
+894
+00:54:34,500 --> 00:54:37,500
+<font color='#FFFFFF'>Unh! Unh! Unh!</font>
+<font color='#FFFFFF'>Unh! Unh! Unh!</font>
+
+895
+00:54:38,501 --> 00:54:38,508
+<font color='#FFFFFF'>BRAD: Got it!</font>
+
+896
+00:54:38,508 --> 00:54:42,504
+<font color='#FFFFFF'>It's now the top of the ninth. There</font>
+<font color='#FFFFFF'>are two outs. We've got a full count.</font>
+
+897
+00:54:42,504 --> 00:54:45,500
+<font color='#FFFFFF'>This could be the Tigers' last</font>
+<font color='#FFFFFF'>chance to get back...</font>
+
+898
+00:54:45,500 --> 00:54:46,504
+<font color='#FFFFFF'>- in this ball game.</font>
+<font color='#FFFFFF'>- One more! One more!</font>
+
+899
+00:54:49,508 --> 00:54:50,508
+<font color='#FFFFFF'>Unh!</font>
+
+900
+00:54:52,503 --> 00:54:55,506
+<font color='#FFFFFF'>- VERNE: Got it!</font>
+<font color='#FFFFFF'>- ROGER: Yeah! Yeah!</font>
+
+901
+00:54:57,506 --> 00:54:59,507
+<font color='#FFFFFF'>I told you!</font>
+<font color='#FFFFFF'>I told you!</font>
+
+902
+00:55:01,508 --> 00:55:06,504
+<font color='#FFFFFF'>RANCH: That's the game! The Angels win</font>
+<font color='#FFFFFF'>one-nothing in a miracle shutout...</font>
+
+903
+00:55:06,505 --> 00:55:08,507
+<font color='#FFFFFF'>pitched by the veteran Mel Clark.</font>
+
+904
+00:55:11,509 --> 00:55:13,501
+<font color='#FFFFFF'>(PLAYERS CHEERING)</font>
+
+905
+00:55:13,501 --> 00:55:15,505
+<font color='#FFFFFF'>- All right, Mel! - Good game!</font>
+<font color='#FFFFFF'>- Yeah! Yeah!</font>
+
+906
+00:55:16,503 --> 00:55:17,505
+<font color='#FFFFFF'>It's unbelievable.</font>
+
+907
+00:55:17,509 --> 00:55:21,500
+<font color='#FFFFFF'>How in the world did</font>
+<font color='#FFFFFF'>old noodle-arm pull that off?</font>
+
+908
+00:55:22,500 --> 00:55:23,508
+<font color='#FFFFFF'>And who gets the credit?</font>
+
+909
+00:55:24,502 --> 00:55:28,501
+<font color='#FFFFFF'>George Knox. George Knox.</font>
+
+910
+00:55:28,502 --> 00:55:32,500
+<font color='#FFFFFF'>And we're down in the Angels' clubhouse</font>
+<font color='#FFFFFF'>for a talk with manager George Knox.</font>
+
+911
+00:55:32,500 --> 00:55:35,500
+<font color='#FFFFFF'>- What inspired you to start Mel?</font>
+<font color='#FFFFFF'>- A feeling.</font>
+
+912
+00:55:35,500 --> 00:55:37,504
+<font color='#FFFFFF'>An instinct. A kind of faith.</font>
+
+913
+00:55:37,505 --> 00:55:40,503
+<font color='#FFFFFF'>A faith in what? Has Mel shown</font>
+<font color='#FFFFFF'>this kind of power in practice?</font>
+
+914
+00:55:41,500 --> 00:55:44,501
+<font color='#FFFFFF'>Mel Clark has always shown himself</font>
+<font color='#FFFFFF'>to be an extraordinary athlete.</font>
+
+915
+00:55:44,508 --> 00:55:47,504
+<font color='#FFFFFF'>The rest is about believing</font>
+<font color='#FFFFFF'>in something or someone.</font>
+
+916
+00:55:47,504 --> 00:55:49,504
+<font color='#FFFFFF'>And when did you suddenly start</font>
+<font color='#FFFFFF'>believing in Clark?</font>
+
+917
+00:55:49,505 --> 00:55:51,501
+<font color='#FFFFFF'>He's been sitting on</font>
+<font color='#FFFFFF'>the bench all season.</font>
+
+918
+00:55:52,502 --> 00:55:55,500
+<font color='#FFFFFF'>- I look for signs.</font>
+<font color='#FFFFFF'>- It's good to win.</font>
+
+919
+00:55:55,501 --> 00:55:57,505
+<font color='#FFFFFF'>GEORGE: And sometimes they come</font>
+<font color='#FFFFFF'>from unexpected places.</font>
+
+920
+00:55:57,508 --> 00:56:00,506
+<font color='#FFFFFF'>Look, that's enough out of me for today.</font>
+<font color='#FFFFFF'>Talk to the star of the game.</font>
+
+921
+00:56:00,509 --> 00:56:01,508
+<font color='#FFFFFF'>Excuse me.</font>
+
+922
+00:56:06,500 --> 00:56:07,505
+<font color='#FFFFFF'>Something's goin' on.</font>
+
+923
+00:56:09,501 --> 00:56:11,505
+<font color='#FFFFFF'>- Mel! You talk to us about the game.</font>
+<font color='#FFFFFF'>- Yeah!</font>
+
+924
+00:56:12,502 --> 00:56:14,506
+<font color='#FFFFFF'>Well, it-- it feels great</font>
+<font color='#FFFFFF'>to be a winner again.</font>
+
+925
+00:56:14,508 --> 00:56:17,506
+<font color='#FFFFFF'>- We won! - (CHUCKLES)</font>
+<font color='#FFFFFF'>- Yeah. Three in a row.</font>
+
+926
+00:56:17,507 --> 00:56:21,504
+<font color='#FFFFFF'>- Oh, I feel good!</font>
+<font color='#FFFFFF'>- Yeah. Me too.</font>
+
+927
+00:56:22,508 --> 00:56:26,502
+<font color='#FFFFFF'>- Me three.</font>
+<font color='#FFFFFF'>- Ah, I owe you guys.</font>
+
+928
+00:56:27,501 --> 00:56:29,501
+<font color='#FFFFFF'>GEORGE: Okay. Anything you want.</font>
+
+929
+00:56:29,505 --> 00:56:31,506
+<font color='#FFFFFF'>You name it, you got it.</font>
+
+930
+00:56:32,500 --> 00:56:34,500
+<font color='#FFFFFF'>(JAZZ PLAYING)</font>
+
+931
+00:56:34,500 --> 00:56:37,503
+<font color='#FFFFFF'>- All right, let's play ball!</font>
+<font color='#FFFFFF'>- BOYS: Yeah!</font>
+
+932
+00:56:38,503 --> 00:56:40,501
+<font color='#FFFFFF'>- I got third!</font>
+<font color='#FFFFFF'>- Spread out, guys.</font>
+
+933
+00:56:40,501 --> 00:56:42,501
+<font color='#FFFFFF'>(EXCLAMING)</font>
+
+934
+00:56:42,507 --> 00:56:44,501
+<font color='#FFFFFF'>(BOYS CLAMORING)</font>
+
+935
+00:56:44,501 --> 00:56:48,501
+<font color='#FFFFFF'>Slow and easy.</font>
+<font color='#FFFFFF'>Keep your elbows up.</font>
+
+936
+00:56:49,509 --> 00:56:51,501
+<font color='#FFFFFF'>Here it comes.</font>
+
+937
+00:56:52,508 --> 00:56:55,501
+<font color='#FFFFFF'>Great hit, JP!</font>
+
+938
+00:56:55,507 --> 00:56:57,506
+<font color='#FFFFFF'>Get it, Roger! Get it! Get it!</font>
+
+939
+00:56:58,502 --> 00:57:00,501
+<font color='#FFFFFF'>Yeah! All right!</font>
+
+940
+00:57:00,504 --> 00:57:02,509
+<font color='#FFFFFF'>-All right, J.P.</font>
+<font color='#FFFFFF'>-All right! Who's next?</font>
+
+941
+00:57:03,500 --> 00:57:06,500
+<font color='#FFFFFF'>BOYS: Me! Me! Me! </font>
+<font color='#FFFFFF'>Me! Me! Me!</font>
+
+942
+00:57:07,505 --> 00:57:09,503
+<font color='#FFFFFF'>Let's give the kid</font>
+<font color='#FFFFFF'>over on the car a shot.</font>
+
+943
+00:57:09,504 --> 00:57:10,507
+<font color='#FFFFFF'>BOYS: Aww!</font>
+
+944
+00:57:13,503 --> 00:57:16,502
+<font color='#FFFFFF'>- What's your name?</font>
+<font color='#FFFFFF'>- Marvin Vincent Archer.</font>
+
+945
+00:57:16,505 --> 00:57:18,501
+<font color='#FFFFFF'>You play any ball before, Marvin?</font>
+
+946
+00:57:18,503 --> 00:57:20,500
+<font color='#FFFFFF'>No, I never played any ball.</font>
+
+947
+00:57:20,506 --> 00:57:23,500
+<font color='#FFFFFF'>Well, this is a perfect time to learn.</font>
+
+948
+00:57:23,501 --> 00:57:24,500
+<font color='#FFFFFF'>Come on.</font>
+
+949
+00:57:24,506 --> 00:57:25,505
+<font color='#FFFFFF'>- GEORGE: Watch the ball...</font>
+<font color='#FFFFFF'>- ROGER: Stay sharp, Zack.</font>
+
+950
+00:57:25,506 --> 00:57:28,507
+<font color='#FFFFFF'>and when I say "now," you swing.</font>
+
+951
+00:57:29,502 --> 00:57:32,506
+<font color='#FFFFFF'>GEORGE: Just do exactly what I say.</font>
+<font color='#FFFFFF'>Get ready to swing.</font>
+
+952
+00:57:33,500 --> 00:57:35,501
+<font color='#FFFFFF'>- Now! Oh, oh!</font>
+<font color='#FFFFFF'>- Yeah, Marvin!</font>
+
+953
+00:57:35,502 --> 00:57:36,507
+<font color='#FFFFFF'>Go, Marvin! Run to first base.</font>
+
+954
+00:57:36,507 --> 00:57:38,506
+<font color='#FFFFFF'>- Nice one. Go!</font>
+<font color='#FFFFFF'>- Nice hit, nice hit.</font>
+
+955
+00:57:43,501 --> 00:57:45,504
+<font color='#FFFFFF'>You stay on base</font>
+<font color='#FFFFFF'>and do just what I say.</font>
+
+956
+00:57:45,505 --> 00:57:46,507
+<font color='#FFFFFF'>Okay.</font>
+
+957
+00:57:47,501 --> 00:57:50,504
+<font color='#FFFFFF'>We got runners on first and second.</font>
+
+958
+00:57:54,504 --> 00:57:56,507
+<font color='#FFFFFF'>And look who's comin' to bat--</font>
+
+959
+00:57:56,507 --> 00:57:57,505
+<font color='#FFFFFF'>Babe Ruth.</font>
+
+960
+00:58:03,502 --> 00:58:04,506
+<font color='#FFFFFF'>(GROWLS)</font>
+
+961
+00:58:08,501 --> 00:58:10,502
+<font color='#FFFFFF'>- (GRUNTS)</font>
+<font color='#FFFFFF'>- Whoa!</font>
+
+962
+00:58:11,509 --> 00:58:13,502
+<font color='#FFFFFF'>Go, Marvin! Run home!</font>
+
+963
+00:58:13,503 --> 00:58:14,509
+<font color='#FFFFFF'>- Run home?</font>
+<font color='#FFFFFF'>- Run home!</font>
+
+964
+00:58:15,502 --> 00:58:16,505
+<font color='#FFFFFF'>Run home. Run home.</font>
+
+965
+00:58:17,505 --> 00:58:19,502
+<font color='#FFFFFF'>MARVIN: Run home. Run home.</font>
+
+966
+00:58:20,506 --> 00:58:22,500
+<font color='#FFFFFF'>GEORGE: Hey, Marvin, </font>
+<font color='#FFFFFF'>where ya going?</font>
+
+967
+00:58:22,501 --> 00:58:23,505
+<font color='#FFFFFF'>MARVIN: Run home. Run home.</font>
+
+968
+00:58:23,508 --> 00:58:25,500
+<font color='#FFFFFF'>GEORGE: Hey. W-Where's he goin'?</font>
+
+969
+00:58:25,509 --> 00:58:27,509
+<font color='#FFFFFF'>- Eh, what happened?</font>
+<font color='#FFFFFF'>- You told him to run home.</font>
+
+970
+00:58:28,500 --> 00:58:29,501
+<font color='#FFFFFF'>- I--</font>
+<font color='#FFFFFF'>- He did.</font>
+
+971
+00:58:30,500 --> 00:58:33,503
+<font color='#FFFFFF'>(GEORGE LAUGHING)</font>
+
+972
+00:58:37,507 --> 00:58:38,506
+<font color='#FFFFFF'>WHIT: Unh!</font>
+
+973
+00:58:39,507 --> 00:58:41,508
+<font color='#FFFFFF'>(CHEERING)</font>
+
+974
+00:58:43,505 --> 00:58:46,505
+<font color='#FFFFFF'>(PLAYING "TAKE ME</font>
+<font color='#FFFFFF'>OUT THE BALL GAME")</font>
+
+975
+00:58:53,503 --> 00:58:58,500
+<font color='#FFFFFF'>- Aaaaaah! Unhh!</font>
+<font color='#FFFFFF'>- Verne: Oh, wow!</font>
+
+976
+00:59:02,500 --> 00:59:03,508
+<font color='#FFFFFF'>(LAUGHS)</font>
+
+977
+00:59:04,504 --> 00:59:06,503
+<font color='#FFFFFF'>(LAUGHING CONTiNUES)</font>
+
+978
+00:59:06,509 --> 00:59:09,508
+<font color='#FFFFFF'>GEORGE: You call that a call?</font>
+<font color='#FFFFFF'>You call that a call?</font>
+
+979
+00:59:10,501 --> 00:59:12,509
+<font color='#FFFFFF'>In all my years of baseball,</font>
+<font color='#FFFFFF'>I have never seen such a--</font>
+
+980
+00:59:13,503 --> 00:59:16,500
+<font color='#FFFFFF'>such an astute evaluation...</font>
+
+981
+00:59:16,503 --> 00:59:19,503
+<font color='#FFFFFF'>of a potentially</font>
+<font color='#FFFFFF'>difficult decision.</font>
+
+982
+00:59:20,501 --> 00:59:21,506
+<font color='#FFFFFF'>Masterful call.</font>
+
+983
+00:59:22,500 --> 00:59:24,503
+<font color='#FFFFFF'>Oh, have a nice day.</font>
+
+984
+00:59:25,500 --> 00:59:26,500
+<font color='#FFFFFF'>Aah!</font>
+
+985
+00:59:27,506 --> 00:59:29,506
+<font color='#FFFFFF'>Fair ball!</font>
+
+986
+00:59:35,503 --> 00:59:36,503
+<font color='#FFFFFF'>Yeow!</font>
+
+987
+00:59:42,503 --> 00:59:45,505
+<font color='#FFFFFF'>TRISCUIT: Aaaaaaah!</font>
+
+988
+00:59:45,506 --> 00:59:47,506
+<font color='#FFFFFF'>- VERNE: Oh, wow!</font>
+<font color='#FFFFFF'>- UMPIRE: Safe!</font>
+
+989
+00:59:48,501 --> 00:59:51,502
+<font color='#FFFFFF'>Yeah! Yeah!</font>
+<font color='#FFFFFF'>Whooooo!</font>
+
+990
+00:59:52,505 --> 00:59:54,507
+<font color='#FFFFFF'>- Yeah!</font>
+<font color='#FFFFFF'>- Yeah, yeah, yeah, yeah!</font>
+
+991
+01:00:01,500 --> 01:00:01,508
+<font color='#FFFFFF'>Here you go, black man.</font>
+
+992
+01:00:01,508 --> 01:00:04,503
+<font color='#FFFFFF'>- Thanks!</font>
+<font color='#FFFFFF'>- Thanks, Mel!</font>
+
+993
+01:00:04,507 --> 01:00:05,508
+<font color='#FFFFFF'>- Hey! </font>
+<font color='#FFFFFF'>- (LAUGHS)</font>
+
+994
+01:00:05,509 --> 01:00:06,508
+<font color='#FFFFFF'>Oh! It's-</font>
+
+995
+01:00:10,500 --> 01:00:11,508
+<font color='#FFFFFF'>VERNE: Oh, wow!</font>
+
+996
+01:00:13,500 --> 01:00:15,508
+<font color='#FFFFFF'>- ALL: Aah!</font>
+<font color='#FFFFFF'>- RANCH: Unbelievable!</font>
+
+997
+01:00:17,505 --> 01:00:20,503
+<font color='#FFFFFF'>- VERNE: Yes! Yes!</font>
+<font color='#FFFFFF'>- GARY: Wow!</font>
+
+998
+01:00:23,502 --> 01:00:24,502
+<font color='#FFFFFF'>Get out of the way!</font>
+
+999
+01:00:24,505 --> 01:00:25,506
+<font color='#FFFFFF'>AUBREY: Yes!</font>
+
+1000
+01:00:30,508 --> 01:00:32,508
+<font color='#FFFFFF'>VERNE: He's got a</font>
+<font color='#FFFFFF'>man wide open!</font>
+
+1001
+01:00:32,508 --> 01:00:34,505
+<font color='#FFFFFF'>ALL: Yeah!</font>
+
+1002
+01:00:35,509 --> 01:00:36,508
+<font color='#FFFFFF'>(KISSES)</font>
+
+1003
+01:00:44,505 --> 01:00:46,505
+<font color='#FFFFFF'>VERNE: He's got a</font>
+<font color='#FFFFFF'>man wide open!</font>
+
+1004
+01:00:46,508 --> 01:00:49,508
+<font color='#FFFFFF'>- You're outta there!</font>
+<font color='#FFFFFF'>- Yeah! Hey?</font>
+
+1005
+01:00:51,507 --> 01:00:52,505
+<font color='#FFFFFF'>No?</font>
+
+1006
+01:00:55,506 --> 01:00:56,509
+<font color='#FFFFFF'>VERNE: Got it!</font>
+
+1007
+01:01:07,507 --> 01:01:09,506
+<font color='#FFFFFF'>- VERNE: Got it!</font>
+<font color='#FFFFFF'>- GARY: My, my!</font>
+
+1008
+01:01:16,502 --> 01:01:18,508
+<font color='#FFFFFF'>(ALL CHEERING)</font>
+
+1009
+01:01:19,505 --> 01:01:20,506
+<font color='#FFFFFF'>- (SNAP)</font>
+<font color='#FFFFFF'>- VERNE: Got it!</font>
+
+1010
+01:01:21,502 --> 01:01:22,504
+<font color='#FFFFFF'>- (SNAP)</font>
+<font color='#FFFFFF'>- AUBREY: Oh, my god!</font>
+
+1011
+01:01:22,505 --> 01:01:23,505
+<font color='#FFFFFF'>I got it!</font>
+
+1012
+01:01:29,501 --> 01:01:32,501
+<font color='#FFFFFF'>RANCH: The Angels have closed out the </font>
+<font color='#FFFFFF'>season with an incredible hot streak.</font>
+
+1013
+01:01:32,504 --> 01:01:36,503
+<font color='#FFFFFF'>Who would have believed they could go</font>
+<font color='#FFFFFF'>from last place at the All-Star break...</font>
+
+1014
+01:01:36,503 --> 01:01:39,502
+<font color='#FFFFFF'>to just one win away</font>
+<font color='#FFFFFF'>from clinching the division title?</font>
+
+1015
+01:01:39,505 --> 01:01:41,507
+<font color='#FFFFFF'>Now it all comes down</font>
+<font color='#FFFFFF'>to the last two games of the season...</font>
+
+1016
+01:01:41,508 --> 01:01:46,502
+<font color='#FFFFFF'>and, ironically, they are with the</font>
+<font color='#FFFFFF'>defending champion Chicago White Sox...</font>
+
+1017
+01:01:46,504 --> 01:01:48,509
+<font color='#FFFFFF'>who are one game back</font>
+<font color='#FFFFFF'>and closing fast...</font>
+
+1018
+01:01:48,509 --> 01:01:52,502
+<font color='#FFFFFF'>in a determined effort</font>
+<font color='#FFFFFF'>to deny the Angels the championship.</font>
+
+1019
+01:01:52,506 --> 01:01:56,508
+<font color='#FFFFFF'>The first ofthose crucial games</font>
+<font color='#FFFFFF'>takes place right here...</font>
+
+1020
+01:01:58,506 --> 01:02:00,500
+<font color='#FFFFFF'>this afternoon.</font>
+
+1021
+01:02:03,509 --> 01:02:05,508
+<font color='#FFFFFF'>- What's it say?</font>
+<font color='#FFFFFF'>- Thanks. Bye.</font>
+
+1022
+01:02:05,508 --> 01:02:06,509
+<font color='#FFFFFF'>ROGER: Van's gonna</font>
+<font color='#FFFFFF'>pick us up at 12:00.</font>
+
+1023
+01:02:07,501 --> 01:02:09,508
+<font color='#FFFFFF'>- Rog-- Stupid thing. Roger.</font>
+<font color='#FFFFFF'>- (DIALS PHONE)</font>
+
+1024
+01:02:09,509 --> 01:02:11,509
+<font color='#FFFFFF'>- ROGER: Huh?</font>
+<font color='#FFFFFF'>- That was your social worker.</font>
+
+1025
+01:02:12,502 --> 01:02:13,501
+<font color='#FFFFFF'>What does she want?</font>
+
+1026
+01:02:13,502 --> 01:02:16,500
+<font color='#FFFFFF'>MAGGIE: Your hearing's </font>
+<font color='#FFFFFF'>been changed to this afternoon.</font>
+
+1027
+01:02:17,503 --> 01:02:19,509
+<font color='#FFFFFF'>- But I got a game this afternoon.</font>
+<font color='#FFFFFF'>- I know.</font>
+
+1028
+01:02:20,502 --> 01:02:24,501
+<font color='#FFFFFF'>I've just tried everything to get 'em</font>
+<font color='#FFFFFF'>to reschedule. It's just not possible.</font>
+
+1029
+01:02:24,507 --> 01:02:26,502
+<font color='#FFFFFF'>Maggie, I'm not going.</font>
+
+1030
+01:02:28,504 --> 01:02:29,509
+<font color='#FFFFFF'>You don't have a choice,</font>
+<font color='#FFFFFF'>sweetheart.</font>
+
+1031
+01:02:30,507 --> 01:02:32,504
+<font color='#FFFFFF'>Well, what about George?</font>
+<font color='#FFFFFF'>What about the Ang-</font>
+
+1032
+01:02:32,504 --> 01:02:33,508
+<font color='#FFFFFF'>I'll call Mr Knox.</font>
+
+1033
+01:02:34,503 --> 01:02:36,507
+<font color='#FFFFFF'>I know he thinks you guys</font>
+<font color='#FFFFFF'>are his lucky charms...</font>
+
+1034
+01:02:37,501 --> 01:02:38,507
+<font color='#FFFFFF'>but this is just something</font>
+<font color='#FFFFFF'>you have to do.</font>
+
+1035
+01:02:40,500 --> 01:02:42,509
+<font color='#FFFFFF'>JP can go to the game,</font>
+<font color='#FFFFFF'>and we'll just try real hard...</font>
+
+1036
+01:02:43,500 --> 01:02:44,504
+<font color='#FFFFFF'>to get you there before it's over.</font>
+
+1037
+01:02:45,500 --> 01:02:46,502
+<font color='#FFFFFF'>It's all I can do.</font>
+
+1038
+01:02:46,507 --> 01:02:48,502
+<font color='#FFFFFF'>ROGER: Aw, man!</font>
+
+1039
+01:02:49,507 --> 01:02:51,502
+<font color='#FFFFFF'>And what about the game?</font>
+
+1040
+01:02:52,506 --> 01:02:55,501
+<i><font color='#FFFFFF'>ANNOUNCER: Attention,</font></i>
+<i><font color='#FFFFFF'>youngsters age 6 to 16...</font></i>
+
+1041
+01:02:55,502 --> 01:02:57,507
+<i><font color='#FFFFFF'>be sure to join the </font></i>
+<i><font color='#FFFFFF'>Junior Angel Fan Club.</font></i>
+
+1042
+01:02:58,501 --> 01:03:00,508
+<i><font color='#FFFFFF'>For just five dollars,</font></i>
+<i><font color='#FFFFFF'>you'll receive game tickets...</font></i>
+
+1043
+01:03:01,502 --> 01:03:03,504
+<i><font color='#FFFFFF'>baseball cards, a free autograph--</font></i>
+
+1044
+01:03:03,505 --> 01:03:06,509
+<font color='#FFFFFF'>RANCH: The Southern California</font>
+<font color='#FFFFFF'>sun is shining, the field is ready...</font>
+
+1045
+01:03:06,508 --> 01:03:12,501
+<font color='#FFFFFF'>the hot dogs are warm, and there's</font>
+<font color='#FFFFFF'>not an empty seat in the house.</font>
+
+1046
+01:03:15,505 --> 01:03:16,502
+<font color='#FFFFFF'>I know. I know.</font>
+
+1047
+01:03:16,503 --> 01:03:19,502
+<font color='#FFFFFF'>Don't even say it. A large Coke,</font>
+<font color='#FFFFFF'>two dogs, three Cracker Jacks.</font>
+
+1048
+01:03:19,502 --> 01:03:21,509
+<font color='#FFFFFF'>And I was thinking of getting him a car.</font>
+<font color='#FFFFFF'>And maybe a corporate jet.</font>
+
+1049
+01:03:21,509 --> 01:03:23,501
+<font color='#FFFFFF'>- And maybe a--</font>
+<font color='#FFFFFF'>- S-Still no Roger.</font>
+
+1050
+01:03:23,508 --> 01:03:25,507
+<font color='#FFFFFF'>He'll be here any second.</font>
+
+1051
+01:03:26,503 --> 01:03:28,507
+<font color='#FFFFFF'>Of all the days to haul</font>
+<font color='#FFFFFF'>the kid off to court.</font>
+
+1052
+01:03:29,500 --> 01:03:30,508
+<font color='#FFFFFF'>Why didn't Maggie say</font>
+<font color='#FFFFFF'>he was sick or somethin'?</font>
+
+1053
+01:03:31,501 --> 01:03:34,503
+<font color='#FFFFFF'>That'd be lying.</font>
+<font color='#FFFFFF'>Maggie would never lie.</font>
+
+1054
+01:03:34,503 --> 01:03:36,500
+<font color='#FFFFFF'>Well, Maggie's not</font>
+<font color='#FFFFFF'>in a pennant race.</font>
+
+1055
+01:03:36,505 --> 01:03:40,502
+<i><font color='#FFFFFF'>ANNOUNCER: Number 19,</font></i>
+<i><font color='#FFFFFF'>third baseman Bruce Shea.</font></i>
+
+1056
+01:03:42,509 --> 01:03:45,506
+<font color='#FFFFFF'>- Hey, you don't see anything, do you?</font>
+<font color='#FFFFFF'>- Maybe.</font>
+
+1057
+01:03:54,501 --> 01:03:55,503
+<font color='#FFFFFF'>Huh?</font>
+
+1058
+01:04:01,500 --> 01:04:02,502
+<font color='#FFFFFF'>Sorry.</font>
+
+1059
+01:04:04,508 --> 01:04:06,503
+<font color='#FFFFFF'>Well, it's not your fault.</font>
+
+1060
+01:04:07,505 --> 01:04:10,501
+<font color='#FFFFFF'>You never seen angels before.</font>
+<font color='#FFFFFF'>Why should you now?</font>
+
+1061
+01:04:11,507 --> 01:04:13,503
+<font color='#FFFFFF'>Hey, it could happen.</font>
+
+1062
+01:04:19,500 --> 01:04:21,507
+<font color='#FFFFFF'>(PEOPLE TALKING)</font>
+
+1063
+01:04:30,506 --> 01:04:33,505
+<font color='#FFFFFF'>You understand that once</font>
+<font color='#FFFFFF'>this hearing has established...</font>
+
+1064
+01:04:33,505 --> 01:04:35,505
+<font color='#FFFFFF'>Roger's permanent</font>
+<font color='#FFFFFF'>placement status...</font>
+
+1065
+01:04:35,506 --> 01:04:39,502
+<font color='#FFFFFF'>his welfare will forever forward</font>
+<font color='#FFFFFF'>be determined by this court.</font>
+
+1066
+01:04:41,500 --> 01:04:44,506
+<font color='#FFFFFF'>- I understand.</font>
+<font color='#FFFFFF'>- And you've consulted a lawyer?</font>
+
+1067
+01:04:47,500 --> 01:04:49,509
+<font color='#FFFFFF'>Look, lady, I get what I'm doin'.</font>
+<font color='#FFFFFF'>The kid's not mine any more.</font>
+
+1068
+01:04:50,502 --> 01:04:51,503
+<font color='#FFFFFF'>I'm not proud of it.</font>
+
+1069
+01:04:52,503 --> 01:04:54,504
+<font color='#FFFFFF'>It's not something I could</font>
+<font color='#FFFFFF'>change my mind about either.</font>
+
+1070
+01:05:00,501 --> 01:05:01,506
+<font color='#FFFFFF'>We're ready to see you now, Roger.</font>
+
+1071
+01:05:13,506 --> 01:05:14,506
+<font color='#FFFFFF'>Dad?</font>
+
+1072
+01:05:16,508 --> 01:05:18,506
+<font color='#FFFFFF'>ROGER: Dad, I didn't know </font>
+<font color='#FFFFFF'>you were gonna be here!</font>
+
+1073
+01:05:18,506 --> 01:05:20,507
+<font color='#FFFFFF'>You know the Angels are</font>
+<font color='#FFFFFF'>only one game from the pennant?</font>
+
+1074
+01:05:20,508 --> 01:05:23,500
+<font color='#FFFFFF'>Can you believe it?</font>
+<font color='#FFFFFF'>It's just like you said!</font>
+
+1075
+01:05:27,503 --> 01:05:29,509
+<font color='#FFFFFF'>- Sorry, boy.</font>
+<font color='#FFFFFF'>- Dad?</font>
+
+1076
+01:05:31,503 --> 01:05:34,500
+<font color='#FFFFFF'>Hey, Dad, wh--</font>
+<font color='#FFFFFF'>Did you hear what I said?</font>
+
+1077
+01:05:35,507 --> 01:05:36,508
+<font color='#FFFFFF'>Where ya goin'?</font>
+
+1078
+01:05:40,506 --> 01:05:41,504
+<font color='#FFFFFF'>Daddy?</font>
+
+1079
+01:05:50,500 --> 01:05:52,501
+<font color='#FFFFFF'>- Don't cry.</font>
+<font color='#FFFFFF'>- Come back.</font>
+
+1080
+01:05:52,508 --> 01:05:55,508
+<font color='#FFFFFF'>(CRYING)</font>
+
+1081
+01:05:58,500 --> 01:06:01,500
+<font color='#FFFFFF'>(THUMPING)</font>
+
+1082
+01:06:06,502 --> 01:06:10,508
+<font color='#FFFFFF'>- (CRYING) But, we lost!</font>
+<font color='#FFFFFF'>- Don't cry. I-It's only a game.</font>
+
+1083
+01:06:10,508 --> 01:06:13,509
+<font color='#FFFFFF'>Come on. You're getting snot all over</font>
+<font color='#FFFFFF'>the place. It's nobody's fault.</font>
+
+1084
+01:06:14,500 --> 01:06:17,504
+<font color='#FFFFFF'>I tried to see angels.</font>
+<font color='#FFFFFF'>I really tried.</font>
+
+1085
+01:06:17,505 --> 01:06:22,502
+<font color='#FFFFFF'>I guess without angels helping,</font>
+<font color='#FFFFFF'>this team doesn't have what it takes.</font>
+
+1086
+01:06:22,506 --> 01:06:24,508
+<font color='#FFFFFF'>Maybe I just don't</font>
+<font color='#FFFFFF'>have what it takes.</font>
+
+1087
+01:06:24,509 --> 01:06:29,501
+<font color='#FFFFFF'>JP: If we could still win </font>
+<font color='#FFFFFF'>without the angels. It could happen.</font>
+
+1088
+01:06:30,506 --> 01:06:34,504
+<font color='#FFFFFF'>Maybe. Eh, gimme a minute, kid,</font>
+<font color='#FFFFFF'>and I'll be out to take you home.</font>
+
+1089
+01:06:34,506 --> 01:06:36,509
+<font color='#FFFFFF'>But, don't cry.</font>
+
+1090
+01:06:38,501 --> 01:06:39,502
+<font color='#FFFFFF'>MAN: No, we're not.</font>
+
+1091
+01:06:44,504 --> 01:06:45,509
+<font color='#FFFFFF'>Hey, put out that cigarette.</font>
+
+1092
+01:06:48,504 --> 01:06:49,506
+<font color='#FFFFFF'>Hey.</font>
+
+1093
+01:06:51,501 --> 01:06:56,502
+<font color='#FFFFFF'>RANCH: I'm Ranch Wilder the </font>
+<font color='#FFFFFF'>voice of the Angels.</font>
+
+1094
+01:06:58,506 --> 01:07:01,505
+<font color='#FFFFFF'>I know who you are.</font>
+<font color='#FFFFFF'>I heard you on the radio.</font>
+
+1095
+01:07:02,501 --> 01:07:04,504
+<font color='#FFFFFF'>JP: You sure do </font>
+<font color='#FFFFFF'>have a big chin.</font>
+
+1096
+01:07:05,500 --> 01:07:06,506
+<font color='#FFFFFF'>Everybody's a critic.</font>
+
+1097
+01:07:08,506 --> 01:07:11,500
+<font color='#FFFFFF'>- Well, what's your name?</font>
+<font color='#FFFFFF'>- JP.</font>
+
+1098
+01:07:11,500 --> 01:07:13,502
+<font color='#FFFFFF'>RANCH: Well, J.P., that was</font>
+<font color='#FFFFFF'>a tough loss today, huh?</font>
+
+1099
+01:07:13,507 --> 01:07:17,501
+<font color='#FFFFFF'>Knox took it pretty hard.</font>
+<font color='#FFFFFF'>He was gettin' kinda crazy out there.</font>
+
+1100
+01:07:17,503 --> 01:07:19,501
+<font color='#FFFFFF'>'Cause Roger couldn't come.</font>
+
+1101
+01:07:20,501 --> 01:07:22,504
+<font color='#FFFFFF'>I get it. So Roger's sort of lucky.</font>
+<font color='#FFFFFF'>Is that it?</font>
+
+1102
+01:07:22,506 --> 01:07:27,505
+<font color='#FFFFFF'>He sees the angels, the ones</font>
+<font color='#FFFFFF'>who help out. He prayed for 'em.</font>
+
+1103
+01:07:27,509 --> 01:07:32,506
+<font color='#FFFFFF'>- Real angels?</font>
+<font color='#FFFFFF'>- Yeah, but I don't see 'em.</font>
+
+1104
+01:07:34,501 --> 01:07:36,507
+<font color='#FFFFFF'>And Knox-- he sees 'em?</font>
+
+1105
+01:07:37,506 --> 01:07:38,506
+<font color='#FFFFFF'>No!</font>
+
+1106
+01:07:38,506 --> 01:07:41,501
+<font color='#FFFFFF'>Roger has to tell him</font>
+<font color='#FFFFFF'>when they're around.</font>
+
+1107
+01:07:42,502 --> 01:07:43,507
+<font color='#FFFFFF'>Really?</font>
+
+1108
+01:07:46,509 --> 01:07:48,508
+<font color='#FFFFFF'>MAGGIE: You know,</font>
+<font color='#FFFFFF'>by releasing you legally...</font>
+
+1109
+01:07:49,506 --> 01:07:52,503
+<font color='#FFFFFF'>it does make it possible for somebody</font>
+<font color='#FFFFFF'>to take you permanently.</font>
+
+1110
+01:07:54,500 --> 01:07:55,509
+<font color='#FFFFFF'>He did that 'cause he wants</font>
+<font color='#FFFFFF'>the best for you.</font>
+
+1111
+01:07:56,505 --> 01:08:00,500
+<font color='#FFFFFF'>Yeah. Givin' someone away is</font>
+<font color='#FFFFFF'>a great way to show 'em you care.</font>
+
+1112
+01:08:08,509 --> 01:08:12,503
+<font color='#FFFFFF'>- Hey, Roger!</font>
+<font color='#FFFFFF'>- Took a little longer than you expected.</font>
+
+1113
+01:08:12,509 --> 01:08:17,501
+<font color='#FFFFFF'>We waited three hours for his hearing.</font>
+<font color='#FFFFFF'>That's quick for family court.</font>
+
+1114
+01:08:17,502 --> 01:08:20,508
+<font color='#FFFFFF'>- What'd they decide?</font>
+<font color='#FFFFFF'>- Oh, it's just a formality.</font>
+
+1115
+01:08:21,507 --> 01:08:22,509
+<font color='#FFFFFF'>(CLOSES DOOR)</font>
+
+1116
+01:08:23,505 --> 01:08:25,507
+<font color='#FFFFFF'>He belongs to the state</font>
+<font color='#FFFFFF'>of California now.</font>
+
+1117
+01:08:28,509 --> 01:08:30,500
+<font color='#FFFFFF'>Scoot over.</font>
+
+1118
+01:08:42,508 --> 01:08:44,503
+<font color='#FFFFFF'>Roger, I'm sorry about today.</font>
+
+1119
+01:08:45,501 --> 01:08:48,501
+<font color='#FFFFFF'>Why? 'Cause you lost</font>
+<font color='#FFFFFF'>your stupid baseball game?</font>
+
+1120
+01:08:49,508 --> 01:08:52,505
+<font color='#FFFFFF'>No. Because you're hurt.</font>
+
+1121
+01:08:53,500 --> 01:08:55,500
+<font color='#FFFFFF'>(SCOFFS) You don't </font>
+<font color='#FFFFFF'>know anything about it.</font>
+
+1122
+01:09:01,505 --> 01:09:04,509
+<font color='#FFFFFF'>You know, Roger, when I was growin' up,</font>
+<font color='#FFFFFF'>I never saw very much of my dad.</font>
+
+1123
+01:09:06,502 --> 01:09:08,500
+<font color='#FFFFFF'>GEORGE: He couldn't </font>
+<font color='#FFFFFF'>take care of himself...</font>
+
+1124
+01:09:09,500 --> 01:09:12,508
+<font color='#FFFFFF'>so takin' care of me and my brothers</font>
+<font color='#FFFFFF'>was outta the question.</font>
+
+1125
+01:09:17,500 --> 01:09:19,508
+<font color='#FFFFFF'>I'm not sure the pain</font>
+<font color='#FFFFFF'>that caused ever goes away.</font>
+
+1126
+01:09:21,508 --> 01:09:25,504
+<font color='#FFFFFF'>But I am sure you can't</font>
+<font color='#FFFFFF'>go through life...</font>
+
+1127
+01:09:25,509 --> 01:09:28,505
+<font color='#FFFFFF'>thinkin' everyone you meet</font>
+<font color='#FFFFFF'>will one day let you down.</font>
+
+1128
+01:09:30,506 --> 01:09:34,505
+<font color='#FFFFFF'>Because if you do,</font>
+<font color='#FFFFFF'>a very bad thing will happen.</font>
+
+1129
+01:09:38,506 --> 01:09:40,505
+<font color='#FFFFFF'>You'll end up like me.</font>
+
+1130
+01:09:43,506 --> 01:09:45,500
+<font color='#FFFFFF'>I'm goin' inside.</font>
+
+1131
+01:09:47,502 --> 01:09:49,502
+<font color='#FFFFFF'>I thought you said you</font>
+<font color='#FFFFFF'>had to be somewhere.</font>
+
+1132
+01:09:51,504 --> 01:09:54,501
+<font color='#FFFFFF'>I do. Right here.</font>
+
+1133
+01:09:56,504 --> 01:09:58,505
+<font color='#FFFFFF'>- Yuck!</font>
+<font color='#FFFFFF'>- You both wash your hands?</font>
+
+1134
+01:09:58,505 --> 01:10:02,505
+<font color='#FFFFFF'>- Yep.</font>
+<font color='#FFFFFF'>- Okay, then, let's dig in.</font>
+
+1135
+01:10:04,508 --> 01:10:08,505
+<font color='#FFFFFF'>GEORGE: Next time I'll try lasagna.</font>
+<font color='#FFFFFF'>You guys like lasagna?</font>
+
+1136
+01:10:09,501 --> 01:10:11,502
+<font color='#FFFFFF'>BOTH: No. What is it?</font>
+
+1137
+01:10:12,502 --> 01:10:15,506
+<font color='#FFFFFF'>JP: Look. It's God's thumbnail.</font>
+
+1138
+01:10:17,505 --> 01:10:19,501
+<font color='#FFFFFF'>That's just the moon, JP.</font>
+
+1139
+01:10:20,505 --> 01:10:22,504
+<font color='#FFFFFF'>No God up there.</font>
+
+1140
+01:10:22,507 --> 01:10:23,509
+<font color='#FFFFFF'>(BASEBALL THUMPING)</font>
+
+1141
+01:10:28,503 --> 01:10:32,504
+<font color='#FFFFFF'>I can't believe you said that.</font>
+<font color='#FFFFFF'>The kid who sees angels.</font>
+
+1142
+01:10:34,507 --> 01:10:37,503
+<font color='#FFFFFF'>I don't believe </font>
+<font color='#FFFFFF'>in angels any more.</font>
+
+1143
+01:10:38,501 --> 01:10:40,502
+<font color='#FFFFFF'>JP: Roger, what are </font>
+<font color='#FFFFFF'>you talking about?</font>
+
+1144
+01:10:40,507 --> 01:10:42,501
+<font color='#FFFFFF'>That's okay, JP.</font>
+
+1145
+01:10:43,504 --> 01:10:45,500
+<font color='#FFFFFF'>Roger's had a tough day.</font>
+
+1146
+01:10:56,508 --> 01:10:58,500
+<font color='#FFFFFF'>(ROGER SIGHS)</font>
+
+1147
+01:11:13,500 --> 01:11:16,502
+<font color='#FFFFFF'>"The source says there's</font>
+<font color='#FFFFFF'>a boy known as Roger--</font>
+
+1148
+01:11:16,502 --> 01:11:19,509
+<font color='#FFFFFF'>Even watches games on TV</font>
+<font color='#FFFFFF'>when the team is out of town...</font>
+
+1149
+01:11:20,500 --> 01:11:22,503
+<font color='#FFFFFF'>and reports to manager Knox</font>
+<font color='#FFFFFF'>over the phone."</font>
+
+1150
+01:11:23,500 --> 01:11:24,505
+<font color='#FFFFFF'>What's a source?</font>
+
+1151
+01:11:25,507 --> 01:11:28,501
+<font color='#FFFFFF'>- The person who told.</font>
+<font color='#FFFFFF'>- Oh.</font>
+
+1152
+01:11:29,500 --> 01:11:31,506
+<font color='#FFFFFF'>"And when Mel Clark made his</font>
+<font color='#FFFFFF'>amazing comeback in August...</font>
+
+1153
+01:11:31,507 --> 01:11:34,504
+<font color='#FFFFFF'>it was Roger's--</font>
+<font color='#FFFFFF'>it was Roger's idea to start him."</font>
+
+1154
+01:11:34,505 --> 01:11:38,501
+<font color='#FFFFFF'>- That's me.</font>
+<font color='#FFFFFF'>- Who do you think told?</font>
+
+1155
+01:11:39,502 --> 01:11:42,507
+<font color='#FFFFFF'>I don't know. Maybe David found out.</font>
+<font color='#FFFFFF'>I don't see how.</font>
+
+1156
+01:11:42,508 --> 01:11:46,501
+<font color='#FFFFFF'>- JP: Are we in trouble?</font>
+<font color='#FFFFFF'>- Knox is in trouble, that's for sure.</font>
+
+1157
+01:11:46,502 --> 01:11:48,507
+<font color='#FFFFFF'>This is bad, right?</font>
+
+1158
+01:11:49,507 --> 01:11:51,503
+<font color='#FFFFFF'>I'm gonna have to tell Maggie.</font>
+
+1159
+01:11:52,507 --> 01:11:54,502
+<font color='#FFFFFF'>(JP SIGHS)</font>
+
+1160
+01:11:55,503 --> 01:11:56,507
+<font color='#FFFFFF'>WOMAN: Right this </font>
+<font color='#FFFFFF'>way, Mr Knox.</font>
+
+1161
+01:11:59,501 --> 01:12:00,507
+<font color='#FFFFFF'>You stood me up last night.</font>
+
+1162
+01:12:01,509 --> 01:12:05,508
+<font color='#FFFFFF'>HANK: What in the Sam Hill is</font>
+<font color='#FFFFFF'>all this about real angels?</font>
+
+1163
+01:12:06,504 --> 01:12:08,507
+<font color='#FFFFFF'>- It's nothing.</font>
+<font color='#FFFFFF'>- Start talkin'.</font>
+
+1164
+01:12:09,502 --> 01:12:11,506
+<font color='#FFFFFF'>Okay. I-- I got these two kids.</font>
+
+1165
+01:12:12,502 --> 01:12:14,500
+<font color='#FFFFFF'>And I-I think of them as mascots.</font>
+
+1166
+01:12:16,501 --> 01:12:19,504
+<font color='#FFFFFF'>And the angels-- Uh, well--</font>
+
+1167
+01:12:20,507 --> 01:12:23,505
+<font color='#FFFFFF'>It's just something that's</font>
+<font color='#FFFFFF'>going on between me and them.</font>
+
+1168
+01:12:23,505 --> 01:12:26,504
+<font color='#FFFFFF'>HANK: You're tellin' me there's</font>
+<font color='#FFFFFF'>real angels in the ball park?</font>
+
+1169
+01:12:26,505 --> 01:12:29,504
+<font color='#FFFFFF'>Sometimes.</font>
+<font color='#FFFFFF'>But they're not in on all the plays.</font>
+
+1170
+01:12:29,505 --> 01:12:30,507
+<font color='#FFFFFF'>(CHUCKLES)</font>
+
+1171
+01:12:30,507 --> 01:12:33,507
+<font color='#FFFFFF'>- You've lost it, partner.</font>
+<font color='#FFFFFF'>- Look, if I lied to you...</font>
+
+1172
+01:12:34,501 --> 01:12:37,505
+<font color='#FFFFFF'>then the angels wouldn't like it,</font>
+<font color='#FFFFFF'>and they might not come back.</font>
+
+1173
+01:12:37,507 --> 01:12:42,501
+<font color='#FFFFFF'>They're very temperamental.</font>
+
+1174
+01:12:42,503 --> 01:12:44,506
+<font color='#FFFFFF'>Mental is the key word here.</font>
+
+1175
+01:12:45,501 --> 01:12:49,507
+<font color='#FFFFFF'>I'm sorry, George, but I'm relieving you</font>
+<font color='#FFFFFF'>ofyour management responsibilities.</font>
+
+1176
+01:12:50,504 --> 01:12:53,507
+<font color='#FFFFFF'>You can't do that.</font>
+<font color='#FFFFFF'>We're only one game away.</font>
+
+1177
+01:12:55,501 --> 01:12:59,506
+<font color='#FFFFFF'>I tell you what. I'll give you 24 hours</font>
+<font color='#FFFFFF'>to get your head on straight.</font>
+
+1178
+01:13:00,500 --> 01:13:02,500
+<font color='#FFFFFF'>Then I'll call a press conference.</font>
+
+1179
+01:13:02,505 --> 01:13:05,507
+<font color='#FFFFFF'>And you can publicly</font>
+<font color='#FFFFFF'>renounce this hogwash.</font>
+
+1180
+01:13:06,504 --> 01:13:11,500
+<font color='#FFFFFF'>HANK: George, you repeat any of</font>
+<font color='#FFFFFF'>the baloney I've heard here...</font>
+
+1181
+01:13:11,503 --> 01:13:14,509
+<font color='#FFFFFF'>we're talkin' the end of</font>
+<font color='#FFFFFF'>your career in baseball.</font>
+
+1182
+01:13:15,507 --> 01:13:17,505
+<font color='#FFFFFF'>HANK: Have I made myself clear?</font>
+
+1183
+01:13:18,500 --> 01:13:19,506
+<font color='#FFFFFF'>Yes.</font>
+
+1184
+01:13:54,500 --> 01:13:55,505
+<font color='#FFFFFF'>MAN: What's goin' on, Knox?</font>
+
+1185
+01:14:00,506 --> 01:14:04,501
+<font color='#FFFFFF'>Good morning, ladies and gentlemen.</font>
+<font color='#FFFFFF'>We're gonna make this short and sweet.</font>
+
+1186
+01:14:04,501 --> 01:14:07,505
+<font color='#FFFFFF'>My manager, George Knox here,</font>
+<font color='#FFFFFF'>has something he'd like to say to ya.</font>
+
+1187
+01:14:07,508 --> 01:14:11,504
+<font color='#FFFFFF'>- George.</font>
+<font color='#FFFFFF'>- I have a statement I'd like to read.</font>
+
+1188
+01:14:13,500 --> 01:14:14,504
+<font color='#FFFFFF'>There have been reports...</font>
+
+1189
+01:14:15,504 --> 01:14:18,509
+<font color='#FFFFFF'>that I've been using angels</font>
+<font color='#FFFFFF'>to help the team win.</font>
+
+1190
+01:14:23,501 --> 01:14:24,505
+<font color='#FFFFFF'>MAGGIE: Go on. Go in.</font>
+
+1191
+01:14:27,508 --> 01:14:30,508
+<font color='#FFFFFF'>(ALL CLAMORING)</font>
+
+1192
+01:14:40,507 --> 01:14:42,502
+<font color='#FFFFFF'>I was gonna read a statement...</font>
+
+1193
+01:14:45,505 --> 01:14:47,506
+<font color='#FFFFFF'>but instead,</font>
+<font color='#FFFFFF'>I'm gonna shoot from the hip.</font>
+
+1194
+01:14:53,502 --> 01:14:55,504
+<font color='#FFFFFF'>You know, there are</font>
+<font color='#FFFFFF'>a lot of times in sports...</font>
+
+1195
+01:14:57,503 --> 01:15:02,500
+<font color='#FFFFFF'>when there's no logical explanation</font>
+<font color='#FFFFFF'>why things happen.</font>
+
+1196
+01:15:04,501 --> 01:15:06,505
+<font color='#FFFFFF'>GEORGE: Sometimes a </font>
+<font color='#FFFFFF'>player gets hot and...</font>
+
+1197
+01:15:06,509 --> 01:15:09,507
+<font color='#FFFFFF'>goes beyond their physical ability.</font>
+
+1198
+01:15:10,508 --> 01:15:13,503
+<font color='#FFFFFF'>Is it just adrenaline?</font>
+<font color='#FFFFFF'>I don't know.</font>
+
+1199
+01:15:14,503 --> 01:15:16,505
+<font color='#FFFFFF'>But I do believe</font>
+<font color='#FFFFFF'>there are times in life...</font>
+
+1200
+01:15:17,504 --> 01:15:20,508
+<font color='#FFFFFF'>where something stronger, higher...</font>
+
+1201
+01:15:21,502 --> 01:15:24,500
+<font color='#FFFFFF'>or maybe spiritual is with us.</font>
+
+1202
+01:15:24,508 --> 01:15:28,502
+<font color='#FFFFFF'>GEORGE: I can't explain it, but something has</font>
+<font color='#FFFFFF'>happened to my players this year...</font>
+
+1203
+01:15:28,509 --> 01:15:32,506
+<font color='#FFFFFF'>something that's changed</font>
+<font color='#FFFFFF'>the way they play...</font>
+
+1204
+01:15:34,502 --> 01:15:35,508
+<font color='#FFFFFF'>and the way I manage.</font>
+
+1205
+01:15:36,504 --> 01:15:40,500
+<font color='#FFFFFF'>You can call it faith.</font>
+<font color='#FFFFFF'>You can call it angels.</font>
+
+1206
+01:15:40,505 --> 01:15:42,503
+<font color='#FFFFFF'>You can call it whateveryou want.</font>
+
+1207
+01:15:45,504 --> 01:15:46,507
+<font color='#FFFFFF'>That's all I have to say.</font>
+
+1208
+01:15:47,504 --> 01:15:50,504
+<font color='#FFFFFF'>RANCH: George, does this mean</font>
+<font color='#FFFFFF'>you really think...</font>
+
+1209
+01:15:50,508 --> 01:15:54,502
+<font color='#FFFFFF'>that a kid sees angels</font>
+<font color='#FFFFFF'>at your games?</font>
+
+1210
+01:15:56,504 --> 01:15:58,503
+<font color='#FFFFFF'>(CLEARS THROAT)</font>
+<font color='#FFFFFF'>Excuse me.</font>
+
+1211
+01:15:59,500 --> 01:16:03,503
+<font color='#FFFFFF'>I'd, uh-- I'd like to say something</font>
+<font color='#FFFFFF'>on behalf of George Knox.</font>
+
+1212
+01:16:04,500 --> 01:16:06,504
+<font color='#FFFFFF'>Uh, what's your name?</font>
+<font color='#FFFFFF'>What's your business here?</font>
+
+1213
+01:16:06,509 --> 01:16:10,509
+<font color='#FFFFFF'>My name is Maggie Nelson.</font>
+<font color='#FFFFFF'>I take care of foster kids.</font>
+
+1214
+01:16:11,507 --> 01:16:15,507
+<font color='#FFFFFF'>MAGGIE: One of these boys is, uh,</font>
+<font color='#FFFFFF'>the child who can see angels.</font>
+
+1215
+01:16:16,509 --> 01:16:19,509
+<font color='#FFFFFF'>He could stand up right now</font>
+<font color='#FFFFFF'>and tell you exactly what's happened...</font>
+
+1216
+01:16:20,503 --> 01:16:22,502
+<font color='#FFFFFF'>and I know you'd just laugh at him.</font>
+
+1217
+01:16:22,507 --> 01:16:27,504
+<font color='#FFFFFF'>But, when a professional football player</font>
+<font color='#FFFFFF'>drops to one knee to thank God...</font>
+
+1218
+01:16:27,505 --> 01:16:30,504
+<font color='#FFFFFF'>after making a touchdown,</font>
+<font color='#FFFFFF'>nobody laughs at that.</font>
+
+1219
+01:16:30,505 --> 01:16:33,506
+<font color='#FFFFFF'>Or when a pitcher crosses himself</font>
+<font color='#FFFFFF'>before going to the mound?</font>
+
+1220
+01:16:34,500 --> 01:16:35,505
+<font color='#FFFFFF'>Nobody laughs at that either.</font>
+
+1221
+01:16:35,507 --> 01:16:38,504
+<font color='#FFFFFF'>Seems like you're saying</font>
+<font color='#FFFFFF'>it's okay to believe in God...</font>
+
+1222
+01:16:38,505 --> 01:16:40,501
+<font color='#FFFFFF'>but it's not okay</font>
+<font color='#FFFFFF'>to believe in angels.</font>
+
+1223
+01:16:41,501 --> 01:16:43,501
+<font color='#FFFFFF'>Uh, I thought they were</font>
+<font color='#FFFFFF'>on the same team.</font>
+
+1224
+01:16:43,503 --> 01:16:47,504
+<font color='#FFFFFF'>Is it your belief, ma'am,</font>
+<font color='#FFFFFF'>that, uh, angels play baseball?</font>
+
+1225
+01:16:47,507 --> 01:16:49,508
+<font color='#FFFFFF'>Since the All-Star break, yes.</font>
+
+1226
+01:16:49,509 --> 01:16:52,509
+<font color='#FFFFFF'>(ALL LAUGHING)</font>
+
+1227
+01:16:54,508 --> 01:16:57,503
+<font color='#FFFFFF'>We all need somebody</font>
+<font color='#FFFFFF'>to watch out for us.</font>
+
+1228
+01:16:58,504 --> 01:17:00,507
+<font color='#FFFFFF'>Every kid I have</font>
+<font color='#FFFFFF'>ever taken care of...</font>
+
+1229
+01:17:01,501 --> 01:17:04,501
+<font color='#FFFFFF'>has been looking for</font>
+<font color='#FFFFFF'>someone to love-- an angel.</font>
+
+1230
+01:17:05,502 --> 01:17:06,506
+<font color='#FFFFFF'>You gotta have faith.</font>
+
+1231
+01:17:07,504 --> 01:17:11,507
+<font color='#FFFFFF'>MAGGIE: You gotta believe.</font>
+<font color='#FFFFFF'>You gotta look inside yourself.</font>
+
+1232
+01:17:12,509 --> 01:17:15,504
+<font color='#FFFFFF'>The footprints</font>
+<font color='#FFFFFF'>of an angel are love.</font>
+
+1233
+01:17:16,500 --> 01:17:19,506
+<font color='#FFFFFF'>And where there is love,</font>
+<font color='#FFFFFF'>miraculous things can happen.</font>
+
+1234
+01:17:20,503 --> 01:17:21,508
+<font color='#FFFFFF'>I've seen it.</font>
+
+1235
+01:17:24,500 --> 01:17:25,507
+<font color='#FFFFFF'>I'd also like</font>
+<font color='#FFFFFF'>to say something.</font>
+
+1236
+01:17:26,508 --> 01:17:30,500
+<font color='#FFFFFF'>MEL: I don't know if there</font>
+<font color='#FFFFFF'>are angels out there...</font>
+
+1237
+01:17:30,503 --> 01:17:32,506
+<font color='#FFFFFF'>other than the 25 of us</font>
+<font color='#FFFFFF'>in uniform...</font>
+
+1238
+01:17:33,509 --> 01:17:36,505
+<font color='#FFFFFF'>but I know there is</font>
+<font color='#FFFFFF'>one thing I won't do.</font>
+
+1239
+01:17:37,504 --> 01:17:41,505
+<font color='#FFFFFF'>I won't play for anyone</font>
+<font color='#FFFFFF'>but George Knox. I believe in him.</font>
+
+1240
+01:17:46,507 --> 01:17:48,500
+<font color='#FFFFFF'>That goes for me too.</font>
+
+1241
+01:17:52,500 --> 01:17:55,500
+<font color='#FFFFFF'>(ALL CLAMORING)</font>
+
+1242
+01:18:05,504 --> 01:18:07,505
+<font color='#FFFFFF'>Thank you. All of you.</font>
+
+1243
+01:18:13,500 --> 01:18:17,501
+<font color='#FFFFFF'>Print what you want. George Knox</font>
+<font color='#FFFFFF'>is the manager of the ball club.</font>
+
+1244
+01:18:17,504 --> 01:18:21,503
+<font color='#FFFFFF'>- (ALL CHEERING)</font>
+<font color='#FFFFFF'>- And if there are any angels out there...</font>
+
+1245
+01:18:22,502 --> 01:18:24,503
+<font color='#FFFFFF'>sure hope they're on our side.</font>
+
+1246
+01:18:24,506 --> 01:18:27,502
+<font color='#FFFFFF'>(CHEERING CONTINUES)</font>
+
+1247
+01:18:27,503 --> 01:18:28,506
+<font color='#FFFFFF'>DAVID: Oh, yeah!</font>
+
+1248
+01:18:29,504 --> 01:18:31,501
+<font color='#FFFFFF'>Yeah! Yes!</font>
+
+1249
+01:18:38,505 --> 01:18:41,503
+<font color='#FFFFFF'>RANCH: Good evening, everyone,</font>
+<font color='#FFFFFF'>and welcome to downtown Anaheim...</font>
+
+1250
+01:18:41,503 --> 01:18:43,504
+<font color='#FFFFFF'>where there are no seats</font>
+<font color='#FFFFFF'>left in sports heaven...</font>
+
+1251
+01:18:43,504 --> 01:18:47,502
+<font color='#FFFFFF'>as a sell-out crowd fills the ball park</font>
+<font color='#FFFFFF'>for the final game of the season.</font>
+
+1252
+01:18:47,506 --> 01:18:52,505
+<font color='#FFFFFF'>Tonight, George Knox will send</font>
+<font color='#FFFFFF'>his Angels, real or imagined...</font>
+
+1253
+01:18:52,505 --> 01:18:54,507
+<font color='#FFFFFF'>out against</font>
+<font color='#FFFFFF'>a tough White Sox team...</font>
+
+1254
+01:18:54,507 --> 01:18:57,508
+<font color='#FFFFFF'>to determine who will be</font>
+<font color='#FFFFFF'>the Western Division champion.</font>
+
+1255
+01:18:58,505 --> 01:19:01,500
+<font color='#FFFFFF'>GEORGE: When I came here this season,</font>
+<font color='#FFFFFF'>I didn't believe in you guys.</font>
+
+1256
+01:19:02,504 --> 01:19:06,500
+<font color='#FFFFFF'>I didn't believe in anything.</font>
+<font color='#FFFFFF'>But when you stood up this morning...</font>
+
+1257
+01:19:06,500 --> 01:19:08,502
+<font color='#FFFFFF'>you gave me back</font>
+<font color='#FFFFFF'>my reason to believe.</font>
+
+1258
+01:19:08,508 --> 01:19:12,503
+<font color='#FFFFFF'>I'm more proud of bein' a part of</font>
+<font color='#FFFFFF'>this team than any team I've been on.</font>
+
+1259
+01:19:12,506 --> 01:19:14,508
+<font color='#FFFFFF'>You're all winners,</font>
+<font color='#FFFFFF'>and I believe in you!</font>
+
+1260
+01:19:15,501 --> 01:19:17,508
+<font color='#FFFFFF'>So let's go out there</font>
+<font color='#FFFFFF'>and show them what winners can do!</font>
+
+1261
+01:19:18,500 --> 01:19:20,508
+<font color='#FFFFFF'>- Let's take that championship!</font>
+<font color='#FFFFFF'>- Yeah! Yeah!</font>
+
+1262
+01:19:21,503 --> 01:19:26,503
+<font color='#FFFFFF'>- All right! You're so fantastic!</font>
+<font color='#FFFFFF'>- MEL: Okay, you heard him. Let's go!</font>
+
+1263
+01:19:26,503 --> 01:19:31,501
+<i><font color='#FFFFFF'>ANNOUNCER: Ladies and gentlemen,</font></i>
+<i><font color='#FFFFFF'>your California Angels.</font></i>
+
+1264
+01:19:31,502 --> 01:19:34,502
+<font color='#FFFFFF'>(ALL CHEERING)</font>
+
+1265
+01:19:36,505 --> 01:19:39,502
+<font color='#FFFFFF'>RANCH: Starting pitcher</font>
+<font color='#FFFFFF'>for this crucial game...</font>
+
+1266
+01:19:39,502 --> 01:19:41,504
+<font color='#FFFFFF'>is the veteran Mel Clark.</font>
+
+1267
+01:19:41,505 --> 01:19:42,503
+<font color='#FFFFFF'>- Yeah!</font>
+<font color='#FFFFFF'>- All right!</font>
+
+1268
+01:19:42,504 --> 01:19:46,501
+<font color='#FFFFFF'>He's been their hottest pitcher since</font>
+<font color='#FFFFFF'>he returned to the line-up in July.</font>
+
+1269
+01:19:48,509 --> 01:19:51,501
+<font color='#FFFFFF'>RANCH: So, Clark's have a rocky</font>
+<font color='#FFFFFF'>start here in the first.</font>
+
+1270
+01:19:51,501 --> 01:19:53,505
+<font color='#FFFFFF'>He's got runner's a second and third</font>
+<font color='#FFFFFF'>with two outs, </font>
+
+1271
+01:19:53,505 --> 01:19:54,507
+<font color='#FFFFFF'>And Darren at bat.</font>
+
+1272
+01:20:01,500 --> 01:20:03,503
+<font color='#FFFFFF'>Darren tries the ball to left.</font>
+<font color='#FFFFFF'>It's fair!</font>
+
+1273
+01:20:03,503 --> 01:20:05,507
+<font color='#FFFFFF'>One run will score, and</font>
+<font color='#FFFFFF'>here comes Cooper.</font>
+
+1274
+01:20:06,501 --> 01:20:07,505
+<font color='#FFFFFF'>Norton get's to it.</font>
+<font color='#FFFFFF'>It's gonna be close.</font>
+
+1275
+01:20:07,505 --> 01:20:08,503
+<font color='#FFFFFF'>Here come the ball...</font>
+
+1276
+01:20:08,504 --> 01:20:10,508
+<font color='#FFFFFF'>- Copper slides, he's safe!</font>
+<font color='#FFFFFF'>- AUBREY: No!</font>
+
+1277
+01:20:10,509 --> 01:20:12,504
+<font color='#FFFFFF'>RANCH: The fans don't like the call.</font>
+
+1278
+01:20:12,505 --> 01:20:15,507
+<font color='#FFFFFF'>But the Sox go up 2 to nothing,</font>
+<font color='#FFFFFF'>And we're still in the top in the verse.</font>
+
+1279
+01:20:15,507 --> 01:20:17,508
+<font color='#FFFFFF'>- You got 'em, Mel!</font>
+<font color='#FFFFFF'>- (SIGHS)</font>
+
+1280
+01:20:18,505 --> 01:20:20,500
+<font color='#FFFFFF'>Clark pitches to Young.</font>
+
+1281
+01:20:21,504 --> 01:20:24,507
+<font color='#FFFFFF'>He loops one over second base</font>
+<font color='#FFFFFF'>and here comes Garcia!</font>
+
+1282
+01:20:25,500 --> 01:20:26,509
+<font color='#FFFFFF'>- VERNE: Oh, wow!</font>
+<font color='#FFFFFF'>- RANCH: Whoa! Garcia makes a...</font>
+
+1283
+01:20:26,509 --> 01:20:29,504
+<font color='#FFFFFF'>spectacular save</font>
+<font color='#FFFFFF'>to end the inning!</font>
+
+1284
+01:20:29,504 --> 01:20:30,509
+<font color='#FFFFFF'>Yeah! Yeah!</font>
+
+1285
+01:20:31,504 --> 01:20:32,509
+<font color='#FFFFFF'>RANCH: With the Angels </font>
+<font color='#FFFFFF'>behind 2 to nothing...</font>
+
+1286
+01:20:33,500 --> 01:20:35,504
+<font color='#FFFFFF'>Clark's really struggling with</font>
+<font color='#FFFFFF'>one out in the top of the fifth...</font>
+
+1287
+01:20:35,504 --> 01:20:38,507
+<font color='#FFFFFF'>And a man on first and second</font>
+<font color='#FFFFFF'>Beasley comes to bat.</font>
+
+1288
+01:20:40,501 --> 01:20:42,505
+<font color='#FFFFFF'>Anybody got any uh-No?</font>
+
+1289
+01:20:47,504 --> 01:20:50,508
+<font color='#FFFFFF'>RANCH: No question he's tiring, Wally.</font>
+<font color='#FFFFFF'>And Knox knows it. Ball one.</font>
+
+1290
+01:20:53,503 --> 01:20:55,506
+<font color='#FFFFFF'>That expected this there</font>
+<font color='#FFFFFF'>getting Teller up now...</font>
+
+1291
+01:20:55,506 --> 01:20:56,504
+<font color='#FFFFFF'>In the ballpen.</font>
+
+1292
+01:21:05,502 --> 01:21:08,509
+<font color='#FFFFFF'>RANCH: Whoa! Mitchell makes a great</font>
+<font color='#FFFFFF'>play makes the force at third.</font>
+
+1293
+01:21:08,509 --> 01:21:10,508
+<font color='#FFFFFF'>GEORGE: All right, all right, all right</font>
+<font color='#FFFFFF'>all right, all right.</font>
+
+1294
+01:21:11,504 --> 01:21:12,503
+<font color='#FFFFFF'>All right.</font>
+
+1295
+01:21:13,503 --> 01:21:14,503
+<font color='#FFFFFF'>RANCH: Here in the sixth...</font>
+
+1296
+01:21:14,504 --> 01:21:17,502
+<font color='#FFFFFF'>Garcia's on first with the</font>
+<font color='#FFFFFF'>single as the Angels trying...</font>
+
+1297
+01:21:17,502 --> 01:21:19,503
+<font color='#FFFFFF'>To battle away back</font>
+<font color='#FFFFFF'>into the ball game.</font>
+
+1298
+01:21:21,505 --> 01:21:23,502
+<font color='#FFFFFF'>That brings up Ray Mitchell.</font>
+
+1299
+01:21:23,502 --> 01:21:25,505
+<font color='#FFFFFF'>Ray's been hot as wild far</font>
+<font color='#FFFFFF'>this second half of this...</font>
+
+1300
+01:21:25,505 --> 01:21:27,507
+<font color='#FFFFFF'>- miraculous season.</font>
+<font color='#FFFFFF'>- But as many you've known...</font>
+
+1301
+01:21:27,507 --> 01:21:29,501
+<font color='#FFFFFF'>In the past, Mitchell is choked.</font>
+
+1302
+01:21:29,502 --> 01:21:31,504
+<font color='#FFFFFF'>When it came from</font>
+<font color='#FFFFFF'>real pressure situation.</font>
+
+1303
+01:21:31,505 --> 01:21:32,509
+<font color='#FFFFFF'>(SHOUTING) You got the one, Ray?</font>
+
+1304
+01:21:33,502 --> 01:21:35,502
+<font color='#FFFFFF'>GEORGE: You hear me?</font>
+<font color='#FFFFFF'>You can do it!</font>
+
+1305
+01:21:43,506 --> 01:21:45,502
+<font color='#FFFFFF'>RANCH: Mitchell connects...</font>
+
+1306
+01:21:45,506 --> 01:21:47,500
+<font color='#FFFFFF'>It's hit deep...</font>
+
+1307
+01:21:47,505 --> 01:21:49,509
+<font color='#FFFFFF'>Go, go, go, go, go!</font>
+
+1308
+01:21:49,509 --> 01:21:52,501
+<font color='#FFFFFF'>- And It's gone!</font>
+<font color='#FFFFFF'>- VERNE: Got it!</font>
+
+1309
+01:21:52,504 --> 01:21:54,508
+<font color='#FFFFFF'>- AUBREY: Oh, my god!! I got it!</font>
+<font color='#FFFFFF'>- RANCH: Ray Mitchell has just hit...</font>
+
+1310
+01:21:54,508 --> 01:21:59,501
+<font color='#FFFFFF'>a monster home run with the man on</font>
+<font color='#FFFFFF'>to tie the game here in the sixth.</font>
+
+1311
+01:21:59,502 --> 01:22:04,505
+<font color='#FFFFFF'>VERNE: Oh, my gosh! Holy cow.</font>
+<font color='#FFFFFF'>Are you kidding me?</font>
+
+1312
+01:22:05,500 --> 01:22:08,500
+<font color='#FFFFFF'>(ALL CHEERING)</font>
+
+1313
+01:22:17,501 --> 01:22:19,501
+<font color='#FFFFFF'>RANCH: Clark has it's back to</font>
+<font color='#FFFFFF'>the wall here in the seventh...</font>
+
+1314
+01:22:19,501 --> 01:22:21,508
+<font color='#FFFFFF'>As the Sox was threading again</font>
+<font color='#FFFFFF'>with two man on base.</font>
+
+1315
+01:22:22,500 --> 01:22:24,500
+<font color='#FFFFFF'>Okay. Holding on, holding on.</font>
+
+1316
+01:22:24,501 --> 01:22:27,503
+<font color='#FFFFFF'>Holding on. Huh!</font>
+<font color='#FFFFFF'>Hang it in there.</font>
+
+1317
+01:22:27,503 --> 01:22:31,501
+<font color='#FFFFFF'>Clark definitely could use an angel now,</font>
+<font color='#FFFFFF'>as he's tiring...</font>
+
+1318
+01:22:31,501 --> 01:22:32,504
+<font color='#FFFFFF'>late in the game.</font>
+
+1319
+01:22:36,503 --> 01:22:38,503
+<font color='#FFFFFF'>BRENT: Intercepted!</font>
+
+1320
+01:22:39,501 --> 01:22:41,502
+<font color='#FFFFFF'>Yeah! Yeah!</font>
+
+1321
+01:22:41,505 --> 01:22:43,506
+<font color='#FFFFFF'>WALLY: There seems to be some sort</font>
+<font color='#FFFFFF'>of magic in the way his team</font>
+
+1322
+01:22:43,507 --> 01:22:44,509
+<font color='#FFFFFF'>is supporting him, Ranch.</font>
+
+1323
+01:22:49,501 --> 01:22:52,507
+<font color='#FFFFFF'>- Hey, kid. How you doin'?</font>
+<font color='#FFFFFF'>- Fine. Al!</font>
+
+1324
+01:22:52,508 --> 01:22:56,502
+<font color='#FFFFFF'>Hey, kiddo, sharp outfit.</font>
+<font color='#FFFFFF'>I wish I had one.</font>
+
+1325
+01:22:56,502 --> 01:22:59,505
+<font color='#FFFFFF'>Thanks. Gee, I am </font>
+<font color='#FFFFFF'>glad to see you.</font>
+
+1326
+01:22:59,505 --> 01:23:02,501
+<font color='#FFFFFF'>You know, I was afraid you guys</font>
+<font color='#FFFFFF'>wouldn't show up today since...</font>
+
+1327
+01:23:02,502 --> 01:23:04,503
+<font color='#FFFFFF'>you know, a lot of people</font>
+<font color='#FFFFFF'>know about the angels now.</font>
+
+1328
+01:23:04,506 --> 01:23:09,508
+<font color='#FFFFFF'>No one's coming. Championships have</font>
+<font color='#FFFFFF'>to be won on their own. It's a rule.</font>
+
+1329
+01:23:10,509 --> 01:23:14,500
+<font color='#FFFFFF'>Oh. Well, then,</font>
+<font color='#FFFFFF'>what are you doing here?</font>
+
+1330
+01:23:14,503 --> 01:23:17,505
+<font color='#FFFFFF'>I came here to check on Mel.</font>
+<font color='#FFFFFF'>He's comin' up soon.</font>
+
+1331
+01:23:17,509 --> 01:23:21,501
+<font color='#FFFFFF'>- He's gonna be one of us.</font>
+<font color='#FFFFFF'>- Y-You mean he's--</font>
+
+1332
+01:23:21,504 --> 01:23:24,508
+<font color='#FFFFFF'>Ah, he smoked for  years.</font>
+<font color='#FFFFFF'>It's always a mistake.</font>
+
+1333
+01:23:25,503 --> 01:23:29,500
+<font color='#FFFFFF'>AL: He's got six months left.</font>
+<font color='#FFFFFF'>He doesn't know anything's wrong yet.</font>
+
+1334
+01:23:32,508 --> 01:23:35,501
+<font color='#FFFFFF'>- No.</font>
+<font color='#FFFFFF'>- Don't you worry.</font>
+
+1335
+01:23:35,502 --> 01:23:39,507
+<font color='#FFFFFF'>He's well taken care of.</font>
+<font color='#FFFFFF'>You concentrate on your own life now.</font>
+
+1336
+01:23:40,500 --> 01:23:43,509
+<font color='#FFFFFF'>We expect great things from you, kid.</font>
+<font color='#FFFFFF'>We'll all be watching.</font>
+
+1337
+01:23:44,500 --> 01:23:49,504
+<font color='#FFFFFF'>Remember that. Even though you can't</font>
+<font color='#FFFFFF'>see us, we're always watching.</font>
+
+1338
+01:23:51,507 --> 01:23:53,502
+<font color='#FFFFFF'>(SIGHS)</font>
+
+1339
+01:24:07,507 --> 01:24:09,508
+<font color='#FFFFFF'>RANCH: With the man on and</font>
+<font color='#FFFFFF'>one out in the eighth.</font>
+
+1340
+01:24:09,509 --> 01:24:12,505
+<font color='#FFFFFF'>Clark is showing definite</font>
+<font color='#FFFFFF'>science of photic.</font>
+
+1341
+01:24:12,505 --> 01:24:14,500
+<font color='#FFFFFF'>As he pitches to Marge.</font>
+
+1342
+01:24:17,500 --> 01:24:18,502
+<font color='#FFFFFF'>Ball three.</font>
+
+1343
+01:24:21,501 --> 01:24:22,507
+<font color='#FFFFFF'>Take your time, Clark.</font>
+
+1344
+01:24:23,504 --> 01:24:24,509
+<font color='#FFFFFF'>BOY: We're ready to go, guys!</font>
+
+1345
+01:24:32,500 --> 01:24:33,504
+<font color='#FFFFFF'>RANCH: Here's the pitch.</font>
+
+1346
+01:24:33,505 --> 01:24:36,506
+<font color='#FFFFFF'>And Marge grounds to Martinez</font>
+<font color='#FFFFFF'>they get Darren in second.</font>
+
+1347
+01:24:36,506 --> 01:24:39,506
+<font color='#FFFFFF'>- Garcia throws, Double play!</font>
+<font color='#FFFFFF'>- AUBREY: Yes!</font>
+
+1348
+01:24:39,506 --> 01:24:41,509
+<font color='#FFFFFF'>- Yeah!</font>
+<font color='#FFFFFF'>- And once again sulled defense...</font>
+
+1349
+01:24:41,509 --> 01:24:43,506
+<font color='#FFFFFF'>barrels Clark out of the jam!</font>
+
+1350
+01:24:51,500 --> 01:24:52,509
+<font color='#FFFFFF'>RANCH: It's still tied up here</font>
+<font color='#FFFFFF'>in the bottom of the eighth.</font>
+
+1351
+01:24:53,501 --> 01:24:56,505
+<font color='#FFFFFF'>but the Angels have Garcia at bat</font>
+<font color='#FFFFFF'>and Martinez on third...</font>
+
+1352
+01:24:56,506 --> 01:24:57,508
+<font color='#FFFFFF'>with the go ahead run.</font>
+
+1353
+01:24:59,500 --> 01:25:01,507
+<font color='#FFFFFF'>Martinez goes on the pitch!</font>
+<font color='#FFFFFF'>Garcia bunts!</font>
+
+1354
+01:25:02,500 --> 01:25:03,504
+<font color='#FFFFFF'>There's a screen's play.</font>
+
+1355
+01:25:04,501 --> 01:25:05,502
+<font color='#FFFFFF'>Here's the throw.</font>
+
+1356
+01:25:05,503 --> 01:25:07,500
+<font color='#FFFFFF'>- VERNE: Oh, wow!</font>
+<font color='#FFFFFF'>- Martinez scores!</font>
+
+1357
+01:25:07,501 --> 01:25:08,507
+<font color='#FFFFFF'>And the Angels take the lead!</font>
+
+1358
+01:25:10,509 --> 01:25:12,500
+<font color='#FFFFFF'>Yeah!</font>
+
+1359
+01:25:31,507 --> 01:25:32,505
+<font color='#FFFFFF'>Unh!</font>
+
+1360
+01:25:33,505 --> 01:25:37,503
+<font color='#FFFFFF'>RANCH: Messmer pops out to</font>
+<font color='#FFFFFF'>Gaboyan to end the inning.</font>
+
+1361
+01:25:38,509 --> 01:25:41,501
+<font color='#FFFFFF'>So as were in the ninth</font>
+<font color='#FFFFFF'>the Angels are only three outs</font>
+
+1362
+01:25:41,502 --> 01:25:42,500
+<font color='#FFFFFF'>away from the pennant...</font>
+
+1363
+01:25:42,500 --> 01:25:44,502
+<font color='#FFFFFF'>if they can just hold on</font>
+<font color='#FFFFFF'>to this 3 to 2 lead.</font>
+
+1364
+01:25:45,505 --> 01:25:46,503
+<font color='#FFFFFF'>Hey, Mel.</font>
+
+1365
+01:25:47,507 --> 01:25:49,506
+<font color='#FFFFFF'>- Let's finish this.</font>
+<font color='#FFFFFF'>- We got 'em.</font>
+
+1366
+01:25:50,500 --> 01:25:51,507
+<font color='#FFFFFF'>All right. All right,</font>
+<font color='#FFFFFF'>three outs, boys.</font>
+
+1367
+01:25:52,500 --> 01:25:52,508
+<font color='#FFFFFF'>Let's do it!</font>
+
+1368
+01:25:52,509 --> 01:25:54,502
+<font color='#FFFFFF'>RANCH: So the championship</font>
+<font color='#FFFFFF'>on the line...</font>
+
+1369
+01:25:54,502 --> 01:25:57,504
+<font color='#FFFFFF'>manager George Knox elects</font>
+<font color='#FFFFFF'>to send a tired Mel Clark...</font>
+
+1370
+01:25:57,504 --> 01:25:59,509
+<font color='#FFFFFF'>out to face the heart of</font>
+<font color='#FFFFFF'>the White Sox's lineup.</font>
+
+1371
+01:26:00,506 --> 01:26:02,502
+<font color='#FFFFFF'>(SCOFFS) He's all alone.</font>
+
+1372
+01:26:02,509 --> 01:26:05,505
+<font color='#FFFFFF'>Let's go.</font>
+<font color='#FFFFFF'>Come on, Angels.</font>
+
+1373
+01:26:07,504 --> 01:26:11,502
+<font color='#FFFFFF'>Don't worry. He'll get an angel.</font>
+<font color='#FFFFFF'>Mel always gets an angel.</font>
+
+1374
+01:26:17,507 --> 01:26:20,500
+<font color='#FFFFFF'>RANCH: Clark takes the sign</font>
+<font color='#FFFFFF'>for his first pitch to Gasper.</font>
+
+1375
+01:26:21,505 --> 01:26:23,502
+<font color='#FFFFFF'>Let's see if he has</font>
+<font color='#FFFFFF'>anything left.</font>
+
+1376
+01:26:25,503 --> 01:26:26,508
+<font color='#FFFFFF'>Gasper gets a piece of it.</font>
+
+1377
+01:26:29,502 --> 01:26:31,501
+<font color='#FFFFFF'>And it balls in</font>
+<font color='#FFFFFF'>for the single.</font>
+
+1378
+01:26:31,506 --> 01:26:33,509
+<font color='#FFFFFF'>The tying run is</font>
+<font color='#FFFFFF'>now on first.</font>
+
+1379
+01:26:54,509 --> 01:26:57,501
+<font color='#FFFFFF'>RANCH: They're getting Sanford</font>
+<font color='#FFFFFF'>up in the bullpen.</font>
+
+1380
+01:26:59,507 --> 01:27:01,506
+<font color='#FFFFFF'>(COUGHING)</font>
+
+1381
+01:27:07,508 --> 01:27:08,506
+<font color='#FFFFFF'>Bee, bunt!</font>
+
+1382
+01:27:09,502 --> 01:27:11,505
+<font color='#FFFFFF'>Clark feels it cleanly</font>
+<font color='#FFFFFF'>and gets the runner at first.</font>
+
+1383
+01:27:12,503 --> 01:27:15,504
+<font color='#FFFFFF'>But Gasper advances at second</font>
+<font color='#FFFFFF'>on the sarifice.</font>
+
+1384
+01:27:16,500 --> 01:27:16,505
+<font color='#FFFFFF'>One down.</font>
+
+1385
+01:27:16,507 --> 01:27:19,503
+<font color='#FFFFFF'>The White Sox now have</font>
+<font color='#FFFFFF'>the tying run and scoring...</font>
+
+1386
+01:27:19,504 --> 01:27:21,501
+<font color='#FFFFFF'>position with Darren at bat.</font>
+
+1387
+01:27:25,505 --> 01:27:27,506
+<font color='#FFFFFF'>It's in the hole.</font>
+<font color='#FFFFFF'>Garcia dives.</font>
+
+1388
+01:27:27,507 --> 01:27:28,508
+<font color='#FFFFFF'>- He gets it!</font>
+<font color='#FFFFFF'>- AUBREY: Yes!</font>
+
+1389
+01:27:29,503 --> 01:27:30,506
+<font color='#FFFFFF'>The grow is off-balance.</font>
+
+1390
+01:27:31,501 --> 01:27:32,503
+<font color='#FFFFFF'>- Safe!</font>
+<font color='#FFFFFF'>- Not in time!</font>
+
+1391
+01:27:33,500 --> 01:27:33,505
+<font color='#FFFFFF'>Are you sure?</font>
+
+1392
+01:27:34,505 --> 01:27:37,504
+<font color='#FFFFFF'>RANCH: But the go</font>
+<font color='#FFFFFF'>ahead run is now on first.</font>
+
+1393
+01:27:37,508 --> 01:27:39,505
+<font color='#FFFFFF'>With only one away.</font>
+
+1394
+01:27:50,506 --> 01:27:52,509
+<font color='#FFFFFF'>RANCH: Clark looks very tired.</font>
+
+1395
+01:27:54,509 --> 01:27:58,505
+<font color='#FFFFFF'>Gaboyan swings and smashes it</font>
+<font color='#FFFFFF'>deep left center!</font>
+
+1396
+01:27:58,506 --> 01:28:02,507
+<font color='#FFFFFF'>This is trouble! Williams</font>
+<font color='#FFFFFF'>got a good jump on the ball!</font>
+
+1397
+01:28:05,503 --> 01:28:07,503
+<font color='#FFFFFF'>Somebody better take charge!</font>
+
+1398
+01:28:09,500 --> 01:28:10,503
+<font color='#FFFFFF'>VERNE: Oh, wow!</font>
+
+1399
+01:28:10,504 --> 01:28:15,504
+<font color='#FFFFFF'>RANCH: And Ben Williams saves the game</font>
+<font color='#FFFFFF'>for now with a spectacular catch.</font>
+
+1400
+01:28:15,505 --> 01:28:18,505
+<font color='#FFFFFF'>WALLY: Had a great throw,</font>
+<font color='#FFFFFF'>to hold the runner at third.</font>
+
+1401
+01:28:34,509 --> 01:28:36,500
+<font color='#FFFFFF'>- Aah!</font>
+<font color='#FFFFFF'>- Oh!</font>
+
+1402
+01:28:36,501 --> 01:28:39,504
+<font color='#FFFFFF'>And he hits Birch</font>
+<font color='#FFFFFF'>in the back on the first pitch.</font>
+
+1403
+01:28:40,501 --> 01:28:42,500
+<font color='#FFFFFF'>That loads the bases.</font>
+
+1404
+01:28:42,509 --> 01:28:46,509
+<font color='#FFFFFF'>and Kesey, the lead guard</font>
+<font color='#FFFFFF'>beyond leader is up next.</font>
+
+1405
+01:28:49,502 --> 01:28:53,507
+<i><font color='#FFFFFF'>ANNOUNCER: Number 32,</font></i>
+<i><font color='#FFFFFF'>Kit "Hit or Die" Kesey.</font></i>
+
+1406
+01:28:59,501 --> 01:29:00,501
+<font color='#FFFFFF'>(SPITS)</font>
+
+1407
+01:29:01,501 --> 01:29:02,505
+<font color='#FFFFFF'>(SPITS)</font>
+
+1408
+01:29:02,507 --> 01:29:05,509
+<font color='#FFFFFF'>RANCH: I can't believe</font>
+<font color='#FFFFFF'>he's leaving Clark in the game.</font>
+
+1409
+01:29:05,509 --> 01:29:07,504
+<font color='#FFFFFF'>Any hit scores a run.</font>
+
+1410
+01:29:08,500 --> 01:29:11,502
+<font color='#FFFFFF'>- There's an angel there now, right?</font>
+<font color='#FFFFFF'>- No.</font>
+
+1411
+01:29:17,506 --> 01:29:19,504
+<font color='#FFFFFF'>And the runners take their leads.</font>
+
+1412
+01:29:24,507 --> 01:29:27,509
+<font color='#FFFFFF'>And Kesey got a good piece</font>
+<font color='#FFFFFF'>of that one, but it's foul.</font>
+
+1413
+01:29:28,502 --> 01:29:29,506
+<font color='#FFFFFF'>We've got one strike.</font>
+
+1414
+01:29:36,505 --> 01:29:38,505
+<font color='#FFFFFF'>Sanford is ready</font>
+<font color='#FFFFFF'>in the bullpen.</font>
+
+1415
+01:29:54,509 --> 01:29:55,508
+<font color='#FFFFFF'>Ball one!</font>
+
+1416
+01:29:57,500 --> 01:30:00,506
+<font color='#FFFFFF'>WALLY: His arm has to be tired.</font>
+<font color='#FFFFFF'>He's thrown 156 pitches.</font>
+
+1417
+01:30:14,500 --> 01:30:17,503
+<font color='#FFFFFF'>- Ball two!</font>
+<font color='#FFFFFF'>- There's one comin', right, Roger?</font>
+
+1418
+01:30:17,504 --> 01:30:21,507
+<font color='#FFFFFF'>I don't know, JP.</font>
+<font color='#FFFFFF'>I-- I don't think so.</font>
+
+1419
+01:30:26,505 --> 01:30:30,509
+<font color='#FFFFFF'>And Clark just misses nicking Kesey,</font>
+<font color='#FFFFFF'>and the count goes to 3 and 1.</font>
+
+1420
+01:30:31,508 --> 01:30:33,503
+<font color='#FFFFFF'>He's way behind</font>
+<font color='#FFFFFF'>the batter now.</font>
+
+1421
+01:30:33,504 --> 01:30:34,505
+<font color='#FFFFFF'>(GEORGE SIGHS)</font>
+
+1422
+01:30:34,509 --> 01:30:35,509
+<font color='#FFFFFF'>Any angels?</font>
+
+1423
+01:30:37,506 --> 01:30:38,506
+<font color='#FFFFFF'>No.</font>
+
+1424
+01:30:47,507 --> 01:30:50,507
+<font color='#FFFFFF'>RANCH: And Kesey jumps on it!</font>
+<font color='#FFFFFF'>This could be the game!</font>
+
+1425
+01:30:50,508 --> 01:30:52,501
+<font color='#FFFFFF'>AUBREY: No!</font>
+
+1426
+01:30:52,502 --> 01:30:56,506
+<font color='#FFFFFF'>It's deep! It's down the line!</font>
+<font color='#FFFFFF'>If it stays fair, it's outta here!</font>
+
+1427
+01:30:57,505 --> 01:30:59,504
+<font color='#FFFFFF'>- Foul! Foul! Foul!</font>
+<font color='#FFFFFF'>- It's gonna be close.</font>
+
+1428
+01:31:00,507 --> 01:31:02,504
+<font color='#FFFFFF'>- RANCH: But it's foul.</font>
+<font color='#FFFFFF'>- AUBREY: Yeah, my god!</font>
+
+1429
+01:31:02,504 --> 01:31:05,507
+<font color='#FFFFFF'>So it comes down to a full count.</font>
+<font color='#FFFFFF'>Two outs, the top of the ninth.</font>
+
+1430
+01:31:05,508 --> 01:31:08,507
+<font color='#FFFFFF'>The Angels lead by one run,</font>
+<font color='#FFFFFF'>and for Mel Clark...</font>
+
+1431
+01:31:08,508 --> 01:31:10,509
+<font color='#FFFFFF'>this is</font>
+<font color='#FFFFFF'>the pressure cooker!</font>
+
+1432
+01:31:11,508 --> 01:31:13,502
+<font color='#FFFFFF'>I gotta take him out.</font>
+
+1433
+01:31:14,502 --> 01:31:17,501
+<font color='#FFFFFF'>(SIGHS) No. Please,</font>
+<font color='#FFFFFF'>just let him try.</font>
+
+1434
+01:31:17,505 --> 01:31:20,503
+<font color='#FFFFFF'>He's all used up.</font>
+<font color='#FFFFFF'>He can't do it by himself.</font>
+
+1435
+01:31:20,504 --> 01:31:21,505
+<font color='#FFFFFF'>Yes, he can.</font>
+
+1436
+01:31:23,501 --> 01:31:24,507
+<font color='#FFFFFF'>All he has to do</font>
+<font color='#FFFFFF'>is believe.</font>
+
+1437
+01:31:42,503 --> 01:31:45,503
+<font color='#FFFFFF'>(GEORGE WHISPERING)</font>
+
+1438
+01:31:56,502 --> 01:31:58,509
+<font color='#FFFFFF'>RANCH: And Knox </font>
+<font color='#FFFFFF'>will pull Mel Clark.</font>
+
+1439
+01:31:59,505 --> 01:32:04,501
+<font color='#FFFFFF'>All I can say is,</font>
+<font color='#FFFFFF'>it's about time.</font>
+
+1440
+01:32:16,503 --> 01:32:17,509
+<font color='#FFFFFF'>I got nothing left.</font>
+
+1441
+01:32:18,503 --> 01:32:21,503
+<font color='#FFFFFF'>Yeah, you do.</font>
+<font color='#FFFFFF'>You got one strike left.</font>
+
+1442
+01:32:21,509 --> 01:32:23,501
+<font color='#FFFFFF'>(SIGHS)</font>
+
+1443
+01:32:32,502 --> 01:32:37,501
+<font color='#FFFFFF'>You got an angel with you right now.</font>
+<font color='#FFFFFF'>Just got here, and he's gonna help.</font>
+
+1444
+01:32:48,501 --> 01:32:51,501
+<font color='#FFFFFF'>(DRAMATIC MUSIC PLAYING)</font>
+
+1445
+01:32:56,500 --> 01:33:00,502
+<font color='#FFFFFF'>- Kid sees an angel?</font>
+<font color='#FFFFFF'>- Yeah, he must. That's the signal.</font>
+
+1446
+01:33:10,507 --> 01:33:13,507
+<font color='#FFFFFF'>(THEME PLAYING)</font>
+
+1447
+01:33:41,504 --> 01:33:42,506
+<font color='#FFFFFF'>Could happen.</font>
+
+1448
+01:34:14,500 --> 01:34:17,503
+<font color='#FFFFFF'>- Okay.</font>
+<font color='#FFFFFF'>- (LAUGHING)</font>
+
+1449
+01:34:17,504 --> 01:34:19,502
+<font color='#FFFFFF'>Go get him</font>
+<font color='#FFFFFF'>for the championship.</font>
+
+1450
+01:34:20,502 --> 01:34:21,502
+<font color='#FFFFFF'>All right!</font>
+
+1451
+01:34:22,502 --> 01:34:26,502
+<font color='#FFFFFF'>- All right! Come on, Mel!</font>
+<font color='#FFFFFF'>- I'm so happy!</font>
+
+1452
+01:34:26,502 --> 01:34:28,500
+<font color='#FFFFFF'>RANCH: Ladies and gentlemen,</font>
+<font color='#FFFFFF'>I don't believe it...</font>
+
+1453
+01:34:28,501 --> 01:34:31,503
+<font color='#FFFFFF'>Knox will let Clark stay in</font>
+<font color='#FFFFFF'>to pitch to Kesey.</font>
+
+1454
+01:34:31,505 --> 01:34:35,509
+<font color='#FFFFFF'>This is not smart baseball.</font>
+<font color='#FFFFFF'>This is ridiculous.</font>
+
+1455
+01:34:43,500 --> 01:34:44,504
+<font color='#FFFFFF'>Let's go, my brother.</font>
+<font color='#FFFFFF'>Come on.</font>
+
+1456
+01:35:28,506 --> 01:35:30,505
+<font color='#FFFFFF'>- (GRUNTS)</font>
+<font color='#FFFFFF'>- AUBREY: Yes!</font>
+
+1457
+01:35:34,503 --> 01:35:38,506
+<font color='#FFFFFF'>VERNE: Oh, my gosh!</font>
+<font color='#FFFFFF'>Oh, my gosh! Oh, no!</font>
+
+1458
+01:35:39,501 --> 01:35:41,500
+<font color='#FFFFFF'>GEORGE: Aaaaah!</font>
+
+1459
+01:35:41,500 --> 01:35:43,509
+<font color='#FFFFFF'>RANCH: He's got it, and it's over!</font>
+<font color='#FFFFFF'>He's got it!</font>
+
+1460
+01:35:44,500 --> 01:35:46,509
+<font color='#FFFFFF'>- I can't believe it!</font>
+<font color='#FFFFFF'>- WALLY: The Angels win the pennant!</font>
+
+1461
+01:35:46,509 --> 01:35:48,504
+<font color='#FFFFFF'>We won!</font>
+
+1462
+01:35:48,504 --> 01:35:50,504
+<font color='#FFFFFF'>All right, JP! We won, we won!</font>
+
+1463
+01:35:50,504 --> 01:35:52,504
+<font color='#FFFFFF'>- JP: Yea! Yeah!</font>
+<font color='#FFFFFF'>- AUBREY: Oh, my god!</font>
+
+1464
+01:35:52,505 --> 01:35:54,507
+<font color='#FFFFFF'>- ROGER: Aaaah! Hoo-hoo!</font>
+<font color='#FFFFFF'>- AUBREY: I got it!</font>
+
+1465
+01:35:54,509 --> 01:35:57,506
+<font color='#FFFFFF'>- There are angels!</font>
+<font color='#FFFFFF'>- Not this time, Mel.</font>
+
+1466
+01:35:57,506 --> 01:35:58,508
+<font color='#FFFFFF'>You did it yourself.</font>
+
+1467
+01:35:58,509 --> 01:36:00,505
+<font color='#FFFFFF'>Ha-ha! Aaaah!</font>
+
+1468
+01:36:00,508 --> 01:36:03,508
+<font color='#FFFFFF'>- We won! We won!</font>
+<font color='#FFFFFF'>- (CROWD CHEERING)</font>
+
+1469
+01:36:06,508 --> 01:36:08,503
+<font color='#FFFFFF'>GEORGE: Whoo!</font>
+
+1470
+01:36:09,509 --> 01:36:11,500
+<font color='#FFFFFF'>Aaaah!</font>
+
+1471
+01:36:11,500 --> 01:36:13,509
+<font color='#FFFFFF'>- (THUD)</font>
+<font color='#FFFFFF'>- (LAUGHING)</font>
+
+1472
+01:36:16,500 --> 01:36:18,502
+<font color='#FFFFFF'>Yeah! Yeah!</font>
+
+1473
+01:36:20,505 --> 01:36:24,507
+<font color='#FFFFFF'>- All right!</font>
+<font color='#FFFFFF'>- Yeah! Yeah!</font>
+
+1474
+01:36:24,507 --> 01:36:27,508
+<font color='#FFFFFF'>- Yes! (LAUGHING)</font>
+<font color='#FFFFFF'>- I can't believe it!</font>
+
+1475
+01:36:28,506 --> 01:36:29,507
+<font color='#FFFFFF'>Ranch.</font>
+
+1476
+01:36:30,505 --> 01:36:32,503
+<font color='#FFFFFF'>- (CHEERING)</font>
+<font color='#FFFFFF'>- You're fired.</font>
+
+1477
+01:36:32,504 --> 01:36:36,500
+<font color='#FFFFFF'>You can't fire me!</font>
+<font color='#FFFFFF'>I got a contract!</font>
+
+1478
+01:36:36,501 --> 01:36:38,505
+<font color='#FFFFFF'>I'm Ranch Wilder!</font>
+
+1479
+01:36:38,505 --> 01:36:41,504
+<font color='#FFFFFF'>Easy, Ranch. Less is more.</font>
+
+1480
+01:36:42,507 --> 01:36:44,509
+<font color='#FFFFFF'>And the Angels have won it!</font>
+
+1481
+01:36:45,501 --> 01:36:48,501
+<font color='#FFFFFF'>(CHEERING RESUMES)</font>
+
+1482
+01:36:55,500 --> 01:36:57,508
+<font color='#FFFFFF'>- ROGER: Maggie! Maggie! We won!</font>
+<font color='#FFFFFF'>- JP: Maggie!</font>
+
+1483
+01:37:00,500 --> 01:37:05,502
+<font color='#FFFFFF'>- BOTH: We won! We won!</font>
+<font color='#FFFFFF'>- I know. I heard. Oh, congratulations.</font>
+
+1484
+01:37:05,503 --> 01:37:08,503
+<font color='#FFFFFF'>- The Angels won the pennant.</font>
+<font color='#FFFFFF'>- It's great.</font>
+
+1485
+01:37:08,505 --> 01:37:10,505
+<font color='#FFFFFF'>Well done. (KISSES)</font>
+
+1486
+01:37:10,509 --> 01:37:13,505
+<font color='#FFFFFF'>Oh, Roger,</font>
+<font color='#FFFFFF'>your social worker called.</font>
+
+1487
+01:37:13,506 --> 01:37:14,506
+<font color='#FFFFFF'>She did?</font>
+
+1488
+01:37:16,506 --> 01:37:18,507
+<font color='#FFFFFF'>- What'd they want?</font>
+<font color='#FFFFFF'>- Was it about my father?</font>
+
+1489
+01:37:18,508 --> 01:37:21,508
+<font color='#FFFFFF'>MAGGIE: No. But it is about</font>
+<font color='#FFFFFF'>finding you a permanent home.</font>
+
+1490
+01:37:22,502 --> 01:37:23,508
+<font color='#FFFFFF'>(CRIES)</font>
+
+1491
+01:37:24,502 --> 01:37:28,505
+<font color='#FFFFFF'>Oh, JP. Come back.</font>
+<font color='#FFFFFF'>JP! Come back.</font>
+
+1492
+01:37:28,505 --> 01:37:29,506
+<font color='#FFFFFF'>(SLAMS DOOR)</font>
+
+1493
+01:37:34,502 --> 01:37:38,507
+<font color='#FFFFFF'>You know, nothin' is probably</font>
+<font color='#FFFFFF'>ever as good as your real parents.</font>
+
+1494
+01:37:40,502 --> 01:37:44,506
+<font color='#FFFFFF'>But there's some people</font>
+<font color='#FFFFFF'>who could care foryou...</font>
+
+1495
+01:37:44,506 --> 01:37:46,508
+<font color='#FFFFFF'>and love you and </font>
+<font color='#FFFFFF'>take care of you.</font>
+
+1496
+01:37:46,509 --> 01:37:47,509
+<font color='#FFFFFF'>Yeah.</font>
+
+1497
+01:37:48,509 --> 01:37:49,509
+<font color='#FFFFFF'>I guess so.</font>
+
+1498
+01:37:52,508 --> 01:37:53,509
+<font color='#FFFFFF'>Yeah.</font>
+
+1499
+01:37:56,505 --> 01:38:00,502
+<font color='#FFFFFF'>Roger, the person who</font>
+<font color='#FFFFFF'>called Social Service--</font>
+
+1500
+01:38:00,507 --> 01:38:01,509
+<font color='#FFFFFF'>that was me.</font>
+
+1501
+01:38:03,504 --> 01:38:05,500
+<font color='#FFFFFF'>I wanna try to be a dad.</font>
+
+1502
+01:38:05,507 --> 01:38:07,507
+<font color='#FFFFFF'>I want you to come</font>
+<font color='#FFFFFF'>and live at my house.</font>
+
+1503
+01:38:08,507 --> 01:38:11,500
+<font color='#FFFFFF'>You want-- You want--</font>
+
+1504
+01:38:12,502 --> 01:38:13,502
+<font color='#FFFFFF'>Ahh.</font>
+
+1505
+01:38:14,503 --> 01:38:15,507
+<font color='#FFFFFF'>- (CRIES)</font>
+<font color='#FFFFFF'>- Okay, honey?</font>
+
+1506
+01:38:19,501 --> 01:38:21,509
+<font color='#FFFFFF'>No way. I-I can't. I--</font>
+
+1507
+01:38:23,506 --> 01:38:25,509
+<font color='#FFFFFF'>You know, I-I can't leave JP.</font>
+
+1508
+01:38:27,502 --> 01:38:30,508
+<font color='#FFFFFF'>I-I could never leave JP.</font>
+<font color='#FFFFFF'>He's comin' too.</font>
+
+1509
+01:38:30,508 --> 01:38:32,509
+<font color='#FFFFFF'>- He is?</font>
+<font color='#FFFFFF'>- I heard that.</font>
+
+1510
+01:38:33,500 --> 01:38:35,506
+<font color='#FFFFFF'>- (GEORGE LAUGHING)</font>
+<font color='#FFFFFF'>- (CROWD CHEERING)</font>
+
+1511
+01:38:35,506 --> 01:38:37,502
+<font color='#FFFFFF'>- JP: Yeah!</font>
+<font color='#FFFFFF'>- GEORGE: Aww!</font>
+
+1512
+01:38:42,503 --> 01:38:46,506
+<font color='#FFFFFF'>- Wait. What about Maggie?</font>
+<font color='#FFFFFF'>- No. My work is here.</font>
+
+1513
+01:38:47,501 --> 01:38:51,500
+<font color='#FFFFFF'>Don't worry. There are plenty</font>
+<font color='#FFFFFF'>of little angels looking for a home.</font>
+
+1514
+01:38:51,502 --> 01:38:54,505
+<font color='#FFFFFF'>So-- So--</font>
+<font color='#FFFFFF'>So we're gonna be a family.</font>
+
+1515
+01:38:54,505 --> 01:38:55,505
+<font color='#FFFFFF'>Yeah.</font>
+
+1516
+01:38:57,500 --> 01:38:58,505
+<font color='#FFFFFF'>JP: I'm gonna have a daddy.</font>
+
+1517
+01:39:00,503 --> 01:39:01,508
+<font color='#FFFFFF'>- (AL SPARKLES)</font>
+<font color='#FFFFFF'>- (GASPS)</font>
+
+1518
+01:39:04,508 --> 01:39:06,508
+<font color='#FFFFFF'>I knew it could happen.</font>
+
+1519
+01:39:07,504 --> 01:39:10,506
+<font color='#FFFFFF'>- (ALL LAUGHING)</font>
+<font color='#FFFFFF'>- (THEME PLAYING)</font>
+
+1520
+01:39:19,507 --> 01:39:21,508
+<font color='#FFFFFF'>We're always watching.</font>
+
+1521
+01:39:27,506 --> 01:39:30,506
+<font color='#FFFFFF'>(PLAYING "TAKE ME</font>
+<font color='#FFFFFF'>OUT TO THE BALLGAME")</font>
+
+1522
+01:39:34,506 --> 01:39:37,503
+<font color='#FFFFFF'>(CROWD CHEERING)</font>
