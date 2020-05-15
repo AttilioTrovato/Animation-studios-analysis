@@ -560,7 +560,7 @@ And that painter who found the stuffed cat
 wants to do a drawing with me in it.
 Naked?
 Don't be silly!
-{\an8}KIKI'S DELIVERY SERVICE
+KIKI'S DELIVERY SERVICE
 Boring.
 Hey! Aren't you supposed to be
 minding the shop?

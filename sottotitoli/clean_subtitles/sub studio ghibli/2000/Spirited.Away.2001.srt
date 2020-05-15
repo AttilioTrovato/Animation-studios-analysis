@@ -401,8 +401,8 @@ Yes.
 You're Chihiro, huh?
 Yes.
 What an extravagant name.
-{\an8}CHIHIRO
-{\an8}SEN
+CHIHIRO
+SEN
 From now on, you'll be Sen.
 You got that? You're Sen.
 Answer me, Sen.

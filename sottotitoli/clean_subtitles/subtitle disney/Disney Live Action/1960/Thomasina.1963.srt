@@ -2672,4 +2672,4 @@ goodbye!
 And, to coin a phrase, 
 We all lived
 happily ever after. 
-{{{the end}}}
+}}

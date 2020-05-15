@@ -6,6 +6,7 @@ import shutil
 text_pattern = re.compile('[a-zA-Z]') # caratteri dalla a alla z, maiuscoli e minuscoli
 text2_pattern = re.compile('\(.*?\)') # (qualsiasi_carattere_tra_queste_parentesi)
 text3_pattern = re.compile('\[.*?\]') # [qualsiasi_carattere_tra_queste_parentesi]
+text9_pattern = re.compile('\{.*?\}') # {qualsiasi_carattere_tra_queste_parentesi}
 text4_pattern = re.compile('[\<]+.*?[\>]+') # <qualsiasi_carattere_tra_queste_parentesi>
 text5_pattern = re.compile('[\[\(].*|.*[\]\)]') # [or(qualsiasi_carattere or qualiasi_carattere)or]
 text6_pattern = re.compile(' +') # più istanze di ' '
@@ -31,6 +32,7 @@ for r, d, files in os.walk(source): # lo script si aspetta nella stessa director
                     #rimuovi stringhe tra parentesi [(<
                     line = text2_pattern.sub(' ', line)
                     line = text3_pattern.sub(' ', line)
+                    line = text9_pattern.sub(' ', line)
                     line = text4_pattern.sub(' ', line)
                     line = text5_pattern.sub(' ', line) # parentesi aperte e chiuse su due linee diverse
 
