@@ -36,8 +36,8 @@ TASK:
         [FATTO]
         
     -reperire trame
-        [X Valeria e Elena]
-        [WIP]
+        [X Valeria]
+        [FATTO
         
     -cleaning e storage (elasticsearch) dei sottotitoli. (X: Elena e Angelo)
         [WIP]
@@ -53,7 +53,7 @@ NEW TASKS
 >>Basso livello
 
     (complessità)
-    -calcolare il numero di parole per film + il numero di parole medie per decade + la lunghezza dei sottotitoli
+    -calcolare il numero di parole per film + il numero di parole medie per decade + la lunghezza dei sottotitoli (lunghezza frasi)
     
     (wordcloud)
     -calcolo dell'TF-IDF
@@ -73,10 +73,10 @@ NEW TASKS
 >>TOPIC
 
     (tagme)
-    -Identificazione delle parole chiave nel film (che esprimano il core del film:
+    -Identificazione delle parole chiave nel film (che esprimano il core del film)
     
     (tagme)
-    -Creazione di dizionari specifici per categoria: tagme sulle trame e sui testi per intero, tool dandelion, a mano(?)
+    -Creazione di dizionari specifici per categoria: tagme sulle trame e sui testi per intero, tool dandelion, dizionari di Google*, WordnetDomani (http://wndomains.fbk.eu/)*, latent Dirichlet allocation (LDA)*, 
     
     (tagme)
     -Focalizzarsi su TOPIC specifici: famiglia, la visione della donna ?
