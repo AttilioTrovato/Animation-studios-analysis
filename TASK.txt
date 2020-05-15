@@ -72,6 +72,8 @@ NEW TASKS
 
 >>TOPIC
 
+--Verificare se può essere utile questo per il POS tagging: https://textblob.readthedocs.io/en/dev/-- V.
+
     (tagme)
     -Identificazione delle parole chiave nel film (che esprimano il core del film)
     
