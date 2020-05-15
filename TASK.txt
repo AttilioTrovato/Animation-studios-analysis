@@ -37,13 +37,10 @@ TASK:
         
     -reperire trame
         [X Valeria]
-        [FATTO
+        [FATTO]
         
     -cleaning e storage (elasticsearch) dei sottotitoli. (X: Elena e Angelo)
-        [WIP]
-        (implementato cleaning automatizzato per .srt, resta da rimuovere le linee di spam manualmente,
-         estendere il cleaner per i file non .srt una volta che abbiamo tutti i subtitle,
-         elasticsearch non utile (per adesso)) 
+        [FATTO]
          
     - estrarre informazioni viste in IR (X: Angelo)
         [WIP]
