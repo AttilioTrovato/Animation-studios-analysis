@@ -1,0 +1,930 @@
+{1276}{1349}This is James Henry Trotter.
+{1434}{1549}He lived with his mother and father in|a cozy little house by the sea.
+{1551}{1617}Hey, I've got ya!
+{1618}{1712}Happy birthday, darling. Now, quickly,|blow them out before the wind does.
+{1714}{1760}Make a wish first.
+{1894}{1958}It was a wonderful life.
+{1960}{2039}They had each other,|and they had their dreams.
+{2041}{2087}Look!
+{2089}{2179}That cloud|looks like a camel.
+{2181}{2264}And that one over there|looks like a train engine.
+{2302}{2383}Can you see the tallest building|in the world?
+{2486}{2532}I can't find it.
+{2562}{2637}Try looking at it|another way.
+{2702}{2754}I see it!
+{2798}{2865}That's where we're going...
+{2866}{2940}on the great ship that will take us|across the ocean,
+{2942}{3017}and we'll go right to the top|of that building.
+{3019}{3086}The three of us...|on top of the world.
+{3088}{3144}Are there any kids|there like me?
+{3184}{3288}Hundreds of them.|It's a wonderful place,James.
+{3290}{3372}A city where|dreams come true.
+{3374}{3477}Then one day,|a terrible thing happened.
+{3530}{3598}An angry rhinoceros|appeared out of nowhere...
+{3600}{3666}and gobbled up|his poor mother and father.
+{3697}{3757}Their troubles...|if they had any at all...
+{3759}{3818}were over in 35 seconds flat.
+{3898}{3973}But James's troubles|were just beginning,
+{3974}{4070}for now he lives here|with Aunt Sponge...
+{4072}{4130}Get up,|you lazy little bug!
+{4132}{4237} and Aunt Spiker.| You've already wasted 4 minutes of daylight.
+{4238}{4327}Look at him,|lollygagging in dreamland,
+{4329}{4382}when there's|so much work to do.
+{4384}{4450}Weeds to pull, wood to chop.
+{4452}{4520}Work, work, work, work, work!
+{5610}{5681}Wouldn't want one of those|nesting in your knickers.
+{5730}{5807}I look and smell...
+{5809}{5890}I do declare...|as lovely as a rose.
+{5892}{5970}Just feast your eyes|upon my face.
+{5972}{6050}Observe my shapely nose.
+{6052}{6163}Behold my heavenly,|silky locks.
+{6165}{6266}And If I take off|both my socks,
+{6268}{6353}you'll see my dainty toes.
+{6354}{6413}But don't forget,|my dearest Sponge,
+{6414}{6478}how much|your tummy shows!
+{6841}{6946}You lazybug!|Who told you to stop working?
+{6948}{7007}I finished the wood.
+{7053}{7130}A travel book?|How dare you even dream of leaving?
+{7132}{7196}This is the only home|you'll ever have.
+{7198}{7295}No one else would tolerate|a worthless little nothing like you.
+{7297}{7378}Where did you get this?|Where?
+{7379}{7438}Father gave it to me.|He said we're to go there one day.
+{7440}{7486}Stupid,|foolish man!
+{7488}{7572}Foolish man, always dreaming.|That's what got him killed.
+{7574}{7643} And your mother.| Had his head in the clouds...
+{7645}{7691}instead of looking|where he was going.
+{7693}{7760}He never even saw that rhino coming.
+{7762}{7816}That rhino!
+{7818}{7920}And the beast will get you too|if you don't behave.
+{7922}{8010}Now get these stupid dreams|out of your head...
+{8012}{8067}and get back to work!
+{8294}{8387}Careful, Spongy. Wouldn't want|to ruin that girlish figure.
+{8389}{8435}Oh, shut up!
+{8501}{8571} Yes?| I finished all of the chores.
+{8573}{8658}What a coincidence!|We finished all the dinner.
+{8660}{8730}Oh, Sponge,|you're such a tease.
+{8732}{8811}There's something special|waiting for you in the oven.
+{9000}{9140}Oh, do let me guess:|They're not good enough for him.
+{9142}{9199}What do you think this is,|Buckingham Palace?
+{9201}{9270}Yuck!
+{9272}{9350} Get out of our sight!| Go on!
+{9386}{9433}Go on!
+{10350}{10442}Hello, there.|Where did you come from?
+{10444}{10524}You know, you probably shouldn't build|your web up here in the window.
+{10526}{10618}Spiker and Sponge might see you,|and they hate spiders.
+{10645}{10727}I'll be your friend, though.
+{10729}{10841}/My name is James
+{10842}{10951}/That's what Mother called me
+{10953}{11061}/My name is James
+{11063}{11139}/So it's always been
+{11182}{11277}/Sometimes I forget
+{11279}{11393}/When I'm lonely or afraid
+{11394}{11513}/And I'll go inside my head
+{11514}{11644}/And look for James
+{11646}{11711}Here's something|I've never shown anyone.
+{11841}{11951}/There's a city|/that I dreamed of
+{11953}{12050}/Very far from here
+{12052}{12174}/Very, very far|/away from here
+{12176}{12292}/Very far away
+{12294}{12421}/There are people|/in the city
+{12422}{12527}/And they're kind to me
+{12529}{12658}/But it's very, very far away|/you know
+{12660}{12721}/Very far
+{12762}{12809}/They'll say, James
+{12810}{12876}/James, James
+{12878}{12941}/How are'ya
+{12943}{13024}/Isn't a lovely day
+{13060}{13135}/James, James, James
+{13137}{13247}/We're so glad|/you came here
+{13249}{13301}/Where we are
+{13302}{13441}/From so very, very|/very far
+{13442}{13574}/My name is James
+{13576}{13634}/James
+{13635}{13682}/James
+{14037}{14096}Good night.|Pleasant dreams.
+{14239}{14319}Spider! Vermin!
+{14321}{14387}Oh, beast!
+{14389}{14438}No, wait!
+{14440}{14513} Sponge!| Wait, I'll get it! I'll get it.
+{14514}{14615}Kill it! Kill it!|Kill it!
+{14617}{14690}Where is it?
+{14860}{14935} Get it! Get it!| Kill it.
+{14937}{14979} Get it, get it!| Kill it!
+{14981}{15027}Get it!
+{15073}{15172}You hit me in the face.|You hit me in the face!
+{15174}{15232}Oh, do shut up!
+{15373}{15490}Go on, get out of here. Get as far away|from this place as you possibly can.
+{15492}{15560}Oh, I wish I could.
+{15562}{15621}What's stopping you?
+{15622}{15685}Oh, don't be frightened, James.|I mean you no harm.
+{15734}{15813}How'd you know my name?
+{15814}{15883}I know more|than just your name.
+{15914}{15992}What would you say|if I were to tell you...
+{15994}{16097}that the answer to all|your troubles is right here...
+{16098}{16166} inside this little bag?| Hey, that's my...
+{16168}{16233}Of course it is!|Go on, James.
+{16234}{16302}Have a look.
+{16304}{16435}There's more magic in them things than in all|the rest of the world put together.
+{16437}{16492}But... what are they?
+{16494}{16564} Crocodile tongues.| Tongues?
+{16566}{16652}One thousand long,|slimy crocodile tongues,
+{16654}{16746}boiled in the skull of a dead witch|for 20 days and 20 nights.
+{16748}{16831}Add the fingers of a young monkey,|the gizzard of a pig,
+{16833}{16903}the beak of a parrot|and three spoonfuls of sugar.
+{16905}{16978}Stew for a week,|and then let the moon...
+{16980}{17037}do the rest.
+{17038}{17097}Have 'em,
+{17098}{17220}and marvelous things will happen;|things even you never dreamt of.
+{17222}{17280} Like what?| Well, like...
+{17282}{17377}you'll never be|miserable again.
+{17379}{17474}And you are miserable,|aren't you, James?
+{17476}{17540}You weren't meant to be,|you know?
+{17542}{17604}And that place|you're dreaming of...
+{17606}{17670}It's not as far away|as you think.
+{17778}{17839}New York City!
+{17841}{17938}And it'll be that much closer|once you take the first step.
+{17940}{18023}But how?|This doesn't make any sense.
+{18025}{18134}Not up here it doesn't.|The answers are in here,
+{18136}{18216}and the magic is in here.
+{18249}{18318}So, James,|what'll it be?
+{18502}{18611}Now listen to me, James. Don't let|them get away, because if they do...
+{18613}{18736}they'll work their magic on whoever|or whatever they meet first.
+{18738}{18784}Understand?
+{18810}{18856}Good.
+{19146}{19209}What's going on out here?
+{19418}{19492}Uuh! Oh! No, wait!
+{19578}{19636}Wait! No! No, wait!
+{19753}{19818}Wait, just a...
+{19820}{19878} Wait.| Here he is.
+{19880}{19972}Get up, you little worm!|We sent you out here to kill a spider!
+{19974}{20049} Not to laze about.| I wasn't lazing about. I tripped.
+{20050}{20145} How dare you disagree with us!| Beat him, Sponge.
+{20197}{20255}It's too early.
+{20257}{20345}Well, that makes you|the luckiest boy alive.
+{20347}{20400}Now come inside|and get dressed!
+{20462}{20516}Spiker, look! A peach!
+{20518}{20611} A what?| A peach! There, on that branch.
+{20613}{20728}Why, that old tree's never had so much|as a blossom on it, let alone a...
+{20730}{20831}Well, I'll be blowed.|There really is a peach there.
+{20833}{20892}A nice, big one too.
+{20894}{20953}How can we get it?
+{20986}{21066} The boy! Now, you be a good little boy...| The boy!
+{21068}{21167}and climb up there and get that peach|for your dear aunties.
+{21169}{21244} Can we eat it?| Of course we can. We'll share it.
+{21246}{21319}Me and your Aunt Spiker!|Now start climbing.
+{21321}{21372} Wait!| What?
+{21374}{21441} What, what?| It's... It's growing.
+{21442}{21521} The boy?| No, the peach, you idiot!
+{21522}{21568}Look.
+{21606}{21654}Oh! Come down!
+{21656}{21730} But I won't get hurt.| Climb down!
+{21732}{21835}What a peach.|What a peach!
+{21837}{21918}Look, Spiker,|it's still growing!
+{21920}{21989}I'm not blind, you dolt.|I can see for myself.
+{22038}{22114}Look at it go!|It's a miracle.
+{22116}{22167}It's coming down!|Stand back!
+{22228}{22281}Oh, my heavens! My...
+{22690}{22782}Marvelous things will happen,|just like he said.
+{22784}{22831}Shut up,|you little grub.
+{22833}{22912}This has nothing to do with you,|so just keep away from it.
+{22914}{23017}Can you smell that, Spikey?
+{23018}{23101} It smells delicious.| No!
+{23146}{23217}It smells like... money.
+{23328}{23401}Roll up, roll up. See the giant peach.
+{23402}{23451}The Eighth Wonder of World.
+{23453}{23532}Have your money ready, ladies|and gentlemen. Chance of a lifetime.
+{23534}{23606}Ten bob only!
+{23608}{23676}No peeking at the peach! Have your|money ready, ladies and gentlemen.
+{23678}{23741}In you go.
+{23742}{23839} Can we touch it?| Touch it? You want to touch it?
+{23841}{23891}Huh! She'll be wanting|to taste it next.
+{23893}{23991}Admission refused. This child|has too many cheeky ideas. Go away!
+{23993}{24083} Quite right!| Ooh, Sponge.
+{24085}{24141}A photographer.
+{24175}{24222}And another.
+{24223}{24273}Best side.
+{24274}{24354} Move on in.| No cameras allowed.
+{24356}{24446}Don't dawdle! Come along, ladies and|gentlemen. Sorry, Father, it'll cost you double.
+{24448}{24511} May God forgive you.| Thank you, Father.
+{24513}{24619}Come along, children.|Last chance of the day.
+{24670}{24746}Yoohoo! Come down here.
+{24770}{24816}Yes, Auntie Sponge?
+{24818}{24895}Ooooh,|you're all spiffed up.
+{24897}{24944}I was hoping to play|with the children.
+{24946}{25048} Aww!| Aww! The children have gone.
+{25050}{25121}But you can play|with their garbage.
+{25123}{25215}Heh, heh, heh!|Garbage! Heh, heh, heh!
+{25217}{25348}And don't even think|of going near our peach.
+{25350}{25453}'Cause if you do... You know,|they never did catch that rhino.
+{26241}{26318}No! Wait a moment!|Wait!
+{28222}{28283}'Ere, now.|Where do you think you're goin', Yank?
+{28285}{28350}I'm goin' stircrazy.|I gotta take a look around.
+{28352}{28418} Plan our escape from Spiker and Sponge.| Escape?
+{28420}{28506}To where? We'll all be squashed...|swatted... smooshed!
+{28508}{28588}No one's going to "smoosh" you,|my dear boy.
+{28590}{28656} You're six feet long now.| Bigger target.
+{28658}{28741}Let the biddies come.|I'll take 'em both on.
+{28743}{28815}I'm "indefeatable".|I'm indivisible. I'm...
+{28817}{28869} Whoa!| in trouble!
+{28870}{28950}It's Spiker and Sponge!
+{28952}{28998}They've found us!
+{29000}{29060} Hello!| Oof! Uuh!
+{29062}{29121}No, no, no. It's the lad|from the house. What's his name?
+{29122}{29197} Miserable Tick.| I thought it was Rotten Little Grub.
+{29199}{29258}No, that's what those|horrible aunts call him.
+{29260}{29333}His real name is...|Well, it's, eh, eh...
+{29335}{29386}It's James.
+{29388}{29470}Look what you've done now, miss.|Scared him to death.
+{29472}{29530}Please! Don't eat me!
+{29531}{29578}Eat you?
+{29579}{29628}Hey, Glowworm,|turn up your lights.
+{29682}{29749} I'm a vegetarian.| I eat dirt.
+{29750}{29809}No one will be eating you,|James.
+{29810}{29885}Yeah, she'll just puncture your head|and suck out the brains.
+{29887}{29970} That I am saving for you.| Whoa! Pretty fast, long legs.
+{30019}{30145}Oh, such rude behavior. There's|no need to be frightened, dearie.
+{30146}{30201}But you're enormous bugs!
+{30202}{30294} Fascinating, isn't it?| We've all changed...
+{30296}{30347}and so have you,James.
+{30380}{30451}The old man... the one|who gave me the green things...
+{30453}{30514}He said marvelous things|will happen.
+{30516}{30581}Did he say,|"Marvelous pigs in satin"?
+{30582}{30685}No, dear lady.|"Marvelous things will happen."
+{30686}{30753}Poor Glowworm.|She's a little deaf.
+{30754}{30813}I, however,|have exquisite hearing.
+{30814}{30901}Yeah? Well, listen to this.
+{30903}{30962} Let's get outta here!| Waaaa!
+{30963}{31065}You mean leave the hill?|I can't. The rhino will get me.
+{31066}{31117}Rhino?
+{31118}{31220}I say, dear boy, I've lived|on this miserable hill for decades.
+{31222}{31304} There are no rhinoceri here.| Except for Sponge.
+{31306}{31384}She's twice as big as|a rhino, eh, kid?
+{31386}{31464}And twice as dangerous.|My life hangs by a thread every day.
+{31466}{31553}I've had to send all 300|of me children to safer pastures.
+{31555}{31630}Hah! You think hiding|in solid rock is fun?
+{31632}{31690}I can't even remember|what fun is.
+{31692}{31780}Well, it's just 'cause you've been stuck|here too long. Listen to me, kid.
+{31782}{31848}I know a place|that'll refresh your memory.
+{31854}{31930}/Bright lights|/Big city
+{31932}{31980}/That's where we gotta go
+{31982}{32057}/Where the food is great|/and the bugs are so pretty
+{32058}{32119}/I'd like to get my arms|/around a hundred or so
+{32121}{32193}/I'd hug 'em, squeeze 'em,|/hold 'em tight
+{32194}{32242}/Sleep all day|/Dance all night
+{32243}{32320}/I want the bright lights|/and the big city
+{32322}{32379}/That's the life for me, yeah
+{32381}{32427}/That's the life for...
+{32429}{32509}/You little maggot|/Have you never seen the moon
+{32511}{32606}/Gliding 'cross|/the western sky
+{32607}{32714}/A dead oaktree|/by the waterside/
+{32715}{32824}/Putrid vapors rising
+{32826}{32929}/That sounds lovely, dear.|/I'm sure we'd all agree.
+{32931}{32985}/But I prefer the sunshine
+{32987}{33054}/A little park right|/in the center of the town
+{33056}{33172}/Flowers everywhere|/Children all around me
+{33174}{33297}/I'd love it|/Landing on a baby's cheek so warm
+{33298}{33381}/It's wonderful, wonderful
+{33382}{33573}/That's the life for me
+{33482}{33573}/That's the life for me
+{33575}{33679}/That's the life|/That's the life for me
+{33746}{33801}/Elegant conversation
+{33802}{33893}/ Bright lights, big city|/ An elevated point of view
+{33894}{33981}/ That's where I'd go|/ Intellectual stimulation
+{33983}{34115}/ Yeah, maybe for you.|/ And someone you love to share it with you
+{34181}{34281}/It would be wonderful, wonderful
+{34282}{34381}/ That's the life for me| You call that a life?
+{34382}{34467}/ That's the life for me| It's no pile of dirt!
+{34469}{34608}/That's the life|/That's the life
+{34534}{34608}/That's the life|/That's the life
+{34610}{34681}/ For...| Where are you hiding, boy?
+{34682}{34760}Hup! Time to go make a pest|of myself. Hehheh!
+{34788}{34882}Look at this place.|It's still filthy.
+{34883}{34942}Where are you,you detestable worm?
+{34944}{35017}Not you! Me!
+{35019}{35096}You better not|be near our peach!
+{35098}{35162}Oh, please!|Don't let them spray us!
+{35164}{35249}Spray us? They'll see the Yank up there|and come after us with a shovel.
+{35250}{35309} It happened to my brother.| How awful.
+{35310}{35401}Split him right down the middle.|Now I have two halfbrothers.
+{35403}{35472}Shh! They'll hear us.
+{35511}{35588}Yoohoo! Where are you, boy?
+{35590}{35684}I think I hear|a rhino out here!
+{35710}{35796}Ahh! This'll be a snap.
+{35847}{35928}Shh! I really do|hear something.
+{36090}{36148}Timber.
+{36238}{36295} What's that?| Fasten your seat belts, kids!
+{36297}{36389} Aaah! The car!| Aaah! The car!
+{36390}{36460} We're turning!| WhaWhaWha... What have you done?
+{36530}{36592}Start, start, you piece of junk!
+{36767}{36855}It's the peach!|Our peach! We'll be killed!
+{37600}{37669}Here, stomach!|Here, stomach! Here, stomach!
+{37891}{37941} I'm gonna be sick!| Yee!
+{38094}{38179} Our peach!| Our peach!
+{38437}{38493}Where are we?
+{38495}{38556}Ow! Somebody pinched me!
+{38558}{38611}Sorry. I thought|you were the Spider.
+{38613}{38684}Ouch! What was that?
+{38686}{38742}Excuse. I thought you|were the Centipede.
+{38744}{38805}Hey, Glowworm,|how about some light?
+{38807}{38877}I can't hear you, dear.|I'll have to put my light on.
+{38878}{38963}Oh! Oh! This is so|unladybuglike!
+{38965}{39061}Don't worry. I'll have you|rightside up in no time.
+{39063}{39125}Thank you, James.|Where are you going?
+{39126}{39183}To see where we've landed.
+{39330}{39377}Whoa!
+{39641}{39687}Oh, my!
+{39689}{39740}Oh, my, my!
+{39742}{39816}Oh, my achin' back!
+{39845}{39953}Fascinating, isn't it?
+{39954}{40041}What? What's fascinating, tell me?|Don't leave me dangling.
+{40043}{40157}We're in the middle of the...|How do you say? The big puddle.
+{40159}{40237}The biggest puddle of them all,|angel fangs:
+{40238}{40333} the Atlantic Ocean.| Technically, the Pacific is larger.
+{40335}{40415}Well... that goes|without saying.
+{40417}{40522} But there is land in sight?| Nothing but blue skies and clearwaters.
+{40524}{40593}This is all your fault!
+{40594}{40697}Hey! Wasn't for me, we'd all|be Spiked and Sponged by now!
+{40699}{40819}This old man with his green things...|did he happen to speak to where we are going?
+{40821}{40933}No. All he said was|the answers would be right here.
+{40966}{41023}Huh? My travel book!
+{41025}{41105}And look!|It's the peach!
+{41131}{41197}We're going to|New York City!
+{41198}{41307} New York? They love me there!| Wonderful! They've got...
+{41309}{41373}a whole park full of leaves|for you, Miss Ladybug.
+{41375}{41446} Central Park!| And loads of dark hiding places.
+{41447}{41505} Night clubs!| And museums and concerts.
+{41506}{41573} Not to mention Yankee Stadium.| What about me?
+{41575}{41672} Why, they've got miles and miles of underground tunnels!| The subway!
+{41674}{41749}My father says it's the place|where dreams come true.
+{41750}{41928}/ That's the life for me|/ That's the life for me
+{41838}{41928}/ That's the life for me|/ That's the life for me
+{41930}{41993}/ That's the life|/ That's the life
+{41995}{42073}/That's the life|/That's the life
+{42075}{42171}/For me
+{42173}{42289}New York it is then.|Now, how do we get there?
+{42291}{42347} I'll get us there.| You?
+{42349}{42435}Sure! I've sailed|all the five seas:
+{42437}{42498}from the sundrenched wreaths|of Bora Bora...
+{42500}{42572}to the icy shores|of Tripoli.
+{42574}{42620} Oh!| Commodore Centipede,
+{42622}{42668}they used to call me.
+{42670}{42721}Seven.
+{42723}{42773}There are seven seas.
+{42775}{42879}And Tripoli is in|the subtropics... Commodore.
+{42881}{42956} Trim the sails!| There are no sails.
+{42958}{43020} Stoke the engines!| There are no engines.
+{43022}{43080}I can't work|with this miserable crew.
+{43082}{43164}Great! We're stuck here|until we shrivel up and die.
+{43166}{43223} Highly improbable.| That's a relief.
+{43225}{43273}We're far more likely to drown.
+{43275}{43372}Oh, no!
+{43374}{43429}I know! We could...
+{43431}{43485}No, it's a stupid idea.
+{43486}{43541} Compared to what?| Hey!
+{43542}{43604}Well, we could fly out.
+{43606}{43681}He's right. It's stupid.
+{43682}{43740}How would you do it, James?
+{43742}{43808}With the sea gulls.|But we'll need string.
+{43810}{43911}Oh, well, I'll just go to the stationer's and|pick up some paper clips while I'm at it!
+{43913}{43993}I have string.|Miles of string.
+{43994}{44085}And we'll need bait;|bird bait.
+{44086}{44209}Bird bait? Where do you expect we're gonna|find bird bait out here in the middle of the...
+{44211}{44282}The... Oh, no.
+{44283}{44387}No, no!|Have you lost your minds?
+{44417}{44499}They've lost their minds!|Anything but birds!
+{44501}{44565}Don't worry, I'm right here.
+{44567}{44614} Now wiggle.| No!
+{44615}{44721} But they won't come if you don't wiggle.| Exactly, and you can't make me.
+{44722}{44816} Oh, yeah?| Stop! Ahhaha!
+{44818}{44939}Oh! Hey, no fair!|Mockingbirds munched me mother!
+{45001}{45088}Here comes the first one.|Get ready to pull down there.
+{45090}{45191}My sisters were swallowed by swallows!
+{45193}{45253} Pull!| Whoo!
+{45426}{45496}It worked! I got one!
+{45502}{45611}Shh! I hear teeth.|Great, big, gnashing teeth!
+{45613}{45681}Sounds like a rhinoceros!
+{45682}{45781}In the ocean?|Uh, scientifically impossible.
+{45783}{45848}I hear something too.
+{45850}{45904}It's a school of Tuna.
+{45906}{45973}They're being sucked into|some sort of machine.
+{45975}{46046} What do you mean?| Take a look.
+{46126}{46176}It's a giant shark!
+{46311}{46377}It seems to have spotted us!
+{46455}{46501}What do we do?|What do we do?
+{46503}{46566}The sea gulls!|It's our only chance.
+{46568}{46664}It would take the whole flock and|then some. We'll never do it in time.
+{46666}{46725}We'll use Miss Spider's web|for a net. Hurry!
+{46803}{46864}Throw it here, dearie!
+{46950}{47013}Wiggle, Mr. Earthworm!|Our lives depend on it!
+{47015}{47084}I can't! I'm all wiggled out!
+{47134}{47183}Here, let me help you.
+{47185}{47283}Come and get it!|Get your fresh, hot wienie!
+{47386}{47448}Come on, baby!
+{47506}{47565}I got 'em!|Hand me the loops!
+{47605}{47671} Hurry!| Shake a leg there!
+{47673}{47737}Keep your pants on!|I've only got 12 hands.
+{47802}{47856}It's getting closer!
+{47858}{47937}Sea gulls away!
+{48282}{48330}Oh, no!
+{48331}{48402}Oh, dear!
+{48654}{48712}They're getting away!
+{48743}{48817}Hop on, James!
+{48819}{48872}Now nab them!
+{48982}{49024} Help!| Help!
+{49166}{49233}Hooligans! Ruffians!
+{49234}{49287}Degenerates!
+{49431}{49516} Come on, sea gulls!| Put your backs into it!
+{49518}{49569}Shake your|bloomin' tail feathers!
+{49622}{49685}Good sharky. Nice sharky.
+{49719}{49820}Oh! Sharky!
+{50530}{50577}All right!
+{50578}{50688}Teach ya to mess with me, ya overgrown|sardine! I'm from Brooklyn!
+{50690}{50745}Oh, hoho! Pure twaddle!
+{50746}{50834}Every bug on board displayed|extraordinary courage.
+{50836}{50903}Why, did you see Miss Ladybug|risk life and wing...
+{50905}{50976}to bash those brutes on the snoot?
+{50978}{51061}Well, they were being very rude.|I can't abide rudeness.
+{51062}{51117}We are all|forgetting something.
+{51118}{51201}Everything we did was part|of the brilliant plan of James.
+{51202}{51276}It really did work,|didn't it?
+{51278}{51345}I say,|three cheers forJames!
+{51346}{51510} Hiphip!| Hooray!
+{51399}{51441} Hiphip!| Hooray!
+{51442}{51510} Hiphip!| Hooray!
+{51512}{51559}New York...
+{51597}{51661}here... we... coome!
+{52063}{52158}Whoever you are,|keep away from me! Keep away!
+{52160}{52240}Earthworm! It's me!
+{52242}{52295}Oh, James.|Oh, thank goodness.
+{52297}{52382} You mustn't frighten yourself like this all the time.| Why not?
+{52384}{52435}You'll make yourself sick.
+{52437}{52540}When I had a problem, my mum and dad|would tell me to look at it another way.
+{52542}{52633}How? First I was bird bait,|then I was shark bait.
+{52634}{52734}I suppose. Or, you could say|you gave us wings to fly,
+{52736}{52805}and defeated a giant shark|singlehandedly.
+{52806}{52856}Nohandedly.
+{52858}{52913}Exactly.|You're a hero.
+{52914}{53010}I am?|I'm... Wonder Worm!
+{53012}{53058}You are!
+{53331}{53394}Want... food.
+{53396}{53455}Food.
+{53544}{53607}You sure you know|where we're going?
+{53609}{53666}I don't see how you can navigate|without a compass.
+{53764}{53832}It's very hot up here.|I'm roasted.
+{54142}{54194}Unhand that bird!
+{54196}{54246}But I'm dyin' of hunger!
+{54248}{54322}Oh, perhaps I have a bit|of soda bread in here somewhere.
+{54324}{54386} Food?| It's not much, but it's...
+{54388}{54429} Not so fast!| You?
+{54430}{54493}I need this food. I have|a much higher metabolism.
+{54495}{54556} Bite me!| Have you two gone mad?
+{54558}{54633}Let go of it, Gramps!|Give it! Give it to me!
+{54635}{54692} Let go of my coat!| Give it to me!
+{54694}{54752} Ow! My lower thorax!| I'll rip you apart!
+{54754}{54822} I tell you, it's mine!| Give... it... back!
+{54824}{54918}Now look what you've done!
+{54920}{55016}We're going to starve.|Waste away. And not quickly.
+{55018}{55096}Oh, no, that wouldbe|the easy way out. We'll linger.
+{55098}{55192}Slowly. Miserably. Painfully.
+{55194}{55272}Nobody's going to starve.
+{55274}{55372}Don't you see? We have|enough food here for five voyages.
+{55374}{55436} Food? Where? What are you talkin' about?| Is there really food?
+{55438}{55529} Ourwhole ship is made of food!| Oh, such a clever little boy.
+{55573}{55665} Takes after me.| After you there is nothing left to take.
+{55667}{55765} It's delectable.| Better than aphids.
+{55767}{55819}Mm, better than ladybugs.
+{55821}{55871} What?| Excuse.
+{55873}{55965}It's not dirt...|but it's not bad.
+{55966}{56043}Not bad? It's the best thing|I've ever tasted,
+{56045}{56118}and I have tasted a lot.
+{56291}{56400}/I've eaten many strange and|/scrumptious dishes in my time
+{56402}{56479}/Like chili bugs|/and curried slugs
+{56481}{56536}/And earwigs|/cooked in slime
+{56538}{56601}/And mice with rice|/is very nice
+{56603}{56666}/When they're roasted|/in their prime
+{56668}{56733}/But don't forget|/to sprinkle them
+{56735}{56805}/With just a pinch|/of grime
+{56949}{57027}/I'm crazy about mosquitos|/on a piece of buttered toast
+{57029}{57111}/And pickled spines of porcupines|/And then a great big roast
+{57113}{57223}/And dragon's flesh quite old|/not fresh, it costs a buck at most
+{57225}{57275}Does it come with gravy?
+{57277}{57370}/It comes to you in barrels|/if you order it by post
+{57605}{57697}/It comes to you in barrels|/if you order it by post
+{57698}{57748}/For dinner|/on my birthday
+{57750}{57809}/Shall I tell you|/what I chose
+{57811}{57927}/Hot noodles made of poodles|/on a slice of garden hose
+{57929}{57997}/And a rather|/smelly jelly
+{57999}{58070}/Made of armadillos toes
+{58072}{58120}/The jelly is delicious
+{58122}{58216}/But you have to|/hold your nose
+{58236}{58283}/ Peach, peach, peach|/ Peach, peach
+{58285}{58385}/Peach, peach, peach, peach|/Peach, peach, peach, peach
+{58387}{58471}/I crave the tasty tentacles|/of octopi for tea
+{58473}{58593}/I like hot dogs but I love hot frogs|/and surely you'll agree
+{58595}{58692}/A plate of soil with engine oil's|/a super recipe
+{58694}{58756}/Recipe
+{58757}{58823}/I hardly need to mention|/that it's practically free
+{58825}{58885}/Peach, peach, peach, peach|/Peach, peach, peach, peach
+{58887}{58958}/Peach, peach, peach, peach|/Peach, peach, peach, peach
+{58960}{59053}/We hardly need to mention|/that it's practically free
+{59055}{59194}Now comes my fellow travelers|/the burden of my speech
+{59196}{59322} You showoff!|/ These foods are rare beyond compare
+{59324}{59382}/And some right out of reach
+{59384}{59501} Nice aim, Commodore.|/ But there's no doubt I'd go without
+{59503}{59582}/A million plates of each
+{59584}{59638}Out of my face!
+{59640}{59729}/ For one small mite|/ One small mite
+{59731}{59814}/ One tiny bite|/ Tiny bite of this
+{59816}{59888}/Fantastic
+{59890}{59955}/Peach
+{60001}{60069}/ Peach, peach, peach, peach...| Stop! Stop!
+{60070}{60137}/Peach, peach, peach, peach...
+{60139}{60224}Watch this!
+{60225}{60282}/This fantastic peach
+{60928}{61006}You keep to yourself, don't you?
+{61008}{61064}I prefer to be alone.
+{61065}{61139}I was alone|for a long time once.
+{61141}{61222}I think it's much nicer|to have friends, don't you?
+{61224}{61270}I would not know.
+{61272}{61382}They would be your friends too. The|others, I mean, if you'd just let them.
+{61384}{61504}No, it is in their nature to have|fear of me. This I cannot change.
+{61505}{61552}You're very kind to me.
+{61553}{61665}Maybe this is because|you are kind to me first.
+{61667}{61769}You were the spider in my window.
+{61770}{61824}You were my first friend.
+{61825}{61940}I mean, since I went to live|with my aunts. They hated me!
+{61941}{62012}Do not think of them now.
+{62013}{62060}But what if they find us?
+{62061}{62125}What if we don't|make it to New York?
+{62127}{62238}I'll die if I have to go back to|the way I was! They can't make me.
+{62240}{62317}Nobody can make you|do anything, James,
+{62319}{62371}if you do not let them.
+{62373}{62448}You are a brave boy.
+{62449}{62514}Now to sleep.
+{62516}{62609}You have had a very|"tiredmaking" day.
+{63513}{63624}Look, the little maggot's|stuffing his face with our peach!
+{63626}{63717}Get him, Sponge!
+{63718}{63790}You can't crawl away|from us!
+{64127}{64218}The rhino will get you.|The rhino will get you.
+{64220}{64313}The rhino will get you.|The rhino will get you.
+{64314}{64445}The rhino will get you.|The rhino will get you.
+{65159}{65226}This is an outrage!
+{65228}{65332}You are a disgrace to your phylum,|class, order, genus and species!
+{65333}{65401} Say it in English!| You, sir, are an ass!
+{65402}{65469}Where are we?|What's going on?
+{65471}{65565}I found this dimestore timmy|asleep at the helm.
+{65567}{65625} Now we're lost.| We are not lost!
+{65626}{65726} Then where are we?| Somewhere north, or possibly very, very far south.
+{65728}{65785}What's your latitude?|What's your longitude?
+{65787}{65856}Hey, hey, hey!|That's personal, bub.
+{65857}{65909}You said you could navigate!
+{65911}{66000} You said you traveled the world.| You said you'd been to Bora Bora.
+{66002}{66061}Well, not Bora Bora,|per se, uh...
+{66062}{66117}What about the shores|of Tripoli?
+{66119}{66218}Did I say "Tripoli"?|I meant the Halls of Montezuma.
+{66220}{66278} That's what you said.| Never have I heard such mendacity!
+{66280}{66330} Charlatan!| Wait!
+{66332}{66442}If he says he's seen the world, then he's|seen the world. Right, Mr. Centipede?
+{66468}{66512} Right?| Well...
+{66513}{66593}I did used to live between two pages|of a National Geographic.
+{66639}{66737}Very informative magazine, National|Geographic. Wonderful pictures.
+{66739}{66845}You incompetent,|blithering nitwit!
+{66847}{66931}All right, hoppy!|Them's fightin' words.
+{66933}{66989}Put 'em up!|Put 'em up! Come on!
+{66990}{67045}Gimme your best shot.
+{67047}{67108}Whoa. Good shot.
+{67110}{67160}Did you see what he did to me?
+{67161}{67212}Serves ya right.
+{67242}{67314}What do we do now?|Which way do we go?
+{67316}{67380}Oh, it's simple, really. All we need|to do is determine our coordinates,
+{67381}{67460}then use triangulation to chart|a direct route to New York.
+{67461}{67541} Then there's hope.| Don't be ridiculous. There's no hope at all!
+{67543}{67589}We don't have a compass.
+{67591}{67640}We'll never reach New York.
+{67641}{67760}We're gonna be stuck here forever. We're|gonna be frozen like living statues.
+{67761}{67812}Dead living statues.
+{67813}{67874}No dark hiding places.
+{67876}{67935}No cozy leafin the park.
+{67937}{68030}No city where dreams come true.
+{68032}{68104}Don't ships have compasses?
+{68105}{68166}No doubt. But to brave|those icy waters...
+{68168}{68227}would mean certain death.
+{68229}{68297}Only a fool would do it.
+{68348}{68405}Geronimo!
+{68407}{68484} What? What was that?| The Centipede jumped in!
+{68486}{68544}Good heavens!|He's committed pesticide.
+{68545}{68598}Oh, this is all|my doing.
+{68600}{68657}Don't take all the credit.|I helped too.
+{68659}{68758} I have to go after him!| Not on your life. You'll catch your death of cold.
+{68760}{68865} But he's my friend.| James is right. Centipede is one of us.
+{68866}{68918}Get on my back.|I'm going with you.
+{68920}{68989} You had better take good care of him.| This I promise.
+{68991}{69090}Stay by the line, and when|you feel two tugs, pull us up.
+{69733}{69792}A skellington?
+{69945}{70013}Jackpot!|A genuine compass!
+{70049}{70128}Sounds like you need|a little oil, Captain.
+{70157}{70238}Thank you, sir!|I'll be shovin' off now.
+{70357}{70449}I should've worn a belt!
+{70505}{70602}Holy ship wreck!
+{70920}{70984}Listen, fellas,
+{70986}{71093}I got a long history of back problems,|and I don't need it to get any longer!
+{71192}{71268}Hey, that one felt pretty good.
+{71321}{71394}It's Paul Bunyan coming|to cut me some slack. Whoa!
+{71396}{71529}Whoa! Hey, pal, you're aimin'|a little low. He's gonna cut me in half!
+{71614}{71713}Hey, sailors!|Looking for some kicks?
+{71773}{71837}Oooh!|Cut me loose!
+{71983}{72029}Get the compass!
+{72115}{72205} Have got it!| Ubutu!
+{72414}{72492}Gotcha!
+{72494}{72550}Polly want a smacker?
+{72593}{72652}Look out!
+{72701}{72788} Sounds like big trouble.| Get ready to pull.
+{72844}{72899}I got a good one for ya.
+{72901}{72972}Why don't skeletons|play music in church?
+{72973}{73047}'Cause they got no organs!
+{73233}{73280}Noooo!
+{73448}{73514}Oh, thank goodness!|You're all right!
+{73516}{73586} What happened to Centipede?| He found a compass for us.
+{73588}{73661} And a shipload of pirates!| Hold this. I am going back.
+{73663}{73729}Do be careful,|Miss Spider.
+{73918}{73980}Poor Centipede.
+{73982}{74032}He saved our lives|down there.
+{74033}{74100} Look out!| Miss Spider!
+{74151}{74213}Centipede!
+{74215}{74265}How am I lookin', kid?
+{74267}{74393}Centipede, I do not know|whether to kill you or... kiss you.
+{74461}{74512} I'm so sorry.| Hey, I'm sorry.
+{74514}{74569} My sincere apologies.| I just wanna apologize.
+{74571}{74621} I just wanted to say...| What I'm tryin' to say...
+{74623}{74673}That's enough chitchat!|I'm freezin'!
+{74675}{74726}Hello?|The compass is ready!
+{74728}{74863}Mr. Centipede, would you please do us the honor|of navigating us out of this icebox?
+{74865}{74962} It would be my pleasure.| I believe our position puts us very close...
+{74964}{75052}I admire your bravery, Miss Spider.|I really do.
+{75053}{75120}Why... thank you,|Mrs. Ladybug.
+{75121}{75193}All right, boys.|Coffee break's over.
+{75333}{75405}I'm looking forward|to a hopping good time...
+{75407}{75471}in the Big Apple,|Mr. Centipede.
+{75473}{75543}You said it, Mr. Grasshopper.
+{75756}{75838}Oh, boy, what I wouldn't do|for a cup of coffee.
+{75902}{75990}Cup of joe.
+{76042}{76123}I say, old sport,|came to relieve you of your duties.
+{76125}{76235}I said I'd steer the peach.|Have to steer the peach.
+{76237}{76295}Can't quit... now.
+{76297}{76355}Good show, old boy.
+{76442}{76550}Thanks... Mr. Grasshopper.
+{77653}{77739} That music!| Oh, Sir James! Did I disturb you?
+{77741}{77802}So sorry.|I'll put this away.
+{77804}{77849}No, no. I like it.
+{77851}{77946}I used to hear it at my aunt's house|before I went to sleep.
+{77948}{78044}That was you, wasn't it?|Or do all grasshoppers play music?
+{78045}{78132}All grasshoppers... try.
+{78133}{78202}I'm sure you've heard this.
+{78281}{78346}Ghastly, isn't it?|Cricket stuff.
+{78348}{78425}Music should be|the voice of the soul.
+{78427}{78507} What does that mean?| It means that when I'm happy,
+{78509}{78566}my music sounds like this.
+{78923}{79020}When I'm sad,|it's like this.
+{79243}{79360}When I was sad, I used to climb|in bed with my mom and dad.
+{79361}{79433}But that was|a long time ago.
+{79435}{79508}I'm sure they'd be|very proud of you, James.
+{79510}{79571}I know we are.
+{79832}{79927}/Take a little time|/Just look at where we are
+{79929}{80004}/We've come very, very far|/together
+{80044}{80157}/ And if I might say so|/ And if I might say so too
+{80159}{80221}/We wouldn't have got anywhere
+{80223}{80306}/If it weren't for you, boy
+{80308}{80437}/Love... is|/the sweetest thing
+{80438}{80551}/Love... never comes|/just when you think it will
+{80553}{80654}/Love... is the way|/we feel for you
+{80656}{80706}/We're family
+{80708}{80762}/We're family
+{80764}{80820}/ We're family|/ All of us
+{80821}{80868}/And you
+{81060}{81177}/ Think of where we'd be if we were on our own| We'd be dead.
+{81178}{81262}/You're what holds us|/all together
+{81264}{81336} I am?|/ And if I might say so
+{81337}{81409}/And if we might|/say so too
+{81411}{81461}/We never could|/love anyone
+{81463}{81564}/As much as we love you
+{81566}{81683}/ Love|/ Is the strangest thing
+{81685}{81788}/ Love|/ Does exactly what it wants to do
+{81789}{81888}/ Looove|/ Boy, ya know it's true
+{81890}{82035}/We're family
+{81940}{81987}/We're family
+{81989}{82035}/We're family
+{82037}{82107}/Me, me, me, me, me|/And you
+{82145}{82195}/Ashes to ashes
+{82197}{82254}/And dust to dust
+{82256}{82391}/Without you|/there'd be no us
+{82418}{82522}/Love... is|/the sweetest thing
+{82524}{82632}/Love... does exactly|/what it wants to do
+{82634}{82729}/Looove... is|/the way we feel for you
+{82731}{82933}/We're family
+{82781}{82836}/We're family
+{82837}{82933}/We're family
+{82935}{82980}/Me
+{82981}{83073}/And... you
+{83360}{83418}We'll always be together,|won't we?
+{83420}{83490}Kid, you're stuck|with us for life.
+{83633}{83702} Look, everybody, we made it!| We did?
+{83704}{83797} New York City.| Breath taking!
+{83798}{83853} Stunning! Glorious.| Look at the park.
+{83855}{83926} It's fabulous!| We have made it!
+{83928}{84018}What a wonderful sight!|There's Lady Liberty!
+{84020}{84101}I can almost smell the lovely dirt.
+{84102}{84197} Is it not beautiful?| The Empire State Building.
+{84199}{84245}See those lights!
+{84247}{84356}Wahoo! Yippee!|Atta boy, Jimmy!
+{84358}{84444}Good show, James.|The city awaits us.
+{84445}{84550}Now remember, James,|first impression is very important.
+{84830}{84924} Oh, no!| We'll be blown off course.
+{84925}{85013}We'll wind up in Jersey!
+{85089}{85184} Could it be...| No, it couldn't be.
+{85185}{85265}It's the rhino!
+{85266}{85322}Oh, James, do something.
+{85425}{85513}Everyone, climb up|into the rigging!
+{85515}{85561}Hurry!
+{85612}{85686}James, are you not|coming with us?
+{85688}{85737}No!
+{85739}{85860}It got my mum and dad!|It won't get my friends!
+{85862}{85940}Come out and show your face,|you stupid beast!
+{86119}{86192}Good God Almighty!
+{86255}{86348}Remember what|your parents said, James!
+{86349}{86460}"Try looking at it|another way!"
+{86461}{86512}You're not even|a real rhino!
+{86513}{86600}You're just a lot of smoke and noise!
+{86641}{86698}I'm not afraid of you!
+{86910}{87025}I'm not afraid of you!
+{87317}{87385}James!
+{87387}{87458}Noooo!
+{88241}{88304}Miss Spider?
+{88305}{88365}Mr. Grasshopper?
+{88392}{88453}Hello?|Is anyone there?
+{89349}{89396}This isn't right.
+{89398}{89468}Where's the|Empire State Building?
+{90002}{90052}What the...
+{90131}{90248}Officer!|There's a boy up there!
+{90249}{90305}What?|A boy?
+{90412}{90510}Mabel, we got us|a huge unidentified object here!
+{90512}{90620} What's it look like?| Round, fuzzy. It looks sorta like a giant fruit or something.
+{90621}{90671} Well, what is it?| I don't know what it is!
+{90673}{90744}Just send us the biggest crane|in New York!
+{91165}{91276} Please, sir. How do I get to the Empire State Building?| You're on top of it, kid.
+{91277}{91339}We made it!
+{91431}{91486}Well, I made it.
+{91583}{91673}Hang on.
+{91768}{91836}Have you seen|any big bugs tonight?
+{91837}{91889}Big bugs? How big?
+{92037}{92097}I hope they're all right.
+{92520}{92581}Let's go. Let's go.|Stay back. Stay back.
+{92759}{92824}Don't worry, kid.|You'll be all right.
+{92826}{92878}Come on, sonny.|Don't be afraid now. I got you.
+{92885}{92957}Stay away from those trucks!
+{92959}{93018}What is this thing?
+{93020}{93065} Where you from?| Why you here?
+{93067}{93140} Who? What? Where? When? Why?| Hold your fire, fellas!
+{93141}{93234}He's just a kid, for Pete's sake.|Here, I got you.
+{93236}{93309}It's okay, little guy.|Nobody's gonna hurt you.
+{94056}{94104}No.
+{94526}{94594}Hello.
+{94596}{94690}Little angel.
+{94692}{94808}So kind of you to look after|our little lost lamb.
+{94809}{94916} Who are you?| We are the boy's legal guardians.
+{94917}{94971}We've missed him|so much.
+{94973}{95039}So we'll just|take him home now.
+{95041}{95100}And the peach, of course.|We're taking that as well.
+{95101}{95164}Well, wait a minute.|Back up.
+{95165}{95237}You mean to tell me|that this thing is a peach?
+{95239}{95334} It's not a peach. It's our peach.| Our peach.
+{95336}{95390} Show him, Spongy.| Yes.
+{95609}{95686} Looks like it's their peach all right.| Yes!
+{95688}{95779} Yes. We're very proud of it.| We're going to be in the record books.
+{95781}{95850}It's not their peach.|The old man gave the green things to me.
+{95852}{95948} That's what made it grow.| How dare you disagree with us!
+{95950}{96061}Patience, sister.|Remember his... condition.
+{96063}{96145} His condition?| He's a chronic liar.
+{96146}{96217}Sad, really.|He needs his treatment.
+{96219}{96283}Well, that's why we're here;|to bring him home.
+{96285}{96368}So, you come here with us,|hey, lovey!
+{96404}{96476}I'm not the one who's lying.|They are!
+{96477}{96580}As you can see, Officer, it is urgent|that you release him to us immediately.
+{96581}{96635}Let the boy speak!
+{96744}{96836}All right, all right, all right!|Let's get to the bottom of this!
+{96837}{96912}This thing is a peach.
+{96913}{96961}Now, all right.|I'll buy that.
+{96963}{97029}Now, does somebody wanna|tell me how it got here?
+{97031}{97084}We attached it|to a hundred sea gulls.
+{97086}{97145}Sea gulls?
+{97147}{97263}That's what happened! Me and Miss Spider and|the Centipede and the Old Green Grasshopper.
+{97265}{97343}I think he's gone mad.
+{97345}{97404}This is all something|he dreamed up.
+{97453}{97568}Well, maybe it started that way,|as a dream, but doesn't everything?
+{97569}{97618}Those buildings,
+{97620}{97689}these lights,|this whole city!
+{97691}{97780}Somebody had to dream about it first,|and maybe that's what I did.
+{97781}{97861}I dreamed about coming here,|but then I did it!
+{97863}{97936} The poor boy needs his medicine.| Yes.
+{97937}{97994} So we'll just take him.| And the peach.
+{97996}{98096}Back to our cozy|little house on the hill.
+{98098}{98193} Come along. You're going home with us.| No, I'm not.
+{98194}{98289}What did you say?
+{98290}{98402}I said...|no... I'm... not!
+{98404}{98501}I hate that house and that cold room|and how I was always hungry.
+{98503}{98549}All right, that's enough!
+{98551}{98618} And how you beat me!| He's lying!
+{98620}{98690}And told me I was nothing!
+{98692}{98746} Shut up!| Shut up! Shut up!
+{98748}{98837}No, not this time!
+{98839}{98897}I flew the giant peach|across the ocean.
+{98898}{98992}I landed on top of|the tallest building in the world.
+{98993}{99080}I made it! I'm not the one|who's nothing. You are!
+{99081}{99179}And I'm never going back with you!|Not me and not the peach.
+{99181}{99244}How dare you speak|to us this way.
+{99525}{99585}James! Up here.
+{99586}{99672}Hello, we're here.
+{99673}{99755} Hey, buddy!| What are they?
+{99757}{99839} Young James.| Hey, Jimmy.
+{99841}{99941} Bugs!| Need a little help down there?
+{99943}{100012}Giant bugs!
+{100013}{100082}Hey, you old biddies!
+{100084}{100128}Help us!
+{100130}{100193} Whooee! Here we are, dear.| Hello, James!
+{100195}{100264}I told you|they were real.
+{100265}{100364} Hello, old boy.| Requesting clearance to land.
+{100559}{100646}Miss Spider,|throw me a string!
+{100757}{100848}Okay, pull them up.
+{100850}{100905}Help!
+{100907}{100972}Where are we going?
+{101036}{101117} Spin them around!| You little...
+{101181}{101232}Wrap them tightly!
+{101397}{101470}Tighter! Tighter!
+{101472}{101532}Well, I'll be a...
+{101533}{101621}The kid was tellin' the truth.
+{101623}{101708}Get those two creeps|outta here!
+{101992}{102104}Stop the presses. I got a new front|page. "Big Bugs In The Big Apple."
+{102105}{102200}In big bold print:|"Little Lindy Flies Giant Peach."
+{102202}{102270}"HalfPint Hero|And His Peach Pit Pals."
+{102329}{102377}Everyone,
+{102379}{102478}these are my friends;|the ones I've been telling you about.
+{102480}{102541} Mr. Centipede!| Hi.
+{102543}{102590} Old Green Grasshopper!| My pleasure.
+{102592}{102658} Earthworm! Mrs. Ladybug!| Charmed.
+{102660}{102706}Miss Spider!
+{102708}{102791} And the Glowworm!| God bless the colonies!
+{102796}{102840}Could we eat some|of your peach?
+{102842}{102937} It won't keep forever.| Go ahead.
+{103189}{103242}Hey!|What was your name?
+{103255}{103317}It's James!
+{103509}{103617}They ate that peach all|the way down to the pit.
+{103658}{103751}And set it up in Central Park|as a permanent home.
+{103793}{103853}And James Henry Trotter,
+{103854}{103941}who once was the saddest and loneliest|little boy you could find,
+{103943}{104018}now had a loving new family...
+{104020}{104081}and all the friends|in the world.
+{104083}{104148} James, dinner is ready.| Hi, Miss Spider.
+{104149}{104224}All right.|Nearly finished.
+{104226}{104310}And... And then...|And then the sea gulls...
+{104312}{104407}And since James's visitors|begged him again and again...
+{104409}{104488}to hear the story of his adventure|with the giant peach,
+{104489}{104574}he wished for a way|to share it with everyone.
+{104606}{104680}And that is exactly...
+{104681}{104734}what you have just seen.
+{105087}{105182}/Once upon a time there was|/a vulture and a hog
+{105184}{105268}/Livin' in a house|/up on a hill
+{105270}{105370}/Had this little boy who lived with|/them, they worked him like a dog
+{105372}{105454}/With any luck they'd|/have him up there still
+{105456}{105558}/Along came a magic man|/with a magic bag
+{105560}{105653}/Full of nasty little green things|/in a funky old rag
+{105654}{105746}/He said, "Boy, you may not know it but|/this here's salvation you see
+{105748}{105818}/Son, you're going down|/in history"
+{105906}{105977}/Good news is blowin'|/in your window
+{106008}{106072}/Good news is knockin'|/on your door
+{106103}{106168}/Good news is comin'|/'round the corner
+{106198}{106267}/Good news is rollin'|/around your floor
+{106296}{106390}/Where can all my troubles be
+{106392}{106483}/Must be good news|/chasin' me
+{106485}{106569}/Good enough|/to set everybody free
+{106571}{106637}/Good news, good news|/Good news
+{106677}{106766}/ Good news|/ There were bugs in the garden
+{106768}{106814}/Didn't have a clue
+{106816}{106911}/But everyday their life|/was on the line
+{106913}{107002}/They wanted to get out of there but|/they didn't know what to do
+{107004}{107072}/Their little brains|/was working overtime
+{107109}{107202}/That all changed|/one sunny day
+{107204}{107297}/That little boy|/dropped by to say
+{107298}{107379}/"If we all work together|/we'll make out okay"
+{107381}{107412}/ We will|/ Good news
+{107413}{107482}/Good news|/Good news
+{107484}{107580}/So they rolled down the mountain|/Flew over the sea
+{107581}{107675}/Facing death and danger|/on their way
+{107677}{107770}/But together they have made it|/They're where they wanna be
+{107772}{107836}/They love each other|/more and more each day
+{107879}{107927}/They care about each other
+{107929}{107991}/Good news is sweepin'|/'cross the country
+{108021}{108079}/Good news is spreadin'|/all around
+{108116}{108177}/Good news is hittin'|/in the city
+{108214}{108279}/Good news has sprung up|/in the town
+{108311}{108401}/The things that|/used to hurt before
+{108403}{108502}/They don't hurt 'em anymore
+{108504}{108587}/'Cause they know there's|/somethin' good in store
