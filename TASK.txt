@@ -33,10 +33,11 @@ TASK:
         [FATTO]
         
     -individuare sottotitoli NON in inglese (report dei mancanti)
-        [X Elena]
+        [FATTO]
         
     -reperire trame
         [X Valeria e Elena]
+        [WIP]
         
     -cleaning e storage (elasticsearch) dei sottotitoli. (X: Elena e Angelo)
         [WIP]
@@ -47,10 +48,10 @@ TASK:
     - estrarre informazioni viste in IR (X: Angelo)
         [WIP]
 	
-	NEW TASKS
-	
-	>>Basso livello
-    
+NEW TASKS
+
+>>Basso livello
+
     (complessità)
     -calcolare il numero di parole per film + il numero di parole medie per decade + la lunghezza dei sottotitoli
     
@@ -68,9 +69,9 @@ TASK:
     
     (wordcloud e complessità)
     -Usare il POS_TAGGING per fare l'analisi grammaticale dei testi (utile per trovare tutti i sostantivi o contare la frequenza nell'uso degli aggettivi)
-    
-    	>>TOPIC
-    
+
+>>TOPIC
+
     (tagme)
     -Identificazione delle parole chiave nel film (che esprimano il core del film:
     
@@ -83,8 +84,8 @@ TASK:
     (post-producing)
     -Individuare linee narrative della Disney
     
-    -Word_to_vec: [in pausa]
-    
+        -Word_to_vec: [in pausa]
+        
     
 
 >intervista
