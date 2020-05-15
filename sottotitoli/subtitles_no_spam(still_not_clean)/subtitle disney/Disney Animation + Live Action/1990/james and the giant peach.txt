@@ -928,27 +928,4 @@
 {108311}{108401}/The things that|/used to hurt before
 {108403}{108502}/They don't hurt 'em anymore
 {108504}{108587}/'Cause they know there's|/somethin' good in store
-{108589}{108740}/- Good news, good news|/- Good news, good news
-{108637}{108684}/- Good news, good news|/- Good news, good news
-{108686}{108740}/- Good news, good news|/- Good news, good news
-{108741}{108794}/Good news
-{109068}{109117}/- Good news|/- Comin' down the chimney
-{109119}{109165}/- Good news|/- Knockin' on my door
-{109167}{109213}/- Good news|/- Beamin' through the window
-{109215}{109263}/- Good news|/- Can't take no more
-{109265}{109312}/- Good news|/- Spreadin' over the country
-{109313}{109360}/- Good news|/- For the young and old
-{109361}{109408}/- Good news|/- Goin' 'round the world now
-{109409}{109464}/- Good news|/- Too hot to hold back
-{109465}{109515}/- Comin' down the chimney|/- Good news
-{109517}{109564}/- Knockin' on the door|/- Good news
-{109565}{109613}/- Beamin' through the window|/- Good news
-{109614}{109663}/- Ooh, can't take no more|/- Good news
-{109665}{109711}/- Spreadin' over the country|/- Good news
-{109713}{109759}/- For the young and old|/- Good news
-{109761}{109837}/- Goin' round the world|/- Good news
-{109839}{109933}/- Good news, good news|/- Good news, good news
-{109887}{109933}/- Good news, good news|/- Good news, good news
-{109935}{110030}/- Good news, good news|/- Good news
-{110032}{110089}/Good news
-{110167}{110275}/- Good news|/- Good news
+

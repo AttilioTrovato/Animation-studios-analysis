@@ -1,0 +1,25 @@
+./subtitle disney/Disney Live Action/1990/___jamaica.sub
+./subtitle disney/Disney Live Action/1990/Iron Will 1994.SRT
+./subtitle disney/Disney Live Action/1990/Squanto A Warriors Tale 1994.txt
+./subtitle disney/Disney Live Action/1970/.DS_Store
+./subtitle disney/Disney Live Action/1970/___CONTROLLARE.txt
+./subtitle disney/Disney Live Action/1960/pollyanna, 1960.txt
+./subtitle disney/Disney Live Action/2000/Confessions Of A Teenage Drama Queen.2004.sub
+./subtitle disney/Disney Live Action/2000/Princess Diaries.sub
+./subtitle disney/Disney Live Action/2000/National Treasure.2004.ass
+./subtitle disney/Disney Live Action/2010/.DS_Store
+./subtitle disney/Disney Animation + Live Action/1990/james and the giant peach.txt
+./subtitle disney/Disney Animation + Live Action/1940/So Dear To My Heart_1948.ssa
+./subtitle disney/Disney Animation/1990/.DS_Store
+./subtitle disney/Disney Animation/1940/Victory_Through_Air_Power.1943.s
+./subtitle disney/Disney Animation/.DS_Store
+./subtitle disney/Disney Animation/2000/Home on the Range, 2004.sub
+./subtitle disney/Disney Animation/2010/Toy Story 4 2019.sub
+./subtitle disney/Disney Animation/2010/.DS_Store
+./subtitle dreamworks/2000/Wallace And Gromit In The Curse Of The Were-Rabbit.2005.sub
+./ILLUMINATION/.DS_Store
+./sub studio ghibli/1980/Grave Of The Fireflies (1988).ass
+./sub studio ghibli/2010/The Tale of The Princess Kaguya.2013.txt
+./spam_cleaner.py
+./tmp.txt
+./report_spam_removing.txt
