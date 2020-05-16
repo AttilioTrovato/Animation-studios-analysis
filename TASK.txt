@@ -44,8 +44,34 @@ TASK:
          
     - estrarre informazioni viste in IR (X: Angelo)
         [WIP]
+        
+>intervista
+    -contattare gente per l'intervista. (X: Elena )
+        []
+
+>immagini
+    -individuare la sorgente (file o DisneyPlus) (X: Attilio)
+        [WIP]
+        (estendere collezione film Disney. Da decidere "come" in base alla frequenza di campionamento che scegliamo,
+         bassa frequenza possiamo anche considerare gli screenshot a mano su DisneyPlus altrimenti download dei film.
+         Obiettivo: avere una collezione quanto più rappresentativa nel tempo)
+        
+    -definire e implementare tecnica di campionamento frame.(X: Angelo)
+        [FATTO]
+        (eventualmente da integrare con screenshot a mano ???)
+        
+    -estrazione e analisi dati sui colori (frequenze e analisi) (X: ???)
+        [WIP]
+        
+ 
+    -#individuare sagome o linee se si riesce (?)
+
+>musica (X: Elena e Attilio) (POSTICIPATO)
+    -collezionare canzoni film Disney: controllare su torrent, prenderle dai film che ci passa Riccardo, you tube 
+    -documentarsi sulle applicazioni che fanno analisi musicali 
+    
 	
-NEW TASKS
+********************************************************* NEW TASKS ********************************************************************
 
 >>Basso livello
 
@@ -83,35 +109,11 @@ NEW TASKS
     (post-producing)
     -Individuare linee narrative della Disney
     
-        -Word_to_vec: [in pausa]
+    -Word_to_vec: [in pausa]
         
     
 
->intervista
-    -contattare gente per l'intervista. (X: Elena )
-        []
 
->immagini
-    -individuare la sorgente (file o DisneyPlus) (X: Attilio)
-        [WIP]
-        (estendere collezione film Disney. Da decidere "come" in base alla frequenza di campionamento che scegliamo,
-         bassa frequenza possiamo anche considerare gli screenshot a mano su DisneyPlus altrimenti download dei film.
-         Obiettivo: avere una collezione quanto più rappresentativa nel tempo)
-        
-    -definire e implementare tecnica di campionamento frame.(X: Angelo)
-        [FATTO]
-        (eventualmente da integrare con screenshot a mano ???)
-        
-    -estrazione e analisi dati sui colori (frequenze e analisi) (X: ???)
-        [WIP]
-        
- 
-    -#individuare sagome o linee se si riesce (?)
-
->musica (X: Elena e Attilio) (POSTICIPATO)
-    -collezionare canzoni film Disney: controllare su torrent, prenderle dai film che ci passa Riccardo, you tube 
-    -documentarsi sulle applicazioni che fanno analisi musicali 
-    
     
     
     
