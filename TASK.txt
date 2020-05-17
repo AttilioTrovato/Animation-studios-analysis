@@ -51,16 +51,15 @@ TASK:
 
 >immagini
     -individuare la sorgente (file o DisneyPlus) (X: Attilio)
+        [FATTO]
+        
+    - download film e scegliere frequenza di campionamento
         [WIP]
-        (estendere collezione film Disney. Da decidere "come" in base alla frequenza di campionamento che scegliamo,
-         bassa frequenza possiamo anche considerare gli screenshot a mano su DisneyPlus altrimenti download dei film.
-         Obiettivo: avere una collezione quanto più rappresentativa nel tempo)
         
     -definire e implementare tecnica di campionamento frame.(X: Angelo)
         [FATTO]
-        (eventualmente da integrare con screenshot a mano ???)
         
-    -estrazione e analisi dati sui colori (frequenze e analisi) (X: ???)
+    -estrazione e analisi dati sui colori (frequenze e analisi) (X: Attilio)
         [WIP]
         
  
