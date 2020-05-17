@@ -35,6 +35,8 @@
         - Cercare altri filtri: cioè dizionari di parole più comuni della lingua inglese (per togliere le prime 100, ex.)
         - calcolo dell'TF-IDF
         - usare POS tagging (per esempio, wordcloud di soli sostantivi)
+        - creazione di dizionari specifici per categoria
+        - usare stemming
     
     >> COMPLESSITA'
         - risorse linguistiche (tipo dizionari) che abbiano associato il livello di formalità (F-score: https://www.aclweb.org/anthology/Q16-1005.pdf) e complessità
@@ -52,9 +54,7 @@
     - ricercare risorse:
         - dizionari "tematici"
         
-    - dedurre core dei film da parole chiave
-    
-    - creazione di dizionari specifici per categoria
+    - dedurre core dei film da parole chiave (oppure individuare topic mediante topical classification delle entità)
     
     - focalizzarsi su TOPIC specifici: famiglia, la visione della donna ?
     
