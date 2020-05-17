@@ -1,4 +1,3 @@
-    
 **************************************************************************************************************************************
 *********************************************************** DONE *********************************************************************
 **************************************************************************************************************************************
@@ -9,6 +8,7 @@
     - reperire trame
     - cleaning e storage (elasticsearch) dei sottotitoli.
 
+    
 > IMMAGINI
     - individuare la sorgente (file o DisneyPlus) (X: Attilio)
     - definire e implementare tecnica di campionamento frame.(X: Angelo)
@@ -17,13 +17,32 @@
 ******************************************************* IN_PROGRESS ******************************************************************
 **************************************************************************************************************************************
 
-> TESTO
-    - estrarre informazioni viste in IR (X: ???)
+> TESTO - BASSO LIVELLO
+    >> COMPLESSITA' [Attilio]
+        - risorse linguistiche (tipo dizionari) che abbiano associato il livello di formalità (F-score: https://www.aclweb.org/anthology/Q16-1005.pdf) e complessità
+        - calcolare il numero di parole per film + il numero di parole medie per decade + la lunghezza dei sottotitoli (lunghezza frasi)
+        - usare POS tagging (per esempio, per contare aggettivi e avverbi)
 
+    >> WORDCLOUD [Elena (e Valeria)]
+        - per ogni film, creare un dizionario con la frequenza delle parole (con un semplice counter) e confrontare le parole in comune nei film
+        - Cercare altri filtri: cioè dizionari di parole più comuni della lingua inglese (per togliere le prime 100, ex.)
+        - calcolo dell'TF-IDF
+        - usare POS tagging (per esempio, wordcloud di soli sostantivi)
+        - creazione di dizionari specifici per categoria
+        - usare stemming
+  
+  
+> TESTO - TOPIC
+    - esplorare tool disponibili: [Valeria (e Elena)]
+        - Tagme
+        - Dandelion
+        - WordnetDomains (http://wndomains.fbk.eu/)
+        - Latent Dirichlet Allocation (LDA)
+    
     
 > IMMAGINI
     - download film e scegliere frequenza di campionamento
-    - estrazione e analisi dati sui colori (frequenze e analisi) (X: Attilio)
+    - estrazione e analisi dati sui colori (frequenze e analisi) [Angelo]
 
 **************************************************************************************************************************************
 ********************************************************* BACKLOG ********************************************************************
@@ -38,19 +57,8 @@
         - creazione di dizionari specifici per categoria
         - usare stemming
     
-    >> COMPLESSITA'
-        - risorse linguistiche (tipo dizionari) che abbiano associato il livello di formalità (F-score: https://www.aclweb.org/anthology/Q16-1005.pdf) e complessità
-        - calcolare il numero di parole per film + il numero di parole medie per decade + la lunghezza dei sottotitoli (lunghezza frasi)
-        - usare POS tagging (per esempio, per contare aggettivi e avverbi)
 
-        
-> TESTO - TOPIC
-    - esplorare tool disponibili:
-        - Tagme
-        - Dandelion
-        - WordnetDomains (http://wndomains.fbk.eu/)
-        - Latent Dirichlet Allocation (LDA)
-        
+> TESTO - TOPIC        
     - ricercare risorse:
         - dizionari "tematici"
         
