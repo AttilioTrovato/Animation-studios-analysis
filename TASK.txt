@@ -12,7 +12,6 @@
 > IMMAGINI
     - individuare la sorgente (file o DisneyPlus) (X: Attilio)
     - definire e implementare tecnica di campionamento frame.(X: Angelo)
-    - estrazione e analisi dati sui colori (frequenze e analisi) (X: Attilio)
 
 **************************************************************************************************************************************
 ******************************************************* IN_PROGRESS ******************************************************************
@@ -24,6 +23,7 @@
     
 > IMMAGINI
     - download film e scegliere frequenza di campionamento
+    - estrazione e analisi dati sui colori (frequenze e analisi) (X: Attilio)
 
 **************************************************************************************************************************************
 ********************************************************* BACKLOG ********************************************************************
