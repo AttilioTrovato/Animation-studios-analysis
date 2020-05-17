@@ -6,7 +6,7 @@
     - download dei sottotitoli raggruppati per decade, categoria e case di produzione. (X: Valeria e Attilio)
     - individuare sottotitoli NON in inglese (report dei mancanti)
     - reperire trame
-    - cleaning e storage (elasticsearch) dei sottotitoli.
+    - cleaning e storage dei sottotitoli.
 
     
 > IMMAGINI
