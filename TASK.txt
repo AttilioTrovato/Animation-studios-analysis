@@ -1,79 +1,35 @@
-COSE DA FARE PER IL PROGETTONE
-
-1. Trovare il resto degli script e/o sottotitoli (N.B. lavorare lo stesso su quelli che trovi, per vedere se funziona).
-
-2. Testo: 
-	-ripulire i testi (stopwords e simboli)? o possono servirci?
-	-tag cloud(file IR) (tutti insieme o si fa una divisione per anno o per qualche altra cosa?)
-	-usare l'annotazione TAGME (file IR)
-	-calcolare lunghezza frasi e lunghezza parole su py (secondo me non dobbiamo ripulirle delle stopwords)
-	-calcolare il numero di parole per film + il numero di parole medie per decade
-
-
-3. Capire come funzionano le librerie di classificazione musica (per i generi):
-	-librosa
-	-IPython.display.Audio
-(link all'articolo):
-https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
-
-4. Scaricare i video e dividerli in frame.
-	-OBS (streaming e registrazione video gratuito)
-	
-5. Capire come fare per l'estrazione e classificazione dei colori:
-	-OpenCV?
-(link agli articoli):
-https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
-
-###############################################################################################################
-###############################################################################################################
-
-TASK:
->testo
-    -download dei sottotitoli raggruppati per decade, categoria e case di produzione. (X: Valeria e Attilio)
-        [FATTO]
-        
-    -individuare sottotitoli NON in inglese (report dei mancanti)
-        [FATTO]
-        
-    -reperire trame
-        [X Valeria]
-        [FATTO]
-        
-    -cleaning e storage (elasticsearch) dei sottotitoli. (X: Elena e Angelo)
-        [FATTO]
-         
-    - estrarre informazioni viste in IR (X: Angelo)
-        [WIP]
-        
->intervista
-    -contattare gente per l'intervista. (X: Elena )
-        []
-
->immagini
-    -individuare la sorgente (file o DisneyPlus) (X: Attilio)
-        [FATTO]
-        
-    - download film e scegliere frequenza di campionamento
-        [WIP]
-        
-    -definire e implementare tecnica di campionamento frame.(X: Angelo)
-        [FATTO]
-        
-    -estrazione e analisi dati sui colori (frequenze e analisi) (X: Attilio)
-        [WIP]
-        
- 
-    -#individuare sagome o linee se si riesce (?)
-
->musica (X: Elena e Attilio) (POSTICIPATO)
-    -collezionare canzoni film Disney: controllare su torrent, prenderle dai film che ci passa Riccardo, you tube 
-    -documentarsi sulle applicazioni che fanno analisi musicali 
     
-	
-********************************************************* NEW TASKS ********************************************************************
+**************************************************************************************************************************************
+*********************************************************** DONE *********************************************************************
+**************************************************************************************************************************************
 
-> BASSO LIVELLO
+> TESTO
+    - download dei sottotitoli raggruppati per decade, categoria e case di produzione. (X: Valeria e Attilio)
+    - individuare sottotitoli NON in inglese (report dei mancanti)
+    - reperire trame
+    - cleaning e storage (elasticsearch) dei sottotitoli.
 
+> IMMAGINI
+    - individuare la sorgente (file o DisneyPlus) (X: Attilio)
+    - definire e implementare tecnica di campionamento frame.(X: Angelo)
+    - estrazione e analisi dati sui colori (frequenze e analisi) (X: Attilio)
+
+**************************************************************************************************************************************
+******************************************************* IN_PROGRESS ******************************************************************
+**************************************************************************************************************************************
+
+> TESTO
+    - estrarre informazioni viste in IR (X: ???)
+
+    
+> IMMAGINI
+    - download film e scegliere frequenza di campionamento
+
+**************************************************************************************************************************************
+********************************************************* BACKLOG ********************************************************************
+**************************************************************************************************************************************
+
+> TESTO - BASSO LIVELLO
     >> WORDCLOUD
         - per ogni film, creare un dizionario con la frequenza delle parole (con un semplice counter) e confrontare le parole in comune nei film
         - Cercare altri filtri: cioè dizionari di parole più comuni della lingua inglese (per togliere le prime 100, ex.)
@@ -85,8 +41,8 @@ TASK:
         - calcolare il numero di parole per film + il numero di parole medie per decade + la lunghezza dei sottotitoli (lunghezza frasi)
         - usare POS tagging (per esempio, per contare aggettivi e avverbi)
 
-> TOPIC
-
+        
+> TESTO - TOPIC
     - esplorare tool disponibili:
         - Tagme
         - Dandelion
@@ -106,7 +62,33 @@ TASK:
     - individuare linee narrative della Disney
     
     -Word_to_vec: [in pausa]
+    
+    
+> IMMAGINI
+    - #individuare sagome o linee se si riesce (?)
+
+    
+> INTERVISTA
+    - contattare gente per l'intervista. (X: Elena )
+    
+    
+> MUSICA (X: Elena e Attilio) (POSTICIPATO)
+    - collezionare canzoni film Disney: controllare su torrent, prenderle dai film che ci passa Riccardo, you tube 
+    - documentarsi sulle applicazioni che fanno analisi musicali
         
+**************************************************************************************************************************************
+**************************************************************************************************************************************
+**************************************************************************************************************************************
+
+NOTE:
+
 --Verificare se può essere utile questo per il POS tagging: https://textblob.readthedocs.io/en/dev/-- V.
 
+3. Capire come funzionano le librerie di classificazione musica (per i generi):
+	-librosa
+	-IPython.display.Audio
+(link all'articolo):
+https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
+
+https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
 
