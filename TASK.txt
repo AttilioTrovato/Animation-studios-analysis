@@ -18,12 +18,12 @@
 **************************************************************************************************************************************
 
 > TESTO - BASSO LIVELLO
-    >> COMPLESSITA' [Attilio]
+    >> COMPLESSITA' [Elena]
         - risorse linguistiche (tipo dizionari) che abbiano associato il livello di formalità (F-score: https://www.aclweb.org/anthology/Q16-1005.pdf) e complessità
         - calcolare il numero di parole per film + il numero di parole medie per decade + la lunghezza dei sottotitoli (lunghezza frasi)
         - usare POS tagging (per esempio, per contare aggettivi e avverbi)
 
-    >> WORDCLOUD [Elena (e Valeria)]
+    >> WORDCLOUD [Attilio (e Valeria)]
         - per ogni film, creare un dizionario con la frequenza delle parole (con un semplice counter) e confrontare le parole in comune nei film
         - Cercare altri filtri: cioè dizionari di parole più comuni della lingua inglese (per togliere le prime 100, ex.)
         - calcolo dell'TF-IDF
