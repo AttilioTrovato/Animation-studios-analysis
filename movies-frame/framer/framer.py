@@ -36,14 +36,25 @@ def remove_spaces():
 
     return
 
+def count_movies():
+    count = 0
+    for r, d, files in os.walk(MOVIES_FOLDER):
+        count += len(files)
+
+    return count
+
 def main():
     remove_spaces()
     create_folder_tree()
+    tot_movies = count_movies()
+    print("Movies to process:", tot_movies)
 
+    count = 0
     for r, d, files in os.walk(MOVIES_FOLDER):
         for f in files:
+            count += 1
             print(SEPARATOR)
-            print('Processing', f)
+            print('Processing', str(count) + '/' + str(tot_movies), f)
             
             filename = r + '/' + f
             frames_folder_dest = filename.replace(MOVIES_FOLDER, FRAMES_FOLDER)
