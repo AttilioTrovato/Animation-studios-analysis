@@ -10,7 +10,7 @@ from sklearn.cluster import KMeans
 SEPARATOR = '\n#############################################################\n'
 
 FRAMES_FOLDER = 'movie_frames'
-CENTROIDS_FOLDER = 'centroids_movies'
+CENTROIDS_FOLDER = 'movie_centroids'
 NUMBER_OF_CENTROIDS = 10
 
 def get_image(image_path):
