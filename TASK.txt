@@ -34,14 +34,14 @@
   
 > TESTO - ALTO LIVELLO
     - esplorare tool disponibili: [Valeria (e Elena)]
-        - Tagme
-        - Dandelion
-        - WordnetDomains (http://wndomains.fbk.eu/)
+        - Tagme  (da controllare)
+        - Dandelion  (Valeria)
+        - WordnetDomains (http://wndomains.fbk.eu/)  (Valeria)
         - Latent Dirichlet Allocation (LDA)
     
     
 > IMMAGINI
-    - download film e scegliere frequenza di campionamento
+    - download film e scegliere frequenza di campionamento 
     - estrazione e analisi dati sui colori (frequenze e analisi) [Angelo]
 
 **************************************************************************************************************************************
@@ -56,6 +56,10 @@
         - usare POS tagging (per esempio, wordcloud di soli sostantivi)
         - creazione di dizionari specifici per categoria
         - usare stemming
+
+- misure di difficoltà testo
+- Dandelion
+- dizionari tematici 
     
 
 > TESTO - ALTO LIVELLO
