@@ -36,8 +36,10 @@
     - esplorare tool disponibili: [Valeria (e Elena)]
         - Tagme  (da controllare)
         - Dandelion  (Valeria)
-        - WordnetDomains (http://wndomains.fbk.eu/)  (Valeria)
-        - Latent Dirichlet Allocation (LDA)
+        
+    - topic modeling (LDA) [Angelo]
+    
+    - WordnetDomain [Valeria]
     
     
 > IMMAGINI
@@ -49,13 +51,7 @@
 **************************************************************************************************************************************
 
 > TESTO - BASSO LIVELLO
-    >> WORDCLOUD
-        - per ogni film, creare un dizionario con la frequenza delle parole (con un semplice counter) e confrontare le parole in comune nei film
-        - Cercare altri filtri: cioè dizionari di parole più comuni della lingua inglese (per togliere le prime 100, ex.)
-        - calcolo dell'TF-IDF
-        - usare POS tagging (per esempio, wordcloud di soli sostantivi)
-        - creazione di dizionari specifici per categoria
-        - usare stemming
+
 
 - misure di difficoltà testo
 - Dandelion
@@ -66,12 +62,8 @@
     - ricercare risorse:
         - dizionari "tematici"
         
-    - sentiment analysis
-    
     - clustering
-    
-    - topic modeling
-        
+         
     - dedurre core dei film da parole chiave (oppure individuare topic mediante topical classification delle entità)
     
     - focalizzarsi su TOPIC specifici: famiglia, la visione della donna ?
@@ -79,7 +71,9 @@
     (post-producing)
     - individuare linee narrative della Disney
     
-    -Word_to_vec: [in pausa]
+    - Doc2Vec [Elena]
+    
+    - Word2Vec [Attilio]
     
     
 > IMMAGINI
