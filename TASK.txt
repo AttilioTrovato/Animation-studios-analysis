@@ -58,7 +58,7 @@
         
     
     - WordnetDomain [Valeria]
-        - ultimare output
+        - ultimare output (merge notebooks)
         - visualizzazione
         
         
