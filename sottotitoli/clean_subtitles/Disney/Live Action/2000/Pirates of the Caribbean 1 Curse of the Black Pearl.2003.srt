@@ -1,8 +1,8 @@
-♪ Yo ho Yo ho ♪
-♪ A pirate's life for me ♪
-♪ We extort, we pilfer
-we filch, we sack ♪
-♪ Drink ♪
+ Yo ho Yo ho 
+ A pirate's life for me 
+ We extort, we pilfer
+we filch, we sack 
+ Drink 
 Quiet, missy.
 Cursed pirates sail these waters.
 You don't want to bring
@@ -1723,13 +1723,13 @@ of the infamous Jack Sparrow.
 You spent three days,
 lying on a beach, drinking rum.
 Welcome to the Caribbean, love.
-♪ We're devils We're black sheep ♪
-♪ We're really bad eggs ♪
-♪ Drink up, me hearties Yo ho ♪
-♪ Yo ho, yo ho A
-pirate's life for me ♪
+ We're devils We're black sheep 
+ We're really bad eggs 
+ Drink up, me hearties Yo ho 
+ Yo ho, yo ho A
+pirate's life for me 
 I love this song.
-♪ Really bad eggs ♪
+ Really bad eggs 
 Ooh...
 When I get the Pearl back,
 I'm gonna teach it
@@ -2274,5 +2274,5 @@ Hands to braces.
 Let go and haul to run free.
 Now...
 Bring me that horizon.
-♪ And really bad eggs ♪
-♪ Drink up, me hearties Yo ho ♪
+ And really bad eggs 
+ Drink up, me hearties Yo ho 

@@ -18,21 +18,21 @@ second star to the right...
 and straight on to morning.
 Never Land!
 
-/ The second star
-to the right /
-/ Shines in the night
-for you /
-/ To tell you that
-the dream you plan /
-/ Really can come true /
-/ The second star
-to the right /
-/ Shines with
-a light that's rare /
-/ And if it's
-Never Land you need /
-/ its light
-will lead you there /
+ The second star
+to the right 
+ Shines in the night
+for you 
+ To tell you that
+the dream you plan 
+ Really can come true 
+ The second star
+to the right 
+ Shines with
+a light that's rare 
+ And if it's
+Never Land you need 
+ its light
+will lead you there 
 
 Our story begins
 in diffilcult times:
@@ -321,29 +321,29 @@ a great deal to learn.
 
 
 Uhh!
-/ I am not a child now /
-/ I can take care of myself /
-/ Mustn't let them down now /
-/ Mustn't let them
-see me cry /
-/ I'm fine /
-/ I'm flne /
-/ I'm too tlied to listen /
-/ I'm too old to belleve /
-/ All these childish stories /
-/ There is no such thing
-as faith /
-/ And trust /
-/ And pixie dust /
-/ 'Cause I try /
-/ But it's so hard
-to believe /
-/ I try /
-/ But I can't see
-what you see /
-/ I try /
-/ I try /
-/ I try /
+ I am not a child now 
+ I can take care of myself 
+ Mustn't let them down now 
+ Mustn't let them
+see me cry 
+ I'm fine 
+ I'm flne 
+ I'm too tlied to listen 
+ I'm too old to belleve 
+ All these childish stories 
+ There is no such thing
+as faith 
+ And trust 
+ And pixie dust 
+ 'Cause I try 
+ But it's so hard
+to believe 
+ I try 
+ But I can't see
+what you see 
+ I try 
+ I try 
+ I try 
 
 
 I don't know if it's going!
@@ -407,15 +407,15 @@ we shall lure Peter Pan
 to his doom! Ha ha!
 Summon the beast!
 Yes, sir, Captain. Right away!
-/ Oh, yo ho ho, another plan /
-/ To try to capture
-Peter Pan /
-/ Captaln Hook's
-a brilliant man /
-/ Who else could think
-of the perfect crime /
-/ And bumble
-and fumble it every time /
+ Oh, yo ho ho, another plan 
+ To try to capture
+Peter Pan 
+ Captaln Hook's
+a brilliant man 
+ Who else could think
+of the perfect crime 
+ And bumble
+and fumble it every time 
 Smee!
 Whoa!
 
@@ -1162,27 +1162,27 @@ to be one of us...
 Yes?
 There are some things to know.
 What's that?
-/ We like to dream all day /
-/ And then at night we play /
-/ We swing on limbs of trees /
-/ Till we wake up the bees /
-/ These are the things
-we Lost Boys do /
+ We like to dream all day 
+ And then at night we play 
+ We swing on limbs of trees 
+ Till we wake up the bees 
+ These are the things
+we Lost Boys do 
 
-/ We swing from rope to rope /
-/ We have no use for soap /
-/ With open mouths we chomp /
-/ On mud ples from the swamp /
-/ And then we top it off! /
-/ With pudding from a trough /
-/ These are the things
-we Lost Boys do /
-/ We're rolllng in dirt /
-/ And we won't
-change our shirt /
+ We swing from rope to rope 
+ We have no use for soap 
+ With open mouths we chomp 
+ On mud ples from the swamp 
+ And then we top it off! 
+ With pudding from a trough 
+ These are the things
+we Lost Boys do 
+ We're rolllng in dirt 
+ And we won't
+change our shirt 
 Ha ha!
-/ We're marchlng around /
-/ To see what makes a sound /
+ We're marchlng around 
+ To see what makes a sound 
 
 
 
@@ -1198,12 +1198,12 @@ Dare you
 to explore that cave!
 I'll have
 an overnight trip!
-/ And if you're
-feeling scared /
-/ I'll have my friends
-right there /
-/ These are the things
-we Lost Boys do /
+ And if you're
+feeling scared 
+ I'll have my friends
+right there 
+ These are the things
+we Lost Boys do 
 
 
 Ooh!
@@ -1239,18 +1239,18 @@ Oh, yes.
 I'd like that very much, Peter.
 Let's hear it for Jane!
 
-/ Now that you're one of us /
-/ Feel free to sing along /
-/ We are so proud of you /
-/ That you can do no wrong /
-/ And we don't even care /
-/ if you pull on our hair /
-/ These are the things
-that Lost Boys__ /
-/ These are the things
-that Lost Girls__ /
-/ These are the things
-we love to__ /
+ Now that you're one of us 
+ Feel free to sing along 
+ We are so proud of you 
+ That you can do no wrong 
+ And we don't even care 
+ if you pull on our hair 
+ These are the things
+that Lost Boys__ 
+ These are the things
+that Lost Girls__ 
+ These are the things
+we love to__ 
 
 No, wait! No!
 Whoa!
@@ -1312,26 +1312,26 @@ Tinker Bell!
 Tink! Tink!
 Tinker Bell!
 It's true.
-/ I can flnally see it /
-/ Now I have to believe /
+ I can flnally see it 
+ Now I have to believe 
 Oh. Oh, no.
 
 This is all my fault.
-/ All those precious stories /
-/ All the world
-is made of faith /
-/ And trust /
+ All those precious stories 
+ All the world
+is made of faith 
+ And trust 
 I'm so sorry.
-/ And pixie dust /
+ And pixie dust 
 
-/ So I'll try /
-/ 'Cause I finally believe /
-/ I'll try /
-/ 'Cause I can see
-what you see /
-/ I'll try /
-/ I'll try /
-/ To fly /
+ So I'll try 
+ 'Cause I finally believe 
+ I'll try 
+ 'Cause I can see
+what you see 
+ I'll try 
+ I'll try 
+ To fly 
 
 
 Tinker Bell?
@@ -1629,136 +1629,136 @@ Come on, Tink. Let's go home.
 
 
 
-/ Do you believe in magic /
-/ in a young girl's heart /
-/ How the music can free her /
-/ Whenever it starts /
-/ And it's maglc /
-/ if the music can move you /
-/ And hold you so tight /
-/ That it never can lose you /
-/ Your feet start tappin'/
-/ And you can't seem to find /
-/ if it's really real /
-/ Or just a state of mind /
-/ if you believe in magic /
-/ Just close those big eyes /
-/ And think all the wonderful
-thoughts that arise /
-/ And maybe /
-/ if you dream it just right /
-/ Your toes will be over
-the treetops tonight /
-/ And you'll be flyin'/
-/ And from there you can see /
-/ How the magic's in you /
-/ That the magic's in me /
-/ if you believe in magic /
-/ Come along with me /
-/ We'll dance until morning /
-/ Till it's just you and me /
-/ And maybe /
-/ if the music is right /
-/ I'll meet you tomorrow
-so late at night /
-/ And we'll go dancin', baby,
-then you'll see /
-/ How the magic's in music /
-/ And the music's in me /
-/ Belleve in the magic
-of a young girl's soul /
-/ Believe in the magic
-of rock and roll /
-/ Believe in the magic
-that can set you free /
-/ Oh /
-/ Dream on,
-dream on, dream on /
-/ Talkin' about maglc /
-/ Dream on, everybody /
-/ Do you believe in magic /
-/ Dream on,
-dream on, dream on /
-/ Do you believe, believer /
-/ Dream on, everybody /
-/ Oh, talkin' about magic /
-/ Dream on,
-dream on, dream on /
-/ Do you believe in magic /
-/ Dream on, everybody /
-/ Do you believe, believer /
-/ Dream on,
-dream on, dream on /
-/ Talkin' about magic /
-/ Dream on, everybody /
-/ Do you believe in magic /
-/ Dream on,
-dream on, dream on /
-/ Do you believe, believer /
-/ Dream on, everybody /
-/ Talkin' about magic /
-/ Dream on,
-dream on, dream on /
-/ Do you believe, believer /
-/ Dream on, everybody /
-/ I am not a child now /
-/ I can take care of myself /
-/ I mustn't
-let them down, now /
-/ Mustn't let them
-see me cry /
-/ I'm flne /
-/ I'm flne /
-/ I'm too tired to listen /
-/ I'm too old to believe /
-/ All these chlidish stories /
-/ There is no such thing
-as faith /
-/ And trust /
-/ And pixie dust /
-/ I try /
-/ But it's so hard
-to believe /
-/ I try /
-/ But I can't see
-what you see /
-/ I try /
-/ I try /
-/ I try /
-/ My whole world is changing /
-/ I don't know where to turn /
-/ I can't leave you waiting /
-/ But I can't stay
-and watch the city burn /
-/ Mmm, watch it burn /
-/ 'Cause I try /
-/ But it's so hard
-to believe /
-/ I try /
-/ But I can't see
-what you see /
-/ I try /
-/ I try /
-/ I try and try
-to understand /
-/ The distance in between /
-/ The love I feel
-and the things I fear /
-/ And every single dream /
-/ I can finally see it /
-/ Now I have to believe /
-/ All those precious stories /
-/ All the world
-is made of faith /
-/ And trust /
-/ And pixie dust /
-/ So I'll try /
-/ 'Cause I finally believe /
-/ I'll try /
-/ 'Cause I can see
-what you see /
-/ I'll try /
-/ I'll try /
-/ I wlll try /
-/ I'll try /
-/ To fly /
+ Do you believe in magic 
+ in a young girl's heart 
+ How the music can free her 
+ Whenever it starts 
+ And it's maglc 
+ if the music can move you 
+ And hold you so tight 
+ That it never can lose you 
+ Your feet start tappin'
+ And you can't seem to find 
+ if it's really real 
+ Or just a state of mind 
+ if you believe in magic 
+ Just close those big eyes 
+ And think all the wonderful
+thoughts that arise 
+ And maybe 
+ if you dream it just right 
+ Your toes will be over
+the treetops tonight 
+ And you'll be flyin'
+ And from there you can see 
+ How the magic's in you 
+ That the magic's in me 
+ if you believe in magic 
+ Come along with me 
+ We'll dance until morning 
+ Till it's just you and me 
+ And maybe 
+ if the music is right 
+ I'll meet you tomorrow
+so late at night 
+ And we'll go dancin', baby,
+then you'll see 
+ How the magic's in music 
+ And the music's in me 
+ Belleve in the magic
+of a young girl's soul 
+ Believe in the magic
+of rock and roll 
+ Believe in the magic
+that can set you free 
+ Oh 
+ Dream on,
+dream on, dream on 
+ Talkin' about maglc 
+ Dream on, everybody 
+ Do you believe in magic 
+ Dream on,
+dream on, dream on 
+ Do you believe, believer 
+ Dream on, everybody 
+ Oh, talkin' about magic 
+ Dream on,
+dream on, dream on 
+ Do you believe in magic 
+ Dream on, everybody 
+ Do you believe, believer 
+ Dream on,
+dream on, dream on 
+ Talkin' about magic 
+ Dream on, everybody 
+ Do you believe in magic 
+ Dream on,
+dream on, dream on 
+ Do you believe, believer 
+ Dream on, everybody 
+ Talkin' about magic 
+ Dream on,
+dream on, dream on 
+ Do you believe, believer 
+ Dream on, everybody 
+ I am not a child now 
+ I can take care of myself 
+ I mustn't
+let them down, now 
+ Mustn't let them
+see me cry 
+ I'm flne 
+ I'm flne 
+ I'm too tired to listen 
+ I'm too old to believe 
+ All these chlidish stories 
+ There is no such thing
+as faith 
+ And trust 
+ And pixie dust 
+ I try 
+ But it's so hard
+to believe 
+ I try 
+ But I can't see
+what you see 
+ I try 
+ I try 
+ I try 
+ My whole world is changing 
+ I don't know where to turn 
+ I can't leave you waiting 
+ But I can't stay
+and watch the city burn 
+ Mmm, watch it burn 
+ 'Cause I try 
+ But it's so hard
+to believe 
+ I try 
+ But I can't see
+what you see 
+ I try 
+ I try 
+ I try and try
+to understand 
+ The distance in between 
+ The love I feel
+and the things I fear 
+ And every single dream 
+ I can finally see it 
+ Now I have to believe 
+ All those precious stories 
+ All the world
+is made of faith 
+ And trust 
+ And pixie dust 
+ So I'll try 
+ 'Cause I finally believe 
+ I'll try 
+ 'Cause I can see
+what you see 
+ I'll try 
+ I'll try 
+ I wlll try 
+ I'll try 
+ To fly 

@@ -689,7 +689,7 @@ Hi. I represent an ant colony and we're...
 Hey, bartender!
 Bloody Mary, Opositive.
 Sir?
-♪ Ladybug, ladybug, fly away home ♪ 
+ Ladybug, ladybug, fly away home  
 Not so tough now, are you?
 All right, clown.
 Get up and fight like a girl.
@@ -881,9 +881,9 @@ fight the grasshoppers away.
 Look at the beautiful colors of the blood.
 We drew one of you dying because our
 teacher said it would be more dramatic.
-♪ I tell you a tale, of heroes so bold, ♪
-♪ Who vanquished our grasshopper
-enemies of old. ♪
+ I tell you a tale, of heroes so bold, 
+ Who vanquished our grasshopper
+enemies of old. 
 Look, the last leaf has fallen.
 We are the grasshoppers!
 Where's our food?
@@ -1257,8 +1257,8 @@ I'm barefooting!
 Yo, bugito,
 dos granitos, pronto!
 You gotta try this, man!
-♪ La cucaracha, la cucaracha ♪
-♪ Dadadadadadada ♪
+ La cucaracha, la cucaracha 
+ Dadadadadadada 
 We go all the way back there
 and it starts to rain,
 we might as well be sucking bug spray.
@@ -1301,7 +1301,7 @@ Actually it wasn't even my idea.
 It was Axle and Loco's!
 They talked fancy to me.
 I got confused!
-♪ La cucaracha ♪
+ La cucaracha 
 Guys, order another round
 because we're staying here!
 Yeah!
@@ -1346,9 +1346,9 @@ To the bird!
 The bird!
 Get down, roly boys!
 How low can you go, sing it now.
-♪ How low can you go ♪
+ How low can you go 
 Do it, Princess.
-♪ How low can you go ♪
+ How low can you go 
 And that's how my 12th husband died.
 So, now I'm a widow.
 I mean, I've always been a black widow,
@@ -1544,13 +1544,13 @@ Stay here.
 I'm gonna get help.
 Come on, wings, fly. Fly!
 Yeah.
-♪ I'm gonna be rich, rich, rich. ♪ 
-♪ I'm gonna be rich, rich, rich. ♪
-♪ I'm gonna be the richest flea in the land. ♪ 
-♪ Kaching! ♪
-♪ The streets'll be paved with golden retrievers ♪ 
-♪ I'm rich, rich, rich, ♪
-♪ That's who I am. ♪ 
+ I'm gonna be rich, rich, rich.  
+ I'm gonna be rich, rich, rich. 
+ I'm gonna be the richest flea in the land.  
+ Kaching! 
+ The streets'll be paved with golden retrievers  
+ I'm rich, rich, rich, 
+ That's who I am.  
 Poor fellow.
 Hey, maybe we can cheer him up a bit.
 Don't worry, Flik.
@@ -1623,8 +1623,8 @@ All right, let's do it.
 That's the Flik we know and love.
 We're on!
 So, what do we do first?
-♪ Bugs will pay big bucks to see ♪
-♪ A bonfire that is starring me ♪
+ Bugs will pay big bucks to see 
+ A bonfire that is starring me 
 P.T, look. Money!
 Where? Where?
 All right. Get moving!

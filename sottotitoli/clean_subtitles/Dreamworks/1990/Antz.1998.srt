@@ -430,12 +430,12 @@ Let me think.
 Never.
 Bye.
 No. Wait.
-♪ What a day it has been ♪
-♪ What a rare mood I'm in ♪
-♪ Why it's almost like being in love ♪
-♪ There is a smile on my face ♪
-♪ For the whole insect race ♪
-♪ Why it's almost like being in love ♪
+ What a day it has been 
+ What a rare mood I'm in 
+ Why it's almost like being in love 
+ There is a smile on my face 
+ For the whole insect race 
+ Why it's almost like being in love 
 Can I get you another one, pal?
 No.
 Thanks I...
@@ -578,10 +578,10 @@ Ten!
 Eleven!
 Twelve!
 Thirteen!
-♪ We ants go marching one by one.
-Hurrah, hurrah. ♪ 
-♪ We slaughter termites just for fun.
-Hurrah, hurrah. ♪ 
+ We ants go marching one by one.
+Hurrah, hurrah.  
+ We slaughter termites just for fun.
+Hurrah, hurrah.  
 So, these.. These termites,
 they're.. they're...
 These guys aren't gonna put up much
@@ -591,10 +591,10 @@ Not really, kid.
 They're five times our size.
 And they shoot acid from their foreheads.
 Hey. Keep it moving, shorty.
-♪ We ants go marching two by two.
-Hurrah, hurrah. ♪ 
-♪ We'll all be dead before we're through.
-Hurrah, hurrah. ♪ 
+ We ants go marching two by two.
+Hurrah, hurrah.  
+ We'll all be dead before we're through.
+Hurrah, hurrah.  
 He say, what exactly,
 what does our platoon do?
 I mean, you know, will we be
@@ -602,11 +602,11 @@ serving beverages or...
 or processing paperwork?
 Our platoon has the best assignment of all.
 We're the first into battle!
-♪ We ants go marching three by three. ♪
-♪ Hurrah, hurrah. ♪ 
-♪ Hurrah! Hurrah! ♪ 
-♪ We're off to face our destiny. ♪
-♪ Hurrah, hurrah. ♪ 
+ We ants go marching three by three. 
+ Hurrah, hurrah.  
+ Hurrah! Hurrah!  
+ We're off to face our destiny. 
+ Hurrah, hurrah.  
 Hey. Wait a minute. Let's not get
 we're being too hasty here.
 These. These guys, sound like bruisers.
@@ -1099,8 +1099,8 @@ He is one slippery character.
 They lost Bala's trail,
 at the edge of the lake.
 The lake?
-♪ All we are saying ♪ 
-♪ Is give Z a chance ♪ 
+ All we are saying  
+ Is give Z a chance  
 What's that soldier doing there?
 It appears He is holding hands, sir...
 with a worker.

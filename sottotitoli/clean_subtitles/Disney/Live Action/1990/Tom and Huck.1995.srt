@@ -116,11 +116,11 @@ just take a whippin'?
 I have got to do something, and I
 ain't got the heart to hit you.
 Now sit. 
-¶ toot, toot ¶ 
-¶ toot, toot ¶ 
-¶ toot, toot ¶ 
-¶ toot, toot ¶ 
-¶¶ ¶ toot, toot ¶
+ toot, toot  
+ toot, toot  
+ toot, toot  
+ toot, toot  
+  toot, toot 
 Are you feeling okay, tom?
 Hi, Billy. I was havin' so much
 fun, didn't even hear you comin'.
@@ -477,8 +477,8 @@ Come on.
 Let's go, muff.
 I didn't do it, tom.
 I swear, I didn't do it.
-¶ There's gonna be a hanging
-there's gonna be a hanging ¶ 
+ There's gonna be a hanging
+there's gonna be a hanging  
 you wanna drop dead and rot? 
 Muff's innocent, huck.
 We gotta help him.
@@ -1221,10 +1221,10 @@ Now, listen to him.
 to the forechamber, Rebecca."
 I'll go where I please.
 I dare ya.
-¶ Ring around the Rosie
-pocketful of posies ¶
-¶ ashes, ashes
-we all fall down ¶¶ 
+ Ring around the Rosie
+pocketful of posies 
+ ashes, ashes
+we all fall down  
 it's beautiful.
 I've been here a million times.
 Satan's cathedral. 
@@ -1444,4 +1444,4 @@ So...
 You ready to go put some gray
 hairs on your aunt's head?
 Whatcha got in mind?
-¶¶ 
+ 

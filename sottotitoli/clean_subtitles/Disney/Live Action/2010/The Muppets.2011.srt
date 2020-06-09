@@ -124,80 +124,80 @@ do we have to go over this?
 Turkey is a very real country.
 Wow, Muppet Studios.
 I can't believe it!
-# Everything is great
+ Everything is great
 Everything is grand
-# I got the whole wide world
+ I got the whole wide world
 in the palm of my hand
-# Everything is perfect
+ Everything is perfect
 It's falling into place
-# I can't seem to wipe
+ I can't seem to wipe
 this smile off my face
-# Life's a happy song when there's
+ Life's a happy song when there's
 someone by my side to sing along
-# When you're alone
+ When you're alone
 life can be a little rough
-# It makes you feel like
+ It makes you feel like
 you're three foot tall
-# When it's just you
+ When it's just you
 Well, times can be tough
-# When there's no one there
+ When there's no one there
 to catch your fall
 Whoooa!
-# Everything is great
+ Everything is great
 Everything is grand
-# I got the whole wide world
+ I got the whole wide world
 in the palm of my hand
-# Everything is perfect
+ Everything is perfect
 It's falling into place
-# I can't seem to wipe
+ I can't seem to wipe
 this smile off my face
-# Life smells like a rose
-# With someone to paint
-# And someone to pose
-# Life's a piece of cake
-# With someone to pedal
-# And someone to brake
-# Life is full of glee
-# With someone to saw
-# And someone to see
-# Life's a happy song
-# When there's someone
+ Life smells like a rose
+ With someone to paint
+ And someone to pose
+ Life's a piece of cake
+ With someone to pedal
+ And someone to brake
+ Life is full of glee
+ With someone to saw
+ And someone to see
+ Life's a happy song
+ When there's someone
 by my side to sing along
-# I've got everything that I need
-# Right in front of me
-# Nothing's stoppin' me
-# Nothin' that I can't be
-# With you right here next to me
-# Life's a piece of cake
-# With someone to give
-# And someone to... Heavy cake!
-# Life's a piece of pie
-# With someone to wash
-# And someone to dry
-# Life's an easy road
-# With someone beside you
-# To share the load
-# Life is full of highs
-# With someone to stir
-# And someone to fry
-# Life's a leg of lamb
-# With someone there to lend a hand
-# Life's a bunch of flowers
-# With someone to while away the hours
-# Life's a fillet of fish
-# Yes, it is
+ I've got everything that I need
+ Right in front of me
+ Nothing's stoppin' me
+ Nothin' that I can't be
+ With you right here next to me
+ Life's a piece of cake
+ With someone to give
+ And someone to... Heavy cake!
+ Life's a piece of pie
+ With someone to wash
+ And someone to dry
+ Life's an easy road
+ With someone beside you
+ To share the load
+ Life is full of highs
+ With someone to stir
+ And someone to fry
+ Life's a leg of lamb
+ With someone there to lend a hand
+ Life's a bunch of flowers
+ With someone to while away the hours
+ Life's a fillet of fish
+ Yes, it is
 Life's a happy song
-# When there's someone
+ When there's someone
 by your side to sing along
 Oooh...
-# I've got everything that I need
-# Right in front of me
+ I've got everything that I need
+ Right in front of me
 Nothing's
-# Stoppin' me
+ Stoppin' me
 Nothin' that I can't be
-# With you right here next to me
-# I've got everything that I need
-# Right in front of me #
+ With you right here next to me
+ I've got everything that I need
+ Right in front of me 
 Sorry. I was super excited.
 All right, Carlos. Flip the ignition.
 And that is how you fix
@@ -238,39 +238,39 @@ I love you so much.
 Oh.
 I love you, too.
 I'm gonna go check on Walter.
-# Everything's great
+ Everything's great
 Everything's grand
-# Except Gary's always off
+ Except Gary's always off
 with his friend
-# It's never me and him
+ It's never me and him
 It's always me and him and him
-# I wonder when it's going to end
-# But I guess that's OK
+ I wonder when it's going to end
+ But I guess that's OK
 'cause maybe someday
-# I know just how it's going to be
-# He'll ride up on a steed
+ I know just how it's going to be
+ He'll ride up on a steed
 Get down on one knee
-# And say "Mary, will you marry me?"
-# Please #
+ And say "Mary, will you marry me?"
+ Please 
 Oh...
-# I've got everything that I need
-# Right in front of me
-# Nothing's stoppin' me
+ I've got everything that I need
+ Right in front of me
+ Nothing's stoppin' me
 Nothin' that I can't be
-# With you right here next to me
-# You've got everything that you need
-# Right in front of you
+ With you right here next to me
+ You've got everything that you need
+ Right in front of you
 Nothing's stopping you
-# Nothing that you can't do
+ Nothing that you can't do
 that the world can throw at you
-# Life's a happy song
-# When there's someone
+ Life's a happy song
+ When there's someone
 by your side to sing
-# Life's a happy song
-# When there's someone
+ Life's a happy song
+ When there's someone
 by your side to sing
-# Life's a happy song when there's
-someone by your side to sing along #
+ Life's a happy song when there's
+someone by your side to sing along 
 OK, they're gone!
 Hey, Gary, what should
 we do first at Muppet Studio?
@@ -484,25 +484,25 @@ And I haven't seen the old gang
 in a long, long time.
 I guess people sort of forgot about us.
 Hm?
-# Is there more I could've said?
-# Now they're only pictures in my head
-# That's why my green is feeling gray
-# Sometimes even frogs have rainy days
-# Remember when the stage caved in
+ Is there more I could've said?
+ Now they're only pictures in my head
+ That's why my green is feeling gray
+ Sometimes even frogs have rainy days
+ Remember when the stage caved in
 while you were rocking out?
-# Who'd have thought your smorgasbord
+ Who'd have thought your smorgasbord
 would be hard to live without?
-# If we could do it all again
-# Just another chance to entertain
-# Would anybody watch or even care?
-# Or did something break
+ If we could do it all again
+ Just another chance to entertain
+ Would anybody watch or even care?
+ Or did something break
 we can't repair?
-# Your cannonball trajectory
+ Your cannonball trajectory
 It always gave me hope
-# They may have been unbearable
+ They may have been unbearable
 but I still loved your jokes
-# Is there more I could've said?
-# Now they're only pictures in my head
+ Is there more I could've said?
+ Now they're only pictures in my head
 I didn't do it. I've been framed!
 Ahh. Wocka wocka!
 Gonzo the Great
@@ -512,11 +512,11 @@ This legato tune is posolutely,
 most transparently bringing me down.
 For sure.
 One, two, and a half...
-# Can we do it all again?
-# Make'em laugh like we did then
-# We can harmonize for one more song
-# But I'm standing here instead
-# Now they're only pictures in my head #
+ Can we do it all again?
+ Make'em laugh like we did then
+ We can harmonize for one more song
+ But I'm standing here instead
+ Now they're only pictures in my head 
 Well, it sounds like you guys aren't
 getting back together anytime soon.
 Mmm...
@@ -540,8 +540,8 @@ Hmm.
 I don't think so, guys.
 Don't you see, Kermit?
 It's time to play the music.
-# It's time to light the lights
-# It's time to meet the Muppets... #
+ It's time to light the lights
+ It's time to meet the Muppets... 
 Please, Kermit.
 You're my hero.
 You're on my watch.
@@ -576,17 +576,17 @@ Well, I guess
 this is the place.
 Good evening, folks,
 and welcome to Pechoolo Casino!
-# Why are there such great deals
-# On our hotel rooms?
-# Free parking for cars
-# Not RVs
-# Not RVs
-# Our wedding chapel is 24 hours
-# No marriage certificate is needed
-# No marriage certificate is needed
-# We're glad you found it
-# Pechoolo Casino
-# The owners, the Moopets and me #
+ Why are there such great deals
+ On our hotel rooms?
+ Free parking for cars
+ Not RVs
+ Not RVs
+ Our wedding chapel is 24 hours
+ No marriage certificate is needed
+ No marriage certificate is needed
+ We're glad you found it
+ Pechoolo Casino
+ The owners, the Moopets and me 
 Chachacha!
 Thank you, thank you.
 We'll be back in six minutes.
@@ -1054,8 +1054,8 @@ The Economist says they've
 gotten back together again.
 The Muppets got back together?
 Remember?
-# Together again
-Gee, it's good to be... #
+ Together again
+Gee, it's good to be... 
 Gentlemen, please!
 No singing in my office!
 Yes, sir.
@@ -1253,11 +1253,11 @@ Uh... Oh, and if you like that one,
 what's the bear capital of the world?
 Moscow!
 Ha.
-# It's time to play the music
-# It's time to light the lights
+ It's time to play the music
+ It's time to light the lights
 Two, three, four.
-# It's time to put on makeup
-# It's time to dress up right #
+ It's time to put on makeup
+ It's time to dress up right 
 Hey guys, stop. Cut, cut, cut,
 cut, cut. What's the problem?
 We can't keep time without
@@ -1296,44 +1296,44 @@ Welcome.
 How many in your party? Two?
 Uh... No, just the one.
 All right, party of one, follow me.
-# I look around, and once
+ I look around, and once
 again I'm on my own
-# My man ain't here
+ My man ain't here
 He's gone and done me wrong
-# No one's gonna stop this girl
+ No one's gonna stop this girl
 from having fun
-# I throw my hands up high
+ I throw my hands up high
 and have a party for one
-# I'm having a me party
+ I'm having a me party
 A party by myself
-# A me party
+ A me party
 I don't need nobody else
-# A me party
+ A me party
 I'm the first and last to show
-# There's no one at this party
+ There's no one at this party
 that I don't already know
-# I'm not gonna sit around
+ I'm not gonna sit around
 by myself and wait for you
-# Haven't you heard?
+ Haven't you heard?
 One is the new two
-# I'm gonna make a scene
+ I'm gonna make a scene
 I'm gonna make a fuss
-# Tonight I'm gonna celebrate
+ Tonight I'm gonna celebrate
 with just the one of us
-# I'm having a me party
-# Haven't I seen me here before?
-# A me party
-# I'm the last one on the dance floor
-# Me party
-# A party just for moi
-# Me party
-# It's a solo Mardi Gras
-# I'm having a me party
+ I'm having a me party
+ Haven't I seen me here before?
+ A me party
+ I'm the last one on the dance floor
+ Me party
+ A party just for moi
+ Me party
+ It's a solo Mardi Gras
+ I'm having a me party
 I'm such good company
-# A me party
-# I saved the last dance for me
-# What happens at a me party
-stays at a me party #
+ A me party
+ I saved the last dance for me
+ What happens at a me party
+stays at a me party 
 Excuse me, miss, are you
 expecting anyone else?
 Oh... no.
@@ -1549,53 +1549,53 @@ Gary, I've gone home.
 I love you, but you need
 to decide, are you a man
 or a Muppet?
-# I reflect on my reflection
-# And I ask myself the question
-# What's the right direction to go?
-# I don't know
-# Am I a man
-# Or am I a Muppet?
-# Am I a Muppet?
-# If I'm a Muppet
+ I reflect on my reflection
+ And I ask myself the question
+ What's the right direction to go?
+ I don't know
+ Am I a man
+ Or am I a Muppet?
+ Am I a Muppet?
+ If I'm a Muppet
 Then I'm a very manly Muppet
-# Very manly Muppet
-# Am I a Muppet?
-# Muppet
-# Or am I a man?
-# Am I a man?
-# If I'm a man that makes
+ Very manly Muppet
+ Am I a Muppet?
+ Muppet
+ Or am I a man?
+ Am I a man?
+ If I'm a man that makes
 me a Muppet of a man
-# A Muppet of a man
-# I look into these eyes
-# And I don't recognize
-# The one I see inside
-# It's time for me to decide
-# Am I a man
-# Or am I a Muppet?
-# Am I a Muppet?
-# If I'm a Muppet
+ A Muppet of a man
+ I look into these eyes
+ And I don't recognize
+ The one I see inside
+ It's time for me to decide
+ Am I a man
+ Or am I a Muppet?
+ Am I a Muppet?
+ If I'm a Muppet
 Well, I'm a very manly Muppet
-# Very manly Muppet
-# Am I a Muppet?
-# Muppet
-# Or am I a man?
-# Am I a man?
-# If I'm a man that makes
+ Very manly Muppet
+ Am I a Muppet?
+ Muppet
+ Or am I a man?
+ Am I a man?
+ If I'm a man that makes
 me a Muppet of a man
-# A Muppet of a man
-# Here I go again
-# I'm always running out of time
-# I think I made up my mind
-# Now I understand who I am
-# I'm a man
-# I'm a Muppet
-# I'm a Muppet of a man
-# I'm a very manly Muppet
-# I'm a Muppety man
+ A Muppet of a man
+ Here I go again
+ I'm always running out of time
+ I think I made up my mind
+ Now I understand who I am
+ I'm a man
+ I'm a Muppet
+ I'm a Muppet of a man
+ I'm a very manly Muppet
+ I'm a Muppety man
 I'm so sorry.
 Oh, Gary.
 Mary.
-# That's what I am #
+ That's what I am 
 Kermit. We have our celebrity!
 Mr. Jack Black has graciously
 agreed to do the telethon!
@@ -1708,21 +1708,21 @@ welcome your host, Kermit the Frog.
 It's The Muppet Telethon,
 with our very special guest,
 Mr. Jack Black! Yay!
-# It's time to play the music
-# It's time to light the lights
-# It's time to meet the Muppets
+ It's time to play the music
+ It's time to light the lights
+ It's time to meet the Muppets
 on The Muppet Show tonight
-# It's time to put on makeup
-# It's time to dress up right
-# It's time to get things started
-# Why don't you get things started?
+ It's time to put on makeup
+ It's time to dress up right
+ It's time to get things started
+ Why don't you get things started?
 I always dreamed we'd be back here.
 Dreams? Those were nightmares!
-# It's time to get things started
-# On the most sensational
+ It's time to get things started
+ On the most sensational
 inspirational, celebrational
-# Muppetational
-This is what we call The Muppet Show #
+ Muppetational
+This is what we call The Muppet Show 
 Ladies and gentlemen,
 welcome to The Muppet Telethon!
 We have Muppets standing by
@@ -1890,8 +1890,8 @@ Not now, Fozzie.
 Tengauge gator grip.
 I love it when you talk shop.
 Oh!
-# La la la la la la la
-# Mee mee mee mee
+ La la la la la la la
+ Mee mee mee mee
 What? How'd they get
 the power back?
 We're gonna have to get up on that roof
@@ -1961,25 +1961,25 @@ it might be the
 last time we sing together.
 And... Well, are you ready?
 Oh, Kermie.
-# Why are there so many
-# Songs about rainbows?
-# And what's on the other side?
-# Rainbows are visions
-# But only illusions
-# And rainbows have nothing to hide
-# So we've been told
-# And some choose to believe it
-# I know they're wrong
+ Why are there so many
+ Songs about rainbows?
+ And what's on the other side?
+ Rainbows are visions
+ But only illusions
+ And rainbows have nothing to hide
+ So we've been told
+ And some choose to believe it
+ I know they're wrong
 Wait and see
-# Someday we'll find it
-# The rainbow connection
-# The lovers, the dreamers and me
-# All of us under its spell
-# We know that it's
-# Probably magic
-# Have you been half asleep
-# And have you heard voices?
-# I've heard them calling my name
+ Someday we'll find it
+ The rainbow connection
+ The lovers, the dreamers and me
+ All of us under its spell
+ We know that it's
+ Probably magic
+ Have you been half asleep
+ And have you heard voices?
+ I've heard them calling my name
 Hey, these are yours, man.
 I kept'em for ya.
 Drum.
@@ -1989,14 +1989,14 @@ No drum!
 Drum! Drum!
 No drum! No drum!
 You know what to do.
-# I've heard it too many times
+ I've heard it too many times
 to ignore it
-# It's something that
+ It's something that
 I'm supposed to be
 Aaah!
-# Someday we'll find it
-# The rainbow connection
-# The lovers, the dreamers and me #
+ Someday we'll find it
+ The rainbow connection
+ The lovers, the dreamers and me 
 Drum! Drum, drum! Drum!
 Ah ha ha ha ha.
 You still got it, man!
@@ -2150,70 +2150,70 @@ Muppets! Muppets!
 Muppets! Muppets! Muppets!
 Hm? Oh.
 How charming. A finale.
-# Everything is great
-# Everything is grand
-# We've got the whole wide world
+ Everything is great
+ Everything is grand
+ We've got the whole wide world
 in the palm of our hand
-# Everything is perfect
-# It's falling into place
-# I can't seem to wipe
+ Everything is perfect
+ It's falling into place
+ I can't seem to wipe
 this smile off my face
-# Life's a happy song
-# When there's someone
+ Life's a happy song
+ When there's someone
 by your side to sing along
-# Everything is great
+ Everything is great
 And we'll live happily ever after
-# And we'll keep giving the world
+ And we'll keep giving the world
 the third greatest gift
-# Laughter
-# Ze movie's almost over
+ Laughter
+ Ze movie's almost over
 It's time to say, "So long"
-# Will you please stop singing?
+ Will you please stop singing?
 You've already sung this song
-# Life's a happy song when there's
+ Life's a happy song when there's
 someone by your side
-# To sing along
+ To sing along
 We're happier when you don't sing.
-# We've got everything that we need
-# We can be whatever we want to be
-# Nothing we can't do
-# The skies are blue
+ We've got everything that we need
+ We can be whatever we want to be
+ Nothing we can't do
+ The skies are blue
 when it's me and you and you and you
-# And you and you and you and you
+ And you and you and you and you
 Well, all of you. Yeah!
-# La la
+ La la
 La la la la la
-# La la
+ La la
 Hey, remember me? I'm Jack Black!
 No, what are you doing? Whoa, whoa.
 No, no, no. Put me back down.
 All hail the Hobo King.
 What are you doing? This is insane.
-# We've got everything that we need
-# We can be whatever we want to be
-# Nothing that we can't do
-# The skies are blue
+ We've got everything that we need
+ We can be whatever we want to be
+ Nothing that we can't do
+ The skies are blue
 when it's me and you and you and you
-# Life's a happy song
-# When there's someone
-# By your side to sing
-# Life's a happy song
-# Mee mee mee
+ Life's a happy song
+ When there's someone
+ By your side to sing
+ Life's a happy song
+ Mee mee mee
 Mee mee mee
-# Life's a happy song
+ Life's a happy song
 when there's someone
-# Someone
-# Someone
-# By your side
-# To sing along
+ Someone
+ Someone
+ By your side
+ To sing along
 I just have one question
 I need to ask you.
 Will you, Mary... marry me?
-# Mahna Mahna
-# Do do dododo
-# Mahna Mahna
-# Do dododo
-# Mahna Mahna
+ Mahna Mahna
+ Do do dododo
+ Mahna Mahna
+ Do dododo
+ Mahna Mahna
 You're breaking the law!
 I own that name.
 Hey, guys, I think I've finally
@@ -2223,20 +2223,20 @@ This just in: "Richman gives
 back Muppet theater and name.
 Change of heart.
 Nothing to do with head injury."
-# Mahna Mahna
-# Do do dododo
-# Mahna Mahna
-# Do dododo
-# Mahna Mahna
+ Mahna Mahna
+ Do do dododo
+ Mahna Mahna
+ Do dododo
+ Mahna Mahna
 Hey, Richman! We had a deal!
 Yeah, for reallies!
 Yeah, you owe us money, man.
 What the wocka?
 Thank you.
-# Mahna Mahna
-# Do do dododo
-# Mahna Mahna
-# Do dododo
+ Mahna Mahna
+ Do do dododo
+ Mahna Mahna
+ Do dododo
 Breaking news: "Miss Piggy
 promises to stay out of the limelight.
 Kermit says,'We need some time alone."'
@@ -2248,14 +2248,14 @@ How's the quiet life, Kermit?
 Piggy, froggy!
 How are you enjoying your time alone?
 Piggy!
-# Mahna Mahna
-# Do do dododo
-# Mahna Mahna
-# Do dododo
-# Mahna Mahna
-# Do do dododo
-# Dododo, Dododo
+ Mahna Mahna
+ Do do dododo
+ Mahna Mahna
+ Do dododo
+ Mahna Mahna
+ Do do dododo
+ Dododo, Dododo
 Dododo
-# Dodo
+ Dodo
 Dodododo
-# Mahna Mahna #
+ Mahna Mahna 

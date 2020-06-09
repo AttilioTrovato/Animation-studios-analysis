@@ -799,16 +799,16 @@ Pick them up,
 put them down.
 Pick them up, put them down.
 Yeah.
-¶ Pick them up,
-put them down ¶
-¶ and follow me ¶
+ Pick them up,
+put them down 
+ and follow me 
 hey, guys, I got
 a marching song for us.
-¶ Follow me, boys ¶
-¶ follow me ¶
-¶ pick them up,
-put them down ¶
-¶ and follow me ¶
+ Follow me, boys 
+ follow me 
+ pick them up,
+put them down 
+ and follow me 
 hey, that's
 pretty good!
 That's good.
@@ -825,54 +825,54 @@ Ha! He was always hollering,
 Well, then sing it, Lem.
 Let's see now.
 How'd the verse go?
-¶ Sergeant Riley said
-there's a fight to win ¶
-¶ follow me, boys ¶
-¶ follow me ¶
-¶ and it won't be done
-till we all pitch in ¶
-¶ lift your chin
-with a grin ¶
-¶ and follow me ¶
+ Sergeant Riley said
+there's a fight to win 
+ follow me, boys 
+ follow me 
+ and it won't be done
+till we all pitch in 
+ lift your chin
+with a grin 
+ and follow me 
 now the chorus.
 
-¶ follow me, boys ¶
-¶ follow me ¶
-¶ when you think
-you're really beat ¶
-¶ that's the time
-to lift your feet ¶
-¶ and follow me, boys ¶
-¶ follow me ¶
-¶ pick them up,
-put them down ¶
-¶ and follow me ¶
+ follow me, boys 
+ follow me 
+ when you think
+you're really beat 
+ that's the time
+to lift your feet 
+ and follow me, boys 
+ follow me 
+ pick them up,
+put them down 
+ and follow me 
 pick them up!
 Put them down!
 Pick them up!
-¶ It's a long, long climb ¶
-¶ but we got the will ¶
-¶ follow me, boys ¶
-¶ follow me ¶
-¶ when we reach the top ¶
-¶ then it's
-all downhill ¶
-¶ till you drop,
-don't stop ¶
-¶ and follow me ¶
-¶ follow me, boys ¶
-¶ follow me ¶
-¶ when you think
-you're really beat ¶
-¶ that's the time
-to lift your feet ¶
-¶ and follow me, boys ¶
+ It's a long, long climb 
+ but we got the will 
+ follow me, boys 
+ follow me 
+ when we reach the top 
+ then it's
+all downhill 
+ till you drop,
+don't stop 
+ and follow me 
+ follow me, boys 
+ follow me 
+ when you think
+you're really beat 
+ that's the time
+to lift your feet 
+ and follow me, boys 
 come on, beefy!
-¶ follow me ¶
-¶ pick them up, put them down ¶
+ follow me 
+ pick them up, put them down 
 
-¶ And follow ¶
-¶ me ¶
+ And follow 
+ me 
 hup, two, three, four!
 Hup, two, three, four!
 Hup, two, three, four!
@@ -1125,7 +1125,7 @@ Hup, two, three, four.
 Hup! Pick them up,
 put them down.
 Pick them up.
-¶ Follow me, boys ¶
+ Follow me, boys 
 that was
 unnecessarily rude, Ralph.
 Get in the car, vida.
@@ -1133,27 +1133,27 @@ They were just trying
 to help with the car.
 Vida, will you please
 get in the car?
-¶ Follow me, boys,
-follow me ¶
-¶ pick them up,
-put them down ¶
-¶ and follow me ¶
+ Follow me, boys,
+follow me 
+ pick them up,
+put them down 
+ and follow me 
 Mr. siddons!
 Vida!
 Mr. siddons!
-¶ follow me, boys ¶
+ follow me, boys 
 Mr. siddons!
 Vida, come back here!
-¶ When you think
-you're really beat ¶
-¶ that's the time
-to lift your feet ¶
-¶ and follow me, boys ¶
+ When you think
+you're really beat 
+ that's the time
+to lift your feet 
+ and follow me, boys 
 vida.
-¶ Follow me ¶
-¶ pick them up,
-put them down ¶
-¶ and follow me ¶
+ Follow me 
+ pick them up,
+put them down 
+ and follow me 
 
 Lovely movie.
 Yes.
@@ -1608,24 +1608,24 @@ Scout's honor.
 
 
 What is that?
-¶ let me call you
-sweetheart ¶
-¶ I'm in love with you ¶
-¶ let me hear you whisper ¶
+ let me call you
+sweetheart 
+ I'm in love with you 
+ let me hear you whisper 
 Lem, a serenade__
 what a charming
 thing to do.
-¶ That you love me ¶
+ That you love me 
 pretty awful, isn't it?
-¶ Too ¶
-¶ keep the love light
-glowing ¶
-¶ in your eyes so true ¶
-¶ let me call you
-sweetheart ¶
-¶ I'm in love ¶
-¶ with ¶
-¶ you ¶
+ Too 
+ keep the love light
+glowing 
+ in your eyes so true 
+ let me call you
+sweetheart 
+ I'm in love 
+ with 
+ you 
 
 
 Welcome home!
@@ -1659,27 +1659,27 @@ Oh, come on, Frankie!
 Well, okay.
 But...Quiet.
 
-¶ though the journey's end ¶
-¶ is beyond our sight ¶
-¶ follow me, boys ¶
-¶ follow me ¶
-¶ if we do our best ¶
-¶ then we've done
-all right ¶
-¶ pack your load,
-hit the road ¶
-¶ and follow me ¶
-¶ follow me, boys ¶
-¶ follow me ¶
-¶ when you think
-you're really beat ¶
-¶ that's the time
-to lift your feet ¶
-¶ and follow me, boys ¶
-¶ follow me ¶
-¶ pick them up,
-put them down ¶
-¶ and follow me ¶
+ though the journey's end 
+ is beyond our sight 
+ follow me, boys 
+ follow me 
+ if we do our best 
+ then we've done
+all right 
+ pack your load,
+hit the road 
+ and follow me 
+ follow me, boys 
+ follow me 
+ when you think
+you're really beat 
+ that's the time
+to lift your feet 
+ and follow me, boys 
+ follow me 
+ pick them up,
+put them down 
+ and follow me 
 pick them up,
 put them down.
 Pick them up,
@@ -3180,14 +3180,14 @@ Boy scouts, girl scouts,
 my decision still stands.
 You're captured.
 That's it.
-¶ follow me, boys,
-follow me ¶
-¶ when you think
-you're really beat ¶
-¶ that's the time
-to lift your feet ¶
-¶ and follow me, boys ¶
-¶ follow me ¶
+ follow me, boys,
+follow me 
+ when you think
+you're really beat 
+ that's the time
+to lift your feet 
+ and follow me, boys 
+ follow me 
 hey, sergeant, come out here
 and take a look.
 What?
@@ -3196,15 +3196,15 @@ you're going?
 
 What's that?
 
-¶ follow me, boys ¶
+ follow me, boys 
 my boy scouts.
 What's that?
 That's his boy scouts.
 Boy scouts?
 
-¶ and follow me ¶
-¶ follow me, boys,
-follow me ¶
+ and follow me 
+ follow me, boys,
+follow me 
 boy scouts.
 That's what I've been
 trying to tell you.
@@ -3214,8 +3214,8 @@ Show him how to tie
 a sheepshank and let him go.
 Let me out of here,
 sergeant.
-¶ put them down
-and follow me ¶
+ put them down
+and follow me 
 hi, Lem!
 Hi, guys!
 Boy, am I glad to see you.
@@ -3591,10 +3591,10 @@ Hearing adjourned.
 Way to go, Lem.
 You showed them, Lem.
 
-¶ Happy Birthday to you ¶
-¶ Happy Birthday to you ¶
-¶ Happy Birthday, dear John ¶
-¶ Happy Birthday to you ¶
+ Happy Birthday to you 
+ Happy Birthday to you 
+ Happy Birthday, dear John 
+ Happy Birthday to you 
 
 
 Oh, vida,
@@ -4214,38 +4214,38 @@ now let's shape it up in there.
 Fall in
 and follow me, boys.
 
-¶ follow me, boys,
-follow me ¶
-¶ when you think
-you're really beat ¶
-¶ that's the time
-to lift your feet ¶
-¶ and follow me, boys,
-follow me ¶
-¶ pick them up,
-put them down ¶
-¶ and follow me ¶
-¶ pick them up,
-put them down ¶
-¶ pick them up ¶
-¶ there's a job to do ¶
-¶ there's a fight to win ¶
-¶ follow me, boys,
-follow me ¶
-¶ and it won't be done ¶
-¶ till we all pitch in ¶
-¶ lift your chin with a grin
-and follow me ¶
-¶ follow me, boys,
-follow me ¶
-¶ when you think
-you're really beat ¶
-¶ that's the time
-to lift your feet ¶
-¶ and follow me, boys,
-follow me ¶
-¶ pick them up,
-put them down ¶
-¶ and follow me ¶
-¶ follow me, boys,
-follow me ¶
+ follow me, boys,
+follow me 
+ when you think
+you're really beat 
+ that's the time
+to lift your feet 
+ and follow me, boys,
+follow me 
+ pick them up,
+put them down 
+ and follow me 
+ pick them up,
+put them down 
+ pick them up 
+ there's a job to do 
+ there's a fight to win 
+ follow me, boys,
+follow me 
+ and it won't be done 
+ till we all pitch in 
+ lift your chin with a grin
+and follow me 
+ follow me, boys,
+follow me 
+ when you think
+you're really beat 
+ that's the time
+to lift your feet 
+ and follow me, boys,
+follow me 
+ pick them up,
+put them down 
+ and follow me 
+ follow me, boys,
+follow me 

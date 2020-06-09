@@ -798,39 +798,39 @@ We were too busy.
 The fact of the matter was... 
 it was turning into the most
 wonderful summer of my life. 
-♪ Summer sweet was green,
-green grass there ♪ 
-♪ Fields were wet
-with morning dew ♪ 
-♪ I'll meet you
-on the road across there ♪ 
-♪ Don't you be late,
-you rascal, you ♪ 
-♪ Every man's a boy
-at heart there ♪ 
-♪ Every boy, a little man ♪ 
-♪ Skip a rock
-across the pond for me ♪ 
-♪ Barefoot boy
-with cheek of tan ♪ 
-♪ I'll trade my new suit
-for your blue jeans ♪ 
-♪ I'll take
-your country road ♪ 
-♪ And you can have
-my city street ♪ 
-♪ Just let me taste my youth ♪ 
-♪ In sunshine once again ♪ 
-♪ And take me back
-to summer sweet ♪ 
-♪ Summer sweet was green,
-green grass there ♪ 
-♪ Fields were wet
-with morning dew ♪ 
-♪ I'll meet you
-on the road across there ♪ 
-♪ Don't you be late,
-you rascal, you ♪ 
+ Summer sweet was green,
+green grass there  
+ Fields were wet
+with morning dew  
+ I'll meet you
+on the road across there  
+ Don't you be late,
+you rascal, you  
+ Every man's a boy
+at heart there  
+ Every boy, a little man  
+ Skip a rock
+across the pond for me  
+ Barefoot boy
+with cheek of tan  
+ I'll trade my new suit
+for your blue jeans  
+ I'll take
+your country road  
+ And you can have
+my city street  
+ Just let me taste my youth  
+ In sunshine once again  
+ And take me back
+to summer sweet  
+ Summer sweet was green,
+green grass there  
+ Fields were wet
+with morning dew  
+ I'll meet you
+on the road across there  
+ Don't you be late,
+you rascal, you  
 Lots of things
 happened that summer. 
 I remember one morning
@@ -1756,8 +1756,8 @@ I'm sorry.
 Gotta finish cleaning up.
 Wait a minute.
 Theo?
-♪ Over the river
-and through the wood ♪ 
+ Over the river
+and through the wood  
 Theo?
 Hello, Papa.
 Look, I know

@@ -20,31 +20,31 @@ Together they had many
 unusual adventures,
 that all happened right here
 in the Hundred Acre Wood.
-♪ Deep in the Hundred Acre Wood
-♪ Where Christopher Robin plays
-♪ You'll find the enchanted
+ Deep in the Hundred Acre Wood
+ Where Christopher Robin plays
+ You'll find the enchanted
 neighbourhood
-♪ Of Christopher's childhood days
-♪ A donkey named Eeyore is his friend
-♪ And Kanga and little Roo
+ Of Christopher's childhood days
+ A donkey named Eeyore is his friend
+ And Kanga and little Roo
 and Tigger, too
-♪ There's Rabbit and Piglet
+ There's Rabbit and Piglet
 and there's Owl
-♪ But most of all Winnie the Pooh
-♪ Winnie the Pooh
+ But most of all Winnie the Pooh
+ Winnie the Pooh
 Winnie the Pooh
-♪ Tubby little cubby
+ Tubby little cubby
 all stuffed with fluff
-♪ He's Winnie the Pooh
+ He's Winnie the Pooh
 Winnie the Pooh
-♪ Willynilly silly old bear
-♪ Winnie the Pooh
+ Willynilly silly old bear
+ Winnie the Pooh
 Winnie the Pooh
-♪ Tubby little cubby
+ Tubby little cubby
 all stuffed with fluff
-♪ He's Winnie the Pooh
+ He's Winnie the Pooh
 Winnie the Pooh
-♪ Willynilly silly old bear ♪
+ Willynilly silly old bear 
 Chapter one,
 in which Winnie the Pooh
 has a very important thing to do.
@@ -76,29 +76,29 @@ than a little something to eat?
 Or perhaps a little larger something.
 Oh, not to worry, tummy.
 I always know what to do.
-♪ A Pooh Bear takes care of his tummy
-♪ He fills it with things that are sweet
-♪ A Pooh Bear takes care of his tummy
-♪ By never forgetting to eat
-♪ When it is growly and glummy
+ A Pooh Bear takes care of his tummy
+ He fills it with things that are sweet
+ A Pooh Bear takes care of his tummy
+ By never forgetting to eat
+ When it is growly and glummy
 a search for the honey is on
-♪ The Pooh has a knack
+ The Pooh has a knack
 for finding a snack
-♪ Unless all the honey is...
+ Unless all the honey is...
 Gone?
-♪ A Pooh Bear takes care of his tummy
-♪ No need for the tummy to fret
-♪ A Pooh Bear takes care of his tummy
-♪ He knows what his tummy must get
-♪ Don't worry, my round little chummy
-♪ I'm hearing your ravenous plea
-♪ When there is no honey
+ A Pooh Bear takes care of his tummy
+ No need for the tummy to fret
+ A Pooh Bear takes care of his tummy
+ He knows what his tummy must get
+ Don't worry, my round little chummy
+ I'm hearing your ravenous plea
+ When there is no honey
 the Pooh takes the tummy
-♪ Wherever the honey will be
-♪ My friends are out there
+ Wherever the honey will be
+ My friends are out there
 with honey to spare
-♪ And they will take care
-of my tummy and me ♪
+ And they will take care
+of my tummy and me 
 Bother.
 I know that sigh.
 Good morning, Eeyore.
@@ -203,19 +203,19 @@ all over the forest.
 Here you are, Pooh.
 Oh, and make sure everyone can see them.
 Oh, I will, Christopher.
-♪ Come one, come two, come all
+ Come one, come two, come all
 Everyone heed the call
-♪ There's a very important thing to do
-♪ Drop what you're doing and come
-♪ Bumpitybumpitybum
-♪ There's a very important thing to do
-♪ It's time to gather 'round
+ There's a very important thing to do
+ Drop what you're doing and come
+ Bumpitybumpitybum
+ There's a very important thing to do
+ It's time to gather 'round
 The work has just begun
-♪ And when it's done
+ And when it's done
 then you'll have found
-♪ That you have had some fun
-♪ With a monumentuous, consequentuous
-♪ Very important thing to do ♪
+ That you have had some fun
+ With a monumentuous, consequentuous
+ Very important thing to do 
 There we are.
 And now, I shall return to...
 Oh!
@@ -261,13 +261,13 @@ But I bounce it alone.
 Because the Hundred Acre Wood
 needs a hero, Pooh Bear,
 and I'm the only one.
-♪ Oh, I'm bouncy,
+ Oh, I'm bouncy,
 trouncy, flouncy, pouncy
-♪ Fun, fun, fun, fun, fun!
-♪ But the most wonderful thing
+ Fun, fun, fun, fun, fun!
+ But the most wonderful thing
 about Tiggers is
-♪ I'm the only one
-I'm the only one! ♪
+ I'm the only one
+I'm the only one! 
 Hoohoohoohoo!
 Attention, please. Attention.
 Something tragic has befallen
@@ -323,13 +323,13 @@ Cuckoo, cuckoo.
 Thanks, Pooh.
 Congratulations.
 You've won the contest.
-♪ It's Pooh
-♪ It's Pooh
+ It's Pooh
+ It's Pooh
 Pooh wins the honey pot
-♪ Found a tail for his friend
-♪ Now it's on my rear end
-♪ You get the honey
-Enjoy ♪
+ Found a tail for his friend
+ Now it's on my rear end
+ You get the honey
+Enjoy 
 I knew it was too good to be true.
 Oh, dear.
 Well, rules are rules. So sorry, Pooh.
@@ -339,13 +339,13 @@ How clever, Piglet.
 What do you think, Eeyore?
 Sure is a cheerful colour.
 Guess I'll have to get used to it.
-♪ It's Piglet
+ It's Piglet
 It's Piglet
-♪ Piglet wins the honey pot
-♪ Takes the prize fair and square
+ Piglet wins the honey pot
+ Takes the prize fair and square
 I'm still a bit up in the air.
-♪ You get the honey
-Enjoy ♪
+ You get the honey
+Enjoy 
 Hmm. This may not work after all.
 And so they tried
 a great many things.
@@ -363,10 +363,10 @@ Up, up, up you go.
 There you are.
 It's an awful nice tail, Kanga.
 Much nicer than the rest of me.
-♪ It's Kanga
+ It's Kanga
 No! No, no, no, no.
 How about we celebrate with silence?
-♪ Enjoy ♪
+ Enjoy 
 Oh, bother.
 My tummy is feeling
 a little 11 o'clockish.
@@ -427,8 +427,8 @@ And even more than that.
 So, Pooh decided to go directly
 to Owl's house,
 hoping that Owl could help unpuzzle him.
-♪ You get the honey
-Enjoy ♪
+ You get the honey
+Enjoy 
 Good job, Owl!
 Thank you. Thank you.
 Yes, it is quite clever, isn't it?
@@ -493,116 +493,116 @@ Artistic talent runs through my family.
 In fact, it practically stampedes!
 In fact, it practically stampedes!
 He sounds scary already.
-♪ It's a giant creature with a tail
-♪ Here, I'll draw Piglet in for scale
+ It's a giant creature with a tail
+ Here, I'll draw Piglet in for scale
 Oh, dear!
-♪ Its hide is like a shaggy rug
-♪ Its face a surly, ugly mug
-♪ With two sharp horns atop its head
-♪ Between a mop of hair that's red
-♪ And in its nose a ring of gold
+ Its hide is like a shaggy rug
+ Its face a surly, ugly mug
+ With two sharp horns atop its head
+ Between a mop of hair that's red
+ And in its nose a ring of gold
 It smells of monkey's feet and mould
-♪ Its toes are black, its fur is blue
-♪ I swear that all I tell you
+ Its toes are black, its fur is blue
+ I swear that all I tell you
 is not made up
-♪ The Backson
-♪ The Backson?
-♪ The Backson
-♪ The Backson?
-♪ Oh, no!
-♪ But, Owl, what does a Backson do?
-♪ Yes, Owl, what does a Backson do?
-♪ Hmm, what does a Backson do?
-♪ I'm thinking, I'm thinking,
+ The Backson
+ The Backson?
+ The Backson
+ The Backson?
+ Oh, no!
+ But, Owl, what does a Backson do?
+ Yes, Owl, what does a Backson do?
+ Hmm, what does a Backson do?
+ I'm thinking, I'm thinking,
 I'm thinking, I'm thinking
-♪ And now I will tell you
-♪ They sneak into your library
+ And now I will tell you
+ They sneak into your library
 and scribble in all your books
-♪ The Backson, the Backson
+ The Backson, the Backson
 We don't like the Backson
-♪ When decorating your Christmas tree
+ When decorating your Christmas tree
 they tangle up all the hooks
-♪ The Backson, the Backson
+ The Backson, the Backson
 We're afraid of the Backson
-♪ They spoil the milk
+ They spoil the milk
 They stop all the clocks
-♪ They use their horns
+ They use their horns
 to put holes in your socks
-♪ The Backson's the one
+ The Backson's the one
 who's been putting holes in our socks
-♪ Tell us more about what Backsons do
-♪ Yes, more about what Backsons do
-♪ More about what Backsons do?
-♪ Why don't we hear
+ Tell us more about what Backsons do
+ Yes, more about what Backsons do
+ More about what Backsons do?
+ Why don't we hear
 some thoughts from you?
-♪ Maybe they make you
+ Maybe they make you
 sleep too late
-♪ Yes, yes
+ Yes, yes
 That's good, that's great
-♪ I bet they're the reason
+ I bet they're the reason
 my tail is gone
-♪ You're on a roll
+ You're on a roll
 Go on, go on
-♪ They muddy up your tidy house
-♪ They make you feel as small as a mouse
-♪ They break your crayons
-♪ They spill your tea
-♪ They wake up babies
+ They muddy up your tidy house
+ They make you feel as small as a mouse
+ They break your crayons
+ They spill your tea
+ They wake up babies
 at one and three
-♪ They made me catch the cold I caught
-♪ They made me lose
+ They made me catch the cold I caught
+ They made me lose
 my train of thought
-♪ They swipe your stripes
-♪ They clog your pipes
-♪ They dig up your garden
-♪ They won't beg your pardon
-♪ They eat your snacks
-♪ They won't relax
-♪ They chip your tooth
-♪ They steal your youth
-♪ And now you know
+ They swipe your stripes
+ They clog your pipes
+ They dig up your garden
+ They won't beg your pardon
+ They eat your snacks
+ They won't relax
+ They chip your tooth
+ They steal your youth
+ And now you know
 the horrible truth
 The Backson, the Backson
 The Backson, the Backson
-♪ Oh, no
-♪ Oh, yes
+ Oh, no
+ Oh, yes
 Huh?
-♪ I know exactly what to do
-♪ We'll find things Backsons
+ I know exactly what to do
+ We'll find things Backsons
 are partial to
-♪ Like books
-♪ And dishes
-♪ And socks
-♪ And toys
-♪ Yes,
+ Like books
+ And dishes
+ And socks
+ And toys
+ Yes,
 everything that a Backson destroys
-♪ Then we'll dig an enormous pit
+ Then we'll dig an enormous pit
 and make the items lead to it
-♪ He'll fall in and we'll get our friend
-♪ And this horrible nightmare
+ He'll fall in and we'll get our friend
+ And this horrible nightmare
 can come to an end
-♪ The Backson
-♪ The Backson
-♪ The Backson
-♪ The Backson
-♪ Go home and search your closets
+ The Backson
+ The Backson
+ The Backson
+ The Backson
+ Go home and search your closets
 Bring everything that you can
-♪ The Backson, the Backson
+ The Backson, the Backson
 We're gonna catch the Backson
-♪ We'll save Christopher Robin
+ We'll save Christopher Robin
 by following Rabbit's plan
-♪ The Backson, the Backson
+ The Backson, the Backson
 We'll save Christopher Robin
-♪ We must be brave and have no fear
-♪ So to the death, we'll persevere
-♪ We'll search by the sun
+ We must be brave and have no fear
+ So to the death, we'll persevere
+ We'll search by the sun
 and the light of the moon
-♪ And if everything goes well
+ And if everything goes well
 we'll be back soon
 Back soon.
-♪ Back soon
+ Back soon
 Sounds like "Backson."
-♪ Back soon ♪
+ Back soon 
 Oh, well. Good luck, everyone!
 While Rabbit and the others
 were busy gathering
@@ -691,83 +691,83 @@ I'm alone. OK. Hoo.
 Buddy, if you're gonna pounce,
 you got to have some bounce!
 We just need to get you Tiggerized.
-♪ Gonna fix you up
+ Gonna fix you up
 By the time we're through
-♪ I'll be Tigger One
+ I'll be Tigger One
 You'll be Tigger Two
-♪ It's gonna be great
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be great
-♪ Gonna be two pals
+ It's gonna be great
+ Gonna be two pals
 hunting in the woods
-♪ Gonna show that Backson
+ Gonna show that Backson
 we got the goods
-♪ It's gonna be great
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be great
-♪ Well, I'm not sure
-♪ Oh, stop that gloomy rumination
-♪ All you need is a little bit
+ It's gonna be great
+ Well, I'm not sure
+ Oh, stop that gloomy rumination
+ All you need is a little bit
 of Tiggerization
-♪ Wait
-♪ Why wait?
-♪ Don't you see it's gonna be great
-♪ It's gonna be great
+ Wait
+ Why wait?
+ Don't you see it's gonna be great
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be great
+ It's gonna be great
 You're looking great, Tigger Two.
 Now, you've got to learn
 to bounce like a Tigger.
-♪ When you learn to bounce
+ When you learn to bounce
 you should take it slow
-♪ So I want you to keep your bounces low
-♪ It's gonna be great
+ So I want you to keep your bounces low
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be great
+ It's gonna be great
 Whoa!
-♪ If you hit a bush or a tree you'll
+ If you hit a bush or a tree you'll
 fall so do your best to avoid them all
-♪ It's gonna be great
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be great
-♪ A perfect pounce
+ It's gonna be great
+ A perfect pounce
 will make you feel alive
-♪ Just go from a squat
+ Just go from a squat
 into a headlong dive!
 Ow, ow, ow.
-♪ You're gettin' it now
-♪ It's gonna be great
+ You're gettin' it now
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be great
+ It's gonna be great
 Ahh. Isn't this superduper fun,
 two Tiggers here together?
-♪ I used to be the only one
+ I used to be the only one
 But two is twice as better.
 Are you ready?
 For what?
 I'll... be... the...
-♪ Backson, you be the Tigger
-♪ We're gonna see
+ Backson, you be the Tigger
+ We're gonna see
 whose bounce is bigger
-♪ It's gonna be great
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be great
-♪ You're gonna give me your best attack
-♪ But don't just think
+ It's gonna be great
+ You're gonna give me your best attack
+ But don't just think
 that I won't fight back
-♪ It's gonna be great
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be great
-♪ Strike me down
+ It's gonna be great
+ Strike me down
 Give me all you got
-♪ Bounce me, trounce me
+ Bounce me, trounce me
 Flounce me, pounce me
-♪ Do it, do it, do it!
+ Do it, do it, do it!
 Ow.
-♪ It's gonna be great
+ It's gonna be great
 It's gonna be great
-♪ It's gonna be...
-♪ Great ♪
+ It's gonna be...
+ Great 
 Tigger Two!
 That was the bestest
 picking up bounce I never seen!
@@ -875,51 +875,51 @@ Ooh, Christopher Robin,
 Christopher Robin,
 Christopher... hoohoohoo,
 Christopher Robin.
-♪ Honey
-♪ Honey, honey, honey, honey
-♪ Honey, honey, honey, honey
-♪ Honey, honey, honey, honey
-♪ Honey, honey
-♪ Honey, honey, honey, honey,
+ Honey
+ Honey, honey, honey, honey
+ Honey, honey, honey, honey
+ Honey, honey, honey, honey
+ Honey, honey
+ Honey, honey, honey, honey,
 Honey, honey, honey, honey
-♪ Honey, honey, honey, honey,
-♪ Honey, honey, honey, honey
+ Honey, honey, honey, honey,
+ Honey, honey, honey, honey
 Honey? Honey.
 Honey!
 Honey!
-♪ Everything is honey
+ Everything is honey
 everywhere I see
-♪ Everything is honey and that's
+ Everything is honey and that's
 quite all right with me
-♪ I am a bear of little brain
+ I am a bear of little brain
 I can't explain
-♪ Why everything would be changing to
-♪ The favourite snack of Winnie the Pooh
+ Why everything would be changing to
+ The favourite snack of Winnie the Pooh
 Can you?
-♪ Everything is honey
+ Everything is honey
 I can't get enough
-♪ Of lots and lots of pots and pots
+ Of lots and lots of pots and pots
 of sticky, licky stuff
-♪ Oh, what a sight
+ Oh, what a sight
 Oh, what a dream
-♪ Dive in the wonderful honeyful stream
-♪ Swimming in the honey
+ Dive in the wonderful honeyful stream
+ Swimming in the honey
 Swimming far and wide
-♪ Open up my mouth
+ Open up my mouth
 and let the honey flow inside
-♪ Ooey and gooey and very sweet
+ Ooey and gooey and very sweet
 Eat and eat then repeat
-♪ Suddenly I'm in a honey boat
-♪ It doesn't matter where we float
+ Suddenly I'm in a honey boat
+ It doesn't matter where we float
 Whoa!
-♪ 'Cause everywhere is honey
+ 'Cause everywhere is honey
 There's a honey Pooh
-♪ He's just made of honey
+ He's just made of honey
 so I guess I'll eat him too
-♪ If everything is honey
+ If everything is honey
 and I am what I eat
-♪ I must be made of honey
-♪ And life is very sweet ♪
+ I must be made of honey
+ And life is very sweet 
 Bother.
 What a lovely picnic!
 Oh, bother!
@@ -955,11 +955,11 @@ But my tummy had to see for himself.
 Poor, poor Pooh.
 How are we ever gonna
 get him out of there?
-♪ It's me, it's me
-♪ I win the honey pot
-♪ Found this anchor over there
-♪ Now it's on my derrière
-♪ Not that anybody'd care ♪
+ It's me, it's me
+ I win the honey pot
+ Found this anchor over there
+ Now it's on my derrière
+ Not that anybody'd care 
 OK, everyone,
 make sure you have a good hold.
 Heaveho! Heaveho!
@@ -1127,7 +1127,7 @@ We won't perish for days.
 Which leaves plenty of time for me
 to continue my memoirs.
 Now, dear Uncle Ridley...
-♪ Honey ♪
+ Honey 
 ...exacerbated
 by my aunt's predilection
 for only the finest parchment...
@@ -1313,24 +1313,24 @@ No, silly.
 Put your arms down.
 Congratulations, Pooh.
 You win the grand prize!
-♪ It's Pooh
+ It's Pooh
 It's Pooh
-♪ Pooh wins the honey pot
-♪ You're the winner of the prize
-♪ I really can't believe my eyes
-♪ Pooh gets the honey
-♪ Honey, honey, honey, honey
+ Pooh wins the honey pot
+ You're the winner of the prize
+ I really can't believe my eyes
+ Pooh gets the honey
+ Honey, honey, honey, honey
 Here you go, Pooh.
 Oh, yes, of course.
 Thank you all ever so much.
-♪ Everything is honey
+ Everything is honey
 Everything is good
-♪ Everyone is happy
+ Everyone is happy
 in the Hundred Acre Wood
-♪ A honey happy ending
+ A honey happy ending
 for a Pooh to eat
-♪ Yes, everything is honey
-♪ And life is very sweet ♪
+ Yes, everything is honey
+ And life is very sweet 
 You know, Pooh, you did
 a very important thing today.
 I did?

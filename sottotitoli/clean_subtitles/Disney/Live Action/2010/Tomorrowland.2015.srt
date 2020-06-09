@@ -67,25 +67,25 @@ Watch
 your step, kiddo.
 
 
-♪ There's a great big ♪
-♪ beautiful tomorrow ♪
-♪ Shining at the ♪
-♪ end of every day ♪
-♪ There's a great big ♪
-♪ beautiful tomorrow ♪
-♪ And tomorrow's ♪
-♪ just a dream away ♪
-♪ Man has a dream and ♪
-♪ that's the start ♪
-♪ He follows his dream ♪
-♪ with mind and heart ♪
-♪ And when it ♪
-♪ becomes a reality ♪
-♪ It's a dream come ♪
-♪ true for you and me ♪
-♪ So there's a great big ♪
-♪ beautiful tomorrow ♪
-♪ Just a dream away ♪
+ There's a great big 
+ beautiful tomorrow 
+ Shining at the 
+ end of every day 
+ There's a great big 
+ beautiful tomorrow 
+ And tomorrow's 
+ just a dream away 
+ Man has a dream and 
+ that's the start 
+ He follows his dream 
+ with mind and heart 
+ And when it 
+ becomes a reality 
+ It's a dream come 
+ true for you and me 
+ So there's a great big 
+ beautiful tomorrow 
+ Just a dream away 
 
 Hello, sir.
 May I help you?
@@ -211,17 +211,17 @@ boat in just a minute.
 Oh.
 
 
-♪ It's a small world after all ♪
-♪ It's a small world after all ♪
-♪ It's a small world after all ♪
-♪ It's a small world after all ♪
-♪ It's a small, small world ♪
+ It's a small world after all 
+ It's a small world after all 
+ It's a small world after all 
+ It's a small world after all 
+ It's a small, small world 
 Whoa.
-♪ La, la, la, la, la ♪
-♪ La, la, la, la, la ♪
-♪ La, la, la, la, la, ♪
-♪ la, la, la, la ♪
-♪ La, la, la, la, la ♪
+ La, la, la, la, la 
+ La, la, la, la, la 
+ La, la, la, la, la, 
+ la, la, la, la 
+ La, la, la, la, la 
 
 Hello?
 Hello?
@@ -355,29 +355,29 @@ I'm just giving them context.
 Just move it along.
 Okay? They don't have all day.
 Cool. You got it.
-♪ Hit it! ♪
+ Hit it! 
 
 
-♪ I was a movin' man ♪
-♪ in my younger days ♪
-♪ But I've grown out ♪
-♪ of my ramblin' ways ♪
-♪ I left that road ♪
-♪ so far behind ♪
-♪ Now I know ♪
-♪ on, baby ♪
-♪ I got mine ♪
-♪ I got mine ♪
+ I was a movin' man 
+ in my younger days 
+ But I've grown out 
+ of my ramblin' ways 
+ I left that road 
+ so far behind 
+ Now I know 
+ on, baby 
+ I got mine 
+ I got mine 
 
-♪ I got mine ♪
-♪ Oh, baby, I got mine ♪
+ I got mine 
+ Oh, baby, I got mine 
 
 
-♪ Whoa, I got mine ♪
-♪ I got mine ♪
-♪ I got mine ♪
-♪ Oh, baby, I got mine ♪
-♪ Hey! ♪
+ Whoa, I got mine 
+ I got mine 
+ I got mine 
+ Oh, baby, I got mine 
+ Hey! 
 Identify yourself!
 
 Nate!
@@ -1136,8 +1136,8 @@ Yes. Fine, thank you.
 I thought I broke
 you or something.
 
-♪ The end is coming ♪
-♪ what you gonna do? ♪
+ The end is coming 
+ what you gonna do? 
 I should drive.
 Casey, I know you have
 no reason to trust me.

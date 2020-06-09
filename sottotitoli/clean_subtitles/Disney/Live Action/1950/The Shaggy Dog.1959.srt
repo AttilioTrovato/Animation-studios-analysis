@@ -1,51 +1,51 @@
 Arf! Arf!
-¶ He was the
-shaggiest dog ¶ 
-¶ he was the
-shaggiest dog ¶ 
-¶ he was the spookiest dog
-I ever did see ¶ 
+He was the
+shaggiest dog 
+he was the
+shaggiest dog 
+he was the spookiest dog
+I ever did see 
 arf! Arf!
 Arf! 
 Go on, get outta here!
 Go on! 
 Git! 
-¶ I saw that dog
-upon a stair ¶ 
-¶ I looked again
-and he wasn't there ¶ 
-¶ I looked once more
-and what did I see ¶ 
-¶ that great big shaggy dog
-agrinnin' at me ¶ 
-¶ he was the shaggiest dog
-I ever met ¶ 
-¶ he was the shaggiest dog
-oh, what a pet ¶ 
-¶ he was the spookiest dog
-I ever did see ¶ 
-¶ how do I know
-well, give a listen to me ¶ 
-¶ he was the
-shaggiest dog ¶ 
-¶ he was the
-shaggiest dog ¶ 
-¶ he was the spookiest dog
-I ever did see ¶ 
-¶ how do I know
-well, give a listen to me ¶ 
-¶ I'll catch that dog
-one happy day ¶ 
-¶ I'll tie him up
-I'll make him stay ¶ 
-¶ I'll make him fetch
-I'll make him heel ¶ 
-¶ I'm gonna prove 
+I saw that dog
+upon a stair 
+I looked again
+and he wasn't there 
+I looked once more
+and what did I see 
+that great big shaggy dog
+agrinnin' at me 
+he was the shaggiest dog
+I ever met 
+he was the shaggiest dog
+oh, what a pet 
+he was the spookiest dog
+I ever did see 
+how do I know
+well, give a listen to me 
+he was the
+shaggiest dog 
+he was the
+shaggiest dog 
+he was the spookiest dog
+I ever did see 
+how do I know
+well, give a listen to me 
+I'll catch that dog
+one happy day 
+I'll tie him up
+I'll make him stay 
+I'll make him fetch
+I'll make him heel 
+I'm gonna prove 
 to all the world 
-he's really real ¶ 
-¶ he's the shaggiest
-raggiest, spookiest dog ¶ 
-¶ in town ¶¶ 
+he's really real 
+he's the shaggiest
+raggiest, spookiest dog 
+in town ¶
 arf! Arf!
 This is a
 shaggy dog story. 
@@ -813,7 +813,7 @@ Forget it, I said.
 Forget it!
 All right, then.
 I'll forget it!
-¶¶ 
+¶
 Wilby, moochie!
 Time to get up!
 Be right with ya,
@@ -1242,7 +1242,6 @@ n'estce pas?
 Sorry, I don't
 speak French.
 Oh.
-¶¶ 
 Allison, will you do
 something for me?
 What is it?

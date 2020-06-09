@@ -371,14 +371,14 @@ All right.
 I accept your apology.
 We will try again tomorrow.
 Now, we go home.
-♪ Mon amour perdu
-♪ Ou estu?
-♪ Ou estu?
-♪ Je te cherche en vain
-♪ Tu m'as quitte
-♪ Que t'aije donc fais?
-♪ Que t'aije donc fais?
-♪ Mon amour perdu ♪
+ Mon amour perdu
+ Ou estu?
+ Ou estu?
+ Je te cherche en vain
+ Tu m'as quitte
+ Que t'aije donc fais?
+ Que t'aije donc fais?
+ Mon amour perdu 
 Oh, Rene, that song
 is so beautiful.
 And sad.
@@ -390,9 +390,9 @@ Okay, Rene?
 Alors.
 Okay.
 Un, deux, trois, quatre.
-♪ Dum, dum, dum
+ Dum, dum, dum
 diddlydiddly dum, dum
-♪ Dididdly
+ Dididdly
 diddlyda dadum
 Enough! Enough of that noise.
 I can hear nothing of the music.
@@ -408,7 +408,7 @@ Well, I'm a very fine
 older man who plays superb spoons.
 Okay?
 Un, deux.
-♪ Dum diddle dum
+ Dum diddle dum
 diddlydiddly dum, dum
 I will settle this.
 Woman!

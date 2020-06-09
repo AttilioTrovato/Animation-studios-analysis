@@ -349,7 +349,7 @@ indulgent, might not the Lady Margaret?
 Milady has
 no objection?
 None whatever.
-¶
+
 Oh! 
 Sir Edwin? 
 Do you think me a prude? Nay, indeed.
@@ -386,7 +386,6 @@ Is the princess ready
 to choose her partner...
 For the honor
 of the opening dance?
-¶ 
 Well, sir?
 Henry!
 Bid the music cease!
@@ -412,7 +411,7 @@ Come, let the music
 knock it!
 We'll learn the step ourselves and
 wear you ladies out at dancing too.
-¶ 
+ 
 Masterly.
 Perfection itself,
 your grace.
@@ -917,7 +916,7 @@ Aye, aye, sir!
 Oh, let me do it. I
 must learn. Anchor away! 
 We're moving.
-¶ Heave Away, Boys ¶ 
+ Heave Away, Boys  
 Oh, Charles! 
 
 Captain's respects, sir. All hands on
@@ -1138,7 +1137,7 @@ English rose.
 Ye noble knights, come.
 Pledge with me your love.
 The queen of France!
-¶ 
+ 
 Cousin Francois, since my
 queen is a stranger among us,
 a pleasant labor

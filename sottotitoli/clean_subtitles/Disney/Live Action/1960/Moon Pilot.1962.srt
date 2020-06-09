@@ -925,8 +925,8 @@ at every entrance.
 I mean every delivery
 entrance and mousehole.
 Gotcha.
-¶ Hmm dadoodoo
-hmmhmm hmm hmm hmm ¶
+ Hmm dadoodoo
+hmmhmm hmm hmm hmm 
 this is a private call.
 Do you mind?!
 Sorry.
@@ -934,8 +934,8 @@ I'm under orders, too,
 you know.
 I'd know anyway.
 It's bugged.
-¶ Hmmhmm hmm hmm ¶
-¶ hmmhmm hmm hmmhmm ¶
+ Hmmhmm hmm hmm 
+ hmmhmm hmm hmmhmm 
 I don't care
 whose toes we step on!
 I want another security check
@@ -2130,8 +2130,8 @@ all machines.
 I hate 'em, I hate 'em,
 I hate 'em!
 Blah!
-¶ ...Ahangin' ¶
-¶ ahangin' from a tree... ¶
+ ...Ahangin' 
+ ahangin' from a tree... 
 cowards of conformity!
 Protectors
 of the organization man!
@@ -2156,14 +2156,14 @@ Oh... uh, is there
 any more back there?
 Uh, two or three, maybe.
 All right, run them in.
-¶ Nobody can avoid the void ¶
-¶ nobody can avoid the void ¶
-¶ you can't ¶
-¶ I can't ¶
+ Nobody can avoid the void 
+ nobody can avoid the void 
+ you can't 
+ I can't 
 dig!
-¶ Neither could Sigmund Freud ¶
-¶ scoobaDeedoobee ¶
-¶ doobee doo ¶
+ Neither could Sigmund Freud 
+ scoobaDeedoobee 
+ doobee doo 
 that does it, Mac.
 You want them held?
 No. Send them back
@@ -2234,7 +2234,7 @@ All recorders
 and oscillographs to "fast." 
 Ready your start. 
 ...Pressurized. 
-Man ♪2: ...Pressurized. 
+Man 2: ...Pressurized. 
 Status check... 
 range safety arm light on? 
 Affirmative. 
@@ -2321,25 +2321,25 @@ with me to betalyrae, huh?
 Gen. Vanneman: Talbot,
 if you don't answer me, I'll...
 you will like betalyrae.
-¶ Exa luna bot ¶
+ Exa luna bot 
 exa luna what?
-¶ Exa luna lot ¶
+ Exa luna lot 
 exa luna lot?
-¶ There are seven moons ¶
+ There are seven moons 
 seven?
-¶ Off betalyrae ¶
+ Off betalyrae 
 betalyrae...
-¶ Seven moons ¶
+ Seven moons 
 seven?
-¶ All made for love ¶
+ All made for love 
 yeah?
-¶ Exa luna bot ¶
+ Exa luna bot 
 exa luna bot.
-¶ Exa luna lot ¶
+ Exa luna lot 
 exa luna lot.
-¶ Seven moons above ¶
+ Seven moons above 
 seven... yeah.
-¶ Seven times the love ¶
+ Seven times the love 
 Uh this is starfire to mcchord.
 Are you still there?
 Well, of course...
@@ -2373,19 +2373,19 @@ Goodbye, general, dear.
 Mcchor... firefly to...
 to, uh... I mean, Talbot!
 Talbot!
-¶ There are seven moons... ¶
+ There are seven moons... 
 Talbot, talk to me.
 Talbot!
 Talbot, please talk to me!
 Talbot, what's going on
 up there?!
-¶ ...seven times the joy ¶
+ ...seven times the joy 
 gen. Vanneman: Talbot!
 You listen to me...
-¶ For a girl and boy ¶
-¶ seven moons above ¶
+ For a girl and boy 
+ seven moons above 
 what's going on up there?!
-¶ Seven times the love ¶
+ Seven times the love 
 blast you, Talbot!
 I'll have you up
 for courtmartial!

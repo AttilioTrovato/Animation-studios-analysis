@@ -640,14 +640,14 @@ Sleep well.
 You, too.
 Papa, one little song...
 For my cat?
-♪ Ol kaunis kesa ilta ♪
-♪ Kun laaksossa kavelin ♪
-♪ Ol kaunis kesa ilta ♪
-♪ Kun laaksossa kavelin ♪
-♪ So tun tee ni voitti ♪
-♪ Ja hei tyi syommeni ♪ 
-♪ so tun tee ni voitti ♪
-♪ Ja hei tyi syommeni ♪♪
+ Ol kaunis kesa ilta 
+ Kun laaksossa kavelin 
+ Ol kaunis kesa ilta 
+ Kun laaksossa kavelin 
+ So tun tee ni voitti 
+ Ja hei tyi syommeni  
+ so tun tee ni voitti 
+ Ja hei tyi syommeni 
 Later that night, the cat came to the girl, 
 As though to tell her something. 
 He was trying
@@ -1042,8 +1042,8 @@ share the child's belief,
 But they knew it was too much to hope for. 
 It was better to forget what had happened... 
 And look forward to happier occasions. 
-♪ Happy birthday, dear Peter ♪
-♪ Happy birthday to you ♪♪
+ Happy birthday, dear Peter 
+ Happy birthday to you 
 Bravo!
 Blow them out.
 Did you make a wish?

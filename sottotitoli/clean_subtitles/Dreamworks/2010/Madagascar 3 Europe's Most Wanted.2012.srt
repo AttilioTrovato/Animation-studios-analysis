@@ -1636,14 +1636,14 @@ Full of romance?
 And danger!
 Really living!
 What do you say?
-# Radada dadadadadada, circus!
-# Dada dadadadadada, Afro!
-# Circus Afro, Circus Afro!
+  Radada dadadadadada, circus!
+  Dada dadadadadada, Afro!
+  Circus Afro, Circus Afro!
 Polka dot, polka dot, polka dot, Afro!
-# I like to move it, move it
+  I like to move it, move it
 I like to move it, move it
-# I like to move it, move it
+  I like to move it, move it
 You like to...
-# Move it!
+  Move it!
 Skipper, what did you end up doing
 with the crazy lady, anyway? 
