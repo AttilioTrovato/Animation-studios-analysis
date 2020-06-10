@@ -53,7 +53,6 @@
         
         
     - topic modeling (LDA) [Angelo]
-        - (attesa conferma da parte di Alejandro sul metodo della media)
         - visualizzazione
         
     
