@@ -1,0 +1,21 @@
+>> Analisi della complessità
+-Analisi dell'evoluzione temporale (quindi per decade) di Disney Animation
+-Confronto fra Disney Animation, Live Action, Misto sempre per decade
+-Confronto in generale degli indici di complessità fra le case di produzione (non temporale)
+
+>> Analisi dei topic
+-Analisi temporale dell'evoluzione dei topic di Disney Animation per decade (sia per lda che per wordnet)
+-Confronto topic fra Disney Animation, Live Action, Misto (anche non temporale)
+-Confronto topic fra case di prodizioen diverse
+
+>> Word cloud
+-Parole più significative per casa di produzione (no temporale)
+-Evoluzione temporale parole significative per Disney Animation
+-Confronto fra parole significative nei cartoni e nei corrispondenti live action
+
+>>Word2Vec
+-Universo parole per case di produzione (no dimensione temporale)
+
+>>Doc2Vec
+-Similarità film Disney Animation (possibilità di mantenere la dimensione delle decadi nella rappresentazione)
+-Similarità film fra le diverse case di produzione  
