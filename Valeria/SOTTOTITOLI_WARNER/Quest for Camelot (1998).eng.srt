@@ -1,0 +1,4517 @@
+1
+00:01:21,707 --> 00:01:23,375
+Come on!
+
+2
+00:01:35,470 --> 00:01:36,638
+Father!
+
+3
+00:01:43,353 --> 00:01:47,149
+- Father, do you really have to go?
+- I'm afraid I must, Kayley.
+
+4
+00:01:47,983 --> 00:01:50,652
+You know the king's knights
+will be here soon.
+
+5
+00:01:51,111 --> 00:01:53,488
+Tell me again why you became a knight.
+
+6
+00:01:53,822 --> 00:01:56,658
+Kayley, you've heard it a thousand times.
+
+7
+00:01:57,451 --> 00:01:59,161
+But it's fine, dear.
+
+8
+00:01:59,786 --> 00:02:02,623
+Well, my daughter, before you were born...
+
+9
+00:02:02,831 --> 00:02:05,501
+...the land was dark and treacherous.
+
+10
+00:02:07,169 --> 00:02:09,004
+The people stood divided...
+
+11
+00:02:09,171 --> 00:02:11,089
+...brother fighting brother.
+
+12
+00:02:11,507 --> 00:02:13,300
+The only hope for peace...
+
+13
+00:02:13,383 --> 00:02:16,470
+...was in the legend of the sword Excalibur.
+
+14
+00:02:18,096 --> 00:02:20,933
+For it was said that only the true king...
+
+15
+00:02:21,683 --> 00:02:24,603
+...could pull this magical sword
+from its stone...
+
+16
+00:02:24,770 --> 00:02:26,438
+...and unite the people.
+
+17
+00:02:26,688 --> 00:02:28,023
+Many tried.
+
+18
+00:02:29,608 --> 00:02:30,776
+All failed.
+
+19
+00:02:32,027 --> 00:02:33,028
+Then...
+
+20
+00:02:33,237 --> 00:02:35,697
+...on the very day that you were born...
+
+21
+00:02:36,532 --> 00:02:39,034
+...an unexpected hero stepped forth.
+
+22
+00:02:39,868 --> 00:02:41,662
+His name was Arthur...
+
+23
+00:02:45,040 --> 00:02:47,042
+...and he was the true king.
+
+24
+00:02:49,753 --> 00:02:52,089
+With Excalibur at his side...
+
+25
+00:02:52,381 --> 00:02:54,716
+...he led us out of the darkness...
+
+26
+00:02:55,300 --> 00:02:56,718
+...and together...
+
+27
+00:02:57,177 --> 00:03:00,013
+...we built the greatest kingdom on earth.
+
+28
+00:03:01,265 --> 00:03:02,933
+Everyone rejoiced.
+
+29
+00:03:30,252 --> 00:03:31,461
+Camelot!
+
+30
+00:03:34,631 --> 00:03:38,343
+And so these three rings represent
+the unity of our kingdom.
+
+31
+00:03:38,427 --> 00:03:40,470
+As a knight, I took an oath...
+
+32
+00:03:40,679 --> 00:03:43,015
+...to protect Camelot, King Arthur...
+
+33
+00:03:43,348 --> 00:03:44,683
+...and Excalibur.
+
+34
+00:03:44,766 --> 00:03:46,351
+The knights are here.
+
+35
+00:03:48,770 --> 00:03:50,689
+I must go now, Kayley.
+
+36
+00:03:50,772 --> 00:03:54,860
+The king has summoned his knights
+for a special day in Camelot.
+
+37
+00:03:57,571 --> 00:03:58,780
+Goodbye.
+
+38
+00:03:59,031 --> 00:04:01,158
+I'm coming with you, Daddy!
+
+39
+00:04:01,241 --> 00:04:03,785
+Yes, when you're old enough, Kayley...
+
+40
+00:04:03,869 --> 00:04:06,455
+...I will take you to Camelot. I promise.
+
+41
+00:04:07,206 --> 00:04:08,999
+I love you!
+
+42
+00:04:09,249 --> 00:04:11,251
+One day, I will be a knight...
+
+43
+00:04:11,668 --> 00:04:12,961
+...like Father.
+
+44
+00:04:14,421 --> 00:04:16,048
+Let's go!
+
+45
+00:05:20,028 --> 00:05:22,447
+"United we stand
+
+46
+00:05:22,781 --> 00:05:24,366
+"Now and forever
+
+47
+00:05:25,200 --> 00:05:26,451
+"In truth
+
+48
+00:05:26,535 --> 00:05:27,953
+"Divided we fall
+
+49
+00:05:30,789 --> 00:05:32,332
+"Hand upon hand
+
+50
+00:05:33,542 --> 00:05:35,294
+"Brother to brother
+
+51
+00:05:35,878 --> 00:05:38,255
+"No one shall be greater than all
+
+52
+00:05:41,550 --> 00:05:43,135
+"United we stand
+
+53
+00:05:44,219 --> 00:05:45,804
+"Now and forever
+
+54
+00:05:46,597 --> 00:05:47,890
+"In truth
+
+55
+00:05:48,223 --> 00:05:49,808
+"Divided we fall
+
+56
+00:05:52,269 --> 00:05:53,812
+"Hand upon hand
+
+57
+00:05:54,855 --> 00:05:56,565
+"Brother to brother
+
+58
+00:05:57,649 --> 00:06:00,068
+"No one shall be greater than all
+
+59
+00:06:02,905 --> 00:06:05,741
+"It's been ten years we celebrate
+
+60
+00:06:05,824 --> 00:06:07,910
+"All that made our kingdom great
+
+61
+00:06:08,327 --> 00:06:10,120
+"Liberty and justice
+
+62
+00:06:10,454 --> 00:06:11,705
+"For all
+
+63
+00:06:13,624 --> 00:06:15,709
+"Each of us will now divide
+
+64
+00:06:16,251 --> 00:06:18,420
+"In equal shares, our countryside
+
+65
+00:06:19,171 --> 00:06:20,923
+"Promising equality
+
+66
+00:06:21,340 --> 00:06:23,091
+"For all who reside
+
+67
+00:06:25,344 --> 00:06:27,596
+"United we stand
+
+68
+00:06:27,888 --> 00:06:29,473
+"Now and forever
+
+69
+00:06:30,182 --> 00:06:31,475
+"In truth
+
+70
+00:06:31,934 --> 00:06:33,519
+"Divided we fall
+
+71
+00:06:36,355 --> 00:06:37,898
+"Hand upon hand
+
+72
+00:06:38,565 --> 00:06:40,317
+"Brother to brother
+
+73
+00:06:40,984 --> 00:06:43,403
+"No one shall be greater than all"
+
+74
+00:06:43,987 --> 00:06:45,072
+Liberty!
+
+75
+00:06:45,155 --> 00:06:46,323
+Justice!
+
+76
+00:06:46,657 --> 00:06:47,574
+Trust!
+
+77
+00:06:49,159 --> 00:06:50,494
+Freedom!
+
+78
+00:06:50,577 --> 00:06:51,912
+Peace!
+
+79
+00:06:51,995 --> 00:06:52,955
+Honor!
+
+80
+00:06:54,540 --> 00:06:55,707
+Goodness!
+
+81
+00:06:55,791 --> 00:06:57,125
+Strength!
+
+82
+00:06:57,334 --> 00:06:58,252
+Valor!
+
+83
+00:06:59,878 --> 00:07:01,672
+Me!
+
+84
+00:07:01,922 --> 00:07:03,674
+Charming sing-along.
+
+85
+00:07:04,216 --> 00:07:05,926
+Now let's get down to business.
+
+86
+00:07:06,009 --> 00:07:09,721
+I've waited a long time for this day.
+What about my new land?
+
+87
+00:07:09,888 --> 00:07:11,223
+Sir Ruber...
+
+88
+00:07:11,598 --> 00:07:13,725
+...always thinking of yourself.
+
+89
+00:07:14,184 --> 00:07:17,396
+As Knights of the Round Table,
+our obligation is to the people...
+
+90
+00:07:17,479 --> 00:07:19,147
+...not to ourselves.
+
+91
+00:07:19,231 --> 00:07:22,734
+The lands will be divided
+according to each person's needs.
+
+92
+00:07:22,818 --> 00:07:25,070
+Then I need more than everyone.
+
+93
+00:07:25,320 --> 00:07:27,531
+I wouldn't have supported you
+all these years...
+
+94
+00:07:27,614 --> 00:07:30,492
+...if I thought you were running a charity.
+
+95
+00:07:30,826 --> 00:07:32,327
+The king has decided!
+
+96
+00:07:32,411 --> 00:07:34,538
+Then it's time for the new king...
+
+97
+00:07:34,872 --> 00:07:36,540
+...and I vote for me.
+
+98
+00:07:36,707 --> 00:07:38,959
+I will not serve a false king!
+
+99
+00:07:39,459 --> 00:07:40,919
+Then serve...
+
+100
+00:07:41,461 --> 00:07:42,713
+...a dead one!
+
+101
+00:07:58,729 --> 00:08:01,356
+One day that sword will be in my hand...
+
+102
+00:08:02,357 --> 00:08:04,401
+and all will be mine!
+
+103
+00:08:08,864 --> 00:08:10,282
+Is he all right?
+
+104
+00:08:10,365 --> 00:08:11,700
+Sir Lionel?
+
+105
+00:08:23,879 --> 00:08:25,422
+Mother, listen.
+
+106
+00:08:26,131 --> 00:08:27,132
+Father!
+
+107
+00:08:54,785 --> 00:08:56,328
+No!
+
+108
+00:09:01,208 --> 00:09:03,585
+Your husband died saving my life...
+
+109
+00:09:04,628 --> 00:09:06,171
+...and saving Camelot.
+
+110
+00:09:06,255 --> 00:09:07,548
+Lady Juliana...
+
+111
+00:09:08,131 --> 00:09:11,134
+...the gates of Camelot
+will always be open to you.
+
+112
+00:09:11,468 --> 00:09:12,719
+Sir Lionel...
+
+113
+00:09:13,011 --> 00:09:15,264
+...was my most trusted knight...
+
+114
+00:09:15,806 --> 00:09:17,140
+...and also...
+
+115
+00:09:17,224 --> 00:09:19,184
+...my dear, dear friend.
+
+116
+00:09:21,103 --> 00:09:25,274
+We will always remember how
+he bravely upheld the ideals of Camelot.
+
+117
+00:09:44,501 --> 00:09:47,296
+"If you were with me now
+
+118
+00:09:48,005 --> 00:09:49,923
+"I'd find myself in you
+
+119
+00:09:51,884 --> 00:09:53,844
+"If you were with me now
+
+120
+00:09:55,345 --> 00:09:57,556
+"You're the only one who knew
+
+121
+00:09:58,682 --> 00:10:01,018
+"All the things we planned to do
+
+122
+00:10:04,479 --> 00:10:06,356
+"I want to live my life
+
+123
+00:10:08,442 --> 00:10:10,444
+"The way you said I would
+
+124
+00:10:12,154 --> 00:10:14,156
+"With courage as my light
+
+125
+00:10:14,531 --> 00:10:16,158
+"Fighting for what's right
+
+126
+00:10:16,241 --> 00:10:18,660
+"Like you made me believe I could
+
+127
+00:10:22,289 --> 00:10:24,833
+"And I will fly on my father's wings
+
+128
+00:10:26,335 --> 00:10:28,462
+"To places I have never been
+
+129
+00:10:29,880 --> 00:10:32,257
+"There is so much I've never seen
+
+130
+00:10:33,926 --> 00:10:36,428
+"And I can feel his heartbeat still
+
+131
+00:10:37,179 --> 00:10:39,264
+"And I will do great things
+
+132
+00:10:40,015 --> 00:10:41,808
+"On my father's wings
+
+133
+00:10:48,524 --> 00:10:50,567
+"This world I'll never see
+
+134
+00:10:52,110 --> 00:10:54,321
+"My dreams that just won't be
+
+135
+00:10:55,948 --> 00:10:58,659
+"This horse's stride with one-day's ride
+
+136
+00:10:59,284 --> 00:11:01,995
+"Will have covered more distance than me
+
+137
+00:11:03,539 --> 00:11:05,082
+"And I will fly
+
+138
+00:11:06,124 --> 00:11:07,918
+"On my father's wings
+
+139
+00:11:08,836 --> 00:11:10,963
+"To places I have never been
+
+140
+00:11:12,297 --> 00:11:14,716
+"There is so much I've never seen
+
+141
+00:11:16,468 --> 00:11:18,971
+"And I can feel his heartbeat still
+
+142
+00:11:19,680 --> 00:11:21,807
+"And I will do great things
+
+143
+00:11:22,391 --> 00:11:24,184
+"On my father's wings
+
+144
+00:11:31,316 --> 00:11:32,526
+"Someday
+
+145
+00:11:33,443 --> 00:11:35,571
+"With his spirit to guide me
+
+146
+00:11:37,155 --> 00:11:39,157
+"And his memory beside me
+
+147
+00:11:41,410 --> 00:11:42,953
+"I will be free
+
+148
+00:11:46,165 --> 00:11:48,333
+"To fly on my father's wings
+
+149
+00:11:50,586 --> 00:11:52,713
+"To places I have never been
+
+150
+00:11:53,881 --> 00:11:56,300
+"There is so much I've never seen
+
+151
+00:11:58,093 --> 00:12:00,596
+"And I can feel his heartbeat still
+
+152
+00:12:01,346 --> 00:12:03,265
+"I will do great things
+
+153
+00:12:05,767 --> 00:12:07,561
+"On my father's wings
+
+154
+00:12:13,150 --> 00:12:15,027
+"On my father's wings"
+
+155
+00:12:42,095 --> 00:12:45,557
+In the ten years
+since Sir Lionel's death...
+
+156
+00:12:45,891 --> 00:12:47,142
+...equality...
+
+157
+00:12:47,392 --> 00:12:48,810
+...and freedom...
+
+158
+00:12:49,061 --> 00:12:51,271
+...have spread throughout the lands.
+
+159
+00:12:52,105 --> 00:12:53,565
+Excalibur...
+
+160
+00:12:53,649 --> 00:12:57,903
+...has given us the strength
+to stand together against all injustice.
+
+161
+00:13:02,533 --> 00:13:05,702
+Camelot has prospered
+beyond our greatest dreams.
+
+162
+00:13:15,587 --> 00:13:17,589
+It's a griffin!
+
+163
+00:13:31,186 --> 00:13:34,273
+- It's taken Excalibur!
+- Arthur is wounded!
+
+164
+00:13:34,356 --> 00:13:37,568
+Never mind me!
+Find Merlin and go after the sword!
+
+165
+00:13:47,286 --> 00:13:50,998
+Send word across the land:
+Excalibur's been stolen!
+
+166
+00:13:57,004 --> 00:13:58,547
+Silver Wings...
+
+167
+00:13:58,672 --> 00:14:00,465
+...protect the sword!
+
+168
+00:15:08,825 --> 00:15:10,953
+Excalibur! It's been stolen!
+
+169
+00:15:18,210 --> 00:15:19,753
+No, absolutely not!
+
+170
+00:15:19,837 --> 00:15:22,005
+But, Mother, Excalibur is missing.
+
+171
+00:15:22,089 --> 00:15:23,549
+I must go after it.
+
+172
+00:15:23,632 --> 00:15:26,009
+That's a job for the knights,
+not for a young girl.
+
+173
+00:15:26,093 --> 00:15:27,678
+But I want to be a knight.
+
+174
+00:15:27,761 --> 00:15:32,140
+I'll go on grand adventures fighting evil,
+rescuing damsels in distress.
+
+175
+00:15:33,433 --> 00:15:35,018
+What is a damsel anyway?
+
+176
+00:15:35,102 --> 00:15:37,938
+Now, Kayley, stand still
+and try on your new dress.
+
+177
+00:15:39,398 --> 00:15:42,985
+Mother, I don't want a new dress.
+I want to save Camelot!
+
+178
+00:15:43,569 --> 00:15:47,030
+If you'd just let me, I know
+I could find Excalibur all on my own.
+
+179
+00:15:47,114 --> 00:15:50,868
+The knights will find the sword
+and they'll do it by working together.
+
+180
+00:15:50,951 --> 00:15:52,661
+While I'm working here...
+
+181
+00:15:52,744 --> 00:15:56,498
+...doing the chores, fetching the eggs,
+taking care of the house.
+
+182
+00:15:56,582 --> 00:15:57,791
+Boring!
+
+183
+00:15:58,125 --> 00:15:59,877
+Where's the glory in that?
+
+184
+00:15:59,960 --> 00:16:03,130
+Kayley, one day you will learn
+what Camelot means.
+
+185
+00:16:04,339 --> 00:16:07,509
+- Till then, you'll stay here with me.
+- All right!
+
+186
+00:16:16,727 --> 00:16:18,478
+What would you do?
+
+187
+00:16:43,795 --> 00:16:47,508
+How am I ever going to do great things
+if I'm stuck here...
+
+188
+00:16:48,675 --> 00:16:50,427
+...with these silly chickens?
+
+189
+00:17:01,063 --> 00:17:02,898
+Knock, knock.
+
+190
+00:17:04,024 --> 00:17:05,192
+Who are you?
+
+191
+00:17:07,027 --> 00:17:08,111
+Ruber!
+
+192
+00:17:08,320 --> 00:17:09,530
+Juliana.
+
+193
+00:17:09,696 --> 00:17:13,116
+I was in the neighborhood
+and I thought I'd invade.
+
+194
+00:17:13,367 --> 00:17:15,160
+How about a little kiss?
+
+195
+00:17:15,244 --> 00:17:16,954
+I hear you're still single.
+
+196
+00:17:17,037 --> 00:17:18,664
+Impertinent pig!
+
+197
+00:17:18,914 --> 00:17:20,123
+Is that a "no"?
+
+198
+00:17:20,207 --> 00:17:22,334
+I demand you leave immediately!
+
+199
+00:17:22,417 --> 00:17:23,669
+So rude!
+
+200
+00:17:24,169 --> 00:17:27,464
+And after I came all this way
+just to see you.
+
+201
+00:17:27,548 --> 00:17:28,507
+What do you want?
+
+202
+00:17:28,590 --> 00:17:29,842
+Camelot.
+
+203
+00:17:30,050 --> 00:17:31,802
+"Let's go back to
+
+204
+00:17:31,885 --> 00:17:33,554
+"War and violence
+
+205
+00:17:34,555 --> 00:17:35,931
+"I'm so bored
+
+206
+00:17:36,056 --> 00:17:37,057
+"With peace
+
+207
+00:17:37,140 --> 00:17:38,976
+"And silence!
+
+208
+00:17:40,060 --> 00:17:42,396
+"Nights of evil filled with fear
+
+209
+00:17:43,397 --> 00:17:46,233
+"Your worst dream, that's my idea of fun"
+
+210
+00:17:47,568 --> 00:17:48,694
+You're mad!
+
+211
+00:17:48,861 --> 00:17:50,821
+I'm so glad you noticed.
+
+212
+00:17:51,113 --> 00:17:53,657
+I've been working at it for years.
+
+213
+00:17:54,491 --> 00:17:57,202
+"Let Darkness find its sad ways
+
+214
+00:17:57,744 --> 00:18:00,247
+"Let's go back to good old bad days
+
+215
+00:18:01,373 --> 00:18:03,750
+"No more foolish acts of kindness
+
+216
+00:18:04,585 --> 00:18:06,503
+"Arthur and his kingdom
+
+217
+00:18:07,254 --> 00:18:09,298
+"Will be mine"
+
+218
+00:18:10,090 --> 00:18:13,010
+And pretty Juliana,
+you're going to help me.
+
+219
+00:18:14,178 --> 00:18:15,762
+I would sooner die!
+
+220
+00:18:15,929 --> 00:18:19,057
+I think you'll find
+you won't be able to resist!
+
+221
+00:18:22,394 --> 00:18:23,604
+Mother!
+
+222
+00:18:26,273 --> 00:18:27,941
+Don't you dare harm her!
+
+223
+00:18:30,194 --> 00:18:32,237
+Follow my plan...
+
+224
+00:18:34,531 --> 00:18:36,283
+...and she won't be hurt.
+
+225
+00:18:37,701 --> 00:18:39,953
+"Years from now,
+no one will bother
+
+226
+00:18:40,037 --> 00:18:42,080
+"To recall your good King Arthur
+
+227
+00:18:42,414 --> 00:18:43,624
+"Because all of this
+
+228
+00:18:43,707 --> 00:18:45,167
+"Will be mine
+
+229
+00:18:47,711 --> 00:18:48,795
+"This
+
+230
+00:18:48,962 --> 00:18:50,631
+"Will all be mine
+
+231
+00:18:54,092 --> 00:18:56,803
+"I have a plan, it includes you
+
+232
+00:18:57,221 --> 00:18:59,473
+"You, Juliana, will lead me to
+
+233
+00:19:00,474 --> 00:19:01,642
+"Camelot
+
+234
+00:19:01,808 --> 00:19:04,311
+"Where I will claim all that is mine
+
+235
+00:19:06,480 --> 00:19:08,607
+"In the back of your wagons
+
+236
+00:19:08,690 --> 00:19:09,942
+"My men will all hide
+
+237
+00:19:10,025 --> 00:19:12,945
+"You'll sit up front as the gates open wide
+
+238
+00:19:13,487 --> 00:19:15,155
+"Now watch me create
+
+239
+00:19:15,280 --> 00:19:17,491
+"My mechanical army with pride
+
+240
+00:19:22,830 --> 00:19:24,414
+"With this potion
+
+241
+00:19:24,498 --> 00:19:26,208
+"I bought from some witches
+
+242
+00:19:26,291 --> 00:19:27,626
+"A drop on this chicken
+
+243
+00:19:27,709 --> 00:19:29,628
+"All watch as he switches
+
+244
+00:19:29,753 --> 00:19:32,339
+"Into a weapon that I can use at will
+
+245
+00:19:34,508 --> 00:19:36,176
+"Now this chicken
+
+246
+00:19:36,760 --> 00:19:38,011
+"Can kill"
+
+247
+00:19:42,182 --> 00:19:43,392
+"Behold
+
+248
+00:19:44,768 --> 00:19:46,103
+"'Bladebeak'
+
+249
+00:19:52,109 --> 00:19:54,403
+"Step right up and enter quickly
+
+250
+00:19:54,528 --> 00:19:56,488
+"I'll transform the meek
+
+251
+00:19:56,780 --> 00:19:58,073
+"And sickly
+
+252
+00:19:58,198 --> 00:19:59,700
+"Into iron men
+
+253
+00:20:00,367 --> 00:20:02,161
+"With hands of steel"
+
+254
+00:20:04,246 --> 00:20:06,331
+Yes, yes, into the water.
+
+255
+00:20:06,790 --> 00:20:08,876
+Quickly now. Go, you fools!
+
+256
+00:20:09,418 --> 00:20:12,296
+Next! Stand up straight now!
+Move it along!
+
+257
+00:20:12,504 --> 00:20:14,423
+No, no, that's no good!
+
+258
+00:20:15,007 --> 00:20:17,176
+Prepare for the dawning...
+
+259
+00:20:17,384 --> 00:20:18,969
+...of a new age!
+
+260
+00:20:20,762 --> 00:20:22,389
+The Ruberian Age!
+
+261
+00:20:24,308 --> 00:20:25,309
+Year One!
+
+262
+00:20:25,392 --> 00:20:27,436
+Go to Camelot. Warn Arthur.
+
+263
+00:20:27,519 --> 00:20:28,604
+I won't leave you here.
+
+264
+00:20:28,687 --> 00:20:31,773
+Kayley, Ruber will be in Camelot
+in three days.
+
+265
+00:20:32,149 --> 00:20:34,193
+Take the main road. Get there before us.
+
+266
+00:20:34,276 --> 00:20:35,903
+- But, Mother...
+- Go...
+
+267
+00:20:35,986 --> 00:20:38,530
+...while you have the chance. Go, Kayley!
+
+268
+00:20:38,614 --> 00:20:40,199
+You're our only hope.
+
+269
+00:20:43,785 --> 00:20:45,204
+Be careful, dear.
+
+270
+00:20:49,166 --> 00:20:51,960
+"Only one will be revered
+
+271
+00:20:52,503 --> 00:20:55,047
+"Worshipped, hated, loved and feared"
+
+272
+00:20:58,467 --> 00:21:01,011
+"I'd just like to say a few words:
+
+273
+00:21:01,512 --> 00:21:02,930
+"'I, me, mine'
+
+274
+00:21:05,557 --> 00:21:07,976
+"You were mistaken if you believed
+
+275
+00:21:08,519 --> 00:21:11,313
+"Ruber was someone
+who'd crumble and leave
+
+276
+00:21:11,939 --> 00:21:13,148
+"Now I'm back
+
+277
+00:21:13,232 --> 00:21:15,108
+"And I will be staying
+
+278
+00:21:15,484 --> 00:21:16,818
+"This time
+
+279
+00:21:18,820 --> 00:21:20,405
+"I told you once
+
+280
+00:21:21,114 --> 00:21:22,741
+"I told you twice
+
+281
+00:21:23,659 --> 00:21:25,869
+"Everything you see before you
+
+282
+00:21:26,203 --> 00:21:27,996
+"Every last bit of it
+
+283
+00:21:29,164 --> 00:21:30,290
+"Will...
+
+284
+00:21:30,666 --> 00:21:31,750
+"...be...
+
+285
+00:21:32,876 --> 00:21:34,503
+"...mine...
+
+286
+00:21:35,587 --> 00:21:36,672
+"...now"
+
+287
+00:21:42,678 --> 00:21:44,263
+To the wagons!
+
+288
+00:21:44,346 --> 00:21:45,639
+Next stop...
+
+289
+00:21:46,557 --> 00:21:48,016
+Camelot!
+
+290
+00:21:57,860 --> 00:21:59,570
+My faithful pet.
+
+291
+00:22:00,529 --> 00:22:01,738
+How was the flight?
+
+292
+00:22:01,822 --> 00:22:04,616
+- Panic sweeps across the land.
+- Precisely.
+
+293
+00:22:05,200 --> 00:22:07,369
+- My plan is perfect.
+- Precisely.
+
+294
+00:22:07,536 --> 00:22:10,372
+- Without the sword, Arthur is vulnerable.
+- Precisely.
+
+295
+00:22:10,455 --> 00:22:12,040
+Now Excalibur...
+
+296
+00:22:12,457 --> 00:22:13,709
+...is mine.
+
+297
+00:22:16,628 --> 00:22:19,047
+Here's where we enter a gray area.
+
+298
+00:22:20,549 --> 00:22:21,675
+Excuse me?
+
+299
+00:22:22,217 --> 00:22:23,927
+You lost Excalibur?
+
+300
+00:22:25,387 --> 00:22:26,555
+How?
+
+301
+00:22:26,638 --> 00:22:29,558
+- I was attacked by a falcon.
+- What?
+
+302
+00:22:29,641 --> 00:22:33,187
+My magnificent beast outmatched
+by a puny, little pigeon?
+
+303
+00:22:33,520 --> 00:22:34,563
+It wasn't a pigeon.
+
+304
+00:22:34,646 --> 00:22:36,398
+It was a falcon...
+
+305
+00:22:36,481 --> 00:22:38,066
+...with silver wings.
+
+306
+00:22:38,275 --> 00:22:40,277
+Silver wings? Oh, scary.
+
+307
+00:22:40,944 --> 00:22:42,821
+You stupid animal!
+
+308
+00:22:42,905 --> 00:22:44,823
+Where is the sword now?
+
+309
+00:22:46,408 --> 00:22:48,577
+In a place of untold danger.
+
+310
+00:22:49,661 --> 00:22:51,663
+The Forbidden Forest.
+
+311
+00:22:51,747 --> 00:22:53,916
+Precisely, Master.
+
+312
+00:22:54,374 --> 00:22:56,335
+Have I told you today...
+
+313
+00:22:56,502 --> 00:22:59,004
+...how magnificently and totally...
+
+314
+00:22:59,838 --> 00:23:01,632
+...worthless you are?
+
+315
+00:23:03,759 --> 00:23:05,802
+Excalibur is the one thing...
+
+316
+00:23:05,886 --> 00:23:08,972
+...that can keep me
+from my conquest of Camelot!
+
+317
+00:23:10,516 --> 00:23:12,935
+No, not the girl!
+
+318
+00:23:14,269 --> 00:23:15,812
+You, you, and you...
+
+319
+00:23:16,104 --> 00:23:18,232
+...Fancy-Feet, get after her...
+
+320
+00:23:18,315 --> 00:23:19,525
+...and bring her back!
+
+321
+00:23:19,608 --> 00:23:20,859
+And you!
+
+322
+00:23:21,777 --> 00:23:23,862
+You are going to lead me...
+
+323
+00:23:24,780 --> 00:23:26,365
+...to Excalibur.
+
+324
+00:23:30,869 --> 00:23:33,789
+"I pray You will be my eyes
+
+325
+00:23:37,626 --> 00:23:39,795
+"And watch her where she goes
+
+326
+00:23:44,091 --> 00:23:46,051
+"And help her to be wise
+
+327
+00:23:50,806 --> 00:23:52,558
+"Help me to let go
+
+328
+00:23:57,437 --> 00:23:59,314
+"Every mother's prayer"
+
+329
+00:24:04,528 --> 00:24:06,196
+"Every child knows
+
+330
+00:24:12,661 --> 00:24:14,454
+"Lead her to a place
+
+331
+00:24:16,665 --> 00:24:18,458
+"Guide her to a place
+
+332
+00:24:20,252 --> 00:24:22,671
+"Give her faith so she'll be safe
+
+333
+00:24:27,885 --> 00:24:29,678
+"Lead her to a place
+
+334
+00:24:32,181 --> 00:24:34,224
+"Guide her with Your grace
+
+335
+00:24:36,852 --> 00:24:38,228
+"To a place
+
+336
+00:24:38,353 --> 00:24:39,938
+"Where she'll be
+
+337
+00:24:42,983 --> 00:24:44,151
+"Safe"
+
+338
+00:25:01,084 --> 00:25:03,045
+The Forbidden Forest.
+
+339
+00:25:24,441 --> 00:25:27,444
+We're not going
+in there, are we?
+
+340
+00:25:28,070 --> 00:25:30,948
+- Chicken.
+- But I got a wife and two eggs at home!
+
+341
+00:25:33,242 --> 00:25:35,786
+Hey, don't leave me here!
+
+342
+00:26:12,155 --> 00:26:13,407
+Hey!
+
+343
+00:26:14,324 --> 00:26:15,826
+That's my net.
+
+344
+00:27:09,421 --> 00:27:10,422
+Wow!
+
+345
+00:27:11,548 --> 00:27:13,425
+That was incredible...
+
+346
+00:27:14,009 --> 00:27:17,888
+...how you smashed those creatures,
+how you avoided that thing.
+
+347
+00:27:19,139 --> 00:27:20,891
+You're amazing. You're...
+
+348
+00:27:22,476 --> 00:27:24,603
+...not even listening to me.
+
+349
+00:27:24,853 --> 00:27:26,021
+Great.
+
+350
+00:27:26,396 --> 00:27:28,524
+It took me six weeks to make this net.
+
+351
+00:27:28,607 --> 00:27:31,151
+Net? You saved my life. Thank you.
+
+352
+00:27:32,611 --> 00:27:34,696
+Well, anyone can make a mistake.
+
+353
+00:27:35,739 --> 00:27:36,698
+I get it.
+
+354
+00:27:36,782 --> 00:27:40,369
+This is where King Arthur sends
+his unfunny jesters, right?
+
+355
+00:27:41,036 --> 00:27:43,413
+- And now I'll thank you.
+- For what?
+
+356
+00:27:43,497 --> 00:27:46,416
+For reminding me why I'm a hermit.
+Good day.
+
+357
+00:27:46,750 --> 00:27:48,961
+No, wait. What's your name?
+
+358
+00:27:49,044 --> 00:27:50,295
+It's Garrett.
+
+359
+00:27:50,379 --> 00:27:51,797
+I'm Kayley.
+
+360
+00:27:53,215 --> 00:27:56,093
+Why won't you look at me
+when I'm talking to you?
+
+361
+00:27:58,095 --> 00:27:59,680
+I didn't realize you were...
+
+362
+00:27:59,763 --> 00:28:01,181
+What? Tall?
+
+363
+00:28:01,598 --> 00:28:03,267
+Rugged? Handsome?
+
+364
+00:28:04,226 --> 00:28:05,269
+Blind.
+
+365
+00:28:06,270 --> 00:28:08,522
+You know, I always forget that one.
+
+366
+00:28:14,194 --> 00:28:15,904
+Moving bush.
+
+367
+00:28:17,406 --> 00:28:18,782
+Not now, Ayden.
+
+368
+00:28:18,991 --> 00:28:21,535
+Look! Your falcon has silver wings.
+
+369
+00:28:21,910 --> 00:28:24,204
+Really? I'll have to take your word for that.
+
+370
+00:28:24,288 --> 00:28:25,789
+Oh, no. I'm sorry.
+
+371
+00:28:26,039 --> 00:28:28,333
+It means he knows
+where Excalibur is.
+
+372
+00:28:28,417 --> 00:28:30,460
+Sure he does. In Camelot.
+
+373
+00:28:30,711 --> 00:28:32,546
+You know... big castle, lots of flags.
+
+374
+00:28:32,629 --> 00:28:35,048
+No, it's somewhere in the forest.
+
+375
+00:28:35,299 --> 00:28:37,885
+Ruber has stolen it
+and he's taken my mother hostage.
+
+376
+00:28:37,968 --> 00:28:39,636
+That's why I'm here!
+
+377
+00:28:39,720 --> 00:28:42,598
+I must find the sword
+and return it to Arthur...
+
+378
+00:28:42,681 --> 00:28:45,058
+...or Camelot and my mother are doomed.
+
+379
+00:28:48,020 --> 00:28:49,688
+Excalibur is here?
+
+380
+00:28:50,856 --> 00:28:53,025
+Right. We're going after it.
+
+381
+00:28:53,650 --> 00:28:54,651
+Great!
+
+382
+00:28:54,943 --> 00:28:56,820
+Not you. Me and Ayden.
+
+383
+00:28:57,279 --> 00:28:58,780
+We work alone.
+
+384
+00:28:59,156 --> 00:29:01,867
+I see no reason why I can't come along.
+
+385
+00:29:02,659 --> 00:29:05,829
+"I know the sound
+of each rock and stone
+
+386
+00:29:08,165 --> 00:29:10,501
+"And I embrace what others fear
+
+387
+00:29:12,794 --> 00:29:14,379
+"You are not to roam
+
+388
+00:29:14,463 --> 00:29:16,423
+"In this forgotten place
+
+389
+00:29:17,925 --> 00:29:20,552
+"Just the likes of me are welcome here
+
+390
+00:29:23,055 --> 00:29:24,848
+"Everything breathes
+
+391
+00:29:25,474 --> 00:29:27,392
+"And I know each breath
+
+392
+00:29:27,976 --> 00:29:29,645
+"For me it means life
+
+393
+00:29:30,479 --> 00:29:32,356
+"For others it's death
+
+394
+00:29:33,065 --> 00:29:35,067
+"It's perfectly balanced
+
+395
+00:29:35,567 --> 00:29:37,236
+"Perfectly planned
+
+396
+00:29:38,445 --> 00:29:40,072
+"More than enough
+
+397
+00:29:40,364 --> 00:29:41,824
+"For this man
+
+398
+00:29:45,077 --> 00:29:46,703
+"Like every tree
+
+399
+00:29:47,579 --> 00:29:49,248
+"Stands on its own
+
+400
+00:29:51,166 --> 00:29:52,793
+"Reaching for the sky
+
+401
+00:29:52,876 --> 00:29:54,378
+"I stand alone
+
+402
+00:29:55,295 --> 00:29:56,922
+"I share my world
+
+403
+00:29:57,923 --> 00:29:59,550
+"With no one else
+
+404
+00:30:00,509 --> 00:30:02,010
+"All by myself
+
+405
+00:30:02,970 --> 00:30:04,471
+"I stand alone
+
+406
+00:30:24,366 --> 00:30:26,160
+"I've seen your world
+
+407
+00:30:26,952 --> 00:30:28,745
+"With these very eyes
+
+408
+00:30:29,204 --> 00:30:31,081
+"Don't come any closer
+
+409
+00:30:32,040 --> 00:30:33,500
+"Don't even try
+
+410
+00:30:34,293 --> 00:30:36,170
+"I've felt all the pain
+
+411
+00:30:36,670 --> 00:30:38,589
+"And heard all the lies
+
+412
+00:30:39,423 --> 00:30:40,924
+"But in my world
+
+413
+00:30:41,008 --> 00:30:42,885
+"There's no compromise
+
+414
+00:30:46,346 --> 00:30:47,973
+"Like every tree
+
+415
+00:30:48,974 --> 00:30:50,642
+"Stands on its own
+
+416
+00:30:52,436 --> 00:30:54,938
+"Reaching for the sky I stand alone
+
+417
+00:30:56,565 --> 00:30:58,192
+"I share my world
+
+418
+00:30:59,151 --> 00:31:00,819
+"With no one else
+
+419
+00:31:01,695 --> 00:31:03,197
+"All by myself
+
+420
+00:31:04,281 --> 00:31:05,782
+"I stand alone
+
+421
+00:31:06,533 --> 00:31:08,035
+"All by myself
+
+422
+00:31:09,328 --> 00:31:10,829
+"I stand alone
+
+423
+00:31:11,997 --> 00:31:13,499
+"All by myself
+
+424
+00:31:16,084 --> 00:31:17,628
+"I stand alone"
+
+425
+00:31:24,676 --> 00:31:26,803
+I stand alone, too.
+
+426
+00:31:27,930 --> 00:31:29,097
+Ayden.
+
+427
+00:31:30,182 --> 00:31:32,267
+I just need your help this once.
+
+428
+00:31:32,351 --> 00:31:34,061
+All right, all right!
+
+429
+00:31:34,311 --> 00:31:36,605
+But don't give me any trouble.
+
+430
+00:31:39,525 --> 00:31:41,735
+It's a fine mess you've gotten us into,
+Ayden.
+
+431
+00:31:41,818 --> 00:31:43,695
+Hey, this isn't so bad!
+
+432
+00:31:48,075 --> 00:31:50,786
+I don't know why you made
+such a fuss.
+
+433
+00:31:51,537 --> 00:31:54,039
+I've had a tougher time collecting eggs.
+
+434
+00:31:55,874 --> 00:31:57,543
+Trouble, trouble, trouble...
+
+435
+00:31:57,626 --> 00:31:59,211
+...with a capital "T."
+
+436
+00:32:07,010 --> 00:32:09,763
+You wretched,
+mythological moron!
+
+437
+00:32:09,930 --> 00:32:12,140
+Where did you drop the sword?
+
+438
+00:32:14,393 --> 00:32:17,229
+It all looks so different from down here.
+
+439
+00:32:25,779 --> 00:32:27,239
+You! Report!
+
+440
+00:32:29,408 --> 00:32:31,493
+The girl and the blind warrior...
+
+441
+00:32:31,577 --> 00:32:34,163
+...are following a silver-winged falcon...
+
+442
+00:32:34,746 --> 00:32:36,832
+...who knows where Excalibur is.
+
+443
+00:32:36,915 --> 00:32:39,334
+They'll lead us right to it.
+
+444
+00:32:40,169 --> 00:32:42,087
+We're going after them!
+
+445
+00:32:45,841 --> 00:32:47,301
+You lookin' at me?
+
+446
+00:32:48,719 --> 00:32:50,387
+You lookin' at me?
+
+447
+00:33:02,524 --> 00:33:05,694
+Come on, men!
+We must repair this tower.
+
+448
+00:33:10,741 --> 00:33:12,743
+Merlin, is there any news?
+
+449
+00:33:12,868 --> 00:33:15,037
+Have the knights found Excalibur?
+
+450
+00:33:15,120 --> 00:33:16,663
+I'm afraid not.
+
+451
+00:33:17,414 --> 00:33:19,374
+Then I'll go after it myself.
+
+452
+00:33:19,708 --> 00:33:20,751
+No!
+
+453
+00:33:20,959 --> 00:33:23,253
+You have to regain your strength.
+
+454
+00:33:23,879 --> 00:33:26,256
+Is there anything your magic can do?
+
+455
+00:33:26,757 --> 00:33:29,635
+You must rely on the courage
+of your people.
+
+456
+00:33:47,611 --> 00:33:49,196
+Have you got a cold?
+
+457
+00:33:49,780 --> 00:33:52,366
+- What is it?
+- We're in dragon country.
+
+458
+00:33:58,205 --> 00:33:59,206
+Right.
+
+459
+00:34:05,337 --> 00:34:08,298
+Are you sure
+this is dragon country?
+
+460
+00:34:09,174 --> 00:34:11,552
+Shouldn't there be a sign or something?
+
+461
+00:34:12,302 --> 00:34:13,345
+It could say:
+
+462
+00:34:13,428 --> 00:34:15,556
+"Welcome to Dragon Country."
+
+463
+00:34:15,806 --> 00:34:18,141
+You don't think we'll see any...
+
+464
+00:34:18,225 --> 00:34:19,393
+...do you?
+
+465
+00:34:19,810 --> 00:34:22,563
+Is a group of dragons a pack or a flock?
+
+466
+00:34:23,856 --> 00:34:26,149
+Is it a gaggle or a pride?
+
+467
+00:34:26,233 --> 00:34:27,234
+Is it a herd?
+
+468
+00:34:27,317 --> 00:34:29,403
+- Quiet.
+- Do you hear something?
+
+469
+00:34:29,570 --> 00:34:32,072
+No. I just want you to be quiet.
+
+470
+00:34:57,931 --> 00:35:00,642
+Garrett! Where are you?
+
+471
+00:35:10,903 --> 00:35:14,573
+- Dragons!
+- Where? I don't see any dragons!
+
+472
+00:35:18,327 --> 00:35:19,870
+But you're dragons.
+
+473
+00:35:20,120 --> 00:35:23,040
+Heavens! Someone's found
+our hiding place.
+
+474
+00:35:23,207 --> 00:35:25,918
+Shut up, Cricket Ball.
+Let me handle this.
+
+475
+00:35:26,001 --> 00:35:27,419
+We are dragons!
+
+476
+00:35:27,503 --> 00:35:29,505
+Ferocious, hungry dragons!
+
+477
+00:35:29,671 --> 00:35:31,882
+So go away before we eat you!
+
+478
+00:35:35,802 --> 00:35:38,347
+Good show, Corny. That is clever.
+
+479
+00:35:38,931 --> 00:35:40,098
+Let me have a go.
+
+480
+00:35:41,683 --> 00:35:43,101
+Oh, great.
+
+481
+00:35:43,185 --> 00:35:44,478
+Bunny is dead.
+
+482
+00:35:46,355 --> 00:35:49,233
+They're probably cringing in fear.
+
+483
+00:35:52,319 --> 00:35:54,154
+Please don't hurt us.
+
+484
+00:35:54,822 --> 00:35:57,950
+And I thought you were
+ferocious dragons.
+
+485
+00:35:58,534 --> 00:35:59,618
+Not exactly.
+
+486
+00:35:59,701 --> 00:36:03,413
+The real ferocious ones are those
+fire-breathing bullies out there.
+
+487
+00:36:03,497 --> 00:36:07,668
+They're always picking on us, calling us
+names, pushing us around. I hate them.
+
+488
+00:36:07,751 --> 00:36:09,336
+Easy with the stick, buddy.
+
+489
+00:36:09,419 --> 00:36:10,587
+What are you?
+
+490
+00:36:10,671 --> 00:36:14,174
+Well, frankly, we're the reason
+cousins shouldn't marry.
+
+491
+00:36:17,427 --> 00:36:19,346
+Enchante, Mademoiselle.
+
+492
+00:36:19,721 --> 00:36:20,931
+I'm Devon...
+
+493
+00:36:21,223 --> 00:36:23,934
+...and this growth on my neck is Cornwall.
+
+494
+00:36:24,059 --> 00:36:26,770
+But you can call me "Corny," for short.
+
+495
+00:36:27,187 --> 00:36:29,815
+Yeah, short on wit, manners and charm.
+
+496
+00:36:30,065 --> 00:36:33,318
+- Everything I hold dear.
+- How about holding your breath?
+
+497
+00:36:33,652 --> 00:36:35,737
+Come on, Kayley, let's go.
+
+498
+00:36:35,821 --> 00:36:37,239
+Hey, where are you going?
+
+499
+00:36:37,322 --> 00:36:38,657
+To save Camelot!
+
+500
+00:36:38,824 --> 00:36:41,535
+Camelot? The restaurants, the theaters...
+
+501
+00:36:41,702 --> 00:36:43,620
+The waitresses, the actresses...
+
+502
+00:36:43,704 --> 00:36:44,788
+The dragons...
+
+503
+00:36:46,165 --> 00:36:47,332
+The dragons?
+
+504
+00:37:04,224 --> 00:37:05,142
+Wait!
+
+505
+00:37:05,601 --> 00:37:06,810
+What is this?
+
+506
+00:37:06,894 --> 00:37:09,479
+Don't worry.
+It's perfectly safe.
+
+507
+00:37:14,234 --> 00:37:15,319
+Safe?
+
+508
+00:37:16,904 --> 00:37:18,989
+So long as you don't step in it.
+
+509
+00:37:31,084 --> 00:37:32,377
+Garrett, hurry!
+
+510
+00:37:32,461 --> 00:37:35,047
+Do you think this is easy?
+
+511
+00:37:55,067 --> 00:37:56,527
+It's another dragon!
+
+512
+00:37:56,610 --> 00:37:57,903
+That's not a dragon!
+
+513
+00:37:57,986 --> 00:37:59,279
+It's a griffin!
+
+514
+00:38:00,072 --> 00:38:01,323
+And Ruber!
+
+515
+00:38:01,406 --> 00:38:02,658
+They found us!
+
+516
+00:38:04,701 --> 00:38:05,911
+Down here!
+
+517
+00:38:37,526 --> 00:38:39,695
+Are you sure we're safe down here?
+
+518
+00:38:40,028 --> 00:38:42,322
+It's a lot safer down here
+than it is up there.
+
+519
+00:38:42,406 --> 00:38:44,700
+We know
+all the best escape routes.
+
+520
+00:38:44,783 --> 00:38:48,328
+We've been dodging
+those bullies since we were 200 years old.
+
+521
+00:38:48,412 --> 00:38:51,290
+- Were we ever that young?
+- Of course we were, you moron!
+
+522
+00:38:51,373 --> 00:38:53,292
+- I'm not a moron.
+- Yes, you are.
+
+523
+00:38:53,375 --> 00:38:54,459
+No, I'm not!
+
+524
+00:38:54,543 --> 00:38:57,796
+With all that bickering,
+I'm surprised you haven't fried each other.
+
+525
+00:38:57,880 --> 00:38:58,881
+Fry?
+
+526
+00:38:59,047 --> 00:39:00,716
+We can't even simmer.
+
+527
+00:39:01,717 --> 00:39:05,345
+Yeah, you see, unlike most dragons,
+he can't breathe fire or fly.
+
+528
+00:39:06,096 --> 00:39:07,514
+It's sad, really.
+
+529
+00:39:07,598 --> 00:39:11,226
+Excusez-moi, Mr. Self-Denial,
+but we can't breathe fire...
+
+530
+00:39:11,727 --> 00:39:12,644
+...or fly.
+
+531
+00:39:12,728 --> 00:39:15,105
+Only 'cause you're holding me back.
+
+532
+00:39:15,564 --> 00:39:18,400
+If I didn't have you,
+I could do a lot of things.
+
+533
+00:39:19,026 --> 00:39:21,653
+"I'd be rocking with the dinos
+
+534
+00:39:21,737 --> 00:39:23,155
+"Swinging with the rhinos
+
+535
+00:39:23,238 --> 00:39:25,908
+"I'd re-dragonize this cave in a minute
+
+536
+00:39:27,117 --> 00:39:29,244
+"'Cornwall, ' they would sing
+
+537
+00:39:29,369 --> 00:39:31,163
+"'Cause I would be the dragon king
+
+538
+00:39:31,246 --> 00:39:34,082
+"I would love this world without you in it
+
+539
+00:39:34,291 --> 00:39:35,918
+"If I didn't have you
+
+540
+00:39:36,084 --> 00:39:37,920
+"If you didn't have me
+
+541
+00:39:38,212 --> 00:39:40,088
+"If I didn't have you
+
+542
+00:39:40,506 --> 00:39:43,091
+"Well, how about if I didn't have you?
+
+543
+00:39:43,509 --> 00:39:46,553
+"Oh, what I could be
+if there was only me
+
+544
+00:39:46,970 --> 00:39:49,598
+"Oh, what I'd do if I didn't have you"
+
+545
+00:39:49,681 --> 00:39:52,518
+Stop bickering
+and get your act together.
+
+546
+00:39:52,601 --> 00:39:53,602
+"Act?"
+
+547
+00:39:53,685 --> 00:39:55,562
+Did someone say "act"?
+
+548
+00:39:55,771 --> 00:39:57,105
+I can act.
+
+549
+00:39:57,189 --> 00:39:58,565
+"If only
+
+550
+00:39:58,649 --> 00:40:00,442
+"I had separate parts
+
+551
+00:40:01,652 --> 00:40:02,986
+"My career
+
+552
+00:40:03,445 --> 00:40:04,947
+"Would be the arts
+
+553
+00:40:05,447 --> 00:40:07,032
+"I'd be the star
+
+554
+00:40:07,449 --> 00:40:08,784
+"Of Camelot
+
+555
+00:40:09,159 --> 00:40:12,120
+"You'd be the half
+that the whole world forgot
+
+556
+00:40:12,246 --> 00:40:14,039
+"If I didn't have you
+
+557
+00:40:14,206 --> 00:40:15,958
+"I should be so lucky
+
+558
+00:40:16,124 --> 00:40:17,918
+"If I didn't have you
+
+559
+00:40:18,168 --> 00:40:20,128
+"Oh, wait, you'd be dead
+
+560
+00:40:21,672 --> 00:40:24,883
+"Oh, what I could be
+if there was only me
+
+561
+00:40:24,967 --> 00:40:27,553
+"Oh, what I'd do if I didn't have you
+
+562
+00:40:28,971 --> 00:40:31,598
+"Oh, what I'd do if I didn't have you"
+
+563
+00:40:32,307 --> 00:40:33,976
+Trapped, trapped.
+
+564
+00:40:34,476 --> 00:40:36,520
+Stuck here with you for 500 years.
+
+565
+00:40:36,603 --> 00:40:38,647
+Oh dear, it's learned to count.
+
+566
+00:40:38,814 --> 00:40:41,733
+If you'd got me a good lawyer,
+I would've split 400 years ago.
+
+567
+00:40:41,817 --> 00:40:45,112
+Now, listen here, pal,
+I didn't come here to be insulted.
+
+568
+00:40:45,737 --> 00:40:46,947
+Where do you usually go?
+
+569
+00:40:47,030 --> 00:40:51,034
+"I'd be a fire-breathing lizard
+CORNWALL: I'd be one high-flying wizard
+
+570
+00:40:51,118 --> 00:40:52,953
+"You'd be nothing without me
+
+571
+00:40:53,036 --> 00:40:54,997
+"You'd be extinct, you'd cease to be
+
+572
+00:40:55,080 --> 00:40:57,166
+"I'm so tired of your nagging
+
+573
+00:40:57,249 --> 00:40:59,376
+"And I'm so tired of your bragging
+
+574
+00:40:59,793 --> 00:41:01,503
+"Without me, you'd have no brain
+
+575
+00:41:01,587 --> 00:41:03,338
+"With which to think
+
+576
+00:41:05,132 --> 00:41:07,509
+"I'd be rocking with the dinos
+
+577
+00:41:07,593 --> 00:41:09,052
+"Swinging with the rhinos
+
+578
+00:41:09,136 --> 00:41:11,680
+"I'd re-dragonize
+this cave in a minute
+
+579
+00:41:11,763 --> 00:41:13,473
+"My career would be the arts
+
+580
+00:41:13,557 --> 00:41:15,434
+"'Cornwall, ' they would sing
+
+581
+00:41:15,517 --> 00:41:17,269
+"'Cause I would be the dragon king
+
+582
+00:41:17,352 --> 00:41:20,230
+"I would love this world
+without you in it
+
+583
+00:41:20,314 --> 00:41:22,107
+"If I didn't have you
+
+584
+00:41:22,316 --> 00:41:24,109
+"If I didn't have you
+
+585
+00:41:24,318 --> 00:41:26,111
+"If I didn't have you
+
+586
+00:41:26,320 --> 00:41:28,197
+"If I didn't have you"
+
+587
+00:41:32,075 --> 00:41:33,076
+This way.
+
+588
+00:41:33,160 --> 00:41:34,536
+Let me lead.
+
+589
+00:41:35,537 --> 00:41:37,539
+No, this way, Twinkle-Toes.
+
+590
+00:41:37,664 --> 00:41:39,458
+"Life could be so sweet
+
+591
+00:41:39,541 --> 00:41:41,293
+"If these were both my feet
+
+592
+00:41:41,376 --> 00:41:43,795
+"What I'd do if I didn't have you
+
+593
+00:41:43,879 --> 00:41:45,130
+"I got you, babe
+
+594
+00:41:45,214 --> 00:41:47,799
+"Oh, what I'd do if I didn't have you
+
+595
+00:41:52,387 --> 00:41:54,515
+"Oh, if I didn't
+
+596
+00:41:55,265 --> 00:41:56,892
+"Oh, if I didn't
+
+597
+00:41:58,060 --> 00:41:59,394
+"Have you"
+
+598
+00:42:02,689 --> 00:42:03,649
+Thank you very much.
+
+599
+00:42:03,732 --> 00:42:07,778
+- Devon just left the building.
+- You've never sung before, have you, man?
+
+600
+00:42:09,822 --> 00:42:13,033
+- Come on, Garrett.
+- You don't need him, honey.
+
+601
+00:42:13,116 --> 00:42:16,328
+Now you've got Cornwall
+keeping an eye on you.
+
+602
+00:42:25,963 --> 00:42:29,091
+Well, the good news is...
+we're out of dragon country.
+
+603
+00:42:29,591 --> 00:42:32,678
+The better news is...
+this is where we say goodbye.
+
+604
+00:42:32,886 --> 00:42:34,847
+But, you can't leave us here.
+
+605
+00:42:35,013 --> 00:42:38,392
+If we try to go back we'll be banished,
+ostracized...
+
+606
+00:42:39,268 --> 00:42:40,602
+...exiled.
+
+607
+00:42:41,436 --> 00:42:43,272
+Not to mention kicked out.
+
+608
+00:42:43,438 --> 00:42:44,565
+Why?
+
+609
+00:42:44,648 --> 00:42:47,109
+We just broke the dragon's cardinal rule.
+
+610
+00:42:47,192 --> 00:42:50,112
+What? "Never wear brown shoes
+with a blue suit"?
+
+611
+00:42:50,279 --> 00:42:51,780
+No, you moron.
+
+612
+00:42:52,114 --> 00:42:53,740
+"Never help a human."
+
+613
+00:42:55,409 --> 00:42:57,870
+Come on, Kayley.
+We must make camp before dark.
+
+614
+00:42:57,953 --> 00:43:00,873
+- Camp?
+- Garrett, let's take them with us.
+
+615
+00:43:00,956 --> 00:43:01,957
+Please.
+
+616
+00:43:02,040 --> 00:43:03,750
+Oh, I suppose so.
+
+617
+00:43:04,209 --> 00:43:05,836
+But no more singing.
+
+618
+00:43:06,420 --> 00:43:08,964
+How do you feel about interpretive dance?
+
+619
+00:43:17,973 --> 00:43:19,600
+Dragon a la king.
+
+620
+00:43:22,644 --> 00:43:24,980
+It's such a pleasant relief from...
+
+621
+00:43:25,272 --> 00:43:26,231
+...chicken.
+
+622
+00:43:26,315 --> 00:43:29,776
+I can't believe I'm reduced
+to chasing a little girl...
+
+623
+00:43:30,444 --> 00:43:31,904
+...a blind man...
+
+624
+00:43:31,987 --> 00:43:33,572
+...and a pigeon.
+
+625
+00:43:34,364 --> 00:43:36,867
+Find them all and report back to me.
+
+626
+00:43:39,161 --> 00:43:40,746
+Did you hear me?
+
+627
+00:43:41,330 --> 00:43:43,707
+Sorry, Master, my mouth was full.
+
+628
+00:43:43,999 --> 00:43:45,000
+Typical.
+
+629
+00:43:45,167 --> 00:43:49,713
+Of all the evil creatures in the world,
+I had to find one with table manners.
+
+630
+00:43:49,963 --> 00:43:51,381
+And no mistakes...
+
+631
+00:43:51,757 --> 00:43:54,718
+...or I'll make space on the spit for you.
+
+632
+00:43:54,843 --> 00:43:56,053
+Hey, Useless!
+
+633
+00:43:56,136 --> 00:43:59,306
+Rendezvous with the wagons
+and tell them to press on.
+
+634
+00:43:59,389 --> 00:44:01,642
+As soon as I have Excalibur...
+
+635
+00:44:01,892 --> 00:44:03,310
+...we'll join them...
+
+636
+00:44:03,393 --> 00:44:05,604
+...and the kingdom will be mine.
+
+637
+00:44:14,738 --> 00:44:18,826
+I'm starving.
+All these heroics worked up my appetite.
+
+638
+00:44:19,201 --> 00:44:21,537
+Hey, something smells delicious.
+
+639
+00:44:22,871 --> 00:44:25,582
+Yes, I could whip up a little something.
+
+640
+00:44:26,333 --> 00:44:28,126
+Well, here's where we stop.
+
+641
+00:44:28,252 --> 00:44:30,587
+Stop? But what about Excalibur?
+
+642
+00:44:31,505 --> 00:44:34,716
+No one travels through
+the Forbidden Forest after dark.
+
+643
+00:44:34,800 --> 00:44:36,927
+My father, Sir Lionel, would have.
+
+644
+00:44:37,761 --> 00:44:39,930
+Come on, baby, light my fire.
+
+645
+00:44:40,097 --> 00:44:44,351
+You know, there's nothing more pathetic
+than a flame-retarded dragon.
+
+646
+00:44:46,228 --> 00:44:48,272
+Hey, Devon, you blew fire.
+
+647
+00:44:49,398 --> 00:44:51,775
+No, no, my mistake. Just hot air.
+
+648
+00:44:58,365 --> 00:45:01,243
+Kayley, I must tell you, I knew your father.
+
+649
+00:45:01,326 --> 00:45:02,327
+You did?
+
+650
+00:45:02,953 --> 00:45:05,080
+I used to live in Camelot.
+
+651
+00:45:05,289 --> 00:45:07,291
+I was a stable boy...
+
+652
+00:45:08,250 --> 00:45:10,586
+...but I dreamt of becoming a knight.
+
+653
+00:45:11,795 --> 00:45:14,006
+One evening, there was a fire.
+
+654
+00:45:16,258 --> 00:45:18,635
+I rushed to save the horses, but...
+
+655
+00:45:22,890 --> 00:45:24,308
+...I was hurt.
+
+656
+00:45:25,559 --> 00:45:28,896
+At first, all I could see were shapes,
+then shadows.
+
+657
+00:45:30,981 --> 00:45:32,107
+Finally...
+
+658
+00:45:32,357 --> 00:45:34,276
+...my world went black.
+
+659
+00:45:35,777 --> 00:45:37,488
+After I lost my sight...
+
+660
+00:45:37,821 --> 00:45:41,116
+...your father was the only one
+who still believed in me.
+
+661
+00:45:41,783 --> 00:45:45,162
+He taught me that a knight's strength
+comes from his heart...
+
+662
+00:45:45,245 --> 00:45:48,081
+...and his loyalty to the Oath of Camelot.
+
+663
+00:45:50,876 --> 00:45:52,503
+"United we stand...
+
+664
+00:45:52,836 --> 00:45:54,505
+"...now and forever."
+
+665
+00:45:55,422 --> 00:45:57,883
+Any hope I had
+of becoming a knight...
+
+666
+00:45:57,966 --> 00:45:59,092
+...died with him.
+
+667
+00:45:59,176 --> 00:46:02,930
+I felt that way too, but I knew
+he would never want me to give up.
+
+668
+00:46:03,055 --> 00:46:05,307
+He wouldn't want you to give up either.
+
+669
+00:46:05,390 --> 00:46:07,893
+You're as good as any knight in Camelot.
+
+670
+00:46:08,310 --> 00:46:09,978
+You really think so?
+
+671
+00:46:15,359 --> 00:46:16,944
+Come here, Stick.
+
+672
+00:46:17,027 --> 00:46:18,445
+Come back, Stick.
+
+673
+00:46:22,783 --> 00:46:24,952
+I've got three words for you, Birdie:
+
+674
+00:46:25,035 --> 00:46:26,662
+Dinner is served.
+
+675
+00:46:34,086 --> 00:46:35,546
+And how did you find Ayden?
+
+676
+00:46:35,629 --> 00:46:38,966
+I didn't. When I came to live here,
+Ayden found me.
+
+677
+00:46:39,675 --> 00:46:42,010
+He just appeared one day...
+
+678
+00:46:42,094 --> 00:46:44,805
+...as if destiny were watching over me.
+
+679
+00:46:45,097 --> 00:46:48,976
+He taught me all the secrets
+of the forest, what can hurt you...
+
+680
+00:46:49,059 --> 00:46:50,811
+...and what can heal you.
+
+681
+00:46:53,397 --> 00:46:56,400
+With Ayden as my eyes,
+I can survive anything.
+
+682
+00:46:56,859 --> 00:46:58,360
+Look, I'll show you.
+
+683
+00:47:00,237 --> 00:47:02,239
+I take my position...
+
+684
+00:47:02,823 --> 00:47:04,575
+...face my fears...
+
+685
+00:47:08,120 --> 00:47:09,705
+...and hold my ground...
+
+686
+00:47:09,788 --> 00:47:12,332
+...until the last possible moment...
+
+687
+00:47:13,125 --> 00:47:15,169
+...waiting for Ayden's signal...
+
+688
+00:47:16,420 --> 00:47:17,629
+...to evade.
+
+689
+00:47:19,173 --> 00:47:20,757
+Simple. Now you try.
+
+690
+00:47:21,508 --> 00:47:23,218
+All right. No problem.
+
+691
+00:47:23,427 --> 00:47:25,470
+- Take position.
+- "Take position."
+
+692
+00:47:25,554 --> 00:47:27,764
+- Face your fears.
+- "Face my fears."
+
+693
+00:47:29,099 --> 00:47:32,269
+And hold your ground
+until the last possible moment.
+
+694
+00:47:41,653 --> 00:47:43,322
+You moved too soon.
+
+695
+00:47:48,911 --> 00:47:51,580
+- Behind your backs.
+- Coming through.
+
+696
+00:47:51,663 --> 00:47:52,998
+Nice try, buddy.
+
+697
+00:47:53,290 --> 00:47:55,792
+I say, Kayley, do you have a light?
+
+698
+00:47:58,212 --> 00:48:01,173
+When I get my hands
+on that girl...
+
+699
+00:48:13,977 --> 00:48:15,771
+Ayden's spotted Excalibur!
+
+700
+00:48:16,939 --> 00:48:19,483
+It must be near. Come on, let's go.
+
+701
+00:48:26,615 --> 00:48:27,699
+Look!
+
+702
+00:48:27,908 --> 00:48:29,827
+This must be from Excalibur.
+
+703
+00:48:30,035 --> 00:48:31,495
+But where's the sword?
+
+704
+00:48:31,578 --> 00:48:33,372
+Someone must have taken it.
+
+705
+00:48:35,082 --> 00:48:36,583
+Or something.
+
+706
+00:48:36,667 --> 00:48:39,294
+Now I'll never find Excalibur in time.
+
+707
+00:48:40,337 --> 00:48:42,172
+If we follow these tracks, we will.
+
+708
+00:48:42,256 --> 00:48:44,424
+- This is all your fault.
+- My fault?
+
+709
+00:48:44,716 --> 00:48:47,135
+- Yes. If we hadn't stopped...
+- Quiet!
+
+710
+00:48:47,219 --> 00:48:49,012
+We should have kept going.
+
+711
+00:48:49,680 --> 00:48:50,722
+Shush!
+
+712
+00:48:50,973 --> 00:48:52,724
+I have to save my mother.
+
+713
+00:48:53,559 --> 00:48:55,352
+I need to hear.
+
+714
+00:48:56,854 --> 00:48:57,688
+Garrett!
+
+715
+00:48:57,771 --> 00:48:59,148
+Get them!
+
+716
+00:49:30,220 --> 00:49:32,139
+We're trapped!
+
+717
+00:49:46,778 --> 00:49:48,447
+My brave daughter...
+
+718
+00:49:48,614 --> 00:49:50,282
+...please be safe.
+
+719
+00:49:53,410 --> 00:49:56,622
+Nobody can stop Ruber's plan
+to take over Camelot.
+
+720
+00:49:58,457 --> 00:50:00,501
+You don't know my daughter.
+
+721
+00:50:23,398 --> 00:50:24,650
+Please...
+
+722
+00:50:24,733 --> 00:50:26,151
+...don't die.
+
+723
+00:50:27,694 --> 00:50:29,738
+I can't do this on my own.
+
+724
+00:50:36,036 --> 00:50:37,162
+I'm sorry.
+
+725
+00:50:37,621 --> 00:50:39,915
+It's all my fault you were hurt.
+
+726
+00:50:39,998 --> 00:50:43,168
+I mean, I was rattling on
+when I should have been quiet.
+
+727
+00:50:43,252 --> 00:50:45,546
+I'm no help to anyone.
+
+728
+00:50:46,672 --> 00:50:47,881
+Shush.
+
+729
+00:50:48,757 --> 00:50:50,926
+You're wrong.
+
+730
+00:50:54,221 --> 00:50:56,014
+"Look at the sky
+
+731
+00:50:56,473 --> 00:50:58,475
+"Tell me, what do you see
+
+732
+00:50:59,977 --> 00:51:01,770
+"Just close your eyes
+
+733
+00:51:02,020 --> 00:51:03,897
+"And describe it to me
+
+734
+00:51:05,774 --> 00:51:07,776
+"The heavens are sparkling
+
+735
+00:51:08,068 --> 00:51:09,987
+"With starlight tonight
+
+736
+00:51:12,114 --> 00:51:14,658
+"That's what I see through your eyes
+
+737
+00:51:17,911 --> 00:51:19,580
+"I see the heavens
+
+738
+00:51:20,372 --> 00:51:22,374
+"Each time that you smile
+
+739
+00:51:23,709 --> 00:51:25,586
+"I hear your heartbeat
+
+740
+00:51:26,003 --> 00:51:27,796
+"Just go on for miles
+
+741
+00:51:29,298 --> 00:51:31,049
+"And suddenly I know
+
+742
+00:51:31,925 --> 00:51:33,844
+"Why life is worthwhile
+
+743
+00:51:35,596 --> 00:51:37,181
+"That's what I see
+
+744
+00:51:37,472 --> 00:51:39,141
+"Through your eyes
+
+745
+00:51:41,351 --> 00:51:43,270
+"That's what I see
+
+746
+00:51:43,353 --> 00:51:44,938
+"Through your eyes
+
+747
+00:51:47,691 --> 00:51:49,359
+"Here in the night
+
+748
+00:51:50,527 --> 00:51:52,029
+"I see the sun
+
+749
+00:51:53,572 --> 00:51:55,240
+"Here in the dark
+
+750
+00:51:55,782 --> 00:51:57,701
+"Our two hearts are one
+
+751
+00:51:59,286 --> 00:52:01,163
+"It's out of our hands
+
+752
+00:52:01,538 --> 00:52:02,998
+"We can't stop
+
+753
+00:52:03,081 --> 00:52:04,833
+"What we have begun
+
+754
+00:52:06,835 --> 00:52:08,712
+"And love just took me
+
+755
+00:52:09,463 --> 00:52:10,881
+"By surprise
+
+756
+00:52:11,965 --> 00:52:14,009
+"Looking through your eyes
+
+757
+00:52:18,931 --> 00:52:20,974
+"I see a night
+
+758
+00:52:21,141 --> 00:52:22,809
+"I wish could last
+
+759
+00:52:23,519 --> 00:52:24,770
+"Forever
+
+760
+00:52:26,355 --> 00:52:27,856
+"I see a world
+
+761
+00:52:28,774 --> 00:52:30,108
+"We're meant
+
+762
+00:52:30,234 --> 00:52:31,819
+"To see together
+
+763
+00:52:33,946 --> 00:52:35,280
+"And it is
+
+764
+00:52:35,823 --> 00:52:37,032
+"So much
+
+765
+00:52:37,658 --> 00:52:39,076
+"More than I
+
+766
+00:52:40,494 --> 00:52:41,787
+"Remember
+
+767
+00:52:42,538 --> 00:52:44,540
+"More than I remember
+
+768
+00:52:46,208 --> 00:52:48,585
+"More than I have known
+
+769
+00:52:51,672 --> 00:52:54,174
+"Here in the night
+
+770
+00:52:54,633 --> 00:52:56,134
+"I see the sun
+
+771
+00:52:57,803 --> 00:52:59,429
+"Here in the dark
+
+772
+00:53:00,055 --> 00:53:01,974
+"Our two hearts are one
+
+773
+00:53:03,684 --> 00:53:05,561
+"It's out of our hands
+
+774
+00:53:06,145 --> 00:53:07,479
+"We can't stop
+
+775
+00:53:07,646 --> 00:53:09,356
+"What we have begun
+
+776
+00:53:11,483 --> 00:53:13,360
+"And love just took me
+
+777
+00:53:14,194 --> 00:53:15,612
+"By surprise
+
+778
+00:53:19,783 --> 00:53:21,827
+"Looking through your eyes
+
+779
+00:53:31,503 --> 00:53:33,589
+"Looking through your eyes"
+
+780
+00:53:49,563 --> 00:53:51,982
+Well, Master, we lost them again.
+
+781
+00:54:04,328 --> 00:54:06,246
+That's where they went.
+
+782
+00:54:12,211 --> 00:54:14,713
+- What is it?
+- We've lost the tracks.
+
+783
+00:54:17,216 --> 00:54:19,218
+Tell me that was your stomach.
+
+784
+00:54:19,718 --> 00:54:20,802
+Just the ogre.
+
+785
+00:54:20,886 --> 00:54:23,931
+- Ogre?
+- See you. Good luck. Have a nice life.
+
+786
+00:54:24,348 --> 00:54:25,807
+Whatever's left of it.
+
+787
+00:54:25,891 --> 00:54:27,809
+What's so scary about ogres?
+
+788
+00:54:29,561 --> 00:54:31,063
+Their appetite!
+
+789
+00:54:33,106 --> 00:54:35,734
+Oh, no,
+I think it's Uncle Yorick.
+
+790
+00:54:36,193 --> 00:54:37,986
+"Alas, poor Yorick...
+
+791
+00:54:38,278 --> 00:54:39,863
+"...I knew him well."
+
+792
+00:54:42,616 --> 00:54:45,035
+Quick! Get out of the way!
+
+793
+00:54:53,293 --> 00:54:56,213
+It's the scabbard from Excalibur!
+
+794
+00:54:59,132 --> 00:55:00,801
+He does have the sword.
+
+795
+00:55:06,682 --> 00:55:09,059
+Ogres sleep in the day.
+
+796
+00:55:09,142 --> 00:55:12,146
+We'll wait for him to fall asleep,
+then we grab the sword.
+
+797
+00:55:12,229 --> 00:55:13,355
+Define "we."
+
+798
+00:55:13,438 --> 00:55:14,815
+Shh! Quiet!
+
+799
+00:55:14,982 --> 00:55:17,359
+The slightest noise and we're finished.
+
+800
+00:55:18,527 --> 00:55:20,070
+Charming place.
+
+801
+00:55:20,154 --> 00:55:22,281
+I must get the name of his decorator.
+
+802
+00:55:22,364 --> 00:55:23,615
+What's he doing?
+
+803
+00:55:23,699 --> 00:55:25,492
+I don't see him.
+
+804
+00:55:25,576 --> 00:55:26,660
+He's here.
+
+805
+00:55:26,743 --> 00:55:28,162
+I can smell him.
+
+806
+00:55:32,583 --> 00:55:34,418
+You were right.
+
+807
+00:55:34,501 --> 00:55:35,878
+He is here.
+
+808
+00:55:36,378 --> 00:55:38,797
+Where is Excalibur?
+
+809
+00:55:40,340 --> 00:55:42,301
+He's using it as a toothpick!
+
+810
+00:55:42,384 --> 00:55:44,303
+Tell me when he falls asleep.
+
+811
+00:55:52,394 --> 00:55:54,646
+Let me guess. He fell asleep.
+
+812
+00:55:55,647 --> 00:55:58,108
+- Describe the layout.
+- There's a ledge...
+
+813
+00:55:58,192 --> 00:56:00,527
+...which hangs just above the sword.
+
+814
+00:56:01,195 --> 00:56:03,155
+But it must be a 20-foot drop.
+
+815
+00:56:14,082 --> 00:56:16,335
+Lower me down.
+
+816
+00:56:16,502 --> 00:56:17,586
+More.
+
+817
+00:56:20,214 --> 00:56:22,966
+- Hey, Boss, look! That's Excal...
+- Shh!
+
+818
+00:56:25,469 --> 00:56:26,929
+I hate ogres.
+
+819
+00:56:28,180 --> 00:56:29,556
+Walk this way.
+
+820
+00:56:33,894 --> 00:56:35,562
+Oh, no. It's him!
+
+821
+00:56:49,743 --> 00:56:51,912
+Naptime's over.
+
+822
+00:56:52,246 --> 00:56:54,581
+Quick! Swing me back and forth.
+
+823
+00:56:54,915 --> 00:56:57,167
+You are getting very sleepy.
+
+824
+00:56:59,586 --> 00:57:00,796
+Sleepy.
+
+825
+00:57:01,588 --> 00:57:03,215
+Can you reach it?
+
+826
+00:57:03,298 --> 00:57:04,842
+I've got it.
+
+827
+00:57:31,743 --> 00:57:33,453
+The ogre's butt.
+
+828
+00:57:34,746 --> 00:57:36,456
+Well, Master...
+
+829
+00:57:36,665 --> 00:57:39,376
+...at least things can't get any worse.
+
+830
+00:57:41,044 --> 00:57:42,212
+Want to bet?
+
+831
+00:57:43,672 --> 00:57:45,465
+Whoa! Watch it!
+
+832
+00:57:49,720 --> 00:57:51,346
+Seize them.
+
+833
+00:57:51,430 --> 00:57:53,056
+Yes, Master.
+
+834
+00:57:56,685 --> 00:57:58,228
+There's no way out!
+
+835
+00:57:58,312 --> 00:58:00,606
+There's one way out! You'll have to fly!
+
+836
+00:58:00,689 --> 00:58:03,817
+We can't fly.
+We explained that before our song.
+
+837
+00:58:04,359 --> 00:58:06,195
+"Houston, we have a...
+
+838
+00:58:06,278 --> 00:58:07,613
+"...problem! "
+
+839
+00:58:13,535 --> 00:58:14,953
+After you.
+
+840
+00:58:29,885 --> 00:58:33,639
+Ladies and Gentlemen: Please
+put your seats in the upright position.
+
+841
+00:58:33,722 --> 00:58:37,351
+Assume the crash position
+and hope you don't smell your socks.
+
+842
+00:58:37,434 --> 00:58:39,520
+Tray tables up
+and put away your sandwiches.
+
+843
+00:58:39,603 --> 00:58:40,604
+Turbulence!
+
+844
+00:58:40,687 --> 00:58:43,357
+Hold on, gang. I think we're going in.
+
+845
+00:58:43,857 --> 00:58:45,859
+Help! Mayday! Mayday!
+
+846
+00:58:52,157 --> 00:58:56,203
+We know you do have a choice,
+so thank you for flying Dragon Air.
+
+847
+00:58:59,498 --> 00:59:02,835
+Tell you what, next time you try to fly,
+and we'll hold on.
+
+848
+00:59:02,918 --> 00:59:04,253
+We did it.
+
+849
+00:59:04,586 --> 00:59:07,214
+We did it! I can't believe it! We did it!
+
+850
+00:59:08,090 --> 00:59:09,508
+Congratulations.
+
+851
+00:59:10,509 --> 00:59:12,302
+So this is Excalibur.
+
+852
+00:59:12,761 --> 00:59:16,557
+- Can I hold it? Give it to me!
+- Please, let me hold it. Me!
+
+853
+00:59:17,224 --> 00:59:20,477
+No! Excalibur only belongs
+in the hands of Arthur.
+
+854
+00:59:20,769 --> 00:59:22,104
+Come on, Kayley.
+
+855
+00:59:36,285 --> 00:59:38,954
+Garrett, do you think my mother's safe?
+
+856
+00:59:39,163 --> 00:59:41,999
+If she's anything like you,
+I'm sure she's fine.
+
+857
+00:59:42,666 --> 00:59:45,377
+We must hurry. There isn't much time left.
+
+858
+00:59:45,460 --> 00:59:48,630
+The first two-headed dragon in Camelot.
+We'll be famous.
+
+859
+00:59:48,714 --> 00:59:50,757
+I can see us on the poster now:
+
+860
+00:59:51,049 --> 00:59:53,468
+"Presenting the wonderful Devon...
+
+861
+00:59:54,219 --> 00:59:56,597
+"...and his little head, Cornwall."
+
+862
+00:59:58,765 --> 01:00:00,267
+Garrett, up ahead...
+
+863
+01:00:00,350 --> 01:00:01,685
+...the sky.
+
+864
+01:00:03,145 --> 01:00:05,481
+The end of the Forbidden Forest.
+
+865
+01:00:09,985 --> 01:00:11,069
+It's okay.
+
+866
+01:00:11,153 --> 01:00:13,071
+You go ahead.
+
+867
+01:00:13,197 --> 01:00:14,531
+I'll be...
+
+868
+01:00:15,115 --> 01:00:16,867
+...right behind you.
+
+869
+01:00:19,786 --> 01:00:21,497
+Why don't you shut up?
+
+870
+01:00:21,580 --> 01:00:25,000
+How about: "Cornwall
+and his Obnoxious Talking Wart"?
+
+871
+01:00:25,584 --> 01:00:27,211
+Knock it off.
+
+872
+01:00:27,669 --> 01:00:29,254
+I don't know what's eating this guy.
+
+873
+01:00:29,338 --> 01:00:30,881
+Envy, poor lad.
+
+874
+01:00:41,183 --> 01:00:42,851
+Camelot.
+
+875
+01:00:47,648 --> 01:00:49,274
+It's so beautiful!
+
+876
+01:00:51,109 --> 01:00:52,820
+I wish you could see it.
+
+877
+01:00:55,948 --> 01:00:57,449
+I have seen it...
+
+878
+01:00:57,866 --> 01:01:00,035
+...and there was no place for me.
+
+879
+01:01:00,619 --> 01:01:01,954
+Garrett, what's wrong?
+
+880
+01:01:02,037 --> 01:01:03,914
+Take Excalibur to Arthur.
+
+881
+01:01:03,997 --> 01:01:05,749
+You don't have much time.
+
+882
+01:01:10,087 --> 01:01:11,797
+But we'll deliver the sword together.
+
+883
+01:01:11,880 --> 01:01:12,881
+No.
+
+884
+01:01:13,841 --> 01:01:15,592
+You deliver it.
+
+885
+01:01:17,427 --> 01:01:19,638
+I don't belong in that world.
+
+886
+01:01:22,099 --> 01:01:24,017
+Come on, Ayden.
+
+887
+01:01:29,565 --> 01:01:31,483
+But you belong in mine.
+
+888
+01:01:37,156 --> 01:01:39,408
+"Like every tree
+
+889
+01:01:41,493 --> 01:01:43,162
+"Stands on its own
+
+890
+01:01:46,206 --> 01:01:48,000
+"Reaching for the sky
+
+891
+01:01:48,584 --> 01:01:50,127
+"I stand alone"
+
+892
+01:01:51,795 --> 01:01:53,589
+You don't understand.
+
+893
+01:01:53,672 --> 01:01:56,675
+In Camelot, she'd only see me
+through their eyes.
+
+894
+01:01:56,842 --> 01:01:58,886
+Not a knight, not a man...
+
+895
+01:02:00,304 --> 01:02:01,680
+...not anything.
+
+896
+01:02:02,055 --> 01:02:04,516
+"I share my world
+
+897
+01:02:05,476 --> 01:02:07,144
+"With no one else
+
+898
+01:02:09,229 --> 01:02:10,731
+"All by myself
+
+899
+01:02:14,151 --> 01:02:15,402
+"I stand
+
+900
+01:02:17,696 --> 01:02:18,906
+"Alone"
+
+901
+01:02:23,869 --> 01:02:25,329
+Forget about him.
+
+902
+01:02:25,412 --> 01:02:27,122
+You're better off alone.
+
+903
+01:02:27,289 --> 01:02:29,750
+He walks funny. He even looks funny.
+
+904
+01:02:29,875 --> 01:02:31,335
+People throw darts at him.
+
+905
+01:02:31,418 --> 01:02:33,837
+How could you be so cold-blooded?
+
+906
+01:02:34,004 --> 01:02:35,506
+I'm a reptile.
+
+907
+01:02:36,590 --> 01:02:38,675
+Listen, you Jurassic twit...
+
+908
+01:02:38,842 --> 01:02:41,386
+...Kayley deserves someone
+who will love her.
+
+909
+01:02:41,470 --> 01:02:44,097
+Someone who'll hold her in his arms...
+
+910
+01:02:44,848 --> 01:02:47,851
+...who'll run his fingers through her hair...
+
+911
+01:02:48,727 --> 01:02:50,854
+...look deeply in her eyes and...
+
+912
+01:02:51,104 --> 01:02:53,607
+...make her feel like a real woman.
+
+913
+01:03:02,199 --> 01:03:04,827
+I got your tongue
+on my gums!
+
+914
+01:03:14,962 --> 01:03:16,755
+I'm going back for Garrett.
+
+915
+01:03:19,508 --> 01:03:21,426
+I'll take that.
+
+916
+01:03:24,221 --> 01:03:25,973
+Excalibur.
+
+917
+01:03:26,807 --> 01:03:28,267
+Mine forever.
+
+918
+01:03:29,935 --> 01:03:32,312
+You've been quite annoying, for a girl.
+
+919
+01:03:32,604 --> 01:03:36,859
+Cheer up. In Camelot, we'll be kissed
+by the world's most beautiful women.
+
+920
+01:03:37,192 --> 01:03:39,653
+Right. We're a giant lizard with two heads.
+
+921
+01:03:39,736 --> 01:03:42,239
+We'll have to beat them off with a stick.
+
+922
+01:03:44,449 --> 01:03:45,868
+Help! Help!
+
+923
+01:03:47,327 --> 01:03:48,996
+I've waited ten years...
+
+924
+01:03:49,079 --> 01:03:50,956
+...to hold this sword.
+
+925
+01:03:53,000 --> 01:03:55,002
+And now I'll make sure...
+
+926
+01:03:55,252 --> 01:03:57,087
+...I hold it forever.
+
+927
+01:04:00,591 --> 01:04:01,925
+Prepare...
+
+928
+01:04:02,551 --> 01:04:04,344
+...for the dawning...
+
+929
+01:04:05,053 --> 01:04:06,638
+...of a new age!
+
+930
+01:04:08,849 --> 01:04:09,892
+No!
+
+931
+01:04:22,070 --> 01:04:23,071
+Chicken!
+
+932
+01:04:24,072 --> 01:04:25,324
+It's hot.
+
+933
+01:04:26,783 --> 01:04:28,535
+Don't worry, little girl.
+
+934
+01:04:28,744 --> 01:04:31,205
+I'll make sure Arthur gets it back.
+
+935
+01:04:31,580 --> 01:04:33,457
+Or gets it in the back.
+
+936
+01:04:34,875 --> 01:04:36,627
+As the case may be.
+
+937
+01:04:37,419 --> 01:04:39,129
+Throw her in the wagon.
+
+938
+01:04:42,674 --> 01:04:44,218
+Kayley!
+
+939
+01:04:44,301 --> 01:04:45,344
+Mother?
+
+940
+01:04:46,720 --> 01:04:48,430
+Thank heavens you're safe.
+
+941
+01:04:48,514 --> 01:04:50,140
+I failed you, Mother.
+
+942
+01:04:50,557 --> 01:04:52,768
+And now Camelot will be lost.
+
+943
+01:04:55,312 --> 01:04:57,022
+No, dear, you were brave.
+
+944
+01:04:59,483 --> 01:05:01,860
+What a touching reunion.
+
+945
+01:05:02,069 --> 01:05:04,822
+But all this love is making me nauseous.
+
+946
+01:05:05,197 --> 01:05:07,407
+And you've got a job to do, Juliana.
+
+947
+01:05:07,574 --> 01:05:09,535
+Remember, if you don't...
+
+948
+01:05:09,743 --> 01:05:11,620
+I'll do my job on her.
+
+949
+01:05:13,121 --> 01:05:15,749
+Don't lose hope.
+
+950
+01:05:23,340 --> 01:05:25,843
+Garrett, something awful
+has happened.
+
+951
+01:05:25,926 --> 01:05:27,678
+We've got to go.
+
+952
+01:05:27,761 --> 01:05:30,556
+- Kayley's been captured.
+- And Ruber's got Excalibur.
+
+953
+01:05:30,639 --> 01:05:31,640
+What?
+
+954
+01:05:31,723 --> 01:05:33,809
+Take me to her. Come on, Ayden.
+
+955
+01:05:34,852 --> 01:05:36,436
+They're halfway to Camelot by now.
+
+956
+01:05:36,520 --> 01:05:40,357
+Cornwall's right. We'd have to fly there
+to get there in time.
+
+957
+01:05:40,649 --> 01:05:43,402
+Ruber drives me completely nuts!
+
+958
+01:05:43,694 --> 01:05:45,737
+He makes me so mad and angry!
+
+959
+01:05:45,863 --> 01:05:48,490
+He's definitely a jerk! A giant jerk!
+
+960
+01:05:48,782 --> 01:05:50,951
+That foul barbarian.
+
+961
+01:05:51,410 --> 01:05:54,621
+Wait till we get our hands on him.
+I'll tear him limb from limb.
+
+962
+01:05:54,705 --> 01:05:57,624
+Yeah, we'll show him
+a thing or two.
+
+963
+01:05:57,708 --> 01:06:00,627
+- Won't we?
+- Yes, we darn well will.
+
+964
+01:06:00,711 --> 01:06:02,212
+You're flying!
+
+965
+01:06:02,546 --> 01:06:04,965
+Gosh, he's right! We are flying.
+
+966
+01:06:05,966 --> 01:06:07,217
+I did it!
+
+967
+01:06:07,509 --> 01:06:08,844
+I'm great!
+
+968
+01:06:09,136 --> 01:06:10,679
+I love me. I did it.
+
+969
+01:06:10,846 --> 01:06:12,890
+Excuse me, Egomaniac. You mean...
+
+970
+01:06:12,973 --> 01:06:14,266
+...I did it.
+
+971
+01:06:15,642 --> 01:06:16,768
+Don't you get it?
+
+972
+01:06:16,852 --> 01:06:20,689
+The only reason you can't fly is
+because you can't agree on anything.
+
+973
+01:06:20,772 --> 01:06:23,275
+There must be something
+you can agree on.
+
+974
+01:06:23,358 --> 01:06:25,402
+You both love Kayley, don't you?
+
+975
+01:06:39,458 --> 01:06:41,585
+Wagons approaching!
+
+976
+01:06:41,960 --> 01:06:43,337
+Not a word.
+
+977
+01:06:44,463 --> 01:06:46,965
+Let's all keep our heads, shall we?
+
+978
+01:06:51,553 --> 01:06:55,015
+It's Lady Juliana!
+Lower the bridge at once!
+
+979
+01:07:08,153 --> 01:07:09,404
+Pardon me, my king.
+
+980
+01:07:09,488 --> 01:07:11,990
+Lady Juliana has paid us
+a surprise visit.
+
+981
+01:07:12,074 --> 01:07:13,367
+Oh, good.
+
+982
+01:07:13,450 --> 01:07:16,161
+Tell her I'll receive her at the Round Table.
+
+983
+01:07:34,847 --> 01:07:36,390
+Steady.
+
+984
+01:07:36,890 --> 01:07:38,100
+Steady.
+
+985
+01:07:54,324 --> 01:07:56,368
+Bladebeak at your service.
+
+986
+01:07:59,538 --> 01:08:00,914
+Lady Juliana?
+
+987
+01:08:00,998 --> 01:08:02,791
+It's a trap!
+
+988
+01:08:03,834 --> 01:08:04,835
+Attack!
+
+989
+01:08:10,883 --> 01:08:13,051
+Seal off the castle!
+
+990
+01:08:34,656 --> 01:08:37,075
+Ruber has breached
+the castle keep.
+
+991
+01:08:37,159 --> 01:08:39,328
+The king is still inside!
+
+992
+01:08:40,329 --> 01:08:42,539
+Mother, I must help the king.
+
+993
+01:08:42,915 --> 01:08:45,042
+Don't worry! We'll be fine!
+
+994
+01:09:03,936 --> 01:09:05,854
+Garrett, you came back!
+
+995
+01:09:06,188 --> 01:09:07,439
+Heads up!
+
+996
+01:09:10,651 --> 01:09:12,277
+Sorry I'm late.
+
+997
+01:09:12,361 --> 01:09:13,904
+I hate flying coach.
+
+998
+01:09:17,616 --> 01:09:18,867
+You're flying!
+
+999
+01:09:18,951 --> 01:09:21,286
+Yes, we're frequent fliers now.
+
+1000
+01:09:23,247 --> 01:09:24,289
+Juliana?
+
+1001
+01:09:26,208 --> 01:09:27,209
+Ruber!
+
+1002
+01:09:27,292 --> 01:09:28,794
+Pleased to see me?
+
+1003
+01:09:31,296 --> 01:09:32,506
+A spear?
+
+1004
+01:09:33,799 --> 01:09:35,300
+How Stone Age!
+
+1005
+01:09:35,634 --> 01:09:38,178
+A king would hold a more noble weapon.
+
+1006
+01:09:38,428 --> 01:09:40,180
+A king would hold...
+
+1007
+01:09:41,807 --> 01:09:43,016
+...Excalibur.
+
+1008
+01:09:43,267 --> 01:09:44,476
+Where's Ruber?
+
+1009
+01:09:44,560 --> 01:09:47,437
+He has the king trapped inside.
+There's no way in.
+
+1010
+01:09:47,521 --> 01:09:48,981
+The king. Wait.
+
+1011
+01:09:49,148 --> 01:09:52,067
+I know a way.
+Through the stables.
+
+1012
+01:09:58,991 --> 01:10:00,784
+Give me your hand.
+
+1013
+01:10:02,202 --> 01:10:03,162
+Jump!
+
+1014
+01:10:07,457 --> 01:10:09,084
+What are you doing?
+
+1015
+01:10:09,168 --> 01:10:11,879
+- I'm driving!
+- Do you think that's a good idea?
+
+1016
+01:10:12,171 --> 01:10:13,213
+No problem!
+
+1017
+01:10:13,297 --> 01:10:14,840
+Hang on!
+
+1018
+01:10:14,923 --> 01:10:16,884
+Garrett, Garrett, on your left!
+
+1019
+01:10:16,967 --> 01:10:18,343
+Your other left.
+
+1020
+01:10:18,468 --> 01:10:20,679
+No, Garrett, right! Right!
+
+1021
+01:10:21,138 --> 01:10:22,806
+Look out!
+
+1022
+01:10:28,604 --> 01:10:29,688
+See?
+
+1023
+01:10:30,355 --> 01:10:32,483
+That wasn't so bad, was it?
+
+1024
+01:10:34,610 --> 01:10:37,279
+So many memories in this room.
+
+1025
+01:10:37,362 --> 01:10:39,239
+Makes me want to puke.
+
+1026
+01:10:39,907 --> 01:10:42,743
+You said everyone
+at this table was equal.
+
+1027
+01:10:43,702 --> 01:10:44,620
+Well...
+
+1028
+01:10:44,703 --> 01:10:46,872
+...I have something sweeter:
+
+1029
+01:10:48,499 --> 01:10:49,917
+Revenge!
+
+1030
+01:10:53,420 --> 01:10:56,048
+These tunnels lead to the Round Table.
+
+1031
+01:10:57,966 --> 01:10:59,510
+I can't see.
+
+1032
+01:10:59,760 --> 01:11:02,095
+Don't worry. I'll be your eyes.
+
+1033
+01:11:10,270 --> 01:11:12,773
+Finally, Silver Wings, you're mine.
+
+1034
+01:11:13,398 --> 01:11:14,983
+Well, excuse me.
+
+1035
+01:11:15,067 --> 01:11:17,778
+Pick on somebody
+your own size.
+
+1036
+01:11:19,154 --> 01:11:20,989
+Let's barbecue this bully.
+
+1037
+01:11:21,240 --> 01:11:23,116
+I couldn't agree more.
+
+1038
+01:11:35,504 --> 01:11:37,673
+Hang on, little birdie.
+
+1039
+01:11:46,640 --> 01:11:48,684
+You've got to ask yourself:
+
+1040
+01:11:48,809 --> 01:11:50,561
+"Do I feel clucky?"
+
+1041
+01:11:51,520 --> 01:11:52,646
+Well?
+
+1042
+01:11:52,855 --> 01:11:54,314
+Do you, punk?
+
+1043
+01:12:02,197 --> 01:12:05,450
+I'm going to have more fun
+getting rid of you...
+
+1044
+01:12:05,534 --> 01:12:07,870
+...than when I got rid of Sir Lionel.
+
+1045
+01:12:09,621 --> 01:12:11,999
+- I may not survive.
+- Kayley, no!
+
+1046
+01:12:12,082 --> 01:12:13,709
+But you'll never destroy...
+
+1047
+01:12:13,792 --> 01:12:15,252
+...the ideals of Camelot.
+
+1048
+01:12:15,335 --> 01:12:17,754
+Well, I've got to start somewhere.
+
+1049
+01:12:19,923 --> 01:12:22,009
+Say hello to your new king.
+
+1050
+01:12:23,468 --> 01:12:25,012
+You're no king.
+
+1051
+01:12:25,971 --> 01:12:27,097
+You're right.
+
+1052
+01:12:27,181 --> 01:12:28,682
+Perhaps I'm...
+
+1053
+01:12:29,349 --> 01:12:31,018
+...more of a god.
+
+1054
+01:12:32,895 --> 01:12:34,271
+Hey, Ruber!
+
+1055
+01:12:34,521 --> 01:12:35,564
+You!
+
+1056
+01:12:36,148 --> 01:12:38,150
+I will not serve a false king.
+
+1057
+01:13:04,384 --> 01:13:05,636
+You.
+
+1058
+01:13:06,261 --> 01:13:09,056
+You're in the way, just like your father.
+
+1059
+01:13:11,558 --> 01:13:13,352
+Since you're dying...
+
+1060
+01:13:14,186 --> 01:13:15,938
+...to be like him...
+
+1061
+01:13:16,980 --> 01:13:17,981
+...let's see...
+
+1062
+01:13:18,065 --> 01:13:20,067
+...if I can help you out!
+
+1063
+01:13:27,282 --> 01:13:28,742
+Oopsy-daisy.
+
+1064
+01:13:28,826 --> 01:13:30,828
+You probably needed that.
+
+1065
+01:13:34,373 --> 01:13:36,458
+Where is your pigeon now?
+
+1066
+01:13:38,919 --> 01:13:42,005
+Hold your ground
+until the last possible moment.
+
+1067
+01:13:42,589 --> 01:13:45,133
+Yes, and you give the signal.
+
+1068
+01:13:45,217 --> 01:13:47,219
+Two for the price of one.
+
+1069
+01:13:48,595 --> 01:13:50,764
+This must be my lucky day.
+
+1070
+01:13:52,141 --> 01:13:53,350
+Now!
+
+1071
+01:13:55,227 --> 01:13:56,311
+Oh, no!
+
+1072
+01:13:56,436 --> 01:13:57,771
+The stone!
+
+1073
+01:15:14,932 --> 01:15:16,308
+Kayley?
+
+1074
+01:15:17,017 --> 01:15:18,602
+You forgot this.
+
+1075
+01:15:20,771 --> 01:15:22,940
+Take it, it's yours.
+
+1076
+01:15:23,023 --> 01:15:24,525
+I dub thee...
+
+1077
+01:15:25,108 --> 01:15:26,610
+...Sir Garrett.
+
+1078
+01:15:26,693 --> 01:15:28,195
+I dub thee...
+
+1079
+01:15:28,946 --> 01:15:30,405
+...Lady Kayley.
+
+1080
+01:15:30,948 --> 01:15:32,908
+Thank you for saving Camelot.
+
+1081
+01:15:35,869 --> 01:15:38,580
+You have reminded us
+that a kingdom's strength...
+
+1082
+01:15:38,664 --> 01:15:41,124
+...is not based on the strength of the king...
+
+1083
+01:15:41,208 --> 01:15:43,252
+...but the strength of the people.
+
+1084
+01:15:43,335 --> 01:15:45,003
+From this day forward...
+
+1085
+01:15:45,087 --> 01:15:48,340
+...you will both sit
+as Knights of the Round Table.
+
+1086
+01:16:06,775 --> 01:16:09,319
+Isn't this everything you've ever wanted?
+
+1087
+01:16:09,444 --> 01:16:11,280
+Not quite everything.
+
+1088
+01:16:20,914 --> 01:16:22,958
+Don't even think about it.
+
+1089
+01:16:26,587 --> 01:16:28,213
+Well done, Ayden.
