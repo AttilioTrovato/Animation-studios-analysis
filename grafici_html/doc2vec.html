@@ -21,9 +21,8 @@
 <div class="container">
     <!--main-->
     <main role="main">
-
+        <div id="slidingWeight"></div>
         <div id="html_chart"></div>
-
     </main>
 </div>
 
@@ -45,7 +44,8 @@
 
     /* renders = {"nome cella observable da renderizzare": "#id_html_in_cui_renderizzare"} */
     const renders = {
-        "chart_legend": "#html_chart"
+        "chart_legend": "#html_chart",
+        "viewof slidingWeight": "#slidingWeight"
     };
     function render(_node, value) {
         if (!(value instanceof Element)) {
