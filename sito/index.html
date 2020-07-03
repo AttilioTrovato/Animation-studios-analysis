@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+		<title>Il Plus della Disney</title>
+		
+		<style>
+			.title-bg {
+				background-image: url("images/main.jpg");
+				height: 100%;
+				width : 100%;
+				
+				background-attachment: fixed;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+			
+			body {
+				height: 100%;
+				width : 100%;
+				position: absolute;
+			}
+			
+			#obs-iframe {
+				border: none;
+				height: auto; 
+				width : 100%;
+				position: relative;
+			}
+
+			.dark {
+				background-color: lightgray;
+			}
+
+			.light {
+				background-color: white;
+			}
+
+			.iframe-container {
+				overflow: hidden;
+				position: relative;
+			} 
+
+			.iframe-container iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				border: 0;
+				width: 100%;
+				height: 100%;
+			}
+
+			.complex_chart {
+				padding-top: 29.25%;
+			}
+
+			.lda_chart {
+				padding-top: 105.25%;
+			}
+
+			.domains_chart {
+				padding-top: 52%;
+			}
+
+			.doc2vec_chart {
+				padding-top: 57%;
+			}
+
+			.parallel_words_chart {
+				padding-top: 51%;
+			}
+
+			.colors_chart {
+				padding-top: 85%;
+			}
+
+			div.multiples{
+				text-align: center;
+				display:flex;
+			}
+		</style>
+	</head>
+	<body>
+  
+	<!-- navbar -->
+  	<nav class="navbar navbar-expand navbar-dark bg-dark fixed-top">
+		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+			<div class="navbar-nav">
+				<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+				<a class="nav-item nav-link" href="#intro">Introduzione</a>
+				<a class="nav-item nav-link" href="#section1">Complessità </a>
+				<a class="nav-item nav-link" href="#section2">Topics </a>
+				<a class="nav-item nav-link" href="#section3">Domains </a>
+				<a class="nav-item nav-link" href="#section4">Doc2Vec </a>
+				<a class="nav-item nav-link" href="#section5">Parallel words </a>
+				<a class="nav-item nav-link" href="#section6">Colors </a>
+			</div>
+		</div>
+	</nav>
+
+	<!-- copertina -->
+	<div class="title-bg container-fluid">
+		<div class="row col-12 h-100">
+			<h1 class="d-flex justify-content-center align-items-center display-1 text-white pt-5">L’evoluzione della Disney da Biancaneve a Frozen</h1>	
+		</div>
+	</div>
+
+	<!-- introduzione -->
+    <div class="container-fluid dark text-dark" id="ext_intro">
+		<div class="container" id="intro">
+			<div class="row">
+				<h2 class="display-4 pt-5">Introduzione</h2>
+				<p>Che la Disney (o, più precisamente, ‘The Walt Disney Company’) sia una delle più influenti compagnie di intrattenimento della storia è un fatto ben assodato. E chi potrebbe dire di non aver visto almeno un cartone animato della Disney da bambino? Probabilmente, nessuno. Le recenti acquisizioni di Marvel, Lucas Film e Fox (ma anche la meno recente fusione con la Pixar nel 2006) ne fanno senza dubbio una colonna portante dell’intrattenimento mondiale e, anche in Italia, il successo della Disney non conosce rallentamenti, come il recente lancio della piattaforma di streaming Disney + ha ampiamente dimostrato. Basta una piccola ricerca su Google trends, infatti, ad evidenziare un enorme picco di interesse per la compagnia e il suo nuovo prodotto in concomitanza con il lancio su territorio nazionale, avvenuto il 24 marzo 2020. Da Nord a Sud Italia, il successo della piattaforma è stato uniforme in tutto lo stivale. [dati di Google trends sulle ricerche correlate. Non sappiamo se poi questo ha coinciso con un acquisto uniforme della piattaforma.] Anche storicamente, la Disney ha accompagnato i bambini nella loro infanzia (e non solo loro) dagli anni Trenta del secolo scorso, senza quasi mai perdere un colpo. Il successo della Disney è sicuramente dovuto alle storie che racconta, ma come hanno fatto queste storie ad adattarsi così bene ai desideri del pubblico negli anni? Esiste la possibilità che anche gli elementi alla base di un cartone animato, come il linguaggio e i colori usati, si siano evoluti per adattarsi agli inevitabili cambiamenti della società in quasi novant’anni? E se sì, come?</p>
+			</div>
+		</div>
+	</div>
+	
+
+	<!-- complessità -->
+	<div class="container-fluid light text-dark" id="ext_intro"></div>
+		<div class="container " id="section1">
+			<div class="row">
+				<h2 class="display-4 pt-5">Complessità del linguaggio</h2>
+				<p>Andando ad analizzare l’evoluzione delle parole usate nei cartoni animati della Disney una prima caratteristica che è possibile riscontrare è la predominanza di parole legate al lessico famigliare. Parole come ‘mamma’, ‘papà’, ‘figlio’ e ‘figlia’ ricorrono omogeneamente in tutte le decadi analizzate. Altri termini frequenti e costanti sono quelli che si riferiscono ai concetti di ‘regno’ e ‘maestà’, con ‘re’ e ‘regina’ che risultano essere, non sorprendentemente viste le tematiche fiabesche di molti cartoni, fra le più comuni. Ciò che invece riserva qualche sorpresa in più è l’analisi temporale dell’utilizzo di alcune parole caratterizzanti le decadi; se non sorprende troppo vedere che la parola ‘automobile’ compare principalmente negli anni Duemila, l’andamento di x,y ….[qui ho bisogno di una mano per interpretare il grafico. È fondamentale però tirare fuori qualcosa che possiamo descrivere come una ‘sorpresa’ o una controtendenza].</p>
+			</div>
+		</div>
+
+		<div class="container-fluid">
+			<div class="row justify-content-center">
+				<div class="col-12" id="complexity_chart"></div>
+			</div>
+		</div>
+	</div>
+
+
+	<!--LDA topics -->
+	<div class="container-fluid dark text-dark" id="ext_intro">
+		<div class="container" id="section2">
+			<div class="row">
+				<h2 class="display-4 pt-5">Topic latenti</h2>
+				<p>Andando ad analizzare l’evoluzione delle parole usate nei cartoni animati della Disney una prima caratteristica che è possibile riscontrare è la predominanza di parole legate al lessico famigliare. Parole come ‘mamma’, ‘papà’, ‘figlio’ e ‘figlia’ ricorrono omogeneamente in tutte le decadi analizzate. Altri termini frequenti e costanti sono quelli che si riferiscono ai concetti di ‘regno’ e ‘maestà’, con ‘re’ e ‘regina’ che risultano essere, non sorprendentemente viste le tematiche fiabesche di molti cartoni, fra le più comuni. Ciò che invece riserva qualche sorpresa in più è l’analisi temporale dell’utilizzo di alcune parole caratterizzanti le decadi; se non sorprende troppo vedere che la parola ‘automobile’ compare principalmente negli anni Duemila, l’andamento di x,y ….[qui ho bisogno di una mano per interpretare il grafico. È fondamentale però tirare fuori qualcosa che possiamo descrivere come una ‘sorpresa’ o una controtendenza].</p>
+			</div>
+		</div>
+
+		<div class="container-fluid">
+			<div class="container">
+				<div id="lda_slidingWeight"></div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-12" id="lda_topics_chart"></div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- domains -->
+	<div class="container-fluid light text-dark" id="ext_intro">
+		<div class="container" id="section3">
+			<div class="row">
+				<h2 class="display-4 pt-5">Domains</h2>
+				<p>Andando ad analizzare l’evoluzione delle parole usate nei cartoni animati della Disney una prima caratteristica che è possibile riscontrare è la predominanza di parole legate al lessico famigliare. Parole come ‘mamma’, ‘papà’, ‘figlio’ e ‘figlia’ ricorrono omogeneamente in tutte le decadi analizzate. Altri termini frequenti e costanti sono quelli che si riferiscono ai concetti di ‘regno’ e ‘maestà’, con ‘re’ e ‘regina’ che risultano essere, non sorprendentemente viste le tematiche fiabesche di molti cartoni, fra le più comuni. Ciò che invece riserva qualche sorpresa in più è l’analisi temporale dell’utilizzo di alcune parole caratterizzanti le decadi; se non sorprende troppo vedere che la parola ‘automobile’ compare principalmente negli anni Duemila, l’andamento di x,y ….[qui ho bisogno di una mano per interpretare il grafico. È fondamentale però tirare fuori qualcosa che possiamo descrivere come una ‘sorpresa’ o una controtendenza].</p>
+			</div>
+		</div>
+		
+		<div class="container-fluid">
+			<div class="row justify-content-center">
+				<div class="col-12" id="domains_chart"></div>
+			</div>
+		</div>
+	</div>
+
+	<!-- doc2vec -->
+	<div class="container-fluid dark text-dark" id="ext_intro">
+		<div class="container" id="section4">
+			<div class="row">
+				<h2 class="display-4 pt-5">Doc2Vec</h2>
+				<p>Andando ad analizzare l’evoluzione delle parole usate nei cartoni animati della Disney una prima caratteristica che è possibile riscontrare è la predominanza di parole legate al lessico famigliare. Parole come ‘mamma’, ‘papà’, ‘figlio’ e ‘figlia’ ricorrono omogeneamente in tutte le decadi analizzate. Altri termini frequenti e costanti sono quelli che si riferiscono ai concetti di ‘regno’ e ‘maestà’, con ‘re’ e ‘regina’ che risultano essere, non sorprendentemente viste le tematiche fiabesche di molti cartoni, fra le più comuni. Ciò che invece riserva qualche sorpresa in più è l’analisi temporale dell’utilizzo di alcune parole caratterizzanti le decadi; se non sorprende troppo vedere che la parola ‘automobile’ compare principalmente negli anni Duemila, l’andamento di x,y ….[qui ho bisogno di una mano per interpretare il grafico. È fondamentale però tirare fuori qualcosa che possiamo descrivere come una ‘sorpresa’ o una controtendenza].</p>
+			</div>
+		</div>
+
+		<div class="container-fluid">
+			<div class="container">
+				<div id="d2v_slidingWeight"></div>
+			</div>	
+			<div class="row justify-content-center">
+				<div class="col-12" id="doc2vec_chart"></div>
+			</div>
+		</div>
+	</div>
+
+	<!-- parallel words -->
+	<div class="container-fluid light text-dark" id="ext_intro">
+		<div class="container" id="section5">
+			<div class="row">
+				<h2 class="display-4 pt-5">Parallel words</h2>
+				<p>Andando ad analizzare l’evoluzione delle parole usate nei cartoni animati della Disney una prima caratteristica che è possibile riscontrare è la predominanza di parole legate al lessico famigliare. Parole come ‘mamma’, ‘papà’, ‘figlio’ e ‘figlia’ ricorrono omogeneamente in tutte le decadi analizzate. Altri termini frequenti e costanti sono quelli che si riferiscono ai concetti di ‘regno’ e ‘maestà’, con ‘re’ e ‘regina’ che risultano essere, non sorprendentemente viste le tematiche fiabesche di molti cartoni, fra le più comuni. Ciò che invece riserva qualche sorpresa in più è l’analisi temporale dell’utilizzo di alcune parole caratterizzanti le decadi; se non sorprende troppo vedere che la parola ‘automobile’ compare principalmente negli anni Duemila, l’andamento di x,y ….[qui ho bisogno di una mano per interpretare il grafico. È fondamentale però tirare fuori qualcosa che possiamo descrivere come una ‘sorpresa’ o una controtendenza].</p>
+			</div>
+		</div>
+
+		<div class="container-fluid">
+			<div class="row justify-content-center">
+				<div class="col-12" id="parallel_words_chart"></div>
+			</div>
+		</div>
+	</div>
+	
+
+	<!-- colors -->
+	<div class="container-fluid dark text-dark" id="ext_intro">
+		<div class="container" id="section6">
+			<div class="row">
+				<h2 class="display-4 pt-5">Colors</h2>
+				<p>Andando ad analizzare l’evoluzione delle parole usate nei cartoni animati della Disney una prima caratteristica che è possibile riscontrare è la predominanza di parole legate al lessico famigliare. Parole come ‘mamma’, ‘papà’, ‘figlio’ e ‘figlia’ ricorrono omogeneamente in tutte le decadi analizzate. Altri termini frequenti e costanti sono quelli che si riferiscono ai concetti di ‘regno’ e ‘maestà’, con ‘re’ e ‘regina’ che risultano essere, non sorprendentemente viste le tematiche fiabesche di molti cartoni, fra le più comuni. Ciò che invece riserva qualche sorpresa in più è l’analisi temporale dell’utilizzo di alcune parole caratterizzanti le decadi; se non sorprende troppo vedere che la parola ‘automobile’ compare principalmente negli anni Duemila, l’andamento di x,y ….[qui ho bisogno di una mano per interpretare il grafico. È fondamentale però tirare fuori qualcosa che possiamo descrivere come una ‘sorpresa’ o una controtendenza].</p>
+			</div>
+		</div>
+
+		<div class="container-fluid">
+			<div class="container">
+				<div id="percentage_colors"></div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-12" id="colors_chart"></div>
+			</div>
+		</div>
+	</div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+	<!--Same libraries loaded with CDN-->
+	<script>window.jQuery || document.write('<script src="/docs/4.4/assets/js/vendor/jquery.slim.min.js"><\/script>')</script>
+	<script src="/docs/4.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+
+
+	<script type="module">
+
+		import {Runtime} from "https://unpkg.com/@observablehq/runtime@4/dist/runtime.js";
+		/* Link al notebook da importare va incollato qui */
+		import notebook_complex from "https://api.observablehq.com/@angeloturco10/complexity-indexes-2.js?v=3";
+		import notebook_doc2vec from "https://api.observablehq.com/@angeloturco10/doc2vec-2/2.js?v=3";
+		import notebook_parallel_words from "https://api.observablehq.com/@angeloturco10/words-parallel-chart.js?v=3";
+		import notebook_domains from "https://api.observablehq.com/@angeloturco10/domains-treemap.js?v=3";
+		import notebook_lda_topics from "https://api.observablehq.com/@angeloturco10/lda-topics-2.js?v=3";
+		import notebook_colors from "https://api.observablehq.com/@angeloturco10/colors-2.js?v=3";
+
+		/* renders = {"nome cella observable da renderizzare": "#id_html_in_cui_renderizzare"} */
+		const renders = {
+			"compl_line_chart": "#complexity_chart",
+			"colors_by_time": "#colors_chart",
+			"viewof normalized_colors": "#percentage_colors",
+			"lda_chart": "#lda_topics_chart",
+			"viewof lda_slidingWeight": "#lda_slidingWeight",
+			"treemapDomain": "#domains_chart",
+			"parallel_words": "#parallel_words_chart",
+			"doc2vec": "#doc2vec_chart",
+			"viewof d2v_slidingWeight": "#d2v_slidingWeight",
+		};
+
+		function render(_node, value) {
+			if (!(value instanceof Element)) {
+				const el = document.createElement("span");
+				el.innerHTML = value;
+				value = el;
+			}
+			if (_node.firstChild !== value) {
+				if (_node.firstChild) {
+					while (_node.lastChild !== _node.firstChild) _node.removeChild(_node.lastChild);
+					_node.replaceChild(value, _node.firstChild);
+				} else {
+					_node.appendChild(value);
+				}
+			}
+		}
+
+		function get_chart(notebook) {
+			const runtime = new Runtime();
+			const main = runtime.module(notebook, name => {
+				const selector = renders[name];
+				if (selector) {
+					return {fulfilled: (value) => render(document.querySelector(selector), value)}
+				} else {
+					return true;
+				}
+			});
+		}
+
+		get_chart(notebook_complex)
+		get_chart(notebook_doc2vec)
+		get_chart(notebook_parallel_words)
+		get_chart(notebook_domains)
+		get_chart(notebook_lda_topics)
+		get_chart(notebook_colors)
+
+	</script>
+</body>
+</html>
