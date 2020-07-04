@@ -84,12 +84,12 @@
 				margin: auto;
 			}
 
-			#parallel_words_chart .svg-container {
+			#colors_chart  .svg-container {
 				margin: auto;
 			}
 
-			#colors_chart  .svg-container {
-				margin: auto;
+			#decade_words svg {
+				width: 100%;
 			}
 
 		</style>
@@ -108,6 +108,7 @@
 				<a class="nav-item nav-link" href="#section4">Doc2Vec </a>
 				<a class="nav-item nav-link" href="#section5">Parallel words </a>
 				<a class="nav-item nav-link" href="#section6">Colors </a>
+				<a class="nav-item nav-link" href="#section7">Words </a>
 			</div>
 		</div>
 	</nav>
@@ -236,6 +237,21 @@
 		</div>
 	</div>
 
+	<!-- bubble wordcloud -->
+	<div class="container-fluid light text-dark" id="section7">
+		<div class="row justify-content-center">
+			<div class="col-8">
+				<h2 class="display-4 pt-5">Words</h2>
+				<p>Andando ad analizzare l’evoluzione delle parole usate nei cartoni animati della Disney una prima caratteristica che è possibile riscontrare è la predominanza di parole legate al lessico famigliare. Parole come ‘mamma’, ‘papà’, ‘figlio’ e ‘figlia’ ricorrono omogeneamente in tutte le decadi analizzate. Altri termini frequenti e costanti sono quelli che si riferiscono ai concetti di ‘regno’ e ‘maestà’, con ‘re’ e ‘regina’ che risultano essere, non sorprendentemente viste le tematiche fiabesche di molti cartoni, fra le più comuni. Ciò che invece riserva qualche sorpresa in più è l’analisi temporale dell’utilizzo di alcune parole caratterizzanti le decadi; se non sorprende troppo vedere che la parola ‘automobile’ compare principalmente negli anni Duemila, l’andamento di x,y ….[qui ho bisogno di una mano per interpretare il grafico. È fondamentale però tirare fuori qualcosa che possiamo descrivere come una ‘sorpresa’ o una controtendenza].</p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col-11">
+				<div id="decade_words"></div>
+			</div>
+		</div>
+	</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -259,7 +275,7 @@
 		import notebook_domains from "https://api.observablehq.com/@angeloturco10/domains-treemap.js?v=3";
 		import notebook_lda_topics from "https://api.observablehq.com/@angeloturco10/lda-topics-2.js?v=3";
 		import notebook_colors from "https://api.observablehq.com/@angeloturco10/colors-2.js?v=3";
-
+		import notebook_decade_words from "https://api.observablehq.com/@angeloturco10/decades-wordcloud.js?v=3";
 		/* renders = {"nome cella observable da renderizzare": "#id_html_in_cui_renderizzare"} */
 		const renders = {
 			"compl_line_chart": "#complexity_chart",
@@ -271,6 +287,7 @@
 			"parallel_words": "#parallel_words_chart",
 			"doc2vec": "#doc2vec_chart",
 			"viewof d2v_slidingWeight": "#d2v_slidingWeight",
+			"decade_wordbubbles": "#decade_words"
 		};
 
 		function render(_node, value) {
@@ -307,6 +324,7 @@
 		get_chart(notebook_domains)
 		get_chart(notebook_lda_topics)
 		get_chart(notebook_colors)
+		get_chart(notebook_decade_words)
 
 	</script>
 </body>
