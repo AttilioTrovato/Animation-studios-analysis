@@ -1,0 +1,519 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+		<title>Evoluzione della Disney</title>
+		
+		<style>
+			.title-bg {
+				background-image: url("images/main.jpg");
+				height: 100%;
+				width : 100%;
+				
+				background-attachment: fixed;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+
+			.da-copertina {
+				background-image: url("images/da.jpg");
+				height: 40%;
+				width : 100%;
+				
+				background-attachment: fixed;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+
+			.nsa-copertina {
+				background-image: url("images/la.jpg");
+				height: 40%;
+				width : 100%;
+				
+				background-attachment: fixed;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+
+			.nod-copertina {
+				background-image: url("images/nod.jpeg");
+				height: 40%;
+				width : 100%;
+				
+				background-attachment: fixed;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+			
+			body {
+				height: 100%;
+				width : 100%;
+				position: absolute;
+			}
+			
+			.dark {
+				background-color: lightgray;
+			}
+
+			.light {
+				background-color: white;
+			}
+
+			.iframe-container {
+				overflow: hidden;
+				position: relative;
+			} 
+
+			.iframe-container iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				border: 0;
+				width: 100%;
+				height: 100%;
+			}
+
+			div.multiples{
+				text-align: center;
+				display:flex;
+			}
+
+			div.multiple {
+				flex: 1;
+			}
+
+			.legend div {
+				margin: auto;
+			}
+
+			.container-fluid {
+				padding-bottom: 2rem;
+			}
+
+			#parallel_words_chart .svg-container {
+				margin: auto;
+			}
+
+			#colors_chart  .svg-container {
+				margin: auto;
+			}
+
+			#decade_words svg {
+				width: 100%;
+			}
+
+			.dark-bg-header {
+				background-color: black;
+				opacity: 0.8;
+				margin: auto;
+				padding: 2%;
+			}
+
+			.paragraph {
+				/* padding-top: 10%;
+				padding-bottom: 10%;
+				padding-right: 10%;
+				padding-left: 10%; */
+				font-family: "Helvetica";
+				text-align: justify;
+			}
+
+			.text-above-chart {
+				margin-bottom: 2%;
+			}
+			.text-under-chart {
+				margin-top: 2%;
+			}
+
+			.pt-5, .py-5 {
+				padding-top: 1rem!important;
+			}
+
+			.cropped2 {
+				width: 100%; /* width of container */
+				height: auto; /* height of container */
+				object-fit: cover;
+				border-radius: 50%;
+				margin-bottom: 20px;
+				/* object-position: 20% 10px;  */
+				/* border: 1px solid black; */
+			}
+
+			.footer-image .col-2{
+				margin: auto;
+			}
+
+			.footer-image {
+				margin-top: 1%;
+			}
+
+			.text-center {
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+  
+	<!-- navbar -->
+  	<nav class="navbar navbar-expand navbar-dark bg-dark fixed-top">
+		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+			<div class="navbar-nav">
+				<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+				<a class="nav-item nav-link" href="#intro">Introduzione</a>
+				<a class="nav-item nav-link" href="#section1">Disney Animation </a>
+				<a class="nav-item nav-link" href="#section2">Non solo Animation... </a>
+				<a class="nav-item nav-link" href="#section3">...e non solo Disney! </a>
+				<a class="nav-item nav-link" href="#section4"> Conclusioni </a>
+				<a class="nav-item nav-link" href="#section5"> Dream Team </a>
+			</div>
+		</div>
+	</nav>
+
+	<!-- home -->
+	<div class="title-bg container-fluid">
+		<div class="row col-12 h-100">
+			<h1 class="dark-bg-header d-flex justify-content-center align-items-center display-1 text-white">L’evoluzione della Disney</br>da Biancaneve a Frozen</h1>	
+		</div>
+	</div>
+
+	<!-- introduzione -->
+    <div class="container-fluid dark text-dark" id="intro">
+		<div class="row justify-content-center">
+			<div class="col-8">
+				<h2 class="display-4 pt-5">Introduzione</h2>
+				<p class="paragraph">Cosa hanno in comune <i>Biancaneve e i sette nani</i> e <i>Ribelle: The Brave</i>? E cosa, invece, accomuna <i>Hercules</i> con <i>Lilli e il Vagabondo</i>? La risposta, stranamente, è: molto più di quello che ci si aspetta. Che la Disney, con oltre 400 titoli originali, quasi 70 miliardi di dollari di fatturato nel 2019 e una piattaforma di streaming che, al momento del lancio, contava più di 50 milioni di iscritti, sia una delle più influenti compagnie di intrattenimento della storia è un fatto ben assodato. E chi potrebbe dire di non aver visto almeno un cartone animato della Disney da bambino? Probabilmente, nessuno. Le recenti acquisizioni di Marvel, Lucas Film e Fox (ma anche la meno recente fusione con la Pixar nel 2006) ne fanno senza dubbio una colonna portante dell’intrattenimento mondiale e, anche in Italia, il successo della Disney non conosce rallentamenti, come il recente lancio della piattaforma di streaming Disney + ha ampiamente dimostrato. Basta una piccola ricerca su Google trends, infatti, ad evidenziare un enorme picco di interesse per la compagnia e il suo nuovo prodotto in concomitanza con il lancio su territorio nazionale, avvenuto il 24 marzo 2020. Da Nord a Sud, il successo della piattaforma è stato uniforme in tutto lo stivale. Anche storicamente, la Disney ha accompagnato i bambini nella loro infanzia (e non solo loro) dagli anni Trenta del secolo scorso, senza quasi mai perdere un colpo. Il successo della Disney è sicuramente dovuto alle storie che racconta, ma come hanno fatto queste storie ad adattarsi così bene ai desideri del pubblico negli anni? Esiste la possibilità che anche gli elementi alla base di un cartone animato, come il linguaggio e i colori usati, si siano evoluti per adattarsi agli inevitabili cambiamenti della società in quasi novant’anni? E se sì, come?</p>
+			</div>
+		</div>
+	</div>
+
+	<!-- Disney Animation -->
+	<div class="da-copertina container-fluid">
+		<div class="row col-12 h-100">
+			<!-- <h1 class="dark-bg-header d-flex justify-content-center align-items-center display-1 text-white">Disney Animation</h1>	 -->
+		</div>
+	</div>
+	
+	<div class="container-fluid light text-dark" id="section1">
+		<div class="row justify-content-center text-above-chart">
+			<div class="col-8">
+				<h2 class="display-4 pt-5">Disney Animation</h2>
+				<p class="paragraph">Come spesso accade di questi tempi, una possibile soluzione al problema ci viene offerta dalla tecnologia e da alcune innovative tecniche di analisi del testo. Abbiamo, dunque pensato di far uso di una tecnica molto diffusa nel mondo dell'informatica applicata ai dati testuali per farci una prima idea del linguaggio usato dalla Disney e della sua evoluzione. Questa misura calcola tipicamente la frequenza di un termine in una collezione di documenti (nel nostro caso tutti i sottotitoli dei cartoni animati Disney) rapportata alla sua presenza all'interno di un testo specifico (nel nostro caso i singoli film) ma la sua applicazione nella forma base si è rivelata insufficiente. È stato necessario, quindi, misurare quanto i singoli termini fossero rappresentativi per ogni decade, andando a considerare il loro ‘valore informativo’ nel tempo.</p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col-11">
+				<div id="decade_words"></div>
+			</div>
+		</div>
+
+		<div class="row justify-content-center text-under-chart">
+			<div class="col-8">
+				<p class="paragraph">Un risultato di questa prima analisi è visibile nel grafico a bolle, che descrive le dieci parole più rappresentative della Disney per epoca. Salta immediatamente all'occhio la presenza inaspettata del termine gay nelle decadi 1940 e 1950, ovviamente utilizzato in canzoni e dialoghi con l'accezione ‘felice’, ‘gaio’, ma il cui uso, per ovvi motivi, subisce nelle decadi successive un rovinoso declino.  Durante gli anni Ottanta, decade non facile per i prodotti Disney, possiamo vedere dei termini che difficilmente assoceremmo a dei prodotti per famiglie: parole come catastrophe (‘catastrofe’), miserable (‘misero, infelice’), hopeless (‘disperato’) ci danno la misura di titoli atipici dell'universo Disney quali ‘Taron e la pentola magica’(1985) e ‘Red e Toby’(1981). Infine, è interessante osservare come nell'ultima decade, quella dal 2010 in poi, ‘connesso’ sia uno dei termini più rappresentativi, che richiama l'habitat digitale nel quale siamo sempre più immersi.</p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center text-above-chart">
+			<div class="col-8">
+				<p class="paragraph">Un’ulteriore analisi su cui ci siamo concentrati è stata l'evoluzione nel corso degli anni di quarantadue parole significative nell'universo Disney. Risultano evidenti variazioni di significatività considerevoli di termini come pop (nelle decadi 1960, 1990), mama (1940, 1970), e silly (1980).  Non sorprende che parole come ‘mamma’, ‘papà’, ‘figlio’ e ‘figlia’ ricorrano omogeneamente in tutte le decadi analizzate. È, invece, più interessante l'uso omogeneo anche del termine "car", che entra nel linguaggio Disney nel 1940 e rimane costante fino al 2010. Altri termini che si ritrovano un po’ ovunque nel tempo sono quelli che si riferiscono ai concetti di ‘regno’ e ‘maestà’, con ‘re’ e ‘regina’ che risultano essere, in linea con le tematiche fiabesche di molti cartoni, fra le più comuni. In generale, è quindi possibile tracciare i risultati ottenuti con un effettivo adeguamento del linguaggio dei film alle diverse epoche, un dato che rispecchia la potenza e la rappresentatività delle tecniche di estrazione dell'informazione che abbiamo applicato in questo lavoro.</p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col-11">
+				<div id="parallel_words_chart"></div>
+			</div>
+		</div>
+
+		<div class="row justify-content-center text-above-chart text-under-chart">
+			<div class="col-8">
+				<p class="paragraph">È possibile osservare altri cambiamenti su base temporale con un’altra tecnica di analisi e estrazione di informazioni che si concentra sui temi trattati nel testo. Siamo riusciti a far emergere così, alcune delle tematiche che maggiormente vengono utilizzate nei film della Disney. Alcuni temi ricorrono spesso fra le decadi: ancora una volta il tema fiabesco (re e regine, castelli e foreste magiche) che spopola nelle prima decadi ma che rimane comunque presente (e di successo) fino ai giorni nostri. Ugualmente, temi che si avvicinano più all’avventura risultano essere ben distribuiti nella produzione. Uniche eccezioni sono i temi più legati alla tecnologia che, per motivi ovvi, si riscontrano più facilmente dagli anni 2000 in poi. Non sorprende, inoltre, trovare un legame fra i cartoni con protagonisti animali né riscontrare una tematica comune in quei film dall’ambientazione più esotica e naturalistica.</p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col-8">
+				<div id="lda_slidingWeight"></div>
+			</div>
+			<div class="col-11">
+				<div id="lda_topics_chart"></div>
+			</div>
+		</div>
+
+		<div class="row justify-content-center text-above-chart text-under-chart">
+			<div class="col-8">
+				<p class="paragraph">Un’ulteriore analitica ci ha permesso invece di andare ad esplorare la similarità fra film in modo automatico, partendo solo dal tipo di linguaggio utilizzato nei singoli cartoni. Il risultato è stato estremamente inaspettato, evidenziando come, nonostante differenze temporali di decenni, i film d’animazione della Disney risultino essere tutti molto simili fra loro. E così la storia di Merida di <i>Brave</i> risulta essere simile a quella di <i>Biancaneve</i>, con ben settantacinque anni di distanza, e il modo di raccontare la storia de <i>La Principessa e il Ranocchio</i> ha, vent’anni dopo, qualcosa in comune con la narrazione de <i>La Sirenetta</i>. </p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col-8">
+				<div id="d2v_slidingWeight"></div>
+			</div>
+			<div class="col-8">
+				<div id="doc2vec_chart"></div>
+			</div>
+		</div>
+
+		<div class="row justify-content-center text-above-chart text-under-chart">
+			<div class="col-8">
+				<p class="paragraph">Anche l’utilizzo dei colori nel tempo mostra un andamento inaspettato. Chi non avrebbe dato per scontato che la palette di colori, forte del progresso tecnico ma anche di gusti moderni molto più ‘pop’, non avrebbe virato verso tinte più accese e sgargianti? E invece la Disney conferma di mantenere una sua linea ben precisa anche sul fronte della colorazione, mostrando un andamento regolare e un utilizzo pressoché omogeneo nel tempo di tutti i colori.</p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col-8">
+				<div id="percentage_colors"></div>
+			</div>
+			<div class="col-11">
+				<div id="colors_chart"></div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Non solo Animation... -->
+	<div class="nsa-copertina container-fluid">
+		<div class="row col-12 h-100">
+			<!-- <h1 class="dark-bg-header d-flex justify-content-center align-items-center display-1 text-white">Non solo Animation...</h1>	 -->
+		</div>
+	</div>
+
+	<div class="container-fluid dark text-dark" id="section2">
+		<div class="row justify-content-center text-above-chart">
+			<div class="col-8">
+				<h2 class="display-4 pt-5">Non solo Animation...</h2>
+				<p class="paragraph">La produzione della Disney, però, non si limita ai film d’animazione ma comprende anche film in tecnica mista e live action. Uno dei confronti naturali nel corso dell’analisi è stato proprio fra queste tre tipologie, con particolare attenzione al linguaggio utilizzato. È possibile individuare caratteristiche di un linguaggio utilizzato da tutta la casa di produzione Disney, o esistono delle differenze interne fra queste tre categorie?</p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="chart" id="complexity_chart"></div>
+		</div>
+	</div>
+
+
+	<!-- ...e non solo Disney! -->
+	<div class="nod-copertina container-fluid">
+		<div class="row col-12 h-100">
+			<!-- <h1 class="dark-bg-header d-flex justify-content-center align-items-center display-1 text-white">...e non solo Disney!</h1>	 -->
+		</div>
+	</div>
+
+	<div class="container-fluid light text-dark" id="section3">
+		<div class="row justify-content-center text-above-chart">
+			<div class="col-8">
+				<h2 class="display-4 pt-5">...e non solo Disney!</h2>
+				<p class="paragraph">
+					Nonostante la quasi indiscussa supremazia della Disney nel mondo dell’animazione, altre case di produzione hanno cercato di insediarsi in questo mercato, producendo, tra l’altro, molti cartoni animati ormai considerati cult. Compagnie quali la Dreamworks, casa del famosissimo Shrek e di tutti gli animali di Madagascar, la Universal, produttrice dell’iconica serie di film ‘Alla ricerca della valle incantata’ o la divisione d’animazione della Sony, che si è recentemente accaparrata l’Oscar 2019 con Spider-Man: un nuovo universo, si sono prepotentemente affermate come rivali del colosso di Topolino. Ma come hanno gestito l’eredità disneyana queste case nate quasi un cinquantennio dopo Walt Disney? Sono riuscite a trovare una particolarità che le rendesse facilmente distinguibili?
+					Per rispondere a questa domanda, le prime cose che sembra opportuno esplorare sono proprio le storie e i temi trattati 	in queste storie. Un tipo di analisi diversa da quella utilizzata per i temi dell’animazione Disney, è stata usata per tutte le case di produzione e va ad evidenziare il trattamento di specifici ‘domini’ – macroaree o settori – all’interno dei testi e delle trame. Un primo risultato è prevedibilmente la ricorrenza di domini relativi al mondo animale e alla biologia, alle persone e alla psicologia e alla geografia. Altro dominio comune è quello della città e delle costruzioni, con la peculiare eccezione della Universal. La maggior parte della produzione dei film di questa casa tratta ambientazioni e personaggi legati agli animali e alla natura, mancando, dunque, il dominio della città. Risulta invece essere l’unica a presentare il dominio della geologia. Il tema della storia, invece, risulta essere più trasversale fra le case selezionate, comparendo nella Disney ma anche nella Dreamworks (produttrice de ‘La strada per Eldorado’ e ‘Il principe d’Egitto’), nella Warner (‘La spada magica: alla ricerca di Camelot’) e nella Sony.
+				</p>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+			<div class="col-10">
+				<div id="domains_chart"></div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Conclusioni -->
+	<div class="container-fluid dark text-dark" id="section4">
+		<div class="row justify-content-center">
+			<div class="col-8">
+				<h2 class="display-4 pt-5">Conclusioni</h2>
+				<p class="paragraph">Ritornando alla domanda iniziale, dunque, la risposta a cosa hanno in comune cartoni animati come Biancaneve e film d’animazione moderni come Brave è proprio il marchio Disney. L’evoluzione della Disney, infatti, risulta essere più una riconferma che una vera e propria evoluzione e l’analisi della produzione in chiave temporale mostra una somiglianza di fondo in tutti gli aspetti. Vediamo, dunque, come molte parole siano ricorrenti, come i temi vengano riproposti ciclicamente e addirittura i colori non mostrino significative modifiche nel tempo. E questo standard non rimane solo in casa Disney ma risulta essere qualcosa con cui anche le altre case di produzione devono necessariamente confrontarsi e, possibilmente, adeguarsi. Con davvero poche eccezioni, la Disney conferma di aver trovato il modo efficace di raccontare e continua, nel tempo, a dare al suo pubblico storie amate da sempre.  </p>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col-8">
+				<div id="d2v_slidingWeight"></div>
+			</div>
+			<div class="col-8">
+				<div id="doc2vec_chart"></div>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer">
+		<div class="container-fluid" id="section5">
+			<div class="row justify-content-center">
+				<div class="col-8">
+					<h3 class="display-4 pt-5">DreamTeam</h3>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-8">
+					<div class="row justify-content-center footer-image">
+						<div class="col-2">
+							<div>
+								<img class="cropped2" src="images/test.png" alt="">
+							</div>
+							<div>
+								<p class="text-center">Elena Baccoli</p>
+							</div>
+						</div>
+						<div class="col-2">
+							<div>
+								<img class="cropped2" src="images/v.png" alt="">
+							</div>
+							<div>
+								<p class="text-center">Valeria Guttilla</p>
+							</div>
+						</div>
+						<div class="col-2">
+							<div>
+								<img class="cropped2" src="images/at.png" alt="">
+							</div>
+							<div>
+								<p class="text-center">Attilio Trovato</p>
+							</div>
+						</div>
+						<div class="col-2">
+							<div>
+								<img class="cropped2" src="images/an.png" alt="">
+							</div>
+							<div>
+								<p class="text-center">Angelo Turco</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- footer -->
+	<!-- <footer id="footerSection">
+		<div class="footer">
+			<div class="container">
+				<div class="d-flex flex-column">
+					<div class="container">
+						<h3>DreamTeam:</h3>
+						<div class="row mt-4">
+							<div class="col-md-3 d-flex flex-column">
+								<div class="image-cropper">
+									<img class="mg-img cropped2" src="images/test.png" alt="">
+								</div>
+								<div class="mt-5 d-flex justify-content-center">
+									<p class="pagguro-p"><a target="blank" href="https://www.linkedin.com/in/maurizio-gazzarri-950ba0135/">Maurizio Gazzarri</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 d-flex flex-column">
+								<div class="image-cropper">
+									<img class="ag-img cropped2" src="images/test.png" alt="">
+								</div>
+								<div class="mt-5 d-flex justify-content-center">
+									<p class="pagguro-p"><a target="blank" href="https://www.linkedin.com/in/alessio-gurioli-4289aa167/">Alessio Gurioli</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 d-flex flex-column">
+								<div class="image-cropper">
+									<img class="dp-img cropped2" src="images/test.png" alt="">
+								</div>
+								<div class="mt-5 d-flex justify-content-center">
+									<p class="pagguro-p"><a target="blank" href="https://www.linkedin.com/in/pau-dnl89/">Daniele Pau</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 d-flex flex-column">
+								<div class="image-cropper">
+									<img class="cr-img cropped2" src="images/test.png" alt="">
+								</div>
+								<div class="mt-5 d-flex justify-content-center">
+									<p class="pagguro-p"><a target="blank" href="https://www.linkedin.com/in/cristina-romani-3a0356119/">Cristina Romani</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer> -->
+	
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+	<!--Same libraries loaded with CDN-->
+	<script>window.jQuery || document.write('<script src="/docs/4.4/assets/js/vendor/jquery.slim.min.js"><\/script>')</script>
+	<script src="/docs/4.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+
+
+	<script type="module">
+
+		import {Runtime} from "https://unpkg.com/@observablehq/runtime@4/dist/runtime.js";
+		/* Link al notebook da importare va incollato qui */
+		import notebook_complex from "https://api.observablehq.com/@angeloturco10/complexity-indexes-2.js?v=3";
+		import notebook_doc2vec from "https://api.observablehq.com/@angeloturco10/doc2vec-2/3.js?v=3";
+		import notebook_parallel_words from "https://api.observablehq.com/@angeloturco10/words-parallel-chart.js?v=3";
+		import notebook_domains from "https://api.observablehq.com/@angeloturco10/domains-treemap.js?v=3";
+		import notebook_lda_topics from "https://api.observablehq.com/@angeloturco10/lda-topics-2.js?v=3";
+		import notebook_colors from "https://api.observablehq.com/@angeloturco10/colors-2.js?v=3";
+		import notebook_decade_words from "https://api.observablehq.com/@angeloturco10/decades-wordcloud.js?v=3";
+		/* renders = {"nome cella observable da renderizzare": "#id_html_in_cui_renderizzare"} */
+		const renders = {
+			"compl_line_chart": "#complexity_chart",
+			"colors_by_time": "#colors_chart",
+			"viewof normalized_colors": "#percentage_colors",
+			"lda_chart": "#lda_topics_chart",
+			"viewof lda_slidingWeight": "#lda_slidingWeight",
+			"treemapDomain": "#domains_chart",
+			"parallel_words": "#parallel_words_chart",
+			"doc2vec": "#doc2vec_chart",
+			"viewof d2v_slidingWeight": "#d2v_slidingWeight",
+			"decade_wordbubbles": "#decade_words"
+		};
+
+		function render(_node, value) {
+			if (!(value instanceof Element)) {
+				const el = document.createElement("span");
+				el.innerHTML = value;
+				value = el;
+			}
+			if (_node.firstChild !== value) {
+				if (_node.firstChild) {
+					while (_node.lastChild !== _node.firstChild) _node.removeChild(_node.lastChild);
+					_node.replaceChild(value, _node.firstChild);
+				} else {
+					_node.appendChild(value);
+				}
+			}
+		}
+
+		function get_chart(notebook) {
+			const runtime = new Runtime();
+			const main = runtime.module(notebook, name => {
+				const selector = renders[name];
+				if (selector) {
+					return {fulfilled: (value) => render(document.querySelector(selector), value)}
+				} else {
+					return true;
+				}
+			});
+		}
+
+		get_chart(notebook_complex)
+		get_chart(notebook_doc2vec)
+		get_chart(notebook_parallel_words)
+		get_chart(notebook_domains)
+		get_chart(notebook_lda_topics)
+		get_chart(notebook_colors)
+		get_chart(notebook_decade_words)
+
+	</script>
+</body>
+</html>

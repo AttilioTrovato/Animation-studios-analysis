@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="DreamTeam">
+    <title>Disney</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+
+    <!--    <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/dashboard/">-->
+
+    <!-- Bootstrap core CSS -->
+    <!-- <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+        #viewof-p select {
+            width:100%;
+            padding-right:20px;
+
+        }
+    </style>
+    <style>
+        /* https://css-tricks.com/full-width-containers-limited-width-parents/ */
+        .fullwidth {
+            width: 100vw;
+            position: relative;
+            left: 30%;
+            right: 50%;
+            margin-left: -24vw;
+            margin-right: -50vw;
+        }
+        @media (min-width: 1850px !important) { ... }
+    </style>
+    <style id="stile"></style>
+
+    <!-- Custom styles for this template -->
+    <style>
+        .title-bg {
+            background-image: url("images/main.jpg");
+            height: 100%;
+            width : 100%;
+            
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+    /* // Per importare un css personalizzato. */
+    <link href="dashboard.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow justify-content-start">
+    <!--    <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">-->
+    <ul class="navbar-nav px-3">
+        <li class="nav-item">
+            <a class="nav-link" href="#introduzione">Introduzione</a>
+        </li>
+    </ul>
+    
+    <ul class="navbar-nav px-3">
+        <li class="nav-item">
+            <a class="nav-link" href="#complessita">Complessità</a>
+        </li>
+    </ul>
+    <ul class="navbar-nav px-3">
+        <li class="nav-item">
+              <a class="nav-link" href="#lda_topics">Topics</a>
+        </li>
+    </ul>
+</nav>
+
+<!-- copertina -->
+<div class="title-bg container-fluid">
+    <div class="row col-12 h-100">
+        <h1 class="d-flex justify-content-center align-items-center display-1 text-white pt-5">L’evoluzione della Disney da Biancaneve a Frozen</h1>	
+    </div>
+</div>
+
+<div class="container">
+    <!--main-->
+    <main role="main">
+        <div class="row justify-content-center">
+            <div class="col-8">
+                <div class="col-lg-12 col-xl-12" id="introduzione">
+                    <h2 class="display-4 pt-5">Introduzione</h2>
+                    <p>Che la Disney (o, più precisamente, ‘The Walt Disney Company’) sia una delle più influenti compagnie di intrattenimento della storia è un fatto ben assodato. E chi potrebbe dire di non aver visto almeno un cartone animato della Disney da bambino? Probabilmente, nessuno. Le recenti acquisizioni di Marvel, Lucas Film e Fox (ma anche la meno recente fusione con la Pixar nel 2006) ne fanno senza dubbio una colonna portante dell’intrattenimento mondiale e, anche in Italia, il successo della Disney non conosce rallentamenti, come il recente lancio della piattaforma di streaming Disney + ha ampiamente dimostrato. Basta una piccola ricerca su Google trends, infatti, ad evidenziare un enorme picco di interesse per la compagnia e il suo nuovo prodotto in concomitanza con il lancio su territorio nazionale, avvenuto il 24 marzo 2020. Da Nord a Sud Italia, il successo della piattaforma è stato uniforme in tutto lo stivale. [dati di Google trends sulle ricerche correlate. Non sappiamo se poi questo ha coinciso con un acquisto uniforme della piattaforma.] Anche storicamente, la Disney ha accompagnato i bambini nella loro infanzia (e non solo loro) dagli anni Trenta del secolo scorso, senza quasi mai perdere un colpo. Il successo della Disney è sicuramente dovuto alle storie che racconta, ma come hanno fatto queste storie ad adattarsi così bene ai desideri del pubblico negli anni? Esiste la possibilità che anche gli elementi alla base di un cartone animato, come il linguaggio e i colori usati, si siano evoluti per adattarsi agli inevitabili cambiamenti della società in quasi novant’anni? E se sì, come?</p>
+                </div>
+            </div>
+        <div class="row justify-content-center">
+            <div class="col-6" id="selectYLine"></div>
+            <div class="col-6" id="selectEuState"></div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-8" id="lineChart">
+        </div>
+
+
+        <div class="row justify-content-center">
+            <div class="col-12"><hr size="30"></div>
+            <div class="col-4" id="gmX"></div>
+            <div class="col-4" id="gmY"></div>
+            <div class="col-4 " id="currentYear"></div>
+        </div>
+    </main>
+</div>
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-12" id="gapminder"></div>
+    </div>
+</div>
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+<!--Same libraries loaded with CDN-->
+<script>window.jQuery || document.write('<script src="/docs/4.4/assets/js/vendor/jquery.slim.min.js"><\/script>')</script>
+<script src="/docs/4.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+
+
+<script type="module">
+
+    import {Runtime} from "https://unpkg.com/@observablehq/runtime@4/dist/runtime.js";
+    /* Link al notebook da importare va incollato qui */
+    import notebook from "https://api.observablehq.com/@danielefadda/esercitazione-1-aprile.js?v=3";
+
+    /* renders = {"nome cella observable da renderizzare": "#id_html_in_cui_renderizzare"} */
+    const renders = {
+        "descrizione": "#descrizione",
+        "viewof selectVariable2": "#selectYLine",
+        "viewof selectEuState": "#selectEuState",
+        "lineChart": "#lineChart",
+        "viewof gmX": "#gmX",
+        "viewof gmY": "#gmY",
+        "viewof currentYear": "#currentYear",
+        "gapminder": "#gapminder",
+    };
+    function render(_node, value) {
+        if (!(value instanceof Element)) {
+            const el = document.createElement("span");
+            el.innerHTML = value;
+            value = el;
+        }
+        if (_node.firstChild !== value) {
+            if (_node.firstChild) {
+                while (_node.lastChild !== _node.firstChild) _node.removeChild(_node.lastChild);
+                _node.replaceChild(value, _node.firstChild);
+            } else {
+                _node.appendChild(value);
+            }
+        }
+    }
+    const runtime = new Runtime();
+    const main = runtime.module(notebook, name => {
+        const selector = renders[name];
+        if (selector) {
+            return {fulfilled: (value) => render(document.querySelector(selector), value)}
+        } else {
+            return true;
+        }
+    });
+
+</script>
+
+</body>
+</html>
