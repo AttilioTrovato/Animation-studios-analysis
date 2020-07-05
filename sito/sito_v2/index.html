@@ -61,11 +61,11 @@
 			}
 			
 			.dark {
-				background-color: lightgray;
+				background-color: rgb(214, 192, 147);
 			}
 
 			.light {
-				background-color: white;
+				background-color: floralwhite;
 			}
 
 			.iframe-container {
@@ -159,12 +159,16 @@
 			.text-center {
 				text-align: center;
 			}
+
+			.bg-dark-nav {
+				background-color: black;
+			}
 		</style>
 	</head>
 	<body>
   
 	<!-- navbar -->
-  	<nav class="navbar navbar-expand navbar-dark bg-dark fixed-top">
+  	<nav class="navbar navbar-expand navbar-dark bg-dark-nav fixed-top">
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<div class="navbar-nav">
 				<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
@@ -186,7 +190,7 @@
 	</div>
 
 	<!-- introduzione -->
-    <div class="container-fluid dark text-dark" id="intro">
+    <div class="container-fluid text-dark light"  id="intro">
 		<div class="row justify-content-center">
 			<div class="col-8">
 				<h2 class="display-4 pt-5">Introduzione</h2>
@@ -196,13 +200,13 @@
 	</div>
 
 	<!-- Disney Animation -->
-	<div class="da-copertina container-fluid">
+	<div class="da-copertina container-fluid" id="section1">
 		<div class="row col-12 h-100">
 			<!-- <h1 class="dark-bg-header d-flex justify-content-center align-items-center display-1 text-white">Disney Animation</h1>	 -->
 		</div>
 	</div>
 	
-	<div class="container-fluid light text-dark" id="section1">
+	<div class="container-fluid light text-dark">
 		<div class="row justify-content-center text-above-chart">
 			<div class="col-8">
 				<h2 class="display-4 pt-5">Disney Animation</h2>
@@ -282,13 +286,13 @@
 
 
 	<!-- Non solo Animation... -->
-	<div class="nsa-copertina container-fluid">
+	<div class="nsa-copertina container-fluid" id="section2">
 		<div class="row col-12 h-100">
 			<!-- <h1 class="dark-bg-header d-flex justify-content-center align-items-center display-1 text-white">Non solo Animation...</h1>	 -->
 		</div>
 	</div>
 
-	<div class="container-fluid dark text-dark" id="section2">
+	<div class="container-fluid text-dark light">
 		<div class="row justify-content-center text-above-chart">
 			<div class="col-8">
 				<h2 class="display-4 pt-5">Non solo Animation...</h2>
@@ -303,13 +307,13 @@
 
 
 	<!-- ...e non solo Disney! -->
-	<div class="nod-copertina container-fluid">
+	<div class="nod-copertina container-fluid" id="section3">
 		<div class="row col-12 h-100">
 			<!-- <h1 class="dark-bg-header d-flex justify-content-center align-items-center display-1 text-white">...e non solo Disney!</h1>	 -->
 		</div>
 	</div>
 
-	<div class="container-fluid light text-dark" id="section3">
+	<div class="container-fluid light text-dark">
 		<div class="row justify-content-center text-above-chart">
 			<div class="col-8">
 				<h2 class="display-4 pt-5">...e non solo Disney!</h2>
@@ -347,7 +351,7 @@
 	</div>
 
 	<div class="footer">
-		<div class="container-fluid" id="section5">
+		<div class="container-fluid light" id="section5">
 			<div class="row justify-content-center">
 				<div class="col-8">
 					<h3 class="display-4 pt-5">DreamTeam</h3>
